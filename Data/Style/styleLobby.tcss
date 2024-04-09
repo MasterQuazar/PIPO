@@ -1,0 +1,27 @@
+
+
+/*'ascii', 'blank', 'dashed', 'double', 'heavy', 'hidden', 'hkey', 'inner', 'none', 'outer', 'panel', 'round', 'solid', 'tall', 'thick', 'vkey', or 'wide'*/
+
+
+.lobby_main_container {
+	width: 100%;
+}
+.lobby_left_column {
+	max-width: 20%;
+	height: 100%;
+
+	border: double #6C0AE1;
+}
+.lobby_right_column {
+	max-width: 30%;
+
+	border: double #6C0AE1;
+}
+
+SelectionList, OptionList {
+	height: 100%;
+}
+
+.lobby_file_list {
+	height: 80%;
+}

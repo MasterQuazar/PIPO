@@ -1,0 +1,96 @@
+/*
+.box {
+	width:50;
+}
+*/
+
+
+/*'ascii', 'blank', 'dashed', 'double', 'heavy', 'hidden', 'hkey', 'inner', 'none', 'outer', 'panel', 'round', 'solid', 'tall', 'thick', 'vkey', or 'wide'*/
+
+Screen {
+	background: $panel-darken-2;
+	layout: horizontal;
+}
+
+.login_input_field {
+	background: $panel-darken-3;
+	color: white;
+	border: thick #94478A;
+	width:65%;
+}
+
+
+
+.title_t1 {
+	text-style: bold;
+	color: #A126FB;
+}
+
+.container_t1 {
+	width: 100%;
+	height: 95%;
+}
+
+
+.container_t3 {
+	border: double #6C0AE1;
+	height:100%;
+}
+
+
+.container_t4 {
+	border: double white;
+	height:20%;
+}
+
+
+.container_t5 {
+	margin-top:5;
+	height:40%;
+	/*border: dashed #FFA364;*/
+}
+
+.login_container {
+	width:60%;
+	height:100%;
+}
+
+
+.login_projectlist {
+	height: 50%;
+}
+
+.button_t1 {
+	background: $panel-darken-2;
+
+	border: double #FFA364;
+}
+.button_t1:hover {
+	background: #FFA364;
+}
+
+.list_label {
+	color: white;
+}
+.list_label:hover {
+	color: orange;
+}
+.list_label:focus {
+	color: green;
+}
+
+.error_message {
+	color: red;
+}
+
+.login_project_explorer {
+	border: orange double;
+}
+
+.optionlist_t1 {
+	min-height:100%;
+}
+
+.lobby_bottom_container {
+	height:35;
+}

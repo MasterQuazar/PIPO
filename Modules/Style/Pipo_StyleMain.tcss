@@ -1,0 +1,9 @@
+Screen {
+	layout: horizontal;
+}
+
+.box {
+	height:50%;
+	width:1fr;
+	border:solid green;
+}
