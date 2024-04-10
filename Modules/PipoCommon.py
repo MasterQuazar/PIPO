@@ -16,15 +16,18 @@ import multiprocessing
 
 
 
-class PipoCommonApplication:
+class PipoCommonApplication():
 	
-
+	"""
 	def __init__(self):
+		super().__init__()
 
 		self.program_path = os.getcwd()
 		self.program_log = []
 		self.program_log_copy = []
-		super().__init__()
+	"""
+		#self.current_project_settings = {}
+		
 
 
 
@@ -244,5 +247,39 @@ class PipoCommonApplication:
 
 
 
-	def search_files_function(self):
+	def search_files_function(self, project_settings, kind_selection, name_selection, shot_selection, sequence_selection, type_selection):
 		self.display_message_function("Searching...")
+
+		if len(kind_selection) != 0:
+			"""
+			get the default folder assiociated to that kind
+			change the values in the default folder by real values depending of the selection
+			-> create several default folder if needed
+			"""
+			default_folder_list = []
+		
+			for kind in kind_selection:
+				default_folder = project_settings["Scenes"][kind]["folder"]
+				default_folder_list += default_folder
+				#self.display_message_function(default_folder)
+
+				#split the path of the default folder
+				#replace progressively keywords in it
+				#stop when an informations is laking to rebuild the default folder
+
+			
+		
+
+
+
+
+
+
+
+	def get_shared_values(*data):
+		if not data:
+			return []
+		intersection = set(data[0])
+		for item in data[1:]:
+			intersection = intersection.intersection(set(item))
+		return list(intersection)

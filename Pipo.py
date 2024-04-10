@@ -44,6 +44,27 @@ class PipoLobbyApplication(Screen, PipoCommonApplication, PipoLogApplication):
 	CSS_PATH = "Data/Style/styleLobby.tcss"
 
 
+
+	def __init__(self):
+		super().__init__()
+
+		self.name_kind_selection = []
+		self.name_name_selection = []
+		self.name_shots_selection = []
+		self.name_sequence_selection = []
+		self.name_type_selection = []
+		self.name_file_selection = []
+
+		self.name_kind_list = []
+		self.name_name_list = []
+		self.name_shots_list = []
+		self.name_sequence_list = []
+		self.name_type_list = []
+		self.name_file_list = []
+
+		#self.kind_list = app.current_project_settings["Scenes"].keys()
+
+
 	
 
 	def compose(self) -> ComposeResult:
@@ -75,7 +96,7 @@ class PipoLobbyApplication(Screen, PipoCommonApplication, PipoLogApplication):
 
 						#self.lobby_kind_list = OptionList(id="lobby_kind_list", classes="optionlist_t1")
 						#yield self.lobby_kind_list
-						self.lobby_kind_list = SelectionList[int]()
+						self.lobby_kind_list = SelectionList[int](id="lobby_kind_list")
 						yield self.lobby_kind_list
 
 						"""
@@ -100,8 +121,8 @@ class PipoLobbyApplication(Screen, PipoCommonApplication, PipoLogApplication):
 										yield self.lobby_sequence_list
 									with Vertical(classes="container_t2"):
 										yield Label("Shots")
-										self.lobby_shots_list = SelectionList(id="lobby_shots_list", classes="optionlist_t1")
-										yield self.lobby_shots_list
+										self.lobby_shot_list = SelectionList(id="lobby_shot_list", classes="optionlist_t1")
+										yield self.lobby_shot_list
 
 					with Vertical(classes="container_t2"):
 						yield Label("Type")
@@ -112,12 +133,13 @@ class PipoLobbyApplication(Screen, PipoCommonApplication, PipoLogApplication):
 
 				with Vertical(classes="lobby_bottom_container"):
 					yield Label("Found files")
-					self.lobby_file_list = OptionList(classes="lobby_file_list")
+					self.lobby_file_list = SelectionList(classes="lobby_file_list")
 					yield self.lobby_file_list
 
 
 			with VerticalScroll(classes="lobby_right_column"):
 				self.lobby_log = Log(classes="lobby_log")
+				yield self.lobby_log
 		
 
 
@@ -135,8 +157,88 @@ class PipoLobbyApplication(Screen, PipoCommonApplication, PipoLogApplication):
 
 
 
-	def on_selection_list_selection_highlighted(self, event: SelectionList.SelectionHighlighted) -> None:
-		self.display_error_function("hello world!")
+
+
+
+	def on_selection_list_selection_toggled(self, event: SelectionList.SelectedChanged ) -> None:
+		#self.display_message_function(str(event.selection_list.id))
+
+		#UPDATE THE TYPE LIST
+		if event.selection_list.id == "lobby_kind_list":
+			self.lobby_type_list.clear_options()
+			#get the type list for the selected type
+			#make the difference between both lists if several kind selected
+			kind_selection = self.query_one("#lobby_kind_list").selected 
+
+			self.name_kind_selection = []
+
+			for index in kind_selection:
+				self.name_kind_selection.append(list(app.current_project_settings["Scenes"].keys())[index])
+
+			self.full_type_list = []
+			for kind in self.name_kind_selection:
+				self.full_type_list.append(app.current_project_settings["Scenes"][kind]["type"])
+			#self.display_message_function(self.full_type_list)
+			#create the intersection of all lists
+			
+			self.name_type_list =[]
+			self.name_type_selection = []
+			try:
+				self.name_type_list = list(set.intersection(*map(set, self.full_type_list)))
+			except:
+				pass
+			else:
+				for i in range(len(self.name_type_list)):
+					#self.name_type_selection.append(self.name_type_list[i])
+					#self.display_message_function(self.name_type_list[i])
+					self.lobby_type_list.add_option(Selection(self.name_type_list[i],i))	
+
+		if event.selection_list.id == "lobby_type_list":
+			type_selection = self.query_one("#lobby_type_list").selected
+			self.name_type_selection = []
+
+			for index in type_selection:
+				self.name_type_selection.append(self.name_type_list[index])
+
+
+		
+		if event.selection_list.id in ["lobby_name_list", "lobby_type_list", "lobby_sequence_list", "lobby_shots_list", "lobby_kind_list"]:
+			#get value of the selection
+			#for each list
+			kind_selection = self.query_one("#lobby_kind_list").selected
+			type_selection = self.query_one("#lobby_type_list").selected 
+			name_selection = self.query_one("#lobby_name_list").selected
+			shot_selection = self.query_one("#lobby_shot_list").selected
+			sequence_selection = self.query_one("#lobby_sequence_list").selected
+			#self.display_message_function(str(kind_selection))
+			#self.display_message_function(str(type_selection))
+			#self.display_message_function(str(name_selection))
+
+			self.display_message_function(kind_selection)
+
+			#self.name_kind_selection = []
+
+			self.search_files_function(app.current_project_settings, self.name_kind_selection, name_selection, shot_selection, sequence_selection, self.name_type_selection)
+		
+
+
+
+
+
+
+
+		
+		
+		#self.display_message_function(self.name_kind_selection)
+
+
+
+
+
+	def on_option_list_option_highlighted(self, event: OptionList.OptionHighlighted) -> None:
+		if event.option_list.id == "lobby_type_list":
+			self.display_message_function("hello world")
+
 
 
 
@@ -151,14 +253,15 @@ class PipoLobbyApplication(Screen, PipoCommonApplication, PipoLogApplication):
 			self.lobby_kind_list.add_option(Selection(key,i))
 			i+=1
 
-		self.lobby_kind_list.select(0)
+		#self.lobby_kind_list.select(0)
 
 		#get the type list for the first type in settings
-		first_kind = list(app.current_project_settings["Scenes"].keys())[0]
-		type_list = app.current_project_settings["Scenes"][first_kind]["type"]
-
+		#first_kind = list(app.current_project_settings["Scenes"].keys())[0]
+		#type_list = app.current_project_settings["Scenes"][first_kind]["type"]
+		"""
 		for i in range(len(type_list)):
 			self.lobby_type_list.add_option(Selection(type_list[i],i))
+		"""
 
 
 
@@ -175,9 +278,9 @@ class PipoLobbyApplication(Screen, PipoCommonApplication, PipoLogApplication):
 		if event.key == "m":
 			self.app.pop_screen()
 		if event.key == "2":
-			self.app.push_screen(PipoExportApplication())
+			self.app.switch_screen(PipoExportApplication())
 		if event.key == "3":
-			self.app.push_screen(PipoObserverApplication())
+			self.app.switch_screen(PipoObserverApplication())
 
 
 
@@ -204,9 +307,9 @@ class PipoExportApplication(Screen):
 
 	async def on_key(self, event: events.Key) -> None:
 		if event.key == "1":
-			self.app.push_screen(PipoLobbyApplication())
+			self.app.switch_screen(PipoLobbyApplication())
 		if event.key == "3":
-			self.app.push_screen(PipoObserverApplication())
+			self.app.switch_screen(PipoObserverApplication())
 		if event.key == "m":
 			self.app.pop_screen()
 
@@ -218,9 +321,9 @@ class PipoObserverApplication(Screen):
 
 	async def on_key(self, event: events.Key) -> None:
 		if event.key == "1":
-			self.app.push_screen(PipoLobbyApplication())
+			self.app.switch_screen(PipoLobbyApplication())
 		if event.key == "2":
-			self.app.push_screen(PipoExportApplication())
+			self.app.switch_screen(PipoExportApplication())
 
 		if event.key == "m":
 			self.app.pop_screen()
@@ -246,7 +349,7 @@ class PipoLoginApplication(App, PipoCommonApplication, PipoLogApplication):
 	SCREENS = {
 		"LOBBY": PipoLobbyApplication(),
 	}
-	CSS_PATH = "Data/Style/Common.tcss"
+	CSS_PATH = "Data/Style/styleLogin.tcss"
 
 
 
@@ -257,6 +360,7 @@ class PipoLoginApplication(App, PipoCommonApplication, PipoLogApplication):
 
 
 		self.program_path = os.getcwd()
+
 		self.program_log = []
 		self.program_log_copy = []
 		

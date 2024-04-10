@@ -18,18 +18,32 @@ import multiprocessing
 
 
 class PipoLogApplication:
+	"""
+	def __init__(self):
+		self.program_path = os.getcwd()
+	"""
 
 
 	def save_log_function(self, line):
-		self.program_log.append(format)
-		#self.notify("LOG UPDATED", timeout=3)
-
-		with open(os.path.join(self.program_path, "Data/Logs/Logs_main.dll"), "a") as save_file:
-			save_file.write("%s\n"%line)
+		#convert line into string variable
+		line = str(line)
 		try:
-			self.update_lobby_log_function(line)
+			destination = os.path.join(self.program_path, "Data/logs/logs_main.dll")
+			self.program_log.append(format)
+		except AttributeError:
+			destination = os.path.join(self.app.program_path, "Data/logs/logs_main.dll")
+			self.app.program_log.append(format)
 		except:
-			self.notify("Impossible to update log", severity="error", timeout=5)
+			return
+		try:
+			self.lobby_log.write_line(line)
+		except:
+			pass
+
+		with open(destination, "a") as save_file:
+			save_file.write("%s\n"%line)
+
+
 		
 
 
@@ -37,6 +51,7 @@ class PipoLogApplication:
 
 
 	def display_message_function(self, message = ""):
+		message = str(message)
 		format = "[%s] UPDATE : %s"%(str(datetime.now()), message)
 		self.notify(message, timeout=5, severity="information")
 
@@ -44,12 +59,14 @@ class PipoLogApplication:
 
 
 	def display_warning_function(self, message = ""):
+		message = str(message)
 		format = "[%s] WARNING : %s"%(str(datetime.now()), message)
 		self.notify(message, timeout=5, severity="warning")
 
 		self.save_log_function(format)
 
 	def display_error_function(self, message = ""):
+		message = str(message)
 		format = "[%s] ERROR : %s"%(str(datetime.now()), message)
 		self.notify(message, timeout=5, severity="error")
 

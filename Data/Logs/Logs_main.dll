@@ -166,3 +166,1083 @@
 [2024-04-10 01:00:55.164299] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
 [2024-04-10 01:00:55.164299] UPDATE : Project settings loaded!
 [2024-04-10 01:00:55.164299] UPDATE : True
+
+
+[2024-04-10 10:19:21.366039] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 10:19:21.423911] UPDATE : Personnal settings opened
+[2024-04-10 10:19:24.987068] UPDATE : Project selected : testproject
+[2024-04-10 10:19:24.988065] ERROR : Impossible to access that project!
+Unexisting path!
+[2024-04-10 10:19:24.990060] UPDATE : None
+[2024-04-10 10:20:08.573239] UPDATE : Personnal settings updated!
+
+
+[2024-04-10 10:20:15.706444] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 10:20:15.723398] UPDATE : Personnal settings opened
+[2024-04-10 10:20:17.435547] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 10:20:17.437541] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 10:20:17.438539] UPDATE : Project settings loaded!
+[2024-04-10 10:20:17.439536] UPDATE : True
+
+
+[2024-04-10 10:22:00.420595] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 10:22:00.438553] UPDATE : Personnal settings opened
+[2024-04-10 10:22:02.081150] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 10:22:02.083147] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 10:22:02.084142] UPDATE : Project settings loaded!
+[2024-04-10 10:22:02.086109] UPDATE : True
+
+
+[2024-04-10 10:22:12.513287] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 10:22:12.529244] UPDATE : Personnal settings opened
+[2024-04-10 10:22:15.579230] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 10:22:15.581108] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 10:22:15.582113] UPDATE : Project settings loaded!
+[2024-04-10 10:22:15.583076] UPDATE : True
+
+
+[2024-04-10 10:22:52.036535] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 10:22:52.053489] UPDATE : Personnal settings opened
+[2024-04-10 10:22:53.623941] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 10:22:53.625935] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 10:22:53.627929] UPDATE : Project settings loaded!
+[2024-04-10 10:22:53.628927] UPDATE : True
+
+
+[2024-04-10 10:26:32.340826] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 10:26:32.356756] UPDATE : Personnal settings opened
+
+
+[2024-04-10 10:26:48.969739] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 10:26:48.986663] UPDATE : Personnal settings opened
+
+
+[2024-04-10 10:28:54.238946] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 10:28:54.255874] UPDATE : Personnal settings opened
+[2024-04-10 10:28:55.796154] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 10:28:55.798161] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 10:28:55.799145] UPDATE : Project settings loaded!
+[2024-04-10 10:28:55.800117] UPDATE : True
+
+
+[2024-04-10 10:29:25.702198] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 10:29:25.719125] UPDATE : Personnal settings opened
+[2024-04-10 10:29:27.775902] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 10:29:27.776900] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 10:29:27.778896] UPDATE : Project settings loaded!
+[2024-04-10 10:29:27.779893] UPDATE : True
+
+
+[2024-04-10 10:32:56.073782] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 10:32:56.090760] UPDATE : Personnal settings opened
+[2024-04-10 10:32:58.182388] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 10:32:58.184383] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 10:32:58.185380] UPDATE : Project settings loaded!
+[2024-04-10 10:32:58.186404] UPDATE : True
+[2024-04-10 10:32:58.205354] UPDATE : hello
+
+
+[2024-04-10 10:33:12.280748] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 10:33:12.299664] UPDATE : Personnal settings opened
+[2024-04-10 10:33:13.663887] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 10:33:13.665882] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 10:33:13.666879] UPDATE : Project settings loaded!
+[2024-04-10 10:33:13.667876] UPDATE : True
+[2024-04-10 10:33:13.699818] UPDATE : hello
+
+
+[2024-04-10 10:34:23.635891] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 10:34:23.652842] UPDATE : Personnal settings opened
+[2024-04-10 10:34:25.423647] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 10:34:25.425678] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 10:34:25.427636] UPDATE : Project settings loaded!
+[2024-04-10 10:34:25.428664] UPDATE : True
+[2024-04-10 10:34:25.457557] UPDATE : hello
+
+
+[2024-04-10 10:34:52.759308] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 10:34:52.775266] UPDATE : Personnal settings opened
+[2024-04-10 10:34:54.549409] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 10:34:54.551403] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 10:34:54.553429] UPDATE : Project settings loaded!
+[2024-04-10 10:34:54.554427] UPDATE : True
+[2024-04-10 10:34:54.585343] UPDATE : hello
+
+
+[2024-04-10 10:35:56.377521] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 10:35:56.393443] UPDATE : Personnal settings opened
+[2024-04-10 10:35:58.018606] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 10:35:58.020601] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 10:35:58.021638] UPDATE : Project settings loaded!
+[2024-04-10 10:35:58.023593] UPDATE : True
+[2024-04-10 10:35:58.041545] UPDATE : hello
+[2024-04-10 10:35:58.044537] UPDATE : hello world
+[2024-04-10 10:36:01.133876] UPDATE : hello world
+
+
+[2024-04-10 10:43:29.097248] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 10:43:29.114204] UPDATE : Personnal settings opened
+[2024-04-10 10:43:30.900150] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 10:43:30.902146] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 10:43:30.903144] UPDATE : Project settings loaded!
+[2024-04-10 10:43:30.905166] UPDATE : True
+[2024-04-10 10:43:30.934594] UPDATE : hello
+[2024-04-10 10:43:30.937586] UPDATE : hello world
+
+
+[2024-04-10 10:44:37.115104] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 10:44:37.132031] UPDATE : Personnal settings opened
+[2024-04-10 10:44:38.732752] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 10:44:38.735745] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 10:44:38.737247] UPDATE : Project settings loaded!
+[2024-04-10 10:44:38.738243] UPDATE : True
+[2024-04-10 10:44:38.767194] UPDATE : hello
+[2024-04-10 10:44:38.769189] UPDATE : hello world
+
+
+[2024-04-10 10:45:06.864746] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 10:45:06.882705] UPDATE : Personnal settings opened
+[2024-04-10 10:45:08.631822] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 10:45:08.633813] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 10:45:08.634811] UPDATE : Project settings loaded!
+[2024-04-10 10:45:08.636807] UPDATE : True
+[2024-04-10 10:45:08.672682] UPDATE : hello
+[2024-04-10 10:45:08.675673] UPDATE : hello world
+
+
+[2024-04-10 10:45:18.742593] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 10:45:18.762512] UPDATE : Personnal settings opened
+[2024-04-10 10:45:20.146844] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 10:45:20.148792] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 10:45:20.150787] UPDATE : Project settings loaded!
+[2024-04-10 10:45:20.151784] UPDATE : True
+
+
+[2024-04-10 10:50:17.750633] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 10:50:17.767201] UPDATE : Personnal settings opened
+[2024-04-10 10:50:19.565488] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 10:50:19.567494] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 10:50:19.569479] UPDATE : Project settings loaded!
+[2024-04-10 10:50:19.570475] UPDATE : True
+[2024-04-10 10:50:19.600405] UPDATE : hello
+
+
+[2024-04-10 10:52:57.896989] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 10:52:57.913945] UPDATE : Personnal settings opened
+[2024-04-10 10:52:59.458703] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 10:52:59.460659] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 10:52:59.462653] UPDATE : Project settings loaded!
+[2024-04-10 10:52:59.463651] UPDATE : True
+[2024-04-10 10:52:59.493583] UPDATE : hello
+[2024-04-10 10:53:00.648211] ERROR : hello world!
+[2024-04-10 10:53:01.495418] ERROR : hello world!
+[2024-04-10 10:53:01.890229] ERROR : hello world!
+[2024-04-10 10:53:03.619886] ERROR : hello world!
+
+
+[2024-04-10 10:53:14.418490] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 10:53:14.435418] UPDATE : Personnal settings opened
+[2024-04-10 10:53:17.968108] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 10:53:17.971100] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 10:53:17.972128] UPDATE : Project settings loaded!
+[2024-04-10 10:53:17.973057] UPDATE : True
+[2024-04-10 10:53:17.992033] UPDATE : hello
+
+
+[2024-04-10 10:55:20.864655] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 10:55:20.881609] UPDATE : Personnal settings opened
+
+
+[2024-04-10 10:55:40.964427] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 10:55:40.981289] UPDATE : Personnal settings opened
+[2024-04-10 10:55:46.546348] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 10:55:46.548075] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 10:55:46.550037] UPDATE : Project settings loaded!
+[2024-04-10 10:55:46.551062] UPDATE : True
+[2024-04-10 10:55:46.570605] UPDATE : hello
+
+
+[2024-04-10 14:25:21.460389] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 14:25:21.536186] UPDATE : Personnal settings opened
+[2024-04-10 14:25:23.513861] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 14:25:23.525961] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 14:25:23.526854] UPDATE : Project settings loaded!
+[2024-04-10 14:25:23.528846] UPDATE : True
+[2024-04-10 14:25:23.546800] UPDATE : hello
+
+
+[2024-04-10 14:25:46.581669] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 14:25:46.600591] UPDATE : Personnal settings opened
+[2024-04-10 14:25:48.177439] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 14:25:48.179404] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 14:25:48.181418] UPDATE : Project settings loaded!
+[2024-04-10 14:25:48.182423] UPDATE : True
+
+
+[2024-04-10 14:27:02.358209] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 14:27:02.375187] UPDATE : Personnal settings opened
+[2024-04-10 14:27:03.860917] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 14:27:03.862679] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 14:27:03.864673] UPDATE : Project settings loaded!
+[2024-04-10 14:27:03.865647] UPDATE : True
+
+
+[2024-04-10 14:27:32.560371] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 14:27:32.576300] UPDATE : Personnal settings opened
+[2024-04-10 14:27:34.696608] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 14:27:34.698198] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 14:27:34.700220] UPDATE : Project settings loaded!
+[2024-04-10 14:27:34.701216] UPDATE : True
+
+
+[2024-04-10 14:28:57.041926] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 14:28:57.058848] UPDATE : Personnal settings opened
+[2024-04-10 14:28:58.468226] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 14:28:58.470221] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 14:28:58.472215] UPDATE : Project settings loaded!
+[2024-04-10 14:28:58.473213] UPDATE : True
+
+
+[2024-04-10 14:29:28.691837] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 14:29:28.709788] UPDATE : Personnal settings opened
+[2024-04-10 14:29:30.853980] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 14:29:30.856002] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 14:29:30.856973] UPDATE : Project settings loaded!
+[2024-04-10 14:29:30.858996] UPDATE : True
+[2024-04-10 14:29:32.175910] UPDATE : None
+
+
+[2024-04-10 14:29:51.932887] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 14:29:51.949842] UPDATE : Personnal settings opened
+[2024-04-10 14:29:53.506142] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 14:29:53.508018] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 14:29:53.510020] UPDATE : Project settings loaded!
+[2024-04-10 14:29:53.511010] UPDATE : True
+[2024-04-10 14:29:54.437932] UPDATE : None
+[2024-04-10 14:29:55.006009] UPDATE : None
+[2024-04-10 14:29:55.531741] UPDATE : None
+[2024-04-10 14:29:56.654186] UPDATE : lobby_type_list
+[2024-04-10 14:29:57.172435] UPDATE : lobby_type_list
+
+
+[2024-04-10 14:30:21.131765] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 14:30:21.149691] UPDATE : Personnal settings opened
+[2024-04-10 14:30:22.936438] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 14:30:22.938462] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 14:30:22.939459] UPDATE : Project settings loaded!
+[2024-04-10 14:30:22.941454] UPDATE : True
+[2024-04-10 14:30:23.744001] UPDATE : lobby_kind_list
+[2024-04-10 14:30:23.745970] UPDATE : hello world
+[2024-04-10 14:30:24.563868] UPDATE : lobby_kind_list
+[2024-04-10 14:30:24.565863] UPDATE : hello world
+
+
+[2024-04-10 14:36:30.596269] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 14:36:30.613200] UPDATE : Personnal settings opened
+[2024-04-10 14:36:32.642264] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 14:36:32.644258] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 14:36:32.645284] UPDATE : Project settings loaded!
+[2024-04-10 14:36:32.647251] UPDATE : True
+
+
+[2024-04-10 14:37:04.672278] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 14:37:04.689205] UPDATE : Personnal settings opened
+[2024-04-10 14:37:06.185315] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 14:37:06.187339] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 14:37:06.188335] UPDATE : Project settings loaded!
+[2024-04-10 14:37:06.190332] UPDATE : True
+[2024-04-10 14:37:07.065631] UPDATE : [0, 4]
+[2024-04-10 14:37:07.067625] UPDATE : []
+[2024-04-10 14:37:07.069618] UPDATE : []
+
+
+[2024-04-10 14:37:21.111265] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 14:37:21.128162] UPDATE : Personnal settings opened
+[2024-04-10 14:37:22.746075] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 14:37:22.748066] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 14:37:22.750062] UPDATE : Project settings loaded!
+[2024-04-10 14:37:22.751087] UPDATE : True
+[2024-04-10 14:37:23.511337] UPDATE : [0, 3]
+[2024-04-10 14:37:23.514320] UPDATE : []
+[2024-04-10 14:37:23.516315] UPDATE : []
+[2024-04-10 14:37:26.840044] UPDATE : [0, 3, 2]
+[2024-04-10 14:37:26.842014] UPDATE : []
+[2024-04-10 14:37:26.844039] UPDATE : []
+
+
+[2024-04-10 14:38:41.679419] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 14:38:41.695372] UPDATE : Personnal settings opened
+[2024-04-10 14:38:43.254740] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 14:38:43.256736] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 14:38:43.257762] UPDATE : Project settings loaded!
+[2024-04-10 14:38:43.259726] UPDATE : True
+[2024-04-10 14:38:49.464018] UPDATE : [0, 2]
+[2024-04-10 14:38:49.466012] UPDATE : 4
+[2024-04-10 14:38:49.468010] UPDATE : []
+[2024-04-10 14:38:54.035276] UPDATE : [0, 2, 3]
+[2024-04-10 14:38:54.038269] UPDATE : 3
+[2024-04-10 14:38:54.039266] UPDATE : []
+[2024-04-10 14:38:58.324679] UPDATE : [0, 2, 3, 4]
+[2024-04-10 14:38:58.327672] UPDATE : 4
+[2024-04-10 14:38:58.329681] UPDATE : []
+
+
+[2024-04-10 14:39:23.579376] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 14:39:23.597299] UPDATE : Personnal settings opened
+[2024-04-10 14:39:25.190676] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 14:39:25.192700] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 14:39:25.193699] UPDATE : Project settings loaded!
+[2024-04-10 14:39:25.195689] UPDATE : True
+[2024-04-10 14:39:26.430338] UPDATE : [0, 2]
+[2024-04-10 14:39:26.432333] UPDATE : []
+[2024-04-10 14:39:26.433358] UPDATE : []
+[2024-04-10 14:39:34.192579] UPDATE : [0, 2, 3]
+[2024-04-10 14:39:34.195606] UPDATE : [1, 2]
+[2024-04-10 14:39:34.196598] UPDATE : []
+
+
+[2024-04-10 14:42:03.446947] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 14:42:03.463902] UPDATE : Personnal settings opened
+[2024-04-10 14:42:04.712274] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 14:42:04.714269] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 14:42:04.715268] UPDATE : Project settings loaded!
+[2024-04-10 14:42:04.717259] UPDATE : True
+
+
+[2024-04-10 14:45:54.083439] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 14:45:54.099366] UPDATE : Personnal settings opened
+[2024-04-10 14:45:55.516917] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 14:45:55.518562] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 14:45:55.520556] UPDATE : Project settings loaded!
+[2024-04-10 14:45:55.521554] UPDATE : True
+
+
+[2024-04-10 14:46:15.407970] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 14:46:15.424897] UPDATE : Personnal settings opened
+[2024-04-10 14:46:17.746724] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 14:46:17.749716] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 14:46:17.750742] UPDATE : Project settings loaded!
+[2024-04-10 14:46:17.752739] UPDATE : True
+
+
+[2024-04-10 14:46:48.557773] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 14:46:48.574727] UPDATE : Personnal settings opened
+[2024-04-10 14:46:50.266701] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 14:46:50.268683] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 14:46:50.270678] UPDATE : Project settings loaded!
+[2024-04-10 14:46:50.271677] UPDATE : True
+
+
+[2024-04-10 14:47:37.162924] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 14:47:37.179879] UPDATE : Personnal settings opened
+[2024-04-10 14:47:38.607071] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 14:47:38.609069] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 14:47:38.610064] UPDATE : Project settings loaded!
+[2024-04-10 14:47:38.612061] UPDATE : True
+
+
+[2024-04-10 14:48:21.769191] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 14:48:21.786118] UPDATE : Personnal settings opened
+[2024-04-10 14:48:23.128864] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 14:48:23.130887] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 14:48:23.132853] UPDATE : Project settings loaded!
+[2024-04-10 14:48:23.133878] UPDATE : True
+
+
+[2024-04-10 14:48:36.832799] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 14:48:36.849726] UPDATE : Personnal settings opened
+[2024-04-10 14:48:38.568003] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 14:48:38.569997] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 14:48:38.571023] UPDATE : Project settings loaded!
+[2024-04-10 14:48:38.573018] UPDATE : True
+[2024-04-10 14:48:39.552824] UPDATE : ['character', 'prop', 'item', 'set', 'shots']
+[2024-04-10 14:48:39.554819] UPDATE : []
+
+
+[2024-04-10 14:49:08.994687] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 14:49:09.010645] UPDATE : Personnal settings opened
+[2024-04-10 14:49:10.316812] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 14:49:10.318832] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 14:49:10.319828] UPDATE : Project settings loaded!
+[2024-04-10 14:49:10.321823] UPDATE : True
+[2024-04-10 14:49:11.412788] UPDATE : ['character', 'prop', 'item', 'set', 'shots']
+[2024-04-10 14:49:11.414781] UPDATE : []
+[2024-04-10 14:49:12.172284] UPDATE : ['character', 'prop', 'item', 'set', 'shots']
+[2024-04-10 14:49:12.174281] UPDATE : []
+
+
+[2024-04-10 14:49:31.870311] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 14:49:31.888261] UPDATE : Personnal settings opened
+[2024-04-10 14:49:33.477646] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 14:49:33.479642] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 14:49:33.481664] UPDATE : Project settings loaded!
+[2024-04-10 14:49:33.482665] UPDATE : True
+[2024-04-10 14:49:35.559994] UPDATE : ['character', 'prop', 'item', 'set', 'shots']
+[2024-04-10 14:49:35.562018] UPDATE : 2
+[2024-04-10 14:49:35.564013] UPDATE : []
+[2024-04-10 14:49:38.884525] UPDATE : ['character', 'prop', 'item', 'set', 'shots']
+[2024-04-10 14:49:38.887519] UPDATE : 2
+[2024-04-10 14:49:38.888543] UPDATE : ['character', 'prop', 'item', 'set', 'shots']
+[2024-04-10 14:49:38.890537] UPDATE : 4
+[2024-04-10 14:49:38.892531] UPDATE : []
+
+
+[2024-04-10 14:51:55.012094] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 14:51:55.029054] UPDATE : Personnal settings opened
+[2024-04-10 14:51:56.425263] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 14:51:56.427290] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 14:51:56.429257] UPDATE : Project settings loaded!
+[2024-04-10 14:51:56.430277] UPDATE : True
+[2024-04-10 14:51:57.470588] UPDATE : set
+[2024-04-10 14:51:57.472581] UPDATE : []
+[2024-04-10 14:51:59.605656] UPDATE : set
+[2024-04-10 14:51:59.608651] UPDATE : item
+[2024-04-10 14:51:59.609647] UPDATE : []
+
+
+[2024-04-10 14:52:53.644897] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 14:52:53.660826] UPDATE : Personnal settings opened
+[2024-04-10 14:52:55.448063] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 14:52:55.449976] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 14:52:55.451970] UPDATE : Project settings loaded!
+[2024-04-10 14:52:55.452968] UPDATE : True
+
+
+[2024-04-10 14:53:26.461857] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 14:53:26.478783] UPDATE : Personnal settings opened
+[2024-04-10 14:53:28.053096] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 14:53:28.055089] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 14:53:28.057084] UPDATE : Project settings loaded!
+[2024-04-10 14:53:28.058081] UPDATE : True
+
+
+[2024-04-10 15:17:45.143335] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 15:17:45.161313] UPDATE : Personnal settings opened
+[2024-04-10 15:17:49.691104] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 15:17:49.693032] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 15:17:49.695027] UPDATE : Project settings loaded!
+[2024-04-10 15:17:49.696053] UPDATE : True
+[2024-04-10 15:17:51.134729] UPDATE : [['mod', 'rig', 'sculpt', 'groom', 'lookdev']]
+[2024-04-10 15:17:52.965037] UPDATE : [['mod', 'rig', 'sculpt', 'groom', 'lookdev'], ['mod', 'rig', 'sculpt', 'groom', 'lookdev']]
+
+
+[2024-04-10 15:19:19.230798] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 15:19:19.247752] UPDATE : Personnal settings opened
+[2024-04-10 15:19:20.953194] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 15:19:20.955189] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 15:19:20.956186] UPDATE : Project settings loaded!
+[2024-04-10 15:19:20.958181] UPDATE : True
+[2024-04-10 15:19:22.371911] UPDATE : ['lookdev', 'sculpt', 'mod', 'rig', 'groom']
+[2024-04-10 15:19:24.151926] UPDATE : ['lookdev', 'sculpt', 'mod', 'groom', 'rig']
+[2024-04-10 15:19:26.262707] UPDATE : ['lookdev', 'sculpt', 'mod', 'rig', 'groom']
+
+
+[2024-04-10 15:19:34.378198] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 15:19:34.395153] UPDATE : Personnal settings opened
+
+
+[2024-04-10 15:19:58.760006] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 15:19:58.776961] UPDATE : Personnal settings opened
+[2024-04-10 15:20:00.254278] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 15:20:00.257029] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 15:20:00.258031] UPDATE : Project settings loaded!
+[2024-04-10 15:20:00.259024] UPDATE : True
+[2024-04-10 15:20:01.197669] UPDATE : ['groom', 'lookdev', 'sculpt', 'rig', 'mod']
+[2024-04-10 15:20:03.453539] UPDATE : ['groom', 'lookdev', 'sculpt', 'rig', 'mod']
+
+
+[2024-04-10 15:20:20.640422] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 15:20:20.656378] UPDATE : Personnal settings opened
+[2024-04-10 15:20:22.273669] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 15:20:22.275664] ERROR : Impossible to load project settings!
+[2024-04-10 15:20:22.277686] UPDATE : False
+[2024-04-10 15:20:24.961924] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 15:20:24.963931] ERROR : Impossible to load project settings!
+[2024-04-10 15:20:24.965917] UPDATE : False
+[2024-04-10 15:20:36.922495] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 15:20:36.924490] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 15:20:36.926485] UPDATE : Project settings loaded!
+[2024-04-10 15:20:36.927511] UPDATE : True
+[2024-04-10 15:20:39.590614] UPDATE : ['render', 'groom', 'camera', 'mod', 'lookdev', 'lighting', 'sculpt', 'rig']
+[2024-04-10 15:20:43.309580] UPDATE : ['groom', 'mod', 'lookdev', 'sculpt', 'rig']
+
+
+[2024-04-10 16:27:26.561748] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 16:27:26.632531] UPDATE : Personnal settings opened
+[2024-04-10 16:27:28.134513] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 16:27:28.148503] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 16:27:28.150506] UPDATE : Project settings loaded!
+[2024-04-10 16:27:28.151495] UPDATE : True
+[2024-04-10 16:27:29.820502] UPDATE : ['lookdev', 'mod', 'groom', 'rig', 'sculpt']
+[2024-04-10 16:27:31.761906] UPDATE : ['mod', 'groom', 'lookdev', 'rig', 'sculpt']
+[2024-04-10 16:27:34.794008] UPDATE : ['mod', 'groom', 'lookdev', 'rig', 'lighting', 'render', 'camera', 'sculpt']
+[2024-04-10 16:27:43.069132] UPDATE : ['mod', 'groom', 'lookdev', 'rig', 'sculpt']
+[2024-04-10 16:27:43.677502] UPDATE : ['lookdev', 'mod', 'groom', 'rig', 'sculpt']
+
+
+[2024-04-10 16:28:22.679039] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 16:28:22.695905] UPDATE : Personnal settings opened
+[2024-04-10 16:28:34.777633] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 16:28:34.780362] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 16:28:34.781388] UPDATE : Project settings loaded!
+[2024-04-10 16:28:34.782357] UPDATE : True
+[2024-04-10 16:28:35.985564] UPDATE : ['rig', 'sculpt', 'lookdev', 'mod', 'groom']
+[2024-04-10 16:28:39.473223] UPDATE : ['mod', 'rig', 'sculpt', 'lookdev', 'groom']
+
+
+[2024-04-10 16:29:15.011255] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 16:29:15.028209] UPDATE : Personnal settings opened
+[2024-04-10 16:29:16.682779] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 16:29:16.684774] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 16:29:16.686793] UPDATE : Project settings loaded!
+[2024-04-10 16:29:16.687790] UPDATE : True
+[2024-04-10 16:29:17.471913] UPDATE : ['lookdev', 'sculpt', 'groom', 'mod', 'rig']
+[2024-04-10 16:29:20.255415] UPDATE : ['lookdev', 'sculpt', 'groom', 'mod', 'rig']
+[2024-04-10 16:29:26.488596] UPDATE : ['camera', 'mod', 'rig', 'sculpt', 'render', 'groom', 'lighting', 'lookdev']
+
+
+[2024-04-10 16:30:05.656046] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 16:30:05.673001] UPDATE : Personnal settings opened
+[2024-04-10 16:30:07.258763] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 16:30:07.260758] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 16:30:07.261755] UPDATE : Project settings loaded!
+[2024-04-10 16:30:07.263750] UPDATE : True
+[2024-04-10 16:30:08.298977] UPDATE : ['mod', 'groom', 'sculpt', 'rig', 'lookdev']
+[2024-04-10 16:30:09.891788] UPDATE : ['sculpt', 'lookdev', 'mod', 'groom', 'camera', 'lighting', 'render', 'rig']
+[2024-04-10 16:30:10.668708] UPDATE : ['sculpt', 'lookdev', 'mod', 'groom', 'rig']
+
+
+[2024-04-10 16:31:15.154335] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 16:31:15.171295] UPDATE : Personnal settings opened
+[2024-04-10 16:31:16.926627] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 16:31:16.928628] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 16:31:16.930614] UPDATE : Project settings loaded!
+[2024-04-10 16:31:16.943552] UPDATE : True
+[2024-04-10 16:31:18.019699] UPDATE : ['rig', 'mod', 'sculpt', 'lookdev', 'groom']
+[2024-04-10 16:31:22.786276] UPDATE : ['rig', 'mod', 'sculpt', 'lookdev', 'groom']
+[2024-04-10 16:31:30.472709] UPDATE : ['rig', 'sculpt', 'mod', 'lookdev', 'groom']
+[2024-04-10 16:31:31.756654] UPDATE : ['rig', 'mod', 'sculpt', 'lookdev', 'groom']
+
+
+[2024-04-10 16:31:56.696076] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 16:31:56.713030] UPDATE : Personnal settings opened
+[2024-04-10 16:31:58.182044] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 16:31:58.183670] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 16:31:58.185701] UPDATE : Project settings loaded!
+[2024-04-10 16:31:58.186693] UPDATE : True
+[2024-04-10 16:31:59.741726] UPDATE : trigger
+[2024-04-10 16:31:59.743728] UPDATE : ['lookdev', 'groom', 'rig', 'mod', 'sculpt']
+
+
+[2024-04-10 16:33:56.267996] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 16:33:56.284956] UPDATE : Personnal settings opened
+[2024-04-10 16:33:58.056906] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 16:33:58.058901] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 16:33:58.059898] UPDATE : Project settings loaded!
+[2024-04-10 16:33:58.061893] UPDATE : True
+[2024-04-10 16:33:59.132385] UPDATE : trigger
+[2024-04-10 16:33:59.135360] UPDATE : ['groom', 'mod', 'sculpt', 'rig', 'lookdev']
+[2024-04-10 16:34:01.483250] UPDATE : trigger
+[2024-04-10 16:34:01.486242] UPDATE : ['groom', 'mod', 'sculpt', 'rig', 'lookdev']
+[2024-04-10 16:34:02.265155] UPDATE : trigger
+[2024-04-10 16:34:02.268147] UPDATE : ['groom', 'mod', 'sculpt', 'rig', 'lookdev']
+[2024-04-10 16:34:02.706244] UPDATE : trigger
+[2024-04-10 16:34:02.709045] UPDATE : ['groom', 'mod', 'sculpt', 'rig', 'lookdev']
+[2024-04-10 16:34:03.135528] UPDATE : trigger
+[2024-04-10 16:34:03.137491] UPDATE : ['groom', 'mod', 'sculpt', 'rig', 'lookdev']
+[2024-04-10 16:34:03.983265] UPDATE : trigger
+[2024-04-10 16:34:08.574543] UPDATE : trigger
+[2024-04-10 16:34:08.576538] UPDATE : ['groom', 'mod', 'sculpt', 'rig', 'lookdev']
+[2024-04-10 16:34:11.017001] UPDATE : trigger
+[2024-04-10 16:34:11.019994] UPDATE : ['groom', 'mod', 'sculpt', 'rig', 'lookdev']
+[2024-04-10 16:34:11.325775] UPDATE : trigger
+[2024-04-10 16:34:11.328740] UPDATE : ['groom', 'mod', 'sculpt', 'rig', 'lookdev']
+[2024-04-10 16:34:11.712090] UPDATE : trigger
+[2024-04-10 16:34:11.714746] UPDATE : ['groom', 'mod', 'sculpt', 'rig', 'lookdev']
+[2024-04-10 16:34:13.398197] UPDATE : trigger
+[2024-04-10 16:34:13.401189] UPDATE : ['groom', 'lighting', 'render', 'mod', 'sculpt', 'camera', 'rig', 'lookdev']
+[2024-04-10 16:34:14.296065] UPDATE : trigger
+[2024-04-10 16:34:17.595115] UPDATE : trigger
+[2024-04-10 16:34:17.597852] UPDATE : ['groom', 'mod', 'sculpt', 'rig', 'lookdev']
+[2024-04-10 16:34:18.098499] UPDATE : trigger
+[2024-04-10 16:34:18.101489] UPDATE : ['groom', 'mod', 'sculpt', 'rig', 'lookdev']
+[2024-04-10 16:34:18.515044] UPDATE : trigger
+[2024-04-10 16:34:18.517958] UPDATE : ['groom', 'mod', 'sculpt', 'rig', 'lookdev']
+[2024-04-10 16:34:18.815904] UPDATE : trigger
+[2024-04-10 16:34:18.818866] UPDATE : ['groom', 'mod', 'sculpt', 'rig', 'lookdev']
+[2024-04-10 16:34:20.462787] UPDATE : trigger
+[2024-04-10 16:34:20.465780] UPDATE : ['groom', 'mod', 'sculpt', 'rig', 'lookdev']
+[2024-04-10 16:34:21.084722] UPDATE : trigger
+[2024-04-10 16:34:21.087714] UPDATE : ['groom', 'mod', 'sculpt', 'rig', 'lookdev']
+[2024-04-10 16:34:21.490066] UPDATE : trigger
+[2024-04-10 16:34:21.492656] UPDATE : ['groom', 'lighting', 'render', 'mod', 'sculpt', 'camera', 'rig', 'lookdev']
+[2024-04-10 16:34:21.955420] UPDATE : trigger
+
+
+[2024-04-10 16:38:00.587732] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 16:38:00.604689] UPDATE : Personnal settings opened
+[2024-04-10 16:38:02.741522] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 16:38:02.743517] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 16:38:02.745508] UPDATE : Project settings loaded!
+[2024-04-10 16:38:02.746506] UPDATE : True
+[2024-04-10 16:38:04.038591] UPDATE : trigger
+[2024-04-10 16:38:04.040612] UPDATE : ['lookdev', 'rig', 'groom', 'mod', 'sculpt']
+[2024-04-10 16:38:04.646924] UPDATE : trigger
+[2024-04-10 16:38:05.245954] UPDATE : trigger
+[2024-04-10 16:38:05.247953] UPDATE : ['lookdev', 'rig', 'groom', 'mod', 'sculpt']
+[2024-04-10 16:38:05.631501] UPDATE : trigger
+[2024-04-10 16:38:07.966776] UPDATE : trigger
+[2024-04-10 16:38:07.969723] UPDATE : ['camera', 'rig', 'lighting', 'mod', 'render', 'lookdev', 'groom', 'sculpt']
+[2024-04-10 16:38:08.524262] UPDATE : trigger
+
+
+[2024-04-10 16:52:06.715859] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 16:52:06.733820] UPDATE : Personnal settings opened
+[2024-04-10 16:52:08.024113] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 16:52:08.026136] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 16:52:08.028131] UPDATE : Project settings loaded!
+[2024-04-10 16:52:08.029127] UPDATE : True
+[2024-04-10 16:52:09.260748] UPDATE : trigger
+[2024-04-10 16:52:09.264740] UPDATE : ['groom', 'sculpt', 'rig', 'lookdev', 'mod']
+[2024-04-10 16:52:10.315501] UPDATE : trigger
+[2024-04-10 16:52:10.319493] UPDATE : ['groom', 'sculpt', 'rig', 'lookdev', 'mod']
+[2024-04-10 16:52:11.087750] UPDATE : trigger
+[2024-04-10 16:52:11.091909] UPDATE : ['groom', 'lookdev', 'rig', 'sculpt', 'mod']
+[2024-04-10 16:52:11.990877] UPDATE : trigger
+[2024-04-10 16:52:11.995884] UPDATE : ['groom', 'sculpt', 'rig', 'lookdev', 'mod']
+[2024-04-10 16:52:12.450833] UPDATE : trigger
+[2024-04-10 16:52:12.453825] UPDATE : ['camera', 'render', 'lighting', 'groom', 'lookdev', 'rig', 'sculpt', 'mod']
+[2024-04-10 16:52:14.953748] UPDATE : trigger
+[2024-04-10 16:52:15.415928] UPDATE : trigger
+[2024-04-10 16:52:15.420914] UPDATE : ['groom', 'sculpt', 'rig', 'lookdev', 'mod']
+[2024-04-10 16:52:16.289132] UPDATE : trigger
+[2024-04-10 16:52:16.295082] UPDATE : ['groom', 'sculpt', 'rig', 'lookdev', 'mod']
+[2024-04-10 16:52:16.619817] UPDATE : trigger
+[2024-04-10 16:52:16.623789] UPDATE : ['camera', 'render', 'lighting', 'groom', 'lookdev', 'rig', 'sculpt', 'mod']
+[2024-04-10 16:52:17.905029] UPDATE : trigger
+[2024-04-10 16:52:17.910016] UPDATE : ['groom', 'sculpt', 'rig', 'lookdev', 'mod']
+[2024-04-10 16:52:18.584026] UPDATE : trigger
+[2024-04-10 16:52:18.588054] UPDATE : ['groom', 'sculpt', 'rig', 'lookdev', 'mod']
+[2024-04-10 16:52:19.058020] UPDATE : trigger
+[2024-04-10 16:52:19.063002] UPDATE : ['groom', 'sculpt', 'rig', 'lookdev', 'mod']
+[2024-04-10 16:52:19.484621] UPDATE : trigger
+[2024-04-10 16:52:19.488610] UPDATE : ['groom', 'lookdev', 'rig', 'sculpt', 'mod']
+[2024-04-10 16:52:20.253828] UPDATE : trigger
+[2024-04-10 16:52:20.257818] UPDATE : ['groom', 'sculpt', 'rig', 'lookdev', 'mod']
+[2024-04-10 16:52:20.687926] UPDATE : trigger
+[2024-04-10 16:52:20.692903] UPDATE : ['camera', 'render', 'lighting', 'groom', 'lookdev', 'rig', 'sculpt', 'mod']
+
+
+[2024-04-10 16:52:58.389620] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 16:52:58.405550] UPDATE : Personnal settings opened
+[2024-04-10 16:53:00.031800] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 16:53:00.033764] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 16:53:00.035758] UPDATE : Project settings loaded!
+[2024-04-10 16:53:00.036755] UPDATE : True
+
+
+[2024-04-10 16:53:20.801288] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 16:53:20.819240] UPDATE : Personnal settings opened
+[2024-04-10 16:53:25.038341] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 16:53:25.040362] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 16:53:25.042356] UPDATE : Project settings loaded!
+[2024-04-10 16:53:25.043352] UPDATE : True
+
+
+[2024-04-10 16:55:38.295970] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 16:55:38.312927] UPDATE : Personnal settings opened
+[2024-04-10 16:55:39.656657] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 16:55:39.658654] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 16:55:39.659680] UPDATE : Project settings loaded!
+[2024-04-10 16:55:39.661678] UPDATE : True
+
+
+[2024-04-10 16:56:03.062058] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 16:56:03.078986] UPDATE : Personnal settings opened
+[2024-04-10 16:56:04.545346] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 16:56:04.547367] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 16:56:04.549360] UPDATE : Project settings loaded!
+[2024-04-10 16:56:04.550363] UPDATE : True
+[2024-04-10 16:56:14.124399] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 16:56:14.126395] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 16:56:14.127392] UPDATE : Project settings loaded!
+[2024-04-10 16:56:14.129383] UPDATE : True
+
+
+[2024-04-10 17:11:57.261184] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 17:11:57.279108] UPDATE : Personnal settings opened
+[2024-04-10 17:11:58.802355] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 17:11:58.804322] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 17:11:58.806348] UPDATE : Project settings loaded!
+[2024-04-10 17:11:58.808311] UPDATE : True
+[2024-04-10 17:12:00.050887] UPDATE : [1]
+[2024-04-10 17:12:00.052883] UPDATE : Searching...
+[2024-04-10 17:12:00.521834] UPDATE : []
+[2024-04-10 17:12:00.524822] UPDATE : Searching...
+
+
+[2024-04-10 17:18:35.740195] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 17:18:35.766124] UPDATE : Personnal settings opened
+[2024-04-10 17:18:37.706253] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 17:18:37.708233] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 17:18:37.710232] UPDATE : Project settings loaded!
+[2024-04-10 17:18:37.711224] UPDATE : True
+[2024-04-10 17:18:38.841819] UPDATE : [2]
+[2024-04-10 17:18:38.844816] UPDATE : Searching...
+[2024-04-10 17:18:38.846797] ERROR : Impossible to get default folder
+[2024-04-10 17:18:40.247624] UPDATE : [2, 3]
+[2024-04-10 17:18:40.249618] UPDATE : Searching...
+[2024-04-10 17:18:40.251613] ERROR : Impossible to get default folder
+[2024-04-10 17:18:41.664288] UPDATE : [2]
+[2024-04-10 17:18:41.667280] UPDATE : Searching...
+[2024-04-10 17:18:41.668279] ERROR : Impossible to get default folder
+[2024-04-10 17:18:42.316290] UPDATE : []
+[2024-04-10 17:18:42.318285] UPDATE : Searching...
+
+
+[2024-04-10 17:19:07.233094] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 17:19:07.250050] UPDATE : Personnal settings opened
+[2024-04-10 17:19:08.810363] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 17:19:08.812358] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 17:19:08.814352] UPDATE : Project settings loaded!
+[2024-04-10 17:19:08.815349] UPDATE : True
+[2024-04-10 17:19:09.911062] UPDATE : [1]
+[2024-04-10 17:19:09.914082] UPDATE : Searching...
+
+
+[2024-04-10 17:19:24.884004] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 17:19:24.900931] UPDATE : Personnal settings opened
+[2024-04-10 17:19:26.553148] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 17:19:26.555142] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 17:19:26.556755] UPDATE : Project settings loaded!
+[2024-04-10 17:19:26.557774] UPDATE : True
+[2024-04-10 17:19:27.971340] UPDATE : [0]
+[2024-04-10 17:19:27.974329] UPDATE : Searching...
+
+
+[2024-04-10 17:21:46.817173] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 17:21:46.834100] UPDATE : Personnal settings opened
+[2024-04-10 17:21:48.581427] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 17:21:48.584391] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 17:21:48.585419] UPDATE : Project settings loaded!
+[2024-04-10 17:21:48.587418] UPDATE : True
+[2024-04-10 17:21:49.474996] UPDATE : [3]
+[2024-04-10 17:21:49.476991] UPDATE : Searching...
+
+
+[2024-04-10 17:21:57.897258] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 17:21:57.914763] UPDATE : Personnal settings opened
+[2024-04-10 17:21:59.793236] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 17:21:59.795228] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 17:21:59.796728] UPDATE : Project settings loaded!
+[2024-04-10 17:21:59.798720] UPDATE : True
+[2024-04-10 17:22:00.749625] UPDATE : [3]
+[2024-04-10 17:22:00.752618] UPDATE : Searching...
+
+
+[2024-04-10 17:22:36.418807] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 17:22:36.436067] UPDATE : Personnal settings opened
+[2024-04-10 17:22:38.189452] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 17:22:38.191441] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 17:22:38.193434] UPDATE : Project settings loaded!
+[2024-04-10 17:22:38.194438] UPDATE : True
+[2024-04-10 17:22:39.389685] UPDATE : [3]
+[2024-04-10 17:22:39.391678] UPDATE : Searching...
+
+
+[2024-04-10 17:23:40.600262] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 17:23:40.616769] UPDATE : Personnal settings opened
+
+
+[2024-04-10 17:23:51.415158] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 17:23:51.432111] UPDATE : Personnal settings opened
+[2024-04-10 17:23:53.261913] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 17:23:53.263908] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 17:23:53.264908] UPDATE : Project settings loaded!
+[2024-04-10 17:23:53.266900] UPDATE : True
+[2024-04-10 17:23:54.695587] UPDATE : [0]
+[2024-04-10 17:23:54.698579] UPDATE : Searching...
+
+
+[2024-04-10 17:24:24.068470] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 17:24:24.084460] UPDATE : Personnal settings opened
+[2024-04-10 17:24:25.831294] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 17:24:25.833287] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 17:24:25.835285] UPDATE : Project settings loaded!
+[2024-04-10 17:24:25.837278] UPDATE : True
+[2024-04-10 17:24:26.787742] UPDATE : [1]
+[2024-04-10 17:24:26.789709] UPDATE : Searching...
+
+
+[2024-04-10 17:29:58.175164] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 17:29:58.193370] UPDATE : Personnal settings opened
+[2024-04-10 17:29:59.776459] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 17:29:59.778454] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 17:29:59.779880] UPDATE : Project settings loaded!
+[2024-04-10 17:29:59.781899] UPDATE : True
+[2024-04-10 17:30:00.970351] UPDATE : [1]
+[2024-04-10 17:30:00.973343] UPDATE : Searching...
+
+
+[2024-04-10 17:30:14.931008] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 17:30:14.947935] UPDATE : Personnal settings opened
+[2024-04-10 17:30:16.507676] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 17:30:16.510237] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 17:30:16.511264] UPDATE : Project settings loaded!
+[2024-04-10 17:30:16.513261] UPDATE : True
+[2024-04-10 17:30:17.178463] UPDATE : [2]
+[2024-04-10 17:30:17.181452] UPDATE : Searching...
+
+
+[2024-04-10 17:30:43.324912] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 17:30:43.341463] UPDATE : Personnal settings opened
+[2024-04-10 17:30:45.033978] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 17:30:45.035973] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 17:30:45.037940] UPDATE : Project settings loaded!
+[2024-04-10 17:30:45.038965] UPDATE : True
+[2024-04-10 17:30:46.018169] UPDATE : [2]
+[2024-04-10 17:30:46.021165] UPDATE : Searching...
+[2024-04-10 17:30:46.023163] UPDATE : ['[Origin]/ASSETS/[name]/[mayaProject]/scenes/[type]/[state]']
+[2024-04-10 17:30:58.273273] UPDATE : [2, 3]
+[2024-04-10 17:30:58.275260] UPDATE : Searching...
+[2024-04-10 17:30:58.277254] UPDATE : ['[Origin]/ASSETS/[name]/[mayaProject]/scenes/[type]/[state]']
+[2024-04-10 17:30:58.279248] UPDATE : ['[Origin]/ASSETS/[name]/[mayaProject]/scenes/[type]/[state]']
+
+
+[2024-04-10 17:33:46.197891] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 17:33:46.214845] UPDATE : Personnal settings opened
+[2024-04-10 17:33:48.214062] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 17:33:48.216687] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 17:33:48.217713] UPDATE : Project settings loaded!
+[2024-04-10 17:33:48.219683] UPDATE : True
+[2024-04-10 17:33:49.477771] UPDATE : [2]
+[2024-04-10 17:33:49.480763] UPDATE : Searching...
+[2024-04-10 17:33:49.481761] UPDATE : []
+[2024-04-10 17:33:50.824823] UPDATE : [2]
+[2024-04-10 17:33:50.827849] UPDATE : Searching...
+[2024-04-10 17:33:50.828841] UPDATE : []
+[2024-04-10 17:33:55.257657] UPDATE : [2, 1]
+[2024-04-10 17:33:55.260646] UPDATE : Searching...
+[2024-04-10 17:33:55.261643] UPDATE : []
+[2024-04-10 17:33:55.263638] UPDATE : []
+[2024-04-10 17:33:57.396310] UPDATE : [2, 1]
+[2024-04-10 17:33:57.398305] UPDATE : Searching...
+[2024-04-10 17:33:57.400299] UPDATE : []
+[2024-04-10 17:33:57.402294] UPDATE : []
+[2024-04-10 17:33:59.209875] UPDATE : [2, 1, 4]
+[2024-04-10 17:33:59.212870] UPDATE : Searching...
+[2024-04-10 17:33:59.213866] UPDATE : []
+[2024-04-10 17:33:59.215931] UPDATE : []
+[2024-04-10 17:33:59.217855] UPDATE : []
+[2024-04-10 17:34:00.531105] UPDATE : [2, 1, 4]
+[2024-04-10 17:34:00.543074] UPDATE : Searching...
+[2024-04-10 17:34:00.544575] UPDATE : []
+[2024-04-10 17:34:00.546570] UPDATE : []
+[2024-04-10 17:34:00.547567] UPDATE : []
+[2024-04-10 17:34:01.507851] UPDATE : [2, 1, 4]
+[2024-04-10 17:34:01.509848] UPDATE : Searching...
+[2024-04-10 17:34:01.511813] UPDATE : []
+[2024-04-10 17:34:01.513836] UPDATE : []
+[2024-04-10 17:34:01.514948] UPDATE : []
+[2024-04-10 17:34:01.796574] UPDATE : [2, 1, 4]
+[2024-04-10 17:34:01.798568] UPDATE : Searching...
+[2024-04-10 17:34:01.800563] UPDATE : []
+[2024-04-10 17:34:01.801561] UPDATE : []
+[2024-04-10 17:34:01.803555] UPDATE : []
+[2024-04-10 17:34:09.700029] UPDATE : [2, 1, 4]
+[2024-04-10 17:34:09.703053] UPDATE : Searching...
+[2024-04-10 17:34:09.705044] UPDATE : []
+[2024-04-10 17:34:09.707041] UPDATE : []
+[2024-04-10 17:34:09.708036] UPDATE : []
+[2024-04-10 17:34:10.085578] UPDATE : [2, 1, 4]
+[2024-04-10 17:34:10.088555] UPDATE : Searching...
+[2024-04-10 17:34:10.090565] UPDATE : []
+[2024-04-10 17:34:10.091985] UPDATE : []
+[2024-04-10 17:34:10.093975] UPDATE : []
+[2024-04-10 17:34:10.416845] UPDATE : [2, 1, 4]
+[2024-04-10 17:34:10.419839] UPDATE : Searching...
+[2024-04-10 17:34:10.421834] UPDATE : []
+[2024-04-10 17:34:10.422830] UPDATE : []
+[2024-04-10 17:34:10.424824] UPDATE : []
+[2024-04-10 17:34:11.179343] UPDATE : [2, 1]
+[2024-04-10 17:34:11.182336] UPDATE : Searching...
+[2024-04-10 17:34:11.183335] UPDATE : []
+[2024-04-10 17:34:11.185327] UPDATE : []
+[2024-04-10 17:34:11.555881] UPDATE : [1]
+[2024-04-10 17:34:11.558873] UPDATE : Searching...
+[2024-04-10 17:34:11.559873] UPDATE : []
+[2024-04-10 17:34:11.780399] UPDATE : []
+[2024-04-10 17:34:11.783402] UPDATE : Searching...
+[2024-04-10 17:34:13.501564] UPDATE : [1]
+[2024-04-10 17:34:13.503558] UPDATE : Searching...
+[2024-04-10 17:34:13.505553] UPDATE : []
+[2024-04-10 17:34:16.188156] UPDATE : []
+[2024-04-10 17:34:16.190151] UPDATE : Searching...
+
+
+[2024-04-10 17:35:00.854778] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 17:35:00.870946] UPDATE : Personnal settings opened
+[2024-04-10 17:35:02.655033] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 17:35:02.657537] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 17:35:02.658532] UPDATE : Project settings loaded!
+[2024-04-10 17:35:02.660526] UPDATE : True
+[2024-04-10 17:35:03.369898] UPDATE : [2]
+[2024-04-10 17:35:03.371895] UPDATE : Searching...
+[2024-04-10 17:35:03.373885] UPDATE : []
+[2024-04-10 17:35:04.072274] UPDATE : [2, 1]
+[2024-04-10 17:35:04.074805] UPDATE : Searching...
+[2024-04-10 17:35:04.076800] UPDATE : []
+[2024-04-10 17:35:04.077795] UPDATE : []
+[2024-04-10 17:35:05.541220] UPDATE : [2, 1]
+[2024-04-10 17:35:05.543215] UPDATE : Searching...
+[2024-04-10 17:35:05.545210] UPDATE : []
+[2024-04-10 17:35:05.547204] UPDATE : []
+[2024-04-10 17:35:05.872866] UPDATE : [2, 1]
+[2024-04-10 17:35:05.875859] UPDATE : Searching...
+[2024-04-10 17:35:05.877853] UPDATE : []
+[2024-04-10 17:35:05.879848] UPDATE : []
+[2024-04-10 17:35:08.661399] UPDATE : [2, 1]
+[2024-04-10 17:35:08.663397] UPDATE : Searching...
+[2024-04-10 17:35:08.665389] UPDATE : []
+[2024-04-10 17:35:08.667383] UPDATE : []
+[2024-04-10 17:35:14.126750] UPDATE : [2, 1]
+[2024-04-10 17:35:14.128743] UPDATE : Searching...
+[2024-04-10 17:35:14.130738] UPDATE : []
+[2024-04-10 17:35:14.132733] UPDATE : []
+[2024-04-10 17:35:15.485944] UPDATE : [2, 1]
+[2024-04-10 17:35:15.487938] UPDATE : Searching...
+[2024-04-10 17:35:15.489932] UPDATE : []
+[2024-04-10 17:35:15.491926] UPDATE : []
+[2024-04-10 17:35:16.423814] UPDATE : [2, 1]
+[2024-04-10 17:35:16.426774] UPDATE : Searching...
+[2024-04-10 17:35:16.428771] UPDATE : []
+[2024-04-10 17:35:16.430764] UPDATE : []
+[2024-04-10 17:35:16.700805] UPDATE : [2, 1]
+[2024-04-10 17:35:16.702770] UPDATE : Searching...
+[2024-04-10 17:35:16.704765] UPDATE : []
+[2024-04-10 17:35:16.706793] UPDATE : []
+[2024-04-10 17:35:17.010494] UPDATE : [2, 1]
+[2024-04-10 17:35:17.012496] UPDATE : Searching...
+[2024-04-10 17:35:17.014485] UPDATE : []
+[2024-04-10 17:35:17.015481] UPDATE : []
+
+
+[2024-04-10 17:37:48.443442] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 17:37:48.461414] UPDATE : Personnal settings opened
+[2024-04-10 17:37:50.458784] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 17:37:50.460805] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 17:37:50.461800] UPDATE : Project settings loaded!
+[2024-04-10 17:37:50.463797] UPDATE : True
+[2024-04-10 17:37:51.644923] UPDATE : lookdev
+[2024-04-10 17:37:51.647887] UPDATE : groom
+[2024-04-10 17:37:51.650909] UPDATE : sculpt
+[2024-04-10 17:37:51.652874] UPDATE : mod
+[2024-04-10 17:37:51.654896] UPDATE : rig
+[2024-04-10 17:37:51.658857] UPDATE : [2]
+[2024-04-10 17:37:51.660852] UPDATE : Searching...
+[2024-04-10 17:37:51.662846] UPDATE : []
+[2024-04-10 17:37:52.578640] UPDATE : lookdev
+[2024-04-10 17:37:52.581614] UPDATE : sculpt
+[2024-04-10 17:37:52.584635] UPDATE : mod
+[2024-04-10 17:37:52.586630] UPDATE : groom
+[2024-04-10 17:37:52.588595] UPDATE : rig
+[2024-04-10 17:37:52.593608] UPDATE : [2, 1]
+[2024-04-10 17:37:52.595600] UPDATE : Searching...
+[2024-04-10 17:37:52.596596] UPDATE : []
+[2024-04-10 17:37:52.598592] UPDATE : []
+[2024-04-10 17:37:59.422572] UPDATE : lookdev
+[2024-04-10 17:37:59.426561] UPDATE : groom
+[2024-04-10 17:37:59.428568] UPDATE : sculpt
+[2024-04-10 17:37:59.431588] UPDATE : mod
+[2024-04-10 17:37:59.433665] UPDATE : rig
+[2024-04-10 17:37:59.437604] UPDATE : [2]
+[2024-04-10 17:37:59.438598] UPDATE : Searching...
+[2024-04-10 17:37:59.440594] UPDATE : []
+[2024-04-10 17:37:59.918817] UPDATE : []
+[2024-04-10 17:37:59.920815] UPDATE : Searching...
+[2024-04-10 17:38:02.674433] UPDATE : lookdev
+[2024-04-10 17:38:02.678424] UPDATE : groom
+[2024-04-10 17:38:02.680430] UPDATE : sculpt
+[2024-04-10 17:38:02.682414] UPDATE : mod
+[2024-04-10 17:38:02.685404] UPDATE : rig
+[2024-04-10 17:38:02.689367] UPDATE : [0]
+[2024-04-10 17:38:02.690363] UPDATE : Searching...
+[2024-04-10 17:38:02.692358] UPDATE : []
+[2024-04-10 17:38:02.944683] UPDATE : lookdev
+[2024-04-10 17:38:02.948672] UPDATE : sculpt
+[2024-04-10 17:38:02.950667] UPDATE : mod
+[2024-04-10 17:38:02.953167] UPDATE : groom
+[2024-04-10 17:38:02.955163] UPDATE : rig
+[2024-04-10 17:38:02.960148] UPDATE : [0, 2]
+[2024-04-10 17:38:02.961146] UPDATE : Searching...
+[2024-04-10 17:38:02.963140] UPDATE : []
+[2024-04-10 17:38:02.964138] UPDATE : []
+[2024-04-10 17:38:06.849678] UPDATE : [0, 2]
+[2024-04-10 17:38:06.851673] UPDATE : Searching...
+[2024-04-10 17:38:06.853727] UPDATE : []
+[2024-04-10 17:38:06.854665] UPDATE : []
+[2024-04-10 17:38:08.035114] UPDATE : [0, 2]
+[2024-04-10 17:38:08.037108] UPDATE : Searching...
+[2024-04-10 17:38:08.039076] UPDATE : []
+[2024-04-10 17:38:08.041079] UPDATE : []
+[2024-04-10 17:38:14.826711] UPDATE : [0, 2]
+[2024-04-10 17:38:14.828734] UPDATE : Searching...
+[2024-04-10 17:38:14.830700] UPDATE : []
+[2024-04-10 17:38:14.831698] UPDATE : []
+[2024-04-10 17:38:16.262793] UPDATE : [0, 2]
+[2024-04-10 17:38:16.265785] UPDATE : Searching...
+[2024-04-10 17:38:16.266782] UPDATE : []
+[2024-04-10 17:38:16.268777] UPDATE : []
+
+
+[2024-04-10 17:39:45.283130] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 17:39:45.300085] UPDATE : Personnal settings opened
+[2024-04-10 17:39:47.060873] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 17:39:47.062868] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 17:39:47.064863] UPDATE : Project settings loaded!
+[2024-04-10 17:39:47.065860] UPDATE : True
+[2024-04-10 17:39:47.876883] UPDATE : [2]
+[2024-04-10 17:39:47.878883] UPDATE : Searching...
+[2024-04-10 17:39:47.880859] UPDATE : []
+[2024-04-10 17:39:48.725276] UPDATE : [2]
+[2024-04-10 17:39:48.727267] UPDATE : Searching...
+[2024-04-10 17:39:48.729230] UPDATE : []
+[2024-04-10 17:39:49.679266] UPDATE : [2]
+[2024-04-10 17:39:49.681262] UPDATE : Searching...
+[2024-04-10 17:39:49.682735] UPDATE : []
+[2024-04-10 17:39:51.212733] UPDATE : [2]
+[2024-04-10 17:39:51.214698] UPDATE : Searching...
+[2024-04-10 17:39:51.215723] UPDATE : []
+[2024-04-10 17:39:52.793870] UPDATE : [2]
+[2024-04-10 17:39:52.795814] UPDATE : Searching...
+[2024-04-10 17:39:52.797840] UPDATE : []
+
+
+[2024-04-10 17:40:18.595195] New Pipo session opened on <built-in function gethostname>
+[2024-04-10 17:40:18.611123] UPDATE : Personnal settings opened
+[2024-04-10 17:40:19.986099] UPDATE : Project selected : TestProjectSchool
+[2024-04-10 17:40:19.988095] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-10 17:40:19.990089] UPDATE : Project settings loaded!
+[2024-04-10 17:40:19.991087] UPDATE : True
+[2024-04-10 17:40:20.866007] UPDATE : [1]
+[2024-04-10 17:40:20.868033] UPDATE : Searching...
+[2024-04-10 17:40:20.870024] UPDATE : []
+[2024-04-10 17:40:21.810111] UPDATE : [1]
+[2024-04-10 17:40:21.813107] UPDATE : Searching...
+[2024-04-10 17:40:21.814168] UPDATE : ['lookdev']
+[2024-04-10 17:40:23.471188] UPDATE : [1]
+[2024-04-10 17:40:23.473156] UPDATE : Searching...
+[2024-04-10 17:40:23.475180] UPDATE : []
+[2024-04-10 17:40:23.769157] UPDATE : [1]
+[2024-04-10 17:40:23.771151] UPDATE : Searching...
+[2024-04-10 17:40:23.773146] UPDATE : ['groom']
+[2024-04-10 17:40:24.206574] UPDATE : [1]
+[2024-04-10 17:40:24.208569] UPDATE : Searching...
+[2024-04-10 17:40:24.210564] UPDATE : ['groom', 'lookdev']
+[2024-04-10 17:40:24.571588] UPDATE : [1]
+[2024-04-10 17:40:24.573678] UPDATE : Searching...
+[2024-04-10 17:40:24.576110] UPDATE : ['groom', 'lookdev', 'mod']
+[2024-04-10 17:40:26.617183] UPDATE : [1, 3]
+[2024-04-10 17:40:26.619178] UPDATE : Searching...
+[2024-04-10 17:40:26.621170] UPDATE : []
+[2024-04-10 17:40:26.622167] UPDATE : []
