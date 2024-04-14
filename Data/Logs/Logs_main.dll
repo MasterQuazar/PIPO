@@ -1270,3 +1270,750 @@ Unexisting path!
 [2024-04-14 16:08:26.768098] UPDATE : Searching...
 [2024-04-14 16:08:27.346083] UPDATE : []
 [2024-04-14 16:08:27.346083] UPDATE : Searching...
+
+
+[2024-04-14 20:25:06.512785] New Pipo session opened on <built-in function gethostname>
+[2024-04-14 20:25:06.535727] UPDATE : Personnal settings opened
+[2024-04-14 20:25:09.242147] UPDATE : Project selected : testproject
+[2024-04-14 20:25:09.243144] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-04-14 20:25:09.243144] UPDATE : Project settings loaded!
+[2024-04-14 20:25:09.243144] UPDATE : True
+[2024-04-14 20:25:11.985535] UPDATE : [1]
+[2024-04-14 20:25:11.986533] UPDATE : Searching...
+[2024-04-14 20:25:14.537784] UPDATE : [1, 3]
+[2024-04-14 20:25:14.538786] UPDATE : Searching...
+
+
+[2024-04-14 20:30:03.000075] New Pipo session opened on <built-in function gethostname>
+[2024-04-14 20:30:03.015035] UPDATE : Personnal settings opened
+[2024-04-14 20:30:05.466702] UPDATE : Project selected : testproject
+[2024-04-14 20:30:05.467699] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-04-14 20:30:05.467699] UPDATE : Project settings loaded!
+[2024-04-14 20:30:05.467699] UPDATE : True
+[2024-04-14 20:30:06.544899] UPDATE : [2]
+[2024-04-14 20:30:06.544899] UPDATE : Searching...
+[2024-04-14 20:30:06.545896] UPDATE : ['[Origin]/ASSETS/[name]/[mayaProject]/scenes/[type]/[state]']
+[2024-04-14 20:30:07.482971] UPDATE : [2, 0]
+[2024-04-14 20:30:07.482971] UPDATE : Searching...
+[2024-04-14 20:30:07.483969] UPDATE : ['[Origin]/ASSETS/[name]/[mayaProject]/scenes/[type]/[state]', '[Origin]/ASSETS/[name]/[mayaProject]/scenes/[type]/[state]']
+[2024-04-14 20:30:10.479617] UPDATE : [2, 0, 4]
+[2024-04-14 20:30:10.480615] UPDATE : Searching...
+[2024-04-14 20:30:10.480615] UPDATE : ['[Origin]/ASSETS/[name]/[mayaProject]/scenes/[type]/[state]', '[Origin]/ASSETS/[name]/[mayaProject]/scenes/[type]/[state]', '[Origin]/SHOTS/[sqversion]/[sqversion]_[shversion]/[type]/[state]']
+[2024-04-14 20:30:14.767737] UPDATE : [2, 0]
+[2024-04-14 20:30:14.768734] UPDATE : Searching...
+[2024-04-14 20:30:14.768734] UPDATE : ['[Origin]/ASSETS/[name]/[mayaProject]/scenes/[type]/[state]', '[Origin]/ASSETS/[name]/[mayaProject]/scenes/[type]/[state]']
+
+
+[2024-04-14 20:30:35.876941] New Pipo session opened on <built-in function gethostname>
+[2024-04-14 20:30:35.891415] UPDATE : Personnal settings opened
+[2024-04-14 20:30:37.994747] UPDATE : Project selected : testproject
+[2024-04-14 20:30:37.995737] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-04-14 20:30:37.995737] UPDATE : Project settings loaded!
+[2024-04-14 20:30:37.995737] UPDATE : True
+
+
+[2024-04-14 20:33:03.066661] New Pipo session opened on <built-in function gethostname>
+[2024-04-14 20:33:03.081181] UPDATE : Personnal settings opened
+[2024-04-14 20:33:05.276566] UPDATE : Project selected : testproject
+[2024-04-14 20:33:05.277563] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-04-14 20:33:05.277563] UPDATE : Project settings loaded!
+[2024-04-14 20:33:05.277563] UPDATE : True
+[2024-04-14 20:33:06.367091] UPDATE : [1]
+[2024-04-14 20:33:06.368088] UPDATE : Searching...
+[2024-04-14 20:33:06.368088] UPDATE : ['[Origin]', 'ASSETS', '[name]', '[mayaProject]', 'scenes', '[type]', '[state]']
+[2024-04-14 20:33:14.113012] UPDATE : []
+[2024-04-14 20:33:14.114009] UPDATE : Searching...
+[2024-04-14 20:33:15.979056] UPDATE : [2]
+[2024-04-14 20:33:15.982055] UPDATE : Searching...
+[2024-04-14 20:33:15.983552] UPDATE : ['[Origin]', 'ASSETS', '[name]', '[mayaProject]', 'scenes', '[type]', '[state]']
+
+
+[2024-04-14 20:42:06.455640] New Pipo session opened on <built-in function gethostname>
+[2024-04-14 20:42:06.470600] UPDATE : Personnal settings opened
+[2024-04-14 20:42:08.842456] UPDATE : Project selected : testproject
+[2024-04-14 20:42:08.843429] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-04-14 20:42:08.843429] UPDATE : Project settings loaded!
+[2024-04-14 20:42:08.844426] UPDATE : True
+[2024-04-14 20:42:08.863985] UPDATE : {'Scenes': {'character': {'syntax': '[key]_[name]_[type]_[version]', 'keyword': 'char', 'type': ['mod', 'rig', 'sculpt', 'groom', 'lookdev'], 'folder': ['[Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]']}, 'prop': {'syntax': '[key]_[name]_[type]_[version]', 'keyword': 'prop', 'type': ['mod', 'rig', 'sculpt', 'groom', 'lookdev'], 'folder': ['[Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]']}, 'item': {'syntax': '[key]_[name]_[type]_[version]', 'keyword': 'item', 'type': ['mod', 'rig', 'sculpt', 'groom', 'lookdev'], 'folder': ['[Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]']}, 'set': {'syntax': '[key]_[name]_[type]_[version]', 'keyword': 'set', 'type': ['mod', 'rig', 'sculpt', 'groom', 'lookdev'], 'folder': ['[Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]']}, 'shots': {'syntax': '[sqversion]_[shversion]_[type]_[version]', 'keyword': None, 'type': ['mod', 'rig', 'sculpt', 'groom', 'lookdev'], 'folder': ['[Origin]/SHOTS/[sqversion]/[sqversion]_[shversion]/[type]/[state]']}}, 'Global': {'mayaFolder': 'maya', 'stateList': ['edit', 'publish'], 'lodList': ['1', '2', '3'], '3dScenesExtension': ['.ma', '.mb'], '3dItemsExtension': ['.obj', '.fbx']}}
+
+
+[2024-04-14 20:42:46.164086] New Pipo session opened on <built-in function gethostname>
+[2024-04-14 20:42:46.179046] UPDATE : Personnal settings opened
+[2024-04-14 20:42:48.357625] UPDATE : Project selected : testproject
+[2024-04-14 20:42:48.358623] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-04-14 20:42:48.358623] UPDATE : Project settings loaded!
+[2024-04-14 20:42:48.358623] UPDATE : True
+[2024-04-14 20:42:49.466017] UPDATE : [1]
+[2024-04-14 20:42:49.467015] UPDATE : Searching...
+
+
+[2024-04-14 20:42:56.807111] New Pipo session opened on <built-in function gethostname>
+[2024-04-14 20:42:56.821433] UPDATE : Personnal settings opened
+[2024-04-14 20:42:58.325100] UPDATE : Project selected : testproject
+[2024-04-14 20:42:58.325100] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-04-14 20:42:58.325100] UPDATE : Project settings loaded!
+[2024-04-14 20:42:58.326098] UPDATE : True
+[2024-04-14 20:42:59.283947] UPDATE : [4]
+[2024-04-14 20:42:59.284945] UPDATE : Searching...
+
+
+[2024-04-14 20:43:38.121523] New Pipo session opened on <built-in function gethostname>
+[2024-04-14 20:43:38.136456] UPDATE : Personnal settings opened
+[2024-04-14 20:43:40.065110] UPDATE : Project selected : testproject
+[2024-04-14 20:43:40.066108] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-04-14 20:43:40.066108] UPDATE : Project settings loaded!
+[2024-04-14 20:43:40.066108] UPDATE : True
+[2024-04-14 20:43:41.094523] UPDATE : [1]
+[2024-04-14 20:43:41.095495] UPDATE : Searching...
+
+
+[2024-04-14 20:54:04.916664] New Pipo session opened on <built-in function gethostname>
+[2024-04-14 20:54:04.931533] UPDATE : Personnal settings opened
+[2024-04-14 20:54:06.618523] UPDATE : Project selected : testproject
+[2024-04-14 20:54:06.619495] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-04-14 20:54:06.619495] UPDATE : Project settings loaded!
+[2024-04-14 20:54:06.620493] UPDATE : True
+[2024-04-14 20:54:09.646718] UPDATE : [2]
+[2024-04-14 20:54:09.647715] UPDATE : Searching...
+[2024-04-14 20:54:09.647715] UPDATE : ['item']
+[2024-04-14 20:54:15.208523] UPDATE : []
+[2024-04-14 20:54:15.209520] UPDATE : Searching...
+[2024-04-14 20:54:15.209520] UPDATE : []
+[2024-04-14 20:54:15.950601] UPDATE : [2]
+[2024-04-14 20:54:15.951589] UPDATE : Searching...
+[2024-04-14 20:54:15.951589] UPDATE : ['item']
+
+
+[2024-04-14 20:54:33.039252] New Pipo session opened on <built-in function gethostname>
+[2024-04-14 20:54:33.055134] UPDATE : Personnal settings opened
+[2024-04-14 20:54:35.546719] UPDATE : Project selected : testproject
+[2024-04-14 20:54:35.547695] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-04-14 20:54:35.547695] UPDATE : Project settings loaded!
+[2024-04-14 20:54:35.547695] UPDATE : True
+[2024-04-14 20:54:36.725464] UPDATE : [2]
+[2024-04-14 20:54:36.725464] UPDATE : Searching...
+
+
+[2024-04-14 20:54:55.215814] New Pipo session opened on <built-in function gethostname>
+[2024-04-14 20:54:55.230774] UPDATE : Personnal settings opened
+[2024-04-14 20:54:57.159220] UPDATE : Project selected : testproject
+[2024-04-14 20:54:57.160218] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-04-14 20:54:57.160218] UPDATE : Project settings loaded!
+[2024-04-14 20:54:57.160218] UPDATE : True
+[2024-04-14 20:54:58.010430] UPDATE : [2]
+[2024-04-14 20:54:58.011428] UPDATE : Searching...
+[2024-04-14 20:54:58.011428] UPDATE : ['item']
+[2024-04-14 20:55:00.449915] UPDATE : [2, 1]
+[2024-04-14 20:55:00.450912] UPDATE : Searching...
+[2024-04-14 20:55:00.450912] UPDATE : ['item', 'prop']
+[2024-04-14 20:55:01.544378] UPDATE : [2]
+[2024-04-14 20:55:01.544378] UPDATE : Searching...
+[2024-04-14 20:55:01.545375] UPDATE : ['item']
+[2024-04-14 20:55:01.926339] UPDATE : []
+[2024-04-14 20:55:01.926339] UPDATE : Searching...
+[2024-04-14 20:55:01.927337] UPDATE : []
+
+
+[2024-04-14 21:08:21.173433] New Pipo session opened on <built-in function gethostname>
+[2024-04-14 21:08:21.188393] UPDATE : Personnal settings opened
+[2024-04-14 21:08:23.338195] UPDATE : Project selected : testproject
+[2024-04-14 21:08:23.339193] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-04-14 21:08:23.339193] UPDATE : Project settings loaded!
+[2024-04-14 21:08:23.339193] UPDATE : True
+[2024-04-14 21:08:24.020639] UPDATE : [2]
+[2024-04-14 21:08:24.021637] UPDATE : Searching...
+[2024-04-14 21:08:24.021637] UPDATE : {'Scenes': {'character': {'syntax': '[key]_[name]_[type]_[version]', 'keyword': 'char', 'type': ['mod', 'rig', 'sculpt', 'groom', 'lookdev'], 'folder': ['[Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]']}, 'prop': {'syntax': '[key]_[name]_[type]_[version]', 'keyword': 'prop', 'type': ['mod', 'rig', 'sculpt', 'groom', 'lookdev'], 'folder': ['[Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]']}, 'item': {'syntax': '[key]_[name]_[type]_[version]', 'keyword': 'item', 'type': ['mod', 'rig', 'sculpt', 'groom', 'lookdev'], 'folder': ['[Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]']}, 'set': {'syntax': '[key]_[name]_[type]_[version]', 'keyword': 'set', 'type': ['mod', 'rig', 'sculpt', 'groom', 'lookdev'], 'folder': ['[Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]']}, 'shots': {'syntax': '[sqversion]_[shversion]_[type]_[version]', 'keyword': None, 'type': ['mod', 'rig', 'sculpt', 'groom', 'lookdev'], 'folder': ['[Origin]/SHOTS/[sqversion]/[sqversion]_[shversion]/[type]/[state]']}}, 'Global': {'mayaFolder': 'maya', 'stateList': ['edit', 'publish'], 'lodList': ['1', '2', '3'], '3dScenesExtension': ['.ma', '.mb'], '3dItemsExtension': ['.obj', '.fbx']}}
+
+
+[2024-04-14 21:10:22.509426] New Pipo session opened on <built-in function gethostname>
+[2024-04-14 21:10:22.523389] UPDATE : Personnal settings opened
+[2024-04-14 21:10:24.387567] UPDATE : Project selected : testproject
+[2024-04-14 21:10:24.388565] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-04-14 21:10:24.388565] UPDATE : Project settings loaded!
+[2024-04-14 21:10:24.388565] UPDATE : True
+[2024-04-14 21:10:25.375216] UPDATE : [3]
+[2024-04-14 21:10:25.376213] UPDATE : Searching...
+
+
+[2024-04-14 21:10:39.647316] New Pipo session opened on <built-in function gethostname>
+[2024-04-14 21:10:39.662276] UPDATE : Personnal settings opened
+[2024-04-14 21:10:41.223771] UPDATE : Project selected : testproject
+[2024-04-14 21:10:41.224768] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-04-14 21:10:41.224768] UPDATE : Project settings loaded!
+[2024-04-14 21:10:41.224768] UPDATE : True
+[2024-04-14 21:10:42.023301] UPDATE : [1]
+[2024-04-14 21:10:42.024298] UPDATE : Searching...
+[2024-04-14 21:10:42.024298] UPDATE : GETTING : ['[Origin]', 'ASSETS', '[key]', '[name]', '[mayaProject]', 'scenes', '[type]', '[state]']
+
+
+[2024-04-14 21:13:59.165074] New Pipo session opened on <built-in function gethostname>
+[2024-04-14 21:13:59.179413] UPDATE : Personnal settings opened
+[2024-04-14 21:14:01.471315] UPDATE : Project selected : testproject
+[2024-04-14 21:14:01.472310] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-04-14 21:14:01.473308] UPDATE : Project settings loaded!
+[2024-04-14 21:14:01.473308] UPDATE : True
+
+
+[2024-04-14 22:41:57.581933] New Pipo session opened on <built-in function gethostname>
+[2024-04-14 22:41:57.597893] UPDATE : Personnal settings opened
+[2024-04-14 22:42:00.150125] UPDATE : Project selected : testproject
+[2024-04-14 22:42:00.150844] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-04-14 22:42:00.150844] UPDATE : Project settings loaded!
+[2024-04-14 22:42:02.240508] UPDATE : [2]
+[2024-04-14 22:42:02.240508] UPDATE : Searching...
+[2024-04-14 22:42:02.241505] UPDATE : D:/WORK/TESTPROJECT
+[2024-04-14 22:42:02.241505] UPDATE : testproject
+
+
+[2024-04-14 22:44:14.087863] New Pipo session opened on <built-in function gethostname>
+[2024-04-14 22:44:14.101826] UPDATE : Personnal settings opened
+[2024-04-14 22:44:15.806265] UPDATE : Project selected : testproject
+[2024-04-14 22:44:15.806894] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-04-14 22:44:15.806894] UPDATE : Project settings loaded!
+[2024-04-14 22:44:17.094032] UPDATE : [2]
+[2024-04-14 22:44:17.095030] UPDATE : Searching...
+
+
+[2024-04-14 22:45:21.521616] New Pipo session opened on <built-in function gethostname>
+[2024-04-14 22:45:21.536548] UPDATE : Personnal settings opened
+[2024-04-14 22:45:23.320558] UPDATE : Project selected : testproject
+[2024-04-14 22:45:23.320558] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-04-14 22:45:23.321556] UPDATE : Project settings loaded!
+[2024-04-14 22:45:24.109182] UPDATE : [2]
+[2024-04-14 22:45:24.110179] UPDATE : Searching...
+[2024-04-14 22:45:24.110179] UPDATE : item
+[2024-04-14 22:46:28.870901] UPDATE : [2, 0]
+[2024-04-14 22:46:28.871898] UPDATE : Searching...
+[2024-04-14 22:46:28.871898] UPDATE : item
+[2024-04-14 22:46:28.872896] UPDATE : char
+
+
+[2024-04-15 00:19:47.068811] New Pipo session opened on <built-in function gethostname>
+[2024-04-15 00:19:47.084613] UPDATE : Personnal settings opened
+[2024-04-15 00:19:49.326756] UPDATE : Project selected : testproject
+[2024-04-15 00:19:49.327740] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-04-15 00:19:49.327740] UPDATE : Project settings loaded!
+[2024-04-15 00:19:51.094432] UPDATE : [1]
+[2024-04-15 00:19:51.095429] UPDATE : Searching...
+[2024-04-15 00:19:52.476421] UPDATE : [1]
+[2024-04-15 00:19:52.477413] UPDATE : Searching...
+
+
+[2024-04-15 00:20:47.530417] New Pipo session opened on <built-in function gethostname>
+[2024-04-15 00:20:47.545376] UPDATE : Personnal settings opened
+[2024-04-15 00:20:49.494816] UPDATE : Project selected : testproject
+[2024-04-15 00:20:49.495789] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-04-15 00:20:49.495789] UPDATE : Project settings loaded!
+[2024-04-15 00:20:50.583897] UPDATE : [1]
+[2024-04-15 00:20:50.584895] UPDATE : Searching...
+[2024-04-15 00:20:51.664985] UPDATE : [1, 3]
+[2024-04-15 00:20:51.664985] UPDATE : Searching...
+
+
+[2024-04-15 00:21:24.359617] New Pipo session opened on <built-in function gethostname>
+[2024-04-15 00:21:24.375576] UPDATE : Personnal settings opened
+[2024-04-15 00:21:26.169054] UPDATE : Project selected : testproject
+[2024-04-15 00:21:26.170055] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-04-15 00:21:26.170055] UPDATE : Project settings loaded!
+[2024-04-15 00:21:26.999358] UPDATE : [1]
+[2024-04-15 00:21:27.000355] UPDATE : Searching...
+[2024-04-15 00:21:27.000355] UPDATE : ['D:/WORK/TESTPROJECT', 'ASSETS', 'prop', 'None', 'maya', 'scenes', 'None', 'None']
+[2024-04-15 00:21:28.344379] UPDATE : [1, 3]
+[2024-04-15 00:21:28.345375] UPDATE : Searching...
+[2024-04-15 00:21:28.345375] UPDATE : ['D:/WORK/TESTPROJECT', 'ASSETS', 'prop', 'None', 'maya', 'scenes', 'None', 'None']
+[2024-04-15 00:21:28.345375] UPDATE : ['D:/WORK/TESTPROJECT', 'ASSETS', 'set', 'None', 'maya', 'scenes', 'None', 'None']
+
+
+[2024-04-15 00:21:56.740494] New Pipo session opened on <built-in function gethostname>
+[2024-04-15 00:21:56.755454] UPDATE : Personnal settings opened
+[2024-04-15 00:21:58.354901] UPDATE : Project selected : testproject
+[2024-04-15 00:21:58.355898] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-04-15 00:21:58.355898] UPDATE : Project settings loaded!
+[2024-04-15 00:21:59.460339] UPDATE : [1]
+[2024-04-15 00:21:59.460339] UPDATE : Searching...
+[2024-04-15 00:21:59.461336] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop/None/maya/scenes/None/None
+[2024-04-15 00:21:59.862282] UPDATE : [1, 4]
+[2024-04-15 00:21:59.863280] UPDATE : Searching...
+[2024-04-15 00:21:59.863280] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop/None/maya/scenes/None/None
+[2024-04-15 00:21:59.863280] UPDATE : D:/WORK/TESTPROJECT/SHOTS/[sqversion]/[sqversion]_[shversion]/None/None
+[2024-04-15 00:22:11.931090] UPDATE : [1]
+[2024-04-15 00:22:11.932086] UPDATE : Searching...
+[2024-04-15 00:22:11.932086] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop/None/maya/scenes/None/None
+[2024-04-15 00:22:13.051859] UPDATE : [1, 2]
+[2024-04-15 00:22:13.052857] UPDATE : Searching...
+[2024-04-15 00:22:13.052857] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop/None/maya/scenes/None/None
+[2024-04-15 00:22:13.053854] UPDATE : D:/WORK/TESTPROJECT/ASSETS/item/None/maya/scenes/None/None
+
+
+[2024-04-15 00:24:55.156420] New Pipo session opened on <built-in function gethostname>
+[2024-04-15 00:24:55.172376] UPDATE : Personnal settings opened
+[2024-04-15 00:24:57.076912] UPDATE : Project selected : testproject
+[2024-04-15 00:24:57.077881] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-04-15 00:24:57.077881] UPDATE : Project settings loaded!
+[2024-04-15 00:24:58.114583] UPDATE : [1]
+[2024-04-15 00:24:58.114583] UPDATE : Searching...
+[2024-04-15 00:24:58.756054] UPDATE : [1, 3]
+[2024-04-15 00:24:58.757051] UPDATE : Searching...
+[2024-04-15 00:24:59.681440] UPDATE : [1, 3]
+[2024-04-15 00:24:59.682412] UPDATE : Searching...
+[2024-04-15 00:24:59.682412] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop/None/maya/scenes/rig/edit
+[2024-04-15 00:24:59.682412] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop/None/maya/scenes/rig/publish
+[2024-04-15 00:24:59.683410] UPDATE : D:/WORK/TESTPROJECT/ASSETS/set/None/maya/scenes/rig/edit
+[2024-04-15 00:24:59.683410] UPDATE : D:/WORK/TESTPROJECT/ASSETS/set/None/maya/scenes/rig/publish
+[2024-04-15 00:25:00.123464] UPDATE : [1, 3]
+[2024-04-15 00:25:00.124462] UPDATE : Searching...
+[2024-04-15 00:25:00.124462] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop/None/maya/scenes/rig/edit
+[2024-04-15 00:25:00.125459] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop/None/maya/scenes/rig/publish
+[2024-04-15 00:25:00.125459] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop/None/maya/scenes/sculpt/edit
+[2024-04-15 00:25:00.125459] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop/None/maya/scenes/sculpt/publish
+[2024-04-15 00:25:00.126457] UPDATE : D:/WORK/TESTPROJECT/ASSETS/set/None/maya/scenes/rig/edit
+[2024-04-15 00:25:00.126457] UPDATE : D:/WORK/TESTPROJECT/ASSETS/set/None/maya/scenes/rig/publish
+[2024-04-15 00:25:00.126457] UPDATE : D:/WORK/TESTPROJECT/ASSETS/set/None/maya/scenes/sculpt/edit
+[2024-04-15 00:25:00.127454] UPDATE : D:/WORK/TESTPROJECT/ASSETS/set/None/maya/scenes/sculpt/publish
+
+
+[2024-04-15 00:28:04.934776] New Pipo session opened on <built-in function gethostname>
+[2024-04-15 00:28:04.950639] UPDATE : Personnal settings opened
+[2024-04-15 00:28:06.739067] UPDATE : Project selected : testproject
+[2024-04-15 00:28:06.740064] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-04-15 00:28:06.740064] UPDATE : Project settings loaded!
+[2024-04-15 00:28:07.939841] UPDATE : [1]
+[2024-04-15 00:28:07.939841] UPDATE : Searching...
+[2024-04-15 00:28:07.940839] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop/None/maya/scenes/None/edit
+[2024-04-15 00:28:07.940839] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop/None/maya/scenes/None/publish
+[2024-04-15 00:28:08.865906] UPDATE : [1, 3]
+[2024-04-15 00:28:08.867085] UPDATE : Searching...
+[2024-04-15 00:28:08.867085] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop/None/maya/scenes/None/edit
+[2024-04-15 00:28:08.868107] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop/None/maya/scenes/None/publish
+[2024-04-15 00:28:08.868107] UPDATE : D:/WORK/TESTPROJECT/ASSETS/set/None/maya/scenes/None/edit
+[2024-04-15 00:28:08.868107] UPDATE : D:/WORK/TESTPROJECT/ASSETS/set/None/maya/scenes/None/publish
+[2024-04-15 00:28:15.664426] UPDATE : [1, 3]
+[2024-04-15 00:28:15.665423] UPDATE : Searching...
+[2024-04-15 00:28:15.665423] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop/None/maya/scenes/rig/edit
+[2024-04-15 00:28:15.666420] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop/None/maya/scenes/rig/publish
+[2024-04-15 00:28:15.666420] UPDATE : D:/WORK/TESTPROJECT/ASSETS/set/None/maya/scenes/rig/edit
+[2024-04-15 00:28:15.666420] UPDATE : D:/WORK/TESTPROJECT/ASSETS/set/None/maya/scenes/rig/publish
+[2024-04-15 00:28:18.311385] UPDATE : [1, 3]
+[2024-04-15 00:28:18.312357] UPDATE : Searching...
+[2024-04-15 00:28:18.312357] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop/None/maya/scenes/rig/edit
+[2024-04-15 00:28:18.312357] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop/None/maya/scenes/rig/publish
+[2024-04-15 00:28:18.313380] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop/None/maya/scenes/sculpt/edit
+[2024-04-15 00:28:18.313380] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop/None/maya/scenes/sculpt/publish
+[2024-04-15 00:28:18.313380] UPDATE : D:/WORK/TESTPROJECT/ASSETS/set/None/maya/scenes/rig/edit
+[2024-04-15 00:28:18.314379] UPDATE : D:/WORK/TESTPROJECT/ASSETS/set/None/maya/scenes/rig/publish
+[2024-04-15 00:28:18.314379] UPDATE : D:/WORK/TESTPROJECT/ASSETS/set/None/maya/scenes/sculpt/edit
+[2024-04-15 00:28:18.314379] UPDATE : D:/WORK/TESTPROJECT/ASSETS/set/None/maya/scenes/sculpt/publish
+[2024-04-15 00:29:30.111247] UPDATE : [1, 3]
+[2024-04-15 00:29:30.112226] UPDATE : Searching...
+[2024-04-15 00:29:30.112226] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop/None/maya/scenes/rig/edit
+[2024-04-15 00:29:30.112226] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop/None/maya/scenes/rig/publish
+[2024-04-15 00:29:30.113243] UPDATE : D:/WORK/TESTPROJECT/ASSETS/set/None/maya/scenes/rig/edit
+[2024-04-15 00:29:30.113243] UPDATE : D:/WORK/TESTPROJECT/ASSETS/set/None/maya/scenes/rig/publish
+[2024-04-15 00:29:30.691525] UPDATE : [1, 3]
+[2024-04-15 00:29:30.691525] UPDATE : Searching...
+[2024-04-15 00:29:30.692496] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop/None/maya/scenes/None/edit
+[2024-04-15 00:29:30.692496] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop/None/maya/scenes/None/publish
+[2024-04-15 00:29:30.692496] UPDATE : D:/WORK/TESTPROJECT/ASSETS/set/None/maya/scenes/None/edit
+[2024-04-15 00:29:30.693493] UPDATE : D:/WORK/TESTPROJECT/ASSETS/set/None/maya/scenes/None/publish
+[2024-04-15 00:36:59.089192] UPDATE : Project selected : testproject
+[2024-04-15 00:36:59.090201] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-04-15 00:36:59.090201] UPDATE : Project settings loaded!
+[2024-04-15 00:37:00.924771] UPDATE : [0]
+[2024-04-15 00:37:00.924771] UPDATE : Searching...
+[2024-04-15 00:37:00.925769] UPDATE : D:/WORK/TESTPROJECT/ASSETS/character/None/maya/scenes/None/edit
+[2024-04-15 00:37:00.925769] UPDATE : D:/WORK/TESTPROJECT/ASSETS/character/None/maya/scenes/None/publish
+[2024-04-15 00:37:02.893740] UPDATE : [0]
+[2024-04-15 00:37:02.893740] UPDATE : Searching...
+[2024-04-15 00:37:02.894736] UPDATE : D:/WORK/TESTPROJECT/ASSETS/character/None/maya/scenes/sculpt/edit
+[2024-04-15 00:37:02.894736] UPDATE : D:/WORK/TESTPROJECT/ASSETS/character/None/maya/scenes/sculpt/publish
+[2024-04-15 00:37:05.107313] UPDATE : [0]
+[2024-04-15 00:37:05.108310] UPDATE : Searching...
+[2024-04-15 00:37:05.108310] UPDATE : D:/WORK/TESTPROJECT/ASSETS/character/None/maya/scenes/sculpt/edit
+[2024-04-15 00:37:05.109309] UPDATE : D:/WORK/TESTPROJECT/ASSETS/character/None/maya/scenes/sculpt/publish
+[2024-04-15 00:37:05.109309] UPDATE : D:/WORK/TESTPROJECT/ASSETS/character/None/maya/scenes/groom/edit
+[2024-04-15 00:37:05.109811] UPDATE : D:/WORK/TESTPROJECT/ASSETS/character/None/maya/scenes/groom/publish
+
+
+[2024-04-15 00:40:00.060775] New Pipo session opened on <built-in function gethostname>
+[2024-04-15 00:40:00.076703] UPDATE : Personnal settings opened
+[2024-04-15 00:40:01.500835] UPDATE : Project selected : testproject
+[2024-04-15 00:40:01.500835] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-04-15 00:40:01.501832] UPDATE : Project settings loaded!
+[2024-04-15 00:40:02.712242] UPDATE : [1]
+[2024-04-15 00:40:02.713239] UPDATE : Searching...
+
+
+[2024-04-15 00:40:16.050613] New Pipo session opened on <built-in function gethostname>
+[2024-04-15 00:40:16.066571] UPDATE : Personnal settings opened
+[2024-04-15 00:40:17.731732] UPDATE : Project selected : testproject
+[2024-04-15 00:40:17.732730] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-04-15 00:40:17.732730] UPDATE : Project settings loaded!
+[2024-04-15 00:40:18.550502] UPDATE : [2]
+[2024-04-15 00:40:18.551500] UPDATE : Searching...
+[2024-04-15 00:40:21.632547] UPDATE : [2]
+[2024-04-15 00:40:21.633545] UPDATE : Searching...
+[2024-04-15 00:40:23.553048] UPDATE : [2]
+[2024-04-15 00:40:23.554045] UPDATE : Searching...
+
+
+[2024-04-15 00:40:45.708941] New Pipo session opened on <built-in function gethostname>
+[2024-04-15 00:40:45.723903] UPDATE : Personnal settings opened
+[2024-04-15 00:40:47.401244] UPDATE : Project selected : testproject
+[2024-04-15 00:40:47.401244] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-04-15 00:40:47.402241] UPDATE : Project settings loaded!
+[2024-04-15 00:40:48.422077] UPDATE : [1]
+[2024-04-15 00:40:48.423074] UPDATE : Searching...
+[2024-04-15 00:40:54.328994] UPDATE : [1]
+[2024-04-15 00:40:54.328994] UPDATE : Searching...
+[2024-04-15 00:40:54.635183] UPDATE : [1]
+[2024-04-15 00:40:54.636181] UPDATE : Searching...
+[2024-04-15 00:40:55.716628] UPDATE : [1]
+[2024-04-15 00:40:55.717626] UPDATE : Searching...
+[2024-04-15 00:40:56.040665] UPDATE : [1]
+[2024-04-15 00:40:56.041657] UPDATE : Searching...
+
+
+[2024-04-15 00:41:16.515771] New Pipo session opened on <built-in function gethostname>
+[2024-04-15 00:41:16.530806] UPDATE : Personnal settings opened
+[2024-04-15 00:41:18.181102] UPDATE : Project selected : testproject
+[2024-04-15 00:41:18.182099] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-04-15 00:41:18.182099] UPDATE : Project settings loaded!
+[2024-04-15 00:41:18.919673] UPDATE : [2]
+[2024-04-15 00:41:18.920670] UPDATE : Searching...
+[2024-04-15 00:41:18.920670] ERROR : limit reached : key
+[2024-04-15 00:41:18.921668] ERROR : limit reached : key
+[2024-04-15 00:41:23.795797] UPDATE : [2]
+[2024-04-15 00:41:23.795797] UPDATE : Searching...
+
+
+[2024-04-15 00:41:37.677322] New Pipo session opened on <built-in function gethostname>
+[2024-04-15 00:41:37.692351] UPDATE : Personnal settings opened
+[2024-04-15 00:41:39.431466] UPDATE : Project selected : testproject
+[2024-04-15 00:41:39.431466] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-04-15 00:41:39.431466] UPDATE : Project settings loaded!
+[2024-04-15 00:41:40.632167] UPDATE : [2]
+[2024-04-15 00:41:40.633393] UPDATE : Searching...
+[2024-04-15 00:41:40.633393] ERROR : limit reached : key
+[2024-04-15 00:41:40.633393] ERROR : limit reached : key
+
+
+[2024-04-15 00:41:53.009290] New Pipo session opened on <built-in function gethostname>
+[2024-04-15 00:41:53.024249] UPDATE : Personnal settings opened
+[2024-04-15 00:41:55.496557] UPDATE : Project selected : testproject
+[2024-04-15 00:41:55.497533] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-04-15 00:41:55.497533] UPDATE : Project settings loaded!
+[2024-04-15 00:41:56.396796] UPDATE : [3]
+[2024-04-15 00:41:56.396796] UPDATE : Searching...
+[2024-04-15 00:41:56.397793] ERROR : limit reached : type
+[2024-04-15 00:41:56.397793] ERROR : limit reached : type
+[2024-04-15 00:41:59.325167] UPDATE : [3]
+[2024-04-15 00:41:59.326164] UPDATE : Searching...
+[2024-04-15 00:41:59.326164] UPDATE : D:/WORK/TESTPROJECT/ASSETS/set/None/maya/scenes/groom/edit
+[2024-04-15 00:41:59.327162] UPDATE : D:/WORK/TESTPROJECT/ASSETS/set/None/maya/scenes/groom/publish
+[2024-04-15 00:42:01.606958] UPDATE : [3]
+[2024-04-15 00:42:01.607955] UPDATE : Searching...
+[2024-04-15 00:42:01.607955] UPDATE : D:/WORK/TESTPROJECT/ASSETS/set/None/maya/scenes/groom/edit
+[2024-04-15 00:42:01.607955] UPDATE : D:/WORK/TESTPROJECT/ASSETS/set/None/maya/scenes/groom/publish
+[2024-04-15 00:42:01.608953] UPDATE : D:/WORK/TESTPROJECT/ASSETS/set/None/maya/scenes/lookdev/edit
+[2024-04-15 00:42:01.608953] UPDATE : D:/WORK/TESTPROJECT/ASSETS/set/None/maya/scenes/lookdev/publish
+
+
+[2024-04-15 00:42:56.205419] New Pipo session opened on <built-in function gethostname>
+[2024-04-15 00:42:56.219378] UPDATE : Personnal settings opened
+[2024-04-15 00:42:57.832831] UPDATE : Project selected : testproject
+[2024-04-15 00:42:57.833497] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-04-15 00:42:57.833497] UPDATE : Project settings loaded!
+[2024-04-15 00:42:59.287778] UPDATE : [1]
+[2024-04-15 00:42:59.288775] UPDATE : Searching...
+[2024-04-15 00:42:59.288775] UPDATE : limit reached : name
+[2024-04-15 00:42:59.288775] UPDATE : limit reached : name
+[2024-04-15 00:42:59.289773] UPDATE : limit reached : name
+[2024-04-15 00:42:59.289773] UPDATE : limit reached : name
+[2024-04-15 00:42:59.289773] UPDATE : limit reached : name
+[2024-04-15 00:42:59.290770] UPDATE : limit reached : name
+[2024-04-15 00:43:04.998741] UPDATE : [1]
+[2024-04-15 00:43:04.999738] UPDATE : Searching...
+[2024-04-15 00:43:04.999738] UPDATE : limit reached : name
+[2024-04-15 00:43:05.000736] UPDATE : limit reached : name
+[2024-04-15 00:43:05.000736] UPDATE : limit reached : name
+[2024-04-15 00:43:05.000736] UPDATE : limit reached : name
+[2024-04-15 00:43:05.001733] UPDATE : limit reached : name
+[2024-04-15 00:43:05.001733] UPDATE : limit reached : name
+[2024-04-15 00:43:05.369397] UPDATE : [1]
+[2024-04-15 00:43:05.370395] UPDATE : Searching...
+[2024-04-15 00:43:05.370395] UPDATE : limit reached : name
+[2024-04-15 00:43:05.371392] UPDATE : limit reached : name
+[2024-04-15 00:43:05.371392] UPDATE : limit reached : name
+[2024-04-15 00:43:05.371392] UPDATE : limit reached : name
+[2024-04-15 00:43:05.372389] UPDATE : limit reached : name
+[2024-04-15 00:43:05.372389] UPDATE : limit reached : name
+[2024-04-15 00:43:05.372389] UPDATE : limit reached : name
+[2024-04-15 00:43:05.373387] UPDATE : limit reached : name
+[2024-04-15 00:43:05.373387] UPDATE : limit reached : name
+[2024-04-15 00:43:05.373387] UPDATE : limit reached : name
+[2024-04-15 00:43:05.374384] UPDATE : limit reached : name
+[2024-04-15 00:43:05.374384] UPDATE : limit reached : name
+
+
+[2024-04-15 00:43:45.883508] New Pipo session opened on <built-in function gethostname>
+[2024-04-15 00:43:45.898466] UPDATE : Personnal settings opened
+[2024-04-15 00:43:48.664869] UPDATE : Project selected : testproject
+[2024-04-15 00:43:48.665867] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-04-15 00:43:48.665867] UPDATE : Project settings loaded!
+[2024-04-15 00:43:49.756214] UPDATE : [1]
+[2024-04-15 00:43:49.757212] UPDATE : Searching...
+[2024-04-15 00:43:49.757212] UPDATE : limit reached : name
+[2024-04-15 00:43:49.758209] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop
+[2024-04-15 00:43:49.758209] UPDATE : limit reached : name
+[2024-04-15 00:43:49.758209] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop
+[2024-04-15 00:43:49.758209] UPDATE : limit reached : name
+[2024-04-15 00:43:49.759207] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop
+[2024-04-15 00:43:49.759207] UPDATE : limit reached : name
+[2024-04-15 00:43:49.759207] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop
+[2024-04-15 00:43:49.760204] UPDATE : limit reached : name
+[2024-04-15 00:43:49.760204] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop
+[2024-04-15 00:43:49.760204] UPDATE : limit reached : name
+[2024-04-15 00:43:49.761221] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop
+[2024-04-15 00:43:51.538666] UPDATE : [1]
+[2024-04-15 00:43:51.538666] UPDATE : Searching...
+[2024-04-15 00:43:51.539639] UPDATE : limit reached : name
+[2024-04-15 00:43:51.539639] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop
+[2024-04-15 00:43:51.539639] UPDATE : limit reached : name
+[2024-04-15 00:43:51.540636] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop
+[2024-04-15 00:43:51.540636] UPDATE : limit reached : name
+[2024-04-15 00:43:51.540636] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop
+[2024-04-15 00:43:51.541633] UPDATE : limit reached : name
+[2024-04-15 00:43:51.541633] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop
+[2024-04-15 00:43:51.541633] UPDATE : limit reached : name
+[2024-04-15 00:43:51.542630] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop
+[2024-04-15 00:43:51.542630] UPDATE : limit reached : name
+[2024-04-15 00:43:51.542630] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop
+[2024-04-15 00:43:53.384571] UPDATE : [1]
+[2024-04-15 00:43:53.385568] UPDATE : Searching...
+[2024-04-15 00:43:53.385568] UPDATE : limit reached : name
+[2024-04-15 00:43:53.386540] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop
+[2024-04-15 00:43:53.386540] UPDATE : limit reached : name
+[2024-04-15 00:43:53.386540] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop
+[2024-04-15 00:43:53.387537] UPDATE : limit reached : name
+[2024-04-15 00:43:53.387537] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop
+[2024-04-15 00:43:53.387537] UPDATE : limit reached : name
+[2024-04-15 00:43:53.388535] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop
+[2024-04-15 00:43:53.388535] UPDATE : limit reached : name
+[2024-04-15 00:43:53.388535] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop
+[2024-04-15 00:43:53.389532] UPDATE : limit reached : name
+[2024-04-15 00:43:53.389532] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop
+[2024-04-15 00:43:53.389532] UPDATE : limit reached : name
+[2024-04-15 00:43:53.390529] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop
+[2024-04-15 00:43:53.390529] UPDATE : limit reached : name
+[2024-04-15 00:43:53.390529] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop
+[2024-04-15 00:43:53.391527] UPDATE : limit reached : name
+[2024-04-15 00:43:53.391527] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop
+[2024-04-15 00:43:53.391527] UPDATE : limit reached : name
+[2024-04-15 00:43:53.392524] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop
+[2024-04-15 00:43:53.392524] UPDATE : limit reached : name
+[2024-04-15 00:43:53.392524] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop
+[2024-04-15 00:43:53.393521] UPDATE : limit reached : name
+[2024-04-15 00:43:53.393521] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop
+[2024-04-15 00:44:10.174242] UPDATE : [1]
+[2024-04-15 00:44:10.174242] UPDATE : Searching...
+[2024-04-15 00:44:10.175239] UPDATE : limit reached : name
+[2024-04-15 00:44:10.175239] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop
+[2024-04-15 00:44:10.176237] UPDATE : limit reached : name
+[2024-04-15 00:44:10.176237] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop
+[2024-04-15 00:44:10.176237] UPDATE : limit reached : name
+[2024-04-15 00:44:10.177234] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop
+[2024-04-15 00:44:10.177234] UPDATE : limit reached : name
+[2024-04-15 00:44:10.177234] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop
+[2024-04-15 00:44:10.178246] UPDATE : limit reached : name
+[2024-04-15 00:44:10.178246] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop
+[2024-04-15 00:44:10.179228] UPDATE : limit reached : name
+[2024-04-15 00:44:10.179228] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop
+[2024-04-15 00:44:10.179228] UPDATE : limit reached : name
+[2024-04-15 00:44:10.180226] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop
+[2024-04-15 00:44:10.180226] UPDATE : limit reached : name
+[2024-04-15 00:44:10.181223] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop
+[2024-04-15 00:44:10.181223] UPDATE : limit reached : name
+[2024-04-15 00:44:10.181223] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop
+[2024-04-15 00:44:10.182220] UPDATE : limit reached : name
+[2024-04-15 00:44:10.183218] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop
+[2024-04-15 00:44:10.183218] UPDATE : limit reached : name
+[2024-04-15 00:44:10.183218] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop
+[2024-04-15 00:44:10.184225] UPDATE : limit reached : name
+[2024-04-15 00:44:10.184225] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop
+[2024-04-15 00:44:10.184225] UPDATE : limit reached : name
+[2024-04-15 00:44:10.185213] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop
+[2024-04-15 00:44:10.185213] UPDATE : limit reached : name
+[2024-04-15 00:44:10.185213] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop
+[2024-04-15 00:44:10.186210] UPDATE : limit reached : name
+[2024-04-15 00:44:10.186210] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop
+[2024-04-15 00:44:10.187207] UPDATE : limit reached : name
+[2024-04-15 00:44:10.187207] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop
+[2024-04-15 00:44:10.187207] UPDATE : limit reached : name
+[2024-04-15 00:44:10.188204] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop
+[2024-04-15 00:44:10.188204] UPDATE : limit reached : name
+[2024-04-15 00:44:10.188204] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop
+[2024-04-15 00:44:10.473311] UPDATE : [1]
+[2024-04-15 00:44:10.474309] UPDATE : Searching...
+[2024-04-15 00:44:10.474309] UPDATE : limit reached : name
+[2024-04-15 00:44:10.475306] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop
+[2024-04-15 00:44:10.475306] UPDATE : limit reached : name
+[2024-04-15 00:44:10.475306] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop
+[2024-04-15 00:44:10.476303] UPDATE : limit reached : name
+[2024-04-15 00:44:10.476303] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop
+[2024-04-15 00:44:10.476303] UPDATE : limit reached : name
+[2024-04-15 00:44:10.477300] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop
+[2024-04-15 00:44:10.477300] UPDATE : limit reached : name
+[2024-04-15 00:44:10.477300] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop
+[2024-04-15 00:44:10.478298] UPDATE : limit reached : name
+[2024-04-15 00:44:10.478298] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop
+[2024-04-15 00:44:10.478298] UPDATE : limit reached : name
+[2024-04-15 00:44:10.479295] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop
+[2024-04-15 00:44:10.479295] UPDATE : limit reached : name
+[2024-04-15 00:44:10.479295] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop
+[2024-04-15 00:44:10.480293] UPDATE : limit reached : name
+[2024-04-15 00:44:10.480293] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop
+[2024-04-15 00:44:10.480293] UPDATE : limit reached : name
+[2024-04-15 00:44:10.481290] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop
+[2024-04-15 00:44:10.481290] UPDATE : limit reached : name
+[2024-04-15 00:44:10.481290] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop
+[2024-04-15 00:44:10.482287] UPDATE : limit reached : name
+[2024-04-15 00:44:10.482287] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop
+[2024-04-15 00:44:10.483310] UPDATE : limit reached : name
+[2024-04-15 00:44:10.483310] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop
+[2024-04-15 00:44:10.483310] UPDATE : limit reached : name
+[2024-04-15 00:44:10.484307] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop
+[2024-04-15 00:44:10.484307] UPDATE : limit reached : name
+[2024-04-15 00:44:10.484307] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop
+[2024-04-15 00:44:10.485305] UPDATE : limit reached : name
+[2024-04-15 00:44:10.485305] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop
+[2024-04-15 00:44:10.485305] UPDATE : limit reached : name
+[2024-04-15 00:44:10.486302] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop
+[2024-04-15 00:44:10.486302] UPDATE : limit reached : name
+[2024-04-15 00:44:10.486302] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop
+[2024-04-15 00:44:10.487299] UPDATE : limit reached : name
+[2024-04-15 00:44:10.487299] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop
+[2024-04-15 00:44:10.487299] UPDATE : limit reached : name
+[2024-04-15 00:44:10.488297] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop
+[2024-04-15 00:44:10.488297] UPDATE : limit reached : name
+[2024-04-15 00:44:10.488297] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop
+[2024-04-15 00:44:10.489269] UPDATE : limit reached : name
+[2024-04-15 00:44:10.489269] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop
+[2024-04-15 00:44:10.490266] UPDATE : limit reached : name
+[2024-04-15 00:44:10.490266] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop
+[2024-04-15 00:44:10.490266] UPDATE : limit reached : name
+[2024-04-15 00:44:10.491263] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop
+
+
+[2024-04-15 00:44:24.956627] New Pipo session opened on <built-in function gethostname>
+[2024-04-15 00:44:24.972548] UPDATE : Personnal settings opened
+[2024-04-15 00:44:28.746802] UPDATE : Project selected : testproject
+[2024-04-15 00:44:28.747497] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-04-15 00:44:28.747497] UPDATE : Project settings loaded!
+[2024-04-15 00:44:29.682201] UPDATE : [2]
+[2024-04-15 00:44:29.683199] UPDATE : Searching...
+[2024-04-15 00:44:29.683199] UPDATE : limit reached : name
+[2024-04-15 00:44:29.683199] UPDATE : limit reached : name
+[2024-04-15 00:44:29.684197] UPDATE : limit reached : name
+[2024-04-15 00:44:29.684197] UPDATE : limit reached : name
+[2024-04-15 00:44:29.684197] UPDATE : limit reached : name
+[2024-04-15 00:44:29.685194] UPDATE : limit reached : name
+[2024-04-15 00:44:30.174106] UPDATE : [2]
+[2024-04-15 00:44:30.175104] UPDATE : Searching...
+[2024-04-15 00:44:30.175104] UPDATE : limit reached : name
+[2024-04-15 00:44:30.175104] UPDATE : limit reached : name
+[2024-04-15 00:44:30.176101] UPDATE : limit reached : name
+[2024-04-15 00:44:30.176101] UPDATE : limit reached : name
+[2024-04-15 00:44:30.176101] UPDATE : limit reached : name
+[2024-04-15 00:44:30.177098] UPDATE : limit reached : name
+[2024-04-15 00:44:30.710636] UPDATE : [2]
+[2024-04-15 00:44:30.710636] UPDATE : Searching...
+[2024-04-15 00:44:30.711630] UPDATE : limit reached : name
+[2024-04-15 00:44:30.711630] UPDATE : limit reached : name
+[2024-04-15 00:44:30.711630] UPDATE : limit reached : name
+[2024-04-15 00:44:30.711630] UPDATE : limit reached : name
+[2024-04-15 00:44:30.712624] UPDATE : limit reached : name
+[2024-04-15 00:44:30.712624] UPDATE : limit reached : name
+[2024-04-15 00:44:30.712624] UPDATE : limit reached : name
+[2024-04-15 00:44:30.713631] UPDATE : limit reached : name
+[2024-04-15 00:44:30.713631] UPDATE : limit reached : name
+[2024-04-15 00:44:30.713631] UPDATE : limit reached : name
+[2024-04-15 00:44:30.714619] UPDATE : limit reached : name
+[2024-04-15 00:44:30.714619] UPDATE : limit reached : name
+[2024-04-15 00:44:30.978614] UPDATE : [2]
+[2024-04-15 00:44:30.979611] UPDATE : Searching...
+[2024-04-15 00:44:30.979611] UPDATE : limit reached : name
+[2024-04-15 00:44:30.980609] UPDATE : limit reached : name
+[2024-04-15 00:44:30.980609] UPDATE : limit reached : name
+[2024-04-15 00:44:30.980609] UPDATE : limit reached : name
+[2024-04-15 00:44:30.981606] UPDATE : limit reached : name
+[2024-04-15 00:44:30.981606] UPDATE : limit reached : name
+[2024-04-15 00:44:31.279775] UPDATE : [2]
+[2024-04-15 00:44:31.280767] UPDATE : Searching...
+[2024-04-15 00:44:31.280767] UPDATE : limit reached : name
+[2024-04-15 00:44:31.280767] UPDATE : limit reached : name
+[2024-04-15 00:44:31.281772] UPDATE : limit reached : name
+[2024-04-15 00:44:31.281772] UPDATE : limit reached : name
+[2024-04-15 00:44:31.281772] UPDATE : limit reached : name
+[2024-04-15 00:44:31.282761] UPDATE : limit reached : name
+[2024-04-15 00:44:31.829436] UPDATE : [2]
+[2024-04-15 00:44:31.830434] UPDATE : Searching...
+[2024-04-15 00:44:31.830434] UPDATE : limit reached : name
+[2024-04-15 00:44:31.831432] UPDATE : limit reached : name
+[2024-04-15 00:44:31.831432] UPDATE : limit reached : name
+[2024-04-15 00:44:31.831432] UPDATE : limit reached : name
+[2024-04-15 00:44:31.832430] UPDATE : limit reached : name
+[2024-04-15 00:44:31.832430] UPDATE : limit reached : name
+
+
+[2024-04-15 00:44:46.648683] New Pipo session opened on <built-in function gethostname>
+[2024-04-15 00:44:46.662646] UPDATE : Personnal settings opened
+[2024-04-15 00:44:48.041225] UPDATE : Project selected : testproject
+[2024-04-15 00:44:48.041225] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-04-15 00:44:48.042207] UPDATE : Project settings loaded!
+[2024-04-15 00:44:49.217195] UPDATE : [2]
+[2024-04-15 00:44:49.217195] UPDATE : Searching...
+[2024-04-15 00:44:49.941650] UPDATE : [2]
+[2024-04-15 00:44:49.941650] UPDATE : Searching...
+[2024-04-15 00:44:50.333817] UPDATE : [2]
+[2024-04-15 00:44:50.333817] UPDATE : Searching...
+[2024-04-15 00:44:50.787648] UPDATE : [2]
+[2024-04-15 00:44:50.788644] UPDATE : Searching...
+[2024-04-15 00:44:51.132571] UPDATE : [2]
+[2024-04-15 00:44:51.132571] UPDATE : Searching...
+[2024-04-15 00:44:51.536339] UPDATE : [2]
+[2024-04-15 00:44:51.536339] UPDATE : Searching...
+[2024-04-15 00:44:52.480621] UPDATE : [2, 3]
+[2024-04-15 00:44:52.481618] UPDATE : Searching...
+[2024-04-15 00:44:53.183093] UPDATE : [2, 3, 4]
+[2024-04-15 00:44:53.183093] UPDATE : Searching...
+[2024-04-15 00:44:53.505441] UPDATE : [2, 3, 4, 1]
+[2024-04-15 00:44:53.505441] UPDATE : Searching...
+[2024-04-15 00:44:53.847676] UPDATE : [2, 3, 4, 1, 0]
+[2024-04-15 00:44:53.847676] UPDATE : Searching...
+[2024-04-15 00:44:54.286752] UPDATE : [2, 3, 4, 1]
+[2024-04-15 00:44:54.286752] UPDATE : Searching...
+[2024-04-15 00:44:54.555348] UPDATE : [2, 3, 4]
+[2024-04-15 00:44:54.556345] UPDATE : Searching...
+[2024-04-15 00:44:56.295565] UPDATE : [3, 4]
+[2024-04-15 00:44:56.295565] UPDATE : Searching...
+[2024-04-15 00:44:56.758652] UPDATE : [4]
+[2024-04-15 00:44:56.759650] UPDATE : Searching...
+[2024-04-15 00:44:57.106726] UPDATE : []
+[2024-04-15 00:44:57.107722] UPDATE : Searching...
+
+
+[2024-04-15 00:45:47.070838] New Pipo session opened on <built-in function gethostname>
+[2024-04-15 00:45:47.085796] UPDATE : Personnal settings opened
+[2024-04-15 00:45:48.672684] UPDATE : Project selected : testproject
+[2024-04-15 00:45:48.673671] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-04-15 00:45:48.673671] UPDATE : Project settings loaded!
+[2024-04-15 00:45:49.303159] UPDATE : [1]
+[2024-04-15 00:45:49.381064] UPDATE : Searching...
+[2024-04-15 00:45:49.934506] UPDATE : [1]
+[2024-04-15 00:45:49.935503] UPDATE : Searching...
+[2024-04-15 00:45:50.231560] UPDATE : [1]
+[2024-04-15 00:45:50.231560] UPDATE : Searching...
+[2024-04-15 00:45:51.729473] UPDATE : [1]
+[2024-04-15 00:45:51.730471] UPDATE : Searching...
+[2024-04-15 00:45:52.047696] UPDATE : [1]
+[2024-04-15 00:45:52.049048] UPDATE : Searching...

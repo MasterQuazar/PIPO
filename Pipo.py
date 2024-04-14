@@ -62,6 +62,7 @@ class PipoLobbyApplication(Screen, PipoCommonApplication, PipoLogApplication):
 		self.name_type_list = []
 		self.name_file_list = []
 
+		
 		#self.kind_list = app.current_project_settings["Scenes"].keys()
 
 
@@ -193,6 +194,8 @@ class PipoLobbyApplication(Screen, PipoCommonApplication, PipoLogApplication):
 					#self.display_message_function(self.name_type_list[i])
 					self.lobby_type_list.add_option(Selection(self.name_type_list[i],i))	
 
+
+
 		if event.selection_list.id == "lobby_type_list":
 			type_selection = self.query_one("#lobby_type_list").selected
 			self.name_type_selection = []
@@ -218,7 +221,7 @@ class PipoLobbyApplication(Screen, PipoCommonApplication, PipoLogApplication):
 
 			#self.name_kind_selection = []
 
-			self.search_files_function(app.current_project_settings, self.name_kind_selection, name_selection, shot_selection, sequence_selection, self.name_type_selection)
+			self.search_files_function()
 		
 
 
@@ -363,6 +366,9 @@ class PipoLoginApplication(App, PipoCommonApplication, PipoLogApplication):
 
 		self.program_log = []
 		self.program_log_copy = []
+
+		self.current_project_name = None
+		self.current_project_path = None
 		
 		
 
@@ -448,8 +454,10 @@ class PipoLoginApplication(App, PipoCommonApplication, PipoLogApplication):
 		if event.button.id == "login_open_button":
 			project_opening_value = self.open_project_function()
 
-			self.display_message_function(str(project_opening_value))
-			if project_opening_value == True:
+			#self.display_message_function(str(project_opening_value))
+			if type(project_opening_value) == list:
+				self.project_name = project_opening_value[0]
+				self.project_path = project_opening_value[1]
 				self.push_screen(PipoLobbyApplication())
 
 

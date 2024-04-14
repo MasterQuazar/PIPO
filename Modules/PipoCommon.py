@@ -193,7 +193,7 @@ class PipoCommonApplication():
 			self.current_project_settings = self.load_project_settings_function(project_path)
 
 			if self.current_project_settings != None:
-				return True
+				return [project_name,project_path]
 			else:
 				return False
 
@@ -247,27 +247,83 @@ class PipoCommonApplication():
 
 
 
-	def search_files_function(self, project_settings, kind_selection, name_selection, shot_selection, sequence_selection, type_selection):
+	def search_files_function(self):
 		self.display_message_function("Searching...")
+		
+		if len(self.screen.name_type_selection) == 0:
+			self.screen.name_type_selection = [None]
+		if len(self.screen.name_name_selection) == 0:
+			self.screen.name_name_selection = [None]
+		
+		if len(self.screen.name_kind_selection) != 0:
 
-		if len(kind_selection) != 0:
-			"""
-			get the default folder assiociated to that kind
-			change the values in the default folder by real values depending of the selection
-			-> create several default folder if needed
-			"""
 			default_folder_list = []
 		
-			for kind in kind_selection:
-				default_folder = project_settings["Scenes"][kind]["folder"]
-				default_folder_list += default_folder
-				#self.display_message_function(default_folder)
+			for kind in self.screen.name_kind_selection:
+				default_folder_list = self.app.current_project_settings["Scenes"][kind]["folder"]
 
-				#split the path of the default folder
-				#replace progressively keywords in it
-				#stop when an informations is laking to rebuild the default folder
+				for default_folder in default_folder_list:
 
-			
+					#self.get_default_folder_path_function(default_folder, kind)
+					for n in self.screen.name_name_selection:
+						for t in self.screen.name_type_selection:
+							for state in self.app.current_project_settings["Global"]["stateList"]:
+								for lod in self.app.current_project_settings["Global"]["lodList"]:
+									default_folder_path = self.get_default_folder_path_function(default_folder, kind, n, t, lod, state)
+									if os.path.isdir(default_folder_path) == True:
+										self.display_message_function("added")
+										default_folder_list.append(default_folder_path)
+									#self.display_message_function(default_folder_path)
+					"""	
+					for n in self.screen.name_name_selection:
+						for t in self.screen.name_type_selection:
+							for state in self.app.current_project_settings["Global"]["stateList"]:
+								for lod in self.app.current_project_settings["Global"]["lodList"]:
+									default_folder_path = self.get_default_folder_path_function(default_folder, kind, n, t, lod, state)
+					"""
+				
+		
+
+
+
+
+
+	def get_default_folder_path_function(self, default_folder = None, k=None, n=None,t=None, lod=None, state=None):
+		splited_default_folder = default_folder.split("/")
+		final_default_folder = []
+
+
+		for item in splited_default_folder:
+			if item == "[Origin]":
+				final_default_folder.append(self.app.project_path)
+			elif item == "[mayaProject]":
+				final_default_folder.append(self.app.current_project_settings["Global"]["mayaFolder"])
+			elif item == "[name]":
+				if n == None:
+					#self.display_message_function("limit reached : name")
+					return "/".join(final_default_folder)
+				final_default_folder.append(str(n))
+			elif item == "[type]":
+				if t == None:
+					#self.display_error_function("limit reached : type")
+					return "/".join(final_default_folder)
+				final_default_folder.append(str(t))
+			elif item == "[lod]":
+				final_default_folder.append("LOD%s"%str(lod))
+			elif item == "[state]":
+				final_default_folder.append(str(state))
+			elif item == "[key]":
+				if k == None:
+					#self.display_message_function("limit reached : key")
+					return "/".join(final_default_folder)
+				final_default_folder.append(str(k))
+			else:
+				final_default_folder.append(item)
+		final_default_folder_path = "/".join(final_default_folder)
+		#self.display_message_function(final_default_folder_path)
+		return final_default_folder_path
+
+
 		
 
 
