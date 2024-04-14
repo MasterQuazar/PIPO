@@ -1,7 +1,7 @@
 # PIPO STANDALONE - By Quazar
 
 ### Dev tasklist : 
-- [ ]Create the searching system structure
+- [x]Create the searching system structure
 - [ ]Make the searching system work
 - [ ]Create bridge setup with autodesk maya (automatic)
 - [ ]Create the bridge and launch command
