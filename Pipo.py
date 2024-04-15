@@ -367,8 +367,8 @@ class PipoLoginApplication(App, PipoCommonApplication, PipoLogApplication):
 		self.program_log = []
 		self.program_log_copy = []
 
-		self.current_project_name = None
-		self.current_project_path = None
+		self.project_name = None
+		self.project_path = None
 		
 		
 

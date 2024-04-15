@@ -255,6 +255,8 @@ class PipoCommonApplication():
 		if len(self.screen.name_name_selection) == 0:
 			self.screen.name_name_selection = [None]
 		
+		self.display_message_function(self.screen.name_name_selection)
+		self.display_message_function(self.screen.name_type_selection)
 		if len(self.screen.name_kind_selection) != 0:
 
 			default_folder_list = []
@@ -267,21 +269,7 @@ class PipoCommonApplication():
 					#self.get_default_folder_path_function(default_folder, kind)
 					for n in self.screen.name_name_selection:
 						for t in self.screen.name_type_selection:
-							for state in self.app.current_project_settings["Global"]["stateList"]:
-								for lod in self.app.current_project_settings["Global"]["lodList"]:
-									default_folder_path = self.get_default_folder_path_function(default_folder, kind, n, t, lod, state)
-									if os.path.isdir(default_folder_path) == True:
-										self.display_message_function("added")
-										default_folder_list.append(default_folder_path)
-									#self.display_message_function(default_folder_path)
-					"""	
-					for n in self.screen.name_name_selection:
-						for t in self.screen.name_type_selection:
-							for state in self.app.current_project_settings["Global"]["stateList"]:
-								for lod in self.app.current_project_settings["Global"]["lodList"]:
-									default_folder_path = self.get_default_folder_path_function(default_folder, kind, n, t, lod, state)
-					"""
-				
+							self.get_default_folder_path_function(default_folder, kind, n)
 		
 
 
@@ -292,38 +280,27 @@ class PipoCommonApplication():
 		splited_default_folder = default_folder.split("/")
 		final_default_folder = []
 
+		self.display_message_function("Searching default folder path")
 
 		for item in splited_default_folder:
 			if item == "[Origin]":
 				final_default_folder.append(self.app.project_path)
-			elif item == "[mayaProject]":
-				final_default_folder.append(self.app.current_project_settings["Global"]["mayaFolder"])
+			elif item == "[key]":
+				final_default_folder.append(self.screen.current_project_settings["Scenes"][k])
 			elif item == "[name]":
 				if n == None:
-					#self.display_message_function("limit reached : name")
-					return "/".join(final_default_folder)
-				final_default_folder.append(str(n))
+					break
+				else:
+					final_default_folder.append(n)
+
 			elif item == "[type]":
 				if t == None:
-					#self.display_error_function("limit reached : type")
-					return "/".join(final_default_folder)
-				final_default_folder.append(str(t))
-			elif item == "[lod]":
-				final_default_folder.append("LOD%s"%str(lod))
-			elif item == "[state]":
-				final_default_folder.append(str(state))
-			elif item == "[key]":
-				if k == None:
-					#self.display_message_function("limit reached : key")
-					return "/".join(final_default_folder)
-				final_default_folder.append(str(k))
+					break
+				else:
+					final_default_folder.append(t)
 			else:
 				final_default_folder.append(item)
-		final_default_folder_path = "/".join(final_default_folder)
-		#self.display_message_function(final_default_folder_path)
-		return final_default_folder_path
-
-
+		self.display_message_function(final_default_folder)
 		
 
 
