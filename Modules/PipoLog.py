@@ -53,7 +53,7 @@ class PipoLogApplication:
 	def display_message_function(self, message = ""):
 		message = str(message)
 		format = "[%s] UPDATE : %s"%(str(datetime.now()), message)
-		self.notify(message, timeout=5, severity="information")
+		#self.notify(message, timeout=5, severity="information")
 
 		self.save_log_function(format)
 

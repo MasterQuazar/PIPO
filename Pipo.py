@@ -62,6 +62,8 @@ class PipoLobbyApplication(Screen, PipoCommonApplication, PipoLogApplication):
 		self.name_type_list = []
 		self.name_file_list = []
 
+		self.kind_change_list = []
+
 		
 		#self.kind_list = app.current_project_settings["Scenes"].keys()
 
@@ -202,6 +204,13 @@ class PipoLobbyApplication(Screen, PipoCommonApplication, PipoLogApplication):
 
 			for index in type_selection:
 				self.name_type_selection.append(self.name_type_list[index])
+
+		if event.selection_list.id == "lobby_name_list":
+			name_selection = self.query_one("#lobby_name_list").selected
+			self.name_name_selection = []
+
+			for name in name_selection:
+				self.name_name_selection.append(self.name_name_list[name])
 
 
 		

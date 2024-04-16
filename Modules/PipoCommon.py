@@ -1,10 +1,12 @@
 import os
 import json
 import socket 
+import copy
 
 from textual.app import App, ComposeResult
-from textual.widgets import Label, Button, Static, ListView, ListItem, OptionList, Header, Footer
+from textual.widgets import Label,Button, Static, ListView, ListItem, OptionList, Header, Footer
 from textual.screen import Screen 
+from textual.widgets.selection_list import Selection
 from textual import events
 from textual.containers import Horizontal, Vertical, Container, VerticalScroll
 from pyfiglet import Figlet 
@@ -248,59 +250,159 @@ class PipoCommonApplication():
 
 
 	def search_files_function(self):
-		self.display_message_function("Searching...")
+		#self.display_message_function("Searching...")
 		
 		if len(self.screen.name_type_selection) == 0:
 			self.screen.name_type_selection = [None]
 		if len(self.screen.name_name_selection) == 0:
 			self.screen.name_name_selection = [None]
 		
-		self.display_message_function(self.screen.name_name_selection)
-		self.display_message_function(self.screen.name_type_selection)
+		#self.display_message_function(self.screen.name_name_selection)
+		#self.display_message_function(self.screen.name_type_selection)
+		temporary_name_list = []
+
+		
+
+
+
+		#DEFINE THE DEFAULT FOLDER PATH WITH CURRENT PROJECT SETTINGS FOR EACH TYPE SELECTED
 		if len(self.screen.name_kind_selection) != 0:
 
 			default_folder_list = []
+			default_folder_path_list = []
+			
+			self.display_message_function
 		
 			for kind in self.screen.name_kind_selection:
 				default_folder_list = self.app.current_project_settings["Scenes"][kind]["folder"]
 
 				for default_folder in default_folder_list:
+					for status in self.app.current_project_settings["Global"]["stateList"]:
+						#self.get_default_folder_path_function(default_folder, kind)
+						for n in self.screen.name_name_selection:
+							for t in self.screen.name_type_selection:
+								for s in self.app.current_project_settings["Global"]["stateList"]:
+									for l in self.app.current_project_settings["Global"]["lodList"]:
+										#self.display_message_function(status)
+										
+										default_folder_data = self.get_default_folder_path_function(default_folder, kind, n, s, l, t,)
+										
+										if os.path.isdir(default_folder_data[0]["path"]) == True:
+											#add the new default folder 
+											if default_folder_data[0]["path"] not in default_folder_path_list:
 
-					#self.get_default_folder_path_function(default_folder, kind)
-					for n in self.screen.name_name_selection:
-						for t in self.screen.name_type_selection:
-							self.get_default_folder_path_function(default_folder, kind, n)
+												#create the default folder data
+												#ready for parsing to help algorythm
+
+												default_folder_path_list.append(default_folder_data[0])
+											#update name list ?
+											for name in default_folder_data[1]:
+												if name not in temporary_name_list:
+													temporary_name_list.append(name)
+
+										#if default_folder_data[0] != None:
+										#	self.display_message_function("LAUNCH PARSING")
+								
+		#for folder in default_folder_list:
+		#self.display_message_function("done")
+		try:
+			for path in default_folder_path_list:
+				self.display_message_function(path)
+		except:
+			self.display_error_function("Impossible")
+		#self.display_message_function(default_folder_list)
+		#NEED TO CHANGE THE LIST IF THE KEY HAS CHANGED!!!
+		if (self.name_name_list != temporary_name_list) and (self.screen.kind_change_list != self.screen.name_kind_selection):
+			self.name_name_list = temporary_name_list
+			self.name_name_selection = []	
+
+			self.screen.kind_change_list = copy.copy(self.screen.name_kind_selection)
+			self.screen.lobby_name_list.clear_options()
+
+			for i in range(len(temporary_name_list)):
+				self.screen.lobby_name_list.add_option(Selection(temporary_name_list[i],i)) 
 		
 
 
 
 
 
-	def get_default_folder_path_function(self, default_folder = None, k=None, n=None,t=None, lod=None, state=None):
+
+
+	def get_default_folder_path_function(self, default_folder = None, k=None, n=None, s=None, l=None, t=None):
+		folder_dictionnary_data = {}
+
 		splited_default_folder = default_folder.split("/")
 		final_default_folder = []
+		folder_name_list = []
+		#change_name = True
 
-		self.display_message_function("Searching default folder path")
+		#self.display_message_function("Searching default folder path")
 
 		for item in splited_default_folder:
 			if item == "[Origin]":
 				final_default_folder.append(self.app.project_path)
 			elif item == "[key]":
-				final_default_folder.append(self.screen.current_project_settings["Scenes"][k])
+				final_default_folder.append(self.app.current_project_settings["Scenes"][k]["keyword"])
+				folder_dictionnary_data["key"] = k
+
+
+
+
 			elif item == "[name]":
 				if n == None:
+					#get the current path
+					#check if the path exists
+					#get the list of folder name inside of that path
+					name_folder_path = "/".join(final_default_folder)
+					#self.display_message_function("NAME FOLDER : %s"%name_folder_path)
+					#self.display_message_function(os.path.isdir(name_folder_path))
+					try:
+						name_folder_content = os.listdir(name_folder_path)
+					except:
+						#self.display_error_function("Impossible to get the name list in folder")
+						break
+					else:
+						for item in name_folder_content:
+							if os.path.isdir(os.path.join(name_folder_path, item)) == True:
+								folder_name_list.append(item)
+
 					break
 				else:
+					folder_dictionnary_data["name"] = n
+					#self.display_message_function("name added : %s"%n)
 					final_default_folder.append(n)
 
 			elif item == "[type]":
 				if t == None:
 					break
 				else:
+					folder_dictionnary_data["type"] = t
 					final_default_folder.append(t)
+
+			elif item == "[lod]":
+				if l == None:
+					break
+				else:
+					folder_dictionnary_data["lod"] = l
+					final_default_folder.append(l)
+
+			elif item == "[state]":
+				if s == None:
+					break
+				else:
+					folder_dictionnary_data["state"] = s
+					final_default_folder.append(s)
+
+			elif item == "[mayaProject]":
+				final_default_folder.append(self.app.current_project_settings["Global"]["mayaFolder"])
+
 			else:
 				final_default_folder.append(item)
-		self.display_message_function(final_default_folder)
+
+		folder_dictionnary_data["path"] = "/".join(final_default_folder)
+		return [folder_dictionnary_data, folder_name_list]
+
 		
 
 
