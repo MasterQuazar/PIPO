@@ -62424,3 +62424,1350 @@ Unexisting path!
 [2024-04-16 17:59:09.353363] UPDATE : name added : tabletest
 [2024-04-16 17:59:09.355331] UPDATE : name added : tabletest
 [2024-04-16 17:59:09.356352] UPDATE : name added : tabletest
+
+
+[2024-04-16 20:14:42.352162] New Pipo session opened on <built-in function gethostname>
+[2024-04-16 20:14:42.379090] UPDATE : Personnal settings opened
+[2024-04-16 20:14:44.948126] UPDATE : Project selected : testproject
+[2024-04-16 20:14:45.097638] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-04-16 20:14:45.097638] UPDATE : Project settings loaded!
+[2024-04-16 20:14:46.002218] UPDATE : [0]
+[2024-04-16 20:14:47.160422] UPDATE : [0, 1]
+[2024-04-16 20:14:47.946880] UPDATE : [0, 1, 2]
+[2024-04-16 20:14:48.343877] UPDATE : [1, 2]
+[2024-04-16 20:14:48.718901] UPDATE : [2]
+[2024-04-16 20:14:48.996133] UPDATE : []
+[2024-04-16 20:14:48.997130] ERROR : Impossible
+[2024-04-16 20:14:50.280718] UPDATE : [2]
+[2024-04-16 20:14:50.548553] UPDATE : [2, 0]
+[2024-04-16 20:14:51.078111] UPDATE : [2, 0, 1]
+[2024-04-16 20:14:51.493998] UPDATE : [2, 1]
+[2024-04-16 20:14:51.887944] UPDATE : [1]
+[2024-04-16 20:14:52.297872] UPDATE : []
+[2024-04-16 20:14:52.297872] ERROR : Impossible
+
+
+[2024-04-16 23:58:22.466590] New Pipo session opened on <built-in function gethostname>
+[2024-04-16 23:58:22.481516] UPDATE : Personnal settings opened
+[2024-04-16 23:58:24.991809] UPDATE : Project selected : testproject
+[2024-04-16 23:58:24.992492] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-04-16 23:58:24.992492] UPDATE : Project settings loaded!
+[2024-04-16 23:58:26.640607] UPDATE : [0]
+[2024-04-16 23:58:26.645597] UPDATE : {'key': 'character', 'path': 'D:/WORK/TESTPROJECT/ASSETS/char'}
+[2024-04-16 23:58:26.645597] UPDATE : {'key': 'character', 'path': 'D:/WORK/TESTPROJECT/ASSETS/char'}
+[2024-04-16 23:58:26.646592] UPDATE : {'key': 'character', 'path': 'D:/WORK/TESTPROJECT/ASSETS/char'}
+[2024-04-16 23:58:26.646592] UPDATE : {'key': 'character', 'path': 'D:/WORK/TESTPROJECT/ASSETS/char'}
+[2024-04-16 23:58:26.646592] UPDATE : {'key': 'character', 'path': 'D:/WORK/TESTPROJECT/ASSETS/char'}
+[2024-04-16 23:58:26.647590] UPDATE : {'key': 'character', 'path': 'D:/WORK/TESTPROJECT/ASSETS/char'}
+[2024-04-16 23:58:26.647590] UPDATE : {'key': 'character', 'path': 'D:/WORK/TESTPROJECT/ASSETS/char'}
+[2024-04-16 23:58:26.647590] UPDATE : {'key': 'character', 'path': 'D:/WORK/TESTPROJECT/ASSETS/char'}
+[2024-04-16 23:58:26.648586] UPDATE : {'key': 'character', 'path': 'D:/WORK/TESTPROJECT/ASSETS/char'}
+[2024-04-16 23:58:26.648586] UPDATE : {'key': 'character', 'path': 'D:/WORK/TESTPROJECT/ASSETS/char'}
+[2024-04-16 23:58:26.648586] UPDATE : {'key': 'character', 'path': 'D:/WORK/TESTPROJECT/ASSETS/char'}
+[2024-04-16 23:58:26.649583] UPDATE : {'key': 'character', 'path': 'D:/WORK/TESTPROJECT/ASSETS/char'}
+[2024-04-16 23:58:28.369543] UPDATE : [0]
+[2024-04-16 23:58:28.370540] UPDATE : {'key': 'character', 'name': 'matteo', 'path': 'D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes'}
+[2024-04-16 23:58:28.371537] UPDATE : {'key': 'character', 'name': 'matteo', 'path': 'D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes'}
+[2024-04-16 23:58:28.371537] UPDATE : {'key': 'character', 'name': 'matteo', 'path': 'D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes'}
+[2024-04-16 23:58:28.371537] UPDATE : {'key': 'character', 'name': 'matteo', 'path': 'D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes'}
+[2024-04-16 23:58:28.372535] UPDATE : {'key': 'character', 'name': 'matteo', 'path': 'D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes'}
+[2024-04-16 23:58:28.372535] UPDATE : {'key': 'character', 'name': 'matteo', 'path': 'D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes'}
+[2024-04-16 23:58:28.372535] UPDATE : {'key': 'character', 'name': 'matteo', 'path': 'D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes'}
+[2024-04-16 23:58:28.373533] UPDATE : {'key': 'character', 'name': 'matteo', 'path': 'D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes'}
+[2024-04-16 23:58:28.373845] UPDATE : {'key': 'character', 'name': 'matteo', 'path': 'D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes'}
+[2024-04-16 23:58:28.373845] UPDATE : {'key': 'character', 'name': 'matteo', 'path': 'D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes'}
+[2024-04-16 23:58:28.373845] UPDATE : {'key': 'character', 'name': 'matteo', 'path': 'D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes'}
+[2024-04-16 23:58:28.374845] UPDATE : {'key': 'character', 'name': 'matteo', 'path': 'D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes'}
+[2024-04-16 23:58:33.342852] UPDATE : [0]
+[2024-04-16 23:58:33.344846] UPDATE : {'key': 'character', 'name': 'matteo', 'path': 'D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes'}
+[2024-04-16 23:58:33.344846] UPDATE : {'key': 'character', 'name': 'matteo', 'path': 'D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes'}
+[2024-04-16 23:58:33.345843] UPDATE : {'key': 'character', 'name': 'matteo', 'path': 'D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes'}
+[2024-04-16 23:58:33.345843] UPDATE : {'key': 'character', 'name': 'matteo', 'path': 'D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes'}
+[2024-04-16 23:58:33.345843] UPDATE : {'key': 'character', 'name': 'matteo', 'path': 'D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes'}
+[2024-04-16 23:58:33.345843] UPDATE : {'key': 'character', 'name': 'matteo', 'path': 'D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes'}
+[2024-04-16 23:58:33.346841] UPDATE : {'key': 'character', 'name': 'lucas', 'path': 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes'}
+[2024-04-16 23:58:33.346841] UPDATE : {'key': 'character', 'name': 'lucas', 'path': 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes'}
+[2024-04-16 23:58:33.346841] UPDATE : {'key': 'character', 'name': 'lucas', 'path': 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes'}
+[2024-04-16 23:58:33.347838] UPDATE : {'key': 'character', 'name': 'lucas', 'path': 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes'}
+[2024-04-16 23:58:33.347838] UPDATE : {'key': 'character', 'name': 'lucas', 'path': 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes'}
+[2024-04-16 23:58:33.347838] UPDATE : {'key': 'character', 'name': 'lucas', 'path': 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes'}
+[2024-04-16 23:58:33.348835] UPDATE : {'key': 'character', 'name': 'matteo', 'path': 'D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes'}
+[2024-04-16 23:58:33.348835] UPDATE : {'key': 'character', 'name': 'matteo', 'path': 'D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes'}
+[2024-04-16 23:58:33.348835] UPDATE : {'key': 'character', 'name': 'matteo', 'path': 'D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes'}
+[2024-04-16 23:58:33.349833] UPDATE : {'key': 'character', 'name': 'matteo', 'path': 'D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes'}
+[2024-04-16 23:58:33.349898] UPDATE : {'key': 'character', 'name': 'matteo', 'path': 'D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes'}
+[2024-04-16 23:58:33.349898] UPDATE : {'key': 'character', 'name': 'matteo', 'path': 'D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes'}
+[2024-04-16 23:58:33.350831] UPDATE : {'key': 'character', 'name': 'lucas', 'path': 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes'}
+[2024-04-16 23:58:33.350831] UPDATE : {'key': 'character', 'name': 'lucas', 'path': 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes'}
+[2024-04-16 23:58:33.350831] UPDATE : {'key': 'character', 'name': 'lucas', 'path': 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes'}
+[2024-04-16 23:58:33.351827] UPDATE : {'key': 'character', 'name': 'lucas', 'path': 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes'}
+[2024-04-16 23:58:33.351827] UPDATE : {'key': 'character', 'name': 'lucas', 'path': 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes'}
+[2024-04-16 23:58:33.351827] UPDATE : {'key': 'character', 'name': 'lucas', 'path': 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes'}
+
+
+[2024-04-17 00:01:55.203912] New Pipo session opened on <built-in function gethostname>
+[2024-04-17 00:01:55.218847] UPDATE : Personnal settings opened
+[2024-04-17 00:01:57.051416] UPDATE : Project selected : testproject
+[2024-04-17 00:01:57.051976] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-04-17 00:01:57.052960] UPDATE : Project settings loaded!
+[2024-04-17 00:01:58.923858] UPDATE : [0]
+[2024-04-17 00:01:58.928844] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char
+[2024-04-17 00:01:59.614560] UPDATE : [0]
+[2024-04-17 00:01:59.615557] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:02:00.050856] UPDATE : [0]
+[2024-04-17 00:02:00.050856] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:02:00.051854] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/max/maya/scenes
+[2024-04-17 00:02:04.923021] UPDATE : [0]
+[2024-04-17 00:02:04.923993] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:02:04.923993] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/max/maya/scenes
+[2024-04-17 00:02:04.924989] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes
+[2024-04-17 00:02:07.371382] UPDATE : [0]
+[2024-04-17 00:02:07.372378] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes/rig/edit
+[2024-04-17 00:02:07.373372] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes/rig/publish
+[2024-04-17 00:02:07.373372] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/max/maya/scenes/rig/edit
+[2024-04-17 00:02:07.373372] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/max/maya/scenes/rig/publish
+[2024-04-17 00:02:07.373372] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/rig/edit
+[2024-04-17 00:02:07.374348] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/rig/publish
+[2024-04-17 00:02:12.091068] UPDATE : [0]
+[2024-04-17 00:02:12.092066] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes/rig/edit
+[2024-04-17 00:02:12.093063] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes/rig/publish
+[2024-04-17 00:02:12.093063] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes/mod/edit
+[2024-04-17 00:02:12.093063] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes/mod/publish
+[2024-04-17 00:02:12.094057] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/max/maya/scenes/rig/edit
+[2024-04-17 00:02:12.094057] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/max/maya/scenes/rig/publish
+[2024-04-17 00:02:12.094057] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/max/maya/scenes/mod/edit
+[2024-04-17 00:02:12.094057] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/max/maya/scenes/mod/publish
+[2024-04-17 00:02:12.095057] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/rig/edit
+[2024-04-17 00:02:12.095057] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/rig/publish
+[2024-04-17 00:02:12.095057] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/mod/edit
+[2024-04-17 00:02:12.096056] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/mod/publish
+[2024-04-17 00:02:18.928711] UPDATE : [0]
+[2024-04-17 00:02:18.929711] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/max/maya/scenes/rig/edit
+[2024-04-17 00:02:18.929711] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/max/maya/scenes/rig/publish
+[2024-04-17 00:02:18.930705] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/max/maya/scenes/mod/edit
+[2024-04-17 00:02:18.930705] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/max/maya/scenes/mod/publish
+[2024-04-17 00:02:18.930705] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/rig/edit
+[2024-04-17 00:02:18.930705] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/rig/publish
+[2024-04-17 00:02:18.931703] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/mod/edit
+[2024-04-17 00:02:18.931703] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/mod/publish
+[2024-04-17 00:02:23.677650] UPDATE : [0, 1]
+[2024-04-17 00:02:23.677650] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/max/maya/scenes
+[2024-04-17 00:02:23.678673] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes
+[2024-04-17 00:02:23.678673] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop/max/maya/scenes
+[2024-04-17 00:02:23.678673] UPDATE : D:/WORK/TESTPROJECT/ASSETS/prop/robin/maya/scenes
+[2024-04-17 00:02:24.354568] UPDATE : [0]
+[2024-04-17 00:02:24.359555] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char
+[2024-04-17 00:02:24.838350] UPDATE : []
+[2024-04-17 00:02:24.839348] ERROR : Impossible
+
+
+[2024-04-17 00:10:28.024671] New Pipo session opened on <built-in function gethostname>
+[2024-04-17 00:10:28.040068] UPDATE : Personnal settings opened
+[2024-04-17 00:10:30.625317] UPDATE : Project selected : testproject
+[2024-04-17 00:10:30.625317] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-04-17 00:10:30.625317] UPDATE : Project settings loaded!
+[2024-04-17 00:10:32.014082] UPDATE : [0]
+
+
+[2024-04-17 00:15:44.656497] New Pipo session opened on <built-in function gethostname>
+[2024-04-17 00:15:44.671458] UPDATE : Personnal settings opened
+[2024-04-17 00:15:47.186059] UPDATE : Project selected : testproject
+[2024-04-17 00:15:47.186733] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-04-17 00:15:47.186733] UPDATE : Project settings loaded!
+[2024-04-17 00:15:48.201294] UPDATE : [1]
+[2024-04-17 00:15:48.204285] UPDATE : done searching
+[2024-04-17 00:15:50.862580] UPDATE : []
+
+
+[2024-04-17 00:16:26.558897] New Pipo session opened on <built-in function gethostname>
+[2024-04-17 00:16:26.574564] UPDATE : Personnal settings opened
+[2024-04-17 00:16:28.698426] UPDATE : Project selected : testproject
+[2024-04-17 00:16:28.699446] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-04-17 00:16:28.699446] UPDATE : Project settings loaded!
+[2024-04-17 00:16:29.702054] UPDATE : [1]
+[2024-04-17 00:16:29.704049] UPDATE : done searching
+[2024-04-17 00:16:30.253822] UPDATE : [1, 3]
+[2024-04-17 00:16:30.257786] UPDATE : done searching
+[2024-04-17 00:16:30.725419] UPDATE : [1]
+[2024-04-17 00:16:30.728411] UPDATE : done searching
+[2024-04-17 00:16:31.766868] UPDATE : []
+
+
+[2024-04-17 00:19:44.140088] New Pipo session opened on <built-in function gethostname>
+[2024-04-17 00:19:44.155012] UPDATE : Personnal settings opened
+[2024-04-17 00:19:46.242966] UPDATE : Project selected : testproject
+[2024-04-17 00:19:46.243963] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-04-17 00:19:46.243963] UPDATE : Project settings loaded!
+[2024-04-17 00:19:47.214848] UPDATE : [0]
+
+
+[2024-04-17 00:19:58.108922] New Pipo session opened on <built-in function gethostname>
+[2024-04-17 00:19:58.123857] UPDATE : Personnal settings opened
+[2024-04-17 00:20:00.262835] UPDATE : Project selected : testproject
+[2024-04-17 00:20:00.263832] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-04-17 00:20:00.263832] UPDATE : Project settings loaded!
+[2024-04-17 00:20:01.459041] UPDATE : [0]
+[2024-04-17 00:20:01.465025] UPDATE : done searching
+[2024-04-17 00:20:02.766515] UPDATE : [0, 2]
+[2024-04-17 00:20:02.774468] UPDATE : done searching
+[2024-04-17 00:20:04.000228] UPDATE : [0]
+[2024-04-17 00:20:04.005978] UPDATE : done searching
+[2024-04-17 00:20:04.597058] UPDATE : []
+[2024-04-17 00:20:06.141929] UPDATE : [1]
+[2024-04-17 00:20:06.143457] UPDATE : done searching
+[2024-04-17 00:20:06.462510] UPDATE : []
+[2024-04-17 00:20:06.865307] UPDATE : [1]
+[2024-04-17 00:20:06.867302] UPDATE : done searching
+[2024-04-17 00:20:07.497189] UPDATE : [1, 0]
+[2024-04-17 00:20:07.505168] UPDATE : done searching
+[2024-04-17 00:20:07.908818] UPDATE : [0]
+[2024-04-17 00:20:07.914802] UPDATE : done searching
+[2024-04-17 00:20:08.554058] UPDATE : [0]
+[2024-04-17 00:20:08.555055] UPDATE : done searching
+[2024-04-17 00:20:10.262378] UPDATE : []
+[2024-04-17 00:20:11.126448] UPDATE : [0]
+[2024-04-17 00:20:11.132432] UPDATE : done searching
+[2024-04-17 00:20:12.295383] UPDATE : []
+[2024-04-17 00:20:12.658883] UPDATE : [0]
+[2024-04-17 00:20:12.664867] UPDATE : done searching
+[2024-04-17 00:20:13.150715] UPDATE : [0, 2]
+[2024-04-17 00:20:13.157694] UPDATE : done searching
+[2024-04-17 00:20:15.566857] UPDATE : [0]
+[2024-04-17 00:20:15.572839] UPDATE : done searching
+[2024-04-17 00:20:16.383998] UPDATE : [0]
+[2024-04-17 00:20:16.385993] UPDATE : done searching
+[2024-04-17 00:20:17.473301] UPDATE : []
+[2024-04-17 00:20:18.076889] UPDATE : [3]
+[2024-04-17 00:20:18.078886] UPDATE : done searching
+[2024-04-17 00:20:18.938943] UPDATE : [3, 0]
+[2024-04-17 00:20:18.946955] UPDATE : done searching
+[2024-04-17 00:20:19.688009] UPDATE : [3, 0]
+[2024-04-17 00:20:19.691012] UPDATE : done searching
+[2024-04-17 00:20:20.359063] UPDATE : [3, 0]
+[2024-04-17 00:20:20.363059] UPDATE : done searching
+[2024-04-17 00:20:20.908493] UPDATE : [3, 0]
+[2024-04-17 00:20:20.911494] UPDATE : done searching
+[2024-04-17 00:20:21.605500] UPDATE : [3, 0]
+[2024-04-17 00:20:21.612485] UPDATE : done searching
+[2024-04-17 00:20:22.080738] UPDATE : [3, 0]
+[2024-04-17 00:20:22.082733] UPDATE : done searching
+[2024-04-17 00:20:22.525016] UPDATE : [3, 0]
+[2024-04-17 00:20:22.530029] UPDATE : done searching
+[2024-04-17 00:20:24.001943] UPDATE : [3, 0]
+[2024-04-17 00:20:24.004933] UPDATE : done searching
+
+
+[2024-04-17 00:21:19.792957] New Pipo session opened on <built-in function gethostname>
+[2024-04-17 00:21:19.808462] UPDATE : Personnal settings opened
+[2024-04-17 00:21:21.808765] UPDATE : Project selected : testproject
+[2024-04-17 00:21:21.808765] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-04-17 00:21:21.808765] UPDATE : Project settings loaded!
+[2024-04-17 00:21:23.362935] UPDATE : [0]
+[2024-04-17 00:21:23.368919] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char
+[2024-04-17 00:21:23.369917] UPDATE : thread launched
+[2024-04-17 00:21:23.369977] UPDATE : done searching
+[2024-04-17 00:21:24.017046] UPDATE : [0]
+[2024-04-17 00:21:24.019040] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes
+[2024-04-17 00:21:24.019040] UPDATE : thread launched
+[2024-04-17 00:21:24.020037] UPDATE : done searching
+[2024-04-17 00:21:24.982380] UPDATE : [0]
+[2024-04-17 00:21:24.985373] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes
+[2024-04-17 00:21:24.985373] UPDATE : thread launched
+[2024-04-17 00:21:24.986370] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char/max/maya/scenes
+[2024-04-17 00:21:24.987367] UPDATE : thread launched
+[2024-04-17 00:21:24.987367] UPDATE : done searching
+
+
+[2024-04-17 00:21:59.423957] New Pipo session opened on <built-in function gethostname>
+[2024-04-17 00:21:59.438618] UPDATE : Personnal settings opened
+[2024-04-17 00:22:01.553023] UPDATE : Project selected : testproject
+[2024-04-17 00:22:01.553023] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-04-17 00:22:01.554019] UPDATE : Project settings loaded!
+[2024-04-17 00:22:02.737801] UPDATE : [0]
+[2024-04-17 00:22:02.742787] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char
+[2024-04-17 00:22:02.743799] UPDATE : thread launched
+[2024-04-17 00:22:02.743799] UPDATE : done searching
+[2024-04-17 00:22:03.377046] UPDATE : [0]
+[2024-04-17 00:22:03.379041] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes
+[2024-04-17 00:22:03.379041] UPDATE : thread launched
+[2024-04-17 00:22:03.380038] UPDATE : done searching
+[2024-04-17 00:22:03.764742] UPDATE : [0]
+[2024-04-17 00:22:03.766736] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes
+[2024-04-17 00:22:03.767731] UPDATE : thread launched
+[2024-04-17 00:22:03.768704] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char/max/maya/scenes
+[2024-04-17 00:22:03.768704] UPDATE : thread launched
+[2024-04-17 00:22:03.769728] UPDATE : done searching
+
+
+[2024-04-17 00:24:01.782381] New Pipo session opened on <built-in function gethostname>
+[2024-04-17 00:24:01.797961] UPDATE : Personnal settings opened
+[2024-04-17 00:24:04.052058] UPDATE : Project selected : testproject
+[2024-04-17 00:24:04.053056] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-04-17 00:24:04.053056] UPDATE : Project settings loaded!
+[2024-04-17 00:24:05.127448] UPDATE : [1]
+[2024-04-17 00:24:05.130440] UPDATE : done searching
+[2024-04-17 00:24:06.529864] UPDATE : [1]
+[2024-04-17 00:24:06.531806] UPDATE : done searching
+[2024-04-17 00:24:07.454327] UPDATE : [1]
+[2024-04-17 00:24:07.457319] UPDATE : done searching
+[2024-04-17 00:24:08.505808] UPDATE : [1, 0]
+[2024-04-17 00:24:08.512793] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char
+[2024-04-17 00:24:08.512793] UPDATE : thread launched
+[2024-04-17 00:24:08.513790] UPDATE : done searching
+[2024-04-17 00:24:08.512793] UPDATE : waiting ...
+[2024-04-17 00:24:09.821276] UPDATE : [1, 0]
+[2024-04-17 00:24:09.823270] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:24:09.823967] UPDATE : thread launched
+[2024-04-17 00:24:09.823967] UPDATE : done searching
+[2024-04-17 00:24:09.823967] UPDATE : waiting ...
+[2024-04-17 00:24:10.548871] UPDATE : done waiting
+[2024-04-17 00:24:11.837825] UPDATE : done waiting
+[2024-04-17 00:24:19.777034] UPDATE : [1, 0]
+[2024-04-17 00:24:19.780080] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:24:19.781235] UPDATE : thread launched
+[2024-04-17 00:24:19.781235] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes
+[2024-04-17 00:24:19.782234] UPDATE : thread launched
+[2024-04-17 00:24:19.782234] UPDATE : done searching
+[2024-04-17 00:24:19.781235] UPDATE : waiting ...
+[2024-04-17 00:24:19.781235] UPDATE : waiting ...
+[2024-04-17 00:24:21.826687] UPDATE : done waiting
+[2024-04-17 00:24:21.826687] UPDATE : done waiting
+[2024-04-17 00:24:27.547049] UPDATE : [1, 0]
+[2024-04-17 00:24:27.552062] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:24:27.552586] UPDATE : thread launched
+[2024-04-17 00:24:27.552586] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes
+[2024-04-17 00:24:27.553586] UPDATE : thread launched
+[2024-04-17 00:24:27.553586] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes
+[2024-04-17 00:24:27.554583] UPDATE : thread launched
+[2024-04-17 00:24:27.554583] UPDATE : done searching
+[2024-04-17 00:24:27.553586] UPDATE : waiting ...
+[2024-04-17 00:24:27.552586] UPDATE : waiting ...
+[2024-04-17 00:24:27.553586] UPDATE : waiting ...
+[2024-04-17 00:24:29.577681] UPDATE : done waiting
+[2024-04-17 00:24:29.577681] UPDATE : done waiting
+[2024-04-17 00:24:29.577681] UPDATE : done waiting
+[2024-04-17 00:24:31.302982] UPDATE : [1, 0]
+[2024-04-17 00:24:31.305974] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:24:31.306972] UPDATE : thread launched
+[2024-04-17 00:24:31.306972] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes
+[2024-04-17 00:24:31.307969] UPDATE : thread launched
+[2024-04-17 00:24:31.307969] UPDATE : done searching
+[2024-04-17 00:24:31.306972] UPDATE : waiting ...
+[2024-04-17 00:24:31.307969] UPDATE : waiting ...
+[2024-04-17 00:24:31.743134] UPDATE : [1, 0]
+[2024-04-17 00:24:31.745128] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes
+[2024-04-17 00:24:31.746305] UPDATE : thread launched
+[2024-04-17 00:24:31.746305] UPDATE : done searching
+[2024-04-17 00:24:31.746305] UPDATE : waiting ...
+[2024-04-17 00:24:32.047118] UPDATE : [1, 0]
+[2024-04-17 00:24:32.054099] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char
+[2024-04-17 00:24:32.055096] UPDATE : thread launched
+[2024-04-17 00:24:32.055096] UPDATE : done searching
+[2024-04-17 00:24:32.054099] UPDATE : waiting ...
+[2024-04-17 00:24:33.314306] UPDATE : done waiting
+[2024-04-17 00:24:33.314306] UPDATE : done waiting
+[2024-04-17 00:24:33.779240] UPDATE : done waiting
+[2024-04-17 00:24:34.075065] UPDATE : done waiting
+
+
+[2024-04-17 00:25:44.274353] New Pipo session opened on <built-in function gethostname>
+[2024-04-17 00:25:44.289315] UPDATE : Personnal settings opened
+[2024-04-17 00:25:46.010145] UPDATE : Project selected : testproject
+[2024-04-17 00:25:46.010145] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-04-17 00:25:46.011142] UPDATE : Project settings loaded!
+[2024-04-17 00:25:47.259069] UPDATE : [0]
+[2024-04-17 00:25:47.264055] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char
+[2024-04-17 00:25:47.265053] UPDATE : thread launched
+[2024-04-17 00:25:47.266051] UPDATE : done searching
+[2024-04-17 00:25:48.287045] UPDATE : [0]
+[2024-04-17 00:25:48.289040] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes
+[2024-04-17 00:25:48.290038] UPDATE : thread launched
+[2024-04-17 00:25:48.290112] UPDATE : done searching
+
+
+[2024-04-17 00:26:08.412882] New Pipo session opened on <built-in function gethostname>
+[2024-04-17 00:26:08.428574] UPDATE : Personnal settings opened
+[2024-04-17 00:26:11.002007] UPDATE : Project selected : testproject
+[2024-04-17 00:26:11.003004] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-04-17 00:26:11.003004] UPDATE : Project settings loaded!
+[2024-04-17 00:26:12.409180] UPDATE : [0]
+[2024-04-17 00:26:12.415163] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char
+[2024-04-17 00:26:12.415163] UPDATE : thread launched
+[2024-04-17 00:26:12.416160] UPDATE : done searching
+[2024-04-17 00:26:14.727186] UPDATE : [0]
+[2024-04-17 00:26:14.728184] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:26:14.729180] UPDATE : thread launched
+[2024-04-17 00:26:14.729180] UPDATE : done searching
+[2024-04-17 00:26:16.163438] UPDATE : [0]
+[2024-04-17 00:26:16.165434] UPDATE : done searching
+[2024-04-17 00:26:17.359654] UPDATE : [0]
+[2024-04-17 00:26:17.361648] UPDATE : done searching
+[2024-04-17 00:26:18.826374] UPDATE : [0]
+[2024-04-17 00:26:18.829366] UPDATE : done searching
+
+
+[2024-04-17 00:26:39.417887] New Pipo session opened on <built-in function gethostname>
+[2024-04-17 00:26:39.432221] UPDATE : Personnal settings opened
+[2024-04-17 00:26:41.016544] UPDATE : Project selected : testproject
+[2024-04-17 00:26:41.016544] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-04-17 00:26:41.016544] UPDATE : Project settings loaded!
+[2024-04-17 00:26:42.231494] UPDATE : [1]
+[2024-04-17 00:26:42.233491] UPDATE : done searching
+[2024-04-17 00:26:44.205827] UPDATE : [1, 0]
+[2024-04-17 00:26:44.211811] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char
+[2024-04-17 00:26:44.212808] UPDATE : thread launched
+[2024-04-17 00:26:44.212808] UPDATE : done searching
+[2024-04-17 00:26:44.212808] UPDATE : waiting ...
+
+
+[2024-04-17 00:27:04.034267] New Pipo session opened on <built-in function gethostname>
+[2024-04-17 00:27:04.049284] UPDATE : Personnal settings opened
+[2024-04-17 00:27:06.843611] UPDATE : Project selected : testproject
+[2024-04-17 00:27:06.844629] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-04-17 00:27:06.844629] UPDATE : Project settings loaded!
+[2024-04-17 00:27:07.941288] UPDATE : [0]
+[2024-04-17 00:27:07.946302] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char
+[2024-04-17 00:27:07.947300] UPDATE : thread launched
+[2024-04-17 00:27:07.948297] UPDATE : done searching
+[2024-04-17 00:27:11.400566] UPDATE : [0]
+[2024-04-17 00:27:11.402561] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes
+[2024-04-17 00:27:11.403283] UPDATE : thread launched
+[2024-04-17 00:27:11.403283] UPDATE : done searching
+[2024-04-17 00:27:11.734891] UPDATE : [0]
+[2024-04-17 00:27:11.736886] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes
+[2024-04-17 00:27:11.737883] UPDATE : thread launched
+[2024-04-17 00:27:11.738855] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:27:11.739853] UPDATE : thread launched
+[2024-04-17 00:27:11.739853] UPDATE : done searching
+
+
+[2024-04-17 00:27:52.653504] New Pipo session opened on <built-in function gethostname>
+[2024-04-17 00:27:52.668438] UPDATE : Personnal settings opened
+[2024-04-17 00:27:55.280362] UPDATE : Project selected : testproject
+[2024-04-17 00:27:55.280362] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-04-17 00:27:55.281333] UPDATE : Project settings loaded!
+[2024-04-17 00:27:56.281530] UPDATE : [0]
+[2024-04-17 00:27:56.286517] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char
+[2024-04-17 00:27:56.287514] UPDATE : thread launched
+[2024-04-17 00:27:56.288511] UPDATE : done searching
+[2024-04-17 00:27:58.948992] UPDATE : [0, 2]
+[2024-04-17 00:27:58.956970] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char
+[2024-04-17 00:27:58.957405] UPDATE : thread launched
+[2024-04-17 00:27:58.957405] UPDATE : done searching
+
+
+[2024-04-17 00:28:16.852289] New Pipo session opened on <built-in function gethostname>
+[2024-04-17 00:28:16.868244] UPDATE : Personnal settings opened
+[2024-04-17 00:28:18.985321] UPDATE : Project selected : testproject
+[2024-04-17 00:28:18.986290] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-04-17 00:28:18.986290] UPDATE : Project settings loaded!
+[2024-04-17 00:28:20.222908] UPDATE : [0]
+[2024-04-17 00:28:20.227895] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char
+[2024-04-17 00:28:20.228892] UPDATE : thread launched
+[2024-04-17 00:28:20.228892] UPDATE : done searching
+[2024-04-17 00:28:20.228892] UPDATE : waiting ... hello
+
+
+[2024-04-17 00:29:01.420107] New Pipo session opened on <built-in function gethostname>
+[2024-04-17 00:29:01.435285] UPDATE : Personnal settings opened
+[2024-04-17 00:29:03.279560] UPDATE : Project selected : testproject
+[2024-04-17 00:29:03.280557] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-04-17 00:29:03.280557] UPDATE : Project settings loaded!
+[2024-04-17 00:29:04.360631] UPDATE : [0]
+[2024-04-17 00:29:04.366615] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char
+[2024-04-17 00:29:04.367453] UPDATE : thread launched
+[2024-04-17 00:29:04.367453] UPDATE : done searching
+[2024-04-17 00:29:04.367453] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char
+[2024-04-17 00:29:09.633040] UPDATE : [0]
+[2024-04-17 00:29:09.634054] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:29:09.635034] UPDATE : thread launched
+[2024-04-17 00:29:09.635034] UPDATE : done searching
+[2024-04-17 00:29:09.635034] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:29:11.685333] UPDATE : [0]
+[2024-04-17 00:29:11.687324] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:29:11.688322] UPDATE : thread launched
+[2024-04-17 00:29:11.688851] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes
+[2024-04-17 00:29:11.688851] UPDATE : thread launched
+[2024-04-17 00:29:11.689846] UPDATE : done searching
+[2024-04-17 00:29:11.688322] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:29:11.688851] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes
+[2024-04-17 00:29:12.436880] UPDATE : [0]
+[2024-04-17 00:29:12.438918] UPDATE : done searching
+[2024-04-17 00:29:14.637698] UPDATE : [0]
+[2024-04-17 00:29:14.641687] UPDATE : done searching
+[2024-04-17 00:29:20.705280] UPDATE : [0]
+[2024-04-17 00:29:20.707275] UPDATE : done searching
+[2024-04-17 00:29:21.078088] UPDATE : [0]
+[2024-04-17 00:29:21.080083] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:29:21.081250] UPDATE : thread launched
+[2024-04-17 00:29:21.081250] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes
+[2024-04-17 00:29:21.082206] UPDATE : thread launched
+[2024-04-17 00:29:21.082206] UPDATE : done searching
+[2024-04-17 00:29:21.081250] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:29:21.082206] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes
+[2024-04-17 00:29:24.331839] UPDATE : [0]
+[2024-04-17 00:29:24.333835] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:29:24.334806] UPDATE : thread launched
+[2024-04-17 00:29:24.334806] UPDATE : done searching
+[2024-04-17 00:29:24.333835] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:29:25.592120] UPDATE : [0]
+[2024-04-17 00:29:25.595112] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:29:25.595112] UPDATE : thread launched
+[2024-04-17 00:29:25.596110] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes
+[2024-04-17 00:29:25.596110] UPDATE : thread launched
+[2024-04-17 00:29:25.597107] UPDATE : done searching
+[2024-04-17 00:29:25.596110] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes
+[2024-04-17 00:29:25.595112] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:29:26.828468] UPDATE : [0]
+[2024-04-17 00:29:26.830466] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/mod/edit
+[2024-04-17 00:29:26.831434] UPDATE : thread launched
+[2024-04-17 00:29:26.831434] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/mod/publish
+[2024-04-17 00:29:26.832344] UPDATE : thread launched
+[2024-04-17 00:29:26.832344] UPDATE : done searching
+[2024-04-17 00:29:26.832344] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/mod/publish
+[2024-04-17 00:29:26.830466] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/mod/edit
+[2024-04-17 00:29:42.728360] UPDATE : [0]
+[2024-04-17 00:29:42.730355] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/mod/edit
+[2024-04-17 00:29:42.731352] UPDATE : thread launched
+[2024-04-17 00:29:42.731352] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/mod/publish
+[2024-04-17 00:29:42.732349] UPDATE : thread launched
+[2024-04-17 00:29:42.732349] UPDATE : done searching
+[2024-04-17 00:29:42.731352] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/mod/publish
+[2024-04-17 00:29:42.731352] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/mod/edit
+[2024-04-17 00:29:43.480780] UPDATE : [0]
+[2024-04-17 00:29:43.485767] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char
+[2024-04-17 00:29:43.486763] UPDATE : thread launched
+[2024-04-17 00:29:43.486763] UPDATE : done searching
+[2024-04-17 00:29:43.486763] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char
+[2024-04-17 00:29:50.853174] UPDATE : [0]
+[2024-04-17 00:29:50.854173] UPDATE : done searching
+[2024-04-17 00:30:03.271897] UPDATE : [0]
+[2024-04-17 00:30:03.277881] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char
+[2024-04-17 00:30:03.277881] UPDATE : thread launched
+[2024-04-17 00:30:03.279349] UPDATE : done searching
+[2024-04-17 00:30:03.277881] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char
+[2024-04-17 00:30:06.232847] UPDATE : [0]
+[2024-04-17 00:30:06.233844] UPDATE : done searching
+[2024-04-17 00:30:07.424490] UPDATE : [0]
+[2024-04-17 00:30:07.429477] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char
+[2024-04-17 00:30:07.430474] UPDATE : thread launched
+[2024-04-17 00:30:07.430474] UPDATE : done searching
+[2024-04-17 00:30:07.430474] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char
+[2024-04-17 00:30:08.122685] UPDATE : [0]
+[2024-04-17 00:30:08.123683] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/mod/edit
+[2024-04-17 00:30:08.124684] UPDATE : thread launched
+[2024-04-17 00:30:08.124684] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/mod/publish
+[2024-04-17 00:30:08.125677] UPDATE : thread launched
+[2024-04-17 00:30:08.125677] UPDATE : done searching
+[2024-04-17 00:30:08.124684] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/mod/edit
+[2024-04-17 00:30:08.125677] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/mod/publish
+[2024-04-17 00:30:14.943689] UPDATE : [0]
+[2024-04-17 00:30:14.945682] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes
+[2024-04-17 00:30:14.945682] UPDATE : thread launched
+[2024-04-17 00:30:14.946679] UPDATE : done searching
+[2024-04-17 00:30:14.945682] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes
+[2024-04-17 00:30:17.476559] UPDATE : [0]
+[2024-04-17 00:30:17.478554] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes
+[2024-04-17 00:30:17.479551] UPDATE : thread launched
+[2024-04-17 00:30:17.479551] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes
+[2024-04-17 00:30:17.480549] UPDATE : thread launched
+[2024-04-17 00:30:17.480549] UPDATE : done searching
+[2024-04-17 00:30:17.480549] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes
+[2024-04-17 00:30:17.479551] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes
+
+
+[2024-04-17 00:31:16.146489] New Pipo session opened on <built-in function gethostname>
+[2024-04-17 00:31:16.160454] UPDATE : Personnal settings opened
+[2024-04-17 00:31:17.783422] UPDATE : Project selected : testproject
+[2024-04-17 00:31:17.783422] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-04-17 00:31:17.783422] UPDATE : Project settings loaded!
+[2024-04-17 00:31:18.903109] UPDATE : [0]
+[2024-04-17 00:31:18.903109] UPDATE : ####################################################
+[2024-04-17 00:31:18.904107] UPDATE : Searching...
+[2024-04-17 00:31:18.904107] UPDATE : ####################################################
+[2024-04-17 00:31:18.909093] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char
+[2024-04-17 00:31:18.910466] UPDATE : thread launched
+[2024-04-17 00:31:18.910466] UPDATE : done searching
+[2024-04-17 00:31:18.910466] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char
+[2024-04-17 00:31:22.506175] UPDATE : [0]
+[2024-04-17 00:31:22.507173] UPDATE : ####################################################
+[2024-04-17 00:31:22.507173] UPDATE : Searching...
+[2024-04-17 00:31:22.507173] UPDATE : ####################################################
+[2024-04-17 00:31:22.509167] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes
+[2024-04-17 00:31:22.509167] UPDATE : thread launched
+[2024-04-17 00:31:22.510165] UPDATE : done searching
+[2024-04-17 00:31:22.509167] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes
+[2024-04-17 00:31:23.244106] UPDATE : [0]
+[2024-04-17 00:31:23.245103] UPDATE : ####################################################
+[2024-04-17 00:31:23.245103] UPDATE : Searching...
+[2024-04-17 00:31:23.245103] UPDATE : ####################################################
+[2024-04-17 00:31:23.247098] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes
+[2024-04-17 00:31:23.248096] UPDATE : thread launched
+[2024-04-17 00:31:23.248096] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes
+[2024-04-17 00:31:23.249443] UPDATE : thread launched
+[2024-04-17 00:31:23.249443] UPDATE : done searching
+[2024-04-17 00:31:23.249443] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes
+[2024-04-17 00:31:23.248096] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes
+[2024-04-17 00:31:28.135637] UPDATE : [0]
+[2024-04-17 00:31:28.136609] UPDATE : ####################################################
+[2024-04-17 00:31:28.136609] UPDATE : Searching...
+[2024-04-17 00:31:28.136609] UPDATE : ####################################################
+[2024-04-17 00:31:28.138628] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/mod/edit
+[2024-04-17 00:31:28.139626] UPDATE : thread launched
+[2024-04-17 00:31:28.139626] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/mod/publish
+[2024-04-17 00:31:28.140927] UPDATE : thread launched
+[2024-04-17 00:31:28.140927] UPDATE : done searching
+[2024-04-17 00:31:28.140927] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/mod/publish
+[2024-04-17 00:31:28.139626] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/mod/edit
+[2024-04-17 00:31:35.201014] UPDATE : [0]
+[2024-04-17 00:31:35.201014] UPDATE : ####################################################
+[2024-04-17 00:31:35.202011] UPDATE : Searching...
+[2024-04-17 00:31:35.202011] UPDATE : ####################################################
+[2024-04-17 00:31:35.205003] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/mod/edit
+[2024-04-17 00:31:35.205003] UPDATE : thread launched
+[2024-04-17 00:31:35.206000] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/mod/publish
+[2024-04-17 00:31:35.206669] UPDATE : thread launched
+[2024-04-17 00:31:35.206669] UPDATE : done searching
+[2024-04-17 00:31:35.205003] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/mod/edit
+[2024-04-17 00:31:35.206669] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/mod/publish
+[2024-04-17 00:31:39.506480] UPDATE : [0]
+[2024-04-17 00:31:39.507477] UPDATE : ####################################################
+[2024-04-17 00:31:39.507477] UPDATE : Searching...
+[2024-04-17 00:31:39.507477] UPDATE : ####################################################
+[2024-04-17 00:31:39.509472] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/mod/edit
+[2024-04-17 00:31:39.510470] UPDATE : thread launched
+[2024-04-17 00:31:39.510470] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/mod/publish
+[2024-04-17 00:31:39.511467] UPDATE : thread launched
+[2024-04-17 00:31:39.511467] UPDATE : done searching
+[2024-04-17 00:31:39.511467] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/mod/publish
+[2024-04-17 00:31:39.510470] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/mod/edit
+[2024-04-17 00:31:40.288592] UPDATE : [0]
+[2024-04-17 00:31:40.403983] UPDATE : ####################################################
+[2024-04-17 00:31:40.403983] UPDATE : Searching...
+[2024-04-17 00:31:40.403983] UPDATE : ####################################################
+[2024-04-17 00:31:40.406977] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/mod/edit
+[2024-04-17 00:31:40.407974] UPDATE : thread launched
+[2024-04-17 00:31:40.407974] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/mod/publish
+[2024-04-17 00:31:40.408972] UPDATE : thread launched
+[2024-04-17 00:31:40.408972] UPDATE : done searching
+[2024-04-17 00:31:40.408972] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/mod/publish
+[2024-04-17 00:31:40.407974] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/mod/edit
+[2024-04-17 00:31:45.067291] UPDATE : [0]
+[2024-04-17 00:31:45.068263] UPDATE : ####################################################
+[2024-04-17 00:31:45.068263] UPDATE : Searching...
+[2024-04-17 00:31:45.068263] UPDATE : ####################################################
+[2024-04-17 00:31:45.071283] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes
+[2024-04-17 00:31:45.072489] UPDATE : thread launched
+[2024-04-17 00:31:45.072489] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:31:45.073458] UPDATE : thread launched
+[2024-04-17 00:31:45.073458] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char/max/maya/scenes
+[2024-04-17 00:31:45.074458] UPDATE : thread launched
+[2024-04-17 00:31:45.074458] UPDATE : done searching
+[2024-04-17 00:31:45.073458] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:31:45.074458] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/max/maya/scenes
+[2024-04-17 00:31:45.072489] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes
+[2024-04-17 00:31:45.803749] UPDATE : [0]
+[2024-04-17 00:31:45.803749] UPDATE : ####################################################
+[2024-04-17 00:31:45.804747] UPDATE : Searching...
+[2024-04-17 00:31:45.804747] UPDATE : ####################################################
+[2024-04-17 00:31:45.807739] UPDATE : done searching
+[2024-04-17 00:31:47.529267] UPDATE : [0]
+[2024-04-17 00:31:47.530237] UPDATE : ####################################################
+[2024-04-17 00:31:47.530237] UPDATE : Searching...
+[2024-04-17 00:31:47.531259] UPDATE : ####################################################
+[2024-04-17 00:31:47.532231] UPDATE : done searching
+[2024-04-17 00:31:47.931300] UPDATE : [0]
+[2024-04-17 00:31:47.931300] UPDATE : ####################################################
+[2024-04-17 00:31:47.932298] UPDATE : Searching...
+[2024-04-17 00:31:47.932298] UPDATE : ####################################################
+[2024-04-17 00:31:47.933295] UPDATE : done searching
+[2024-04-17 00:31:48.269199] UPDATE : [0]
+[2024-04-17 00:31:48.269199] UPDATE : ####################################################
+[2024-04-17 00:31:48.269199] UPDATE : Searching...
+[2024-04-17 00:31:48.270197] UPDATE : ####################################################
+[2024-04-17 00:31:48.275183] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char
+[2024-04-17 00:31:48.276155] UPDATE : thread launched
+[2024-04-17 00:31:48.276155] UPDATE : done searching
+[2024-04-17 00:31:48.276155] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char
+[2024-04-17 00:31:49.018004] UPDATE : [0]
+[2024-04-17 00:31:49.019003] UPDATE : ####################################################
+[2024-04-17 00:31:49.019999] UPDATE : Searching...
+[2024-04-17 00:31:49.019999] UPDATE : ####################################################
+[2024-04-17 00:31:49.020997] UPDATE : done searching
+[2024-04-17 00:31:49.686462] UPDATE : [0]
+[2024-04-17 00:31:49.686462] UPDATE : ####################################################
+[2024-04-17 00:31:49.687459] UPDATE : Searching...
+[2024-04-17 00:31:49.687459] UPDATE : ####################################################
+[2024-04-17 00:31:49.689453] UPDATE : done searching
+[2024-04-17 00:31:53.691249] UPDATE : [0]
+[2024-04-17 00:31:53.692246] UPDATE : ####################################################
+[2024-04-17 00:31:53.692246] UPDATE : Searching...
+[2024-04-17 00:31:53.693259] UPDATE : ####################################################
+[2024-04-17 00:31:53.695241] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:31:53.695241] UPDATE : thread launched
+[2024-04-17 00:31:53.696236] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes
+[2024-04-17 00:31:53.696961] UPDATE : thread launched
+[2024-04-17 00:31:53.696961] UPDATE : done searching
+[2024-04-17 00:31:53.695241] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:31:53.696961] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes
+[2024-04-17 00:31:54.256888] UPDATE : [0]
+[2024-04-17 00:31:54.257910] UPDATE : ####################################################
+[2024-04-17 00:31:54.257910] UPDATE : Searching...
+[2024-04-17 00:31:54.258882] UPDATE : ####################################################
+[2024-04-17 00:31:54.260877] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/mod/edit
+[2024-04-17 00:31:54.260877] UPDATE : thread launched
+[2024-04-17 00:31:54.261899] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/mod/publish
+[2024-04-17 00:31:54.262880] UPDATE : thread launched
+[2024-04-17 00:31:54.262880] UPDATE : done searching
+[2024-04-17 00:31:54.260877] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/mod/edit
+[2024-04-17 00:31:54.261899] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/mod/publish
+[2024-04-17 00:32:22.829714] UPDATE : [0]
+[2024-04-17 00:32:22.830711] UPDATE : ####################################################
+[2024-04-17 00:32:22.830711] UPDATE : Searching...
+[2024-04-17 00:32:22.830711] UPDATE : ####################################################
+[2024-04-17 00:32:22.831709] UPDATE : done searching
+[2024-04-17 00:32:23.320587] UPDATE : [0]
+[2024-04-17 00:32:23.320587] UPDATE : ####################################################
+[2024-04-17 00:32:23.321584] UPDATE : Searching...
+[2024-04-17 00:32:23.321584] UPDATE : ####################################################
+[2024-04-17 00:32:23.326570] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char
+[2024-04-17 00:32:23.327593] UPDATE : thread launched
+[2024-04-17 00:32:23.327593] UPDATE : done searching
+[2024-04-17 00:32:23.327593] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char
+[2024-04-17 00:32:23.902018] UPDATE : [0]
+[2024-04-17 00:32:23.903016] UPDATE : ####################################################
+[2024-04-17 00:32:23.903016] UPDATE : Searching...
+[2024-04-17 00:32:23.903986] UPDATE : ####################################################
+[2024-04-17 00:32:23.904984] UPDATE : done searching
+[2024-04-17 00:32:24.354116] UPDATE : [0]
+[2024-04-17 00:32:24.355109] UPDATE : ####################################################
+[2024-04-17 00:32:24.355109] UPDATE : Searching...
+[2024-04-17 00:32:24.356102] UPDATE : ####################################################
+[2024-04-17 00:32:24.358101] UPDATE : done searching
+[2024-04-17 00:32:25.406977] UPDATE : [0]
+[2024-04-17 00:32:25.407974] UPDATE : ####################################################
+[2024-04-17 00:32:25.407974] UPDATE : Searching...
+[2024-04-17 00:32:25.408944] UPDATE : ####################################################
+[2024-04-17 00:32:25.411936] UPDATE : done searching
+[2024-04-17 00:32:29.672638] UPDATE : []
+[2024-04-17 00:32:29.672638] UPDATE : ####################################################
+[2024-04-17 00:32:29.673635] UPDATE : Searching...
+[2024-04-17 00:32:29.673635] UPDATE : ####################################################
+[2024-04-17 00:32:30.744423] UPDATE : [0]
+[2024-04-17 00:32:30.745422] UPDATE : ####################################################
+[2024-04-17 00:32:30.745422] UPDATE : Searching...
+[2024-04-17 00:32:30.746419] UPDATE : ####################################################
+[2024-04-17 00:32:30.751405] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char
+[2024-04-17 00:32:30.752133] UPDATE : thread launched
+[2024-04-17 00:32:30.752133] UPDATE : done searching
+[2024-04-17 00:32:30.752133] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char
+[2024-04-17 00:32:34.260207] UPDATE : [0]
+[2024-04-17 00:32:34.261205] UPDATE : ####################################################
+[2024-04-17 00:32:34.261205] UPDATE : Searching...
+[2024-04-17 00:32:34.262202] UPDATE : ####################################################
+[2024-04-17 00:32:34.263199] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes
+[2024-04-17 00:32:34.263199] UPDATE : thread launched
+[2024-04-17 00:32:34.264196] UPDATE : done searching
+[2024-04-17 00:32:34.263199] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes
+[2024-04-17 00:32:34.662533] UPDATE : [0]
+[2024-04-17 00:32:34.663530] UPDATE : ####################################################
+[2024-04-17 00:32:34.664528] UPDATE : Searching...
+[2024-04-17 00:32:34.664528] UPDATE : ####################################################
+[2024-04-17 00:32:34.666522] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes
+[2024-04-17 00:32:34.667400] UPDATE : thread launched
+[2024-04-17 00:32:34.667400] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:32:34.668400] UPDATE : thread launched
+[2024-04-17 00:32:34.668400] UPDATE : done searching
+[2024-04-17 00:32:34.667400] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes
+[2024-04-17 00:32:34.668400] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:32:36.089878] UPDATE : [0]
+[2024-04-17 00:32:36.089878] UPDATE : ####################################################
+[2024-04-17 00:32:36.090850] UPDATE : Searching...
+[2024-04-17 00:32:36.090850] UPDATE : ####################################################
+[2024-04-17 00:32:36.092869] UPDATE : done searching
+[2024-04-17 00:32:45.336972] UPDATE : [0]
+[2024-04-17 00:32:45.337974] UPDATE : ####################################################
+[2024-04-17 00:32:45.338975] UPDATE : Searching...
+[2024-04-17 00:32:45.338975] UPDATE : ####################################################
+[2024-04-17 00:32:45.340967] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes
+[2024-04-17 00:32:45.341937] UPDATE : thread launched
+[2024-04-17 00:32:45.341937] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:32:45.342934] UPDATE : thread launched
+[2024-04-17 00:32:45.343310] UPDATE : done searching
+[2024-04-17 00:32:45.340967] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes
+[2024-04-17 00:32:45.341937] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:32:45.729635] UPDATE : [0]
+[2024-04-17 00:32:45.730632] UPDATE : ####################################################
+[2024-04-17 00:32:45.730632] UPDATE : Searching...
+[2024-04-17 00:32:45.730632] UPDATE : ####################################################
+[2024-04-17 00:32:45.732626] UPDATE : done searching
+[2024-04-17 00:32:59.277662] UPDATE : [0]
+[2024-04-17 00:32:59.278662] UPDATE : ####################################################
+[2024-04-17 00:32:59.278662] UPDATE : Searching...
+[2024-04-17 00:32:59.278662] UPDATE : ####################################################
+[2024-04-17 00:32:59.280657] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes
+[2024-04-17 00:32:59.281935] UPDATE : thread launched
+[2024-04-17 00:32:59.281935] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:32:59.282895] UPDATE : thread launched
+[2024-04-17 00:32:59.282895] UPDATE : done searching
+[2024-04-17 00:32:59.282895] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:32:59.281935] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes
+[2024-04-17 00:32:59.970553] UPDATE : [0]
+[2024-04-17 00:32:59.971550] UPDATE : ####################################################
+[2024-04-17 00:32:59.971550] UPDATE : Searching...
+[2024-04-17 00:32:59.972547] UPDATE : ####################################################
+[2024-04-17 00:32:59.973544] UPDATE : done searching
+[2024-04-17 00:33:00.448533] UPDATE : [0]
+[2024-04-17 00:33:00.449530] UPDATE : ####################################################
+[2024-04-17 00:33:00.449530] UPDATE : Searching...
+[2024-04-17 00:33:00.449530] UPDATE : ####################################################
+[2024-04-17 00:33:00.451525] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes
+[2024-04-17 00:33:00.452522] UPDATE : thread launched
+[2024-04-17 00:33:00.452522] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:33:00.453519] UPDATE : thread launched
+[2024-04-17 00:33:00.453519] UPDATE : done searching
+[2024-04-17 00:33:00.452522] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes
+[2024-04-17 00:33:00.453519] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:33:01.305785] UPDATE : [0]
+[2024-04-17 00:33:01.306802] UPDATE : ####################################################
+[2024-04-17 00:33:01.306802] UPDATE : Searching...
+[2024-04-17 00:33:01.306802] UPDATE : ####################################################
+[2024-04-17 00:33:01.308776] UPDATE : done searching
+[2024-04-17 00:33:01.859134] UPDATE : [0]
+[2024-04-17 00:33:01.860157] UPDATE : ####################################################
+[2024-04-17 00:33:01.860157] UPDATE : Searching...
+[2024-04-17 00:33:01.860157] UPDATE : ####################################################
+[2024-04-17 00:33:01.862153] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes
+[2024-04-17 00:33:01.863149] UPDATE : thread launched
+[2024-04-17 00:33:01.863149] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:33:01.864121] UPDATE : thread launched
+[2024-04-17 00:33:01.864121] UPDATE : done searching
+[2024-04-17 00:33:01.864121] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:33:01.863149] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes
+[2024-04-17 00:33:02.946493] UPDATE : [0]
+[2024-04-17 00:33:02.946493] UPDATE : ####################################################
+[2024-04-17 00:33:02.946493] UPDATE : Searching...
+[2024-04-17 00:33:02.947490] UPDATE : ####################################################
+[2024-04-17 00:33:02.948487] UPDATE : done searching
+[2024-04-17 00:33:04.310244] UPDATE : [0]
+[2024-04-17 00:33:04.310244] UPDATE : ####################################################
+[2024-04-17 00:33:04.310244] UPDATE : Searching...
+[2024-04-17 00:33:04.311242] UPDATE : ####################################################
+[2024-04-17 00:33:04.313236] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes
+[2024-04-17 00:33:04.313236] UPDATE : thread launched
+[2024-04-17 00:33:04.314233] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:33:04.314233] UPDATE : thread launched
+[2024-04-17 00:33:04.315231] UPDATE : done searching
+[2024-04-17 00:33:04.313236] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes
+[2024-04-17 00:33:04.314233] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:33:05.601051] UPDATE : [0]
+[2024-04-17 00:33:05.601051] UPDATE : ####################################################
+[2024-04-17 00:33:05.602023] UPDATE : Searching...
+[2024-04-17 00:33:05.602023] UPDATE : ####################################################
+[2024-04-17 00:33:05.603021] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:33:05.604043] UPDATE : thread launched
+[2024-04-17 00:33:05.604043] UPDATE : done searching
+[2024-04-17 00:33:05.604043] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:33:06.659295] UPDATE : [0]
+[2024-04-17 00:33:06.659295] UPDATE : ####################################################
+[2024-04-17 00:33:06.660267] UPDATE : Searching...
+[2024-04-17 00:33:06.660267] UPDATE : ####################################################
+[2024-04-17 00:33:06.665253] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char
+[2024-04-17 00:33:06.666492] UPDATE : thread launched
+[2024-04-17 00:33:06.666492] UPDATE : done searching
+[2024-04-17 00:33:06.666492] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char
+[2024-04-17 00:33:08.058972] UPDATE : [0]
+[2024-04-17 00:33:08.058972] UPDATE : ####################################################
+[2024-04-17 00:33:08.059970] UPDATE : Searching...
+[2024-04-17 00:33:08.059970] UPDATE : ####################################################
+[2024-04-17 00:33:08.060969] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes
+[2024-04-17 00:33:08.061976] UPDATE : thread launched
+[2024-04-17 00:33:08.061976] UPDATE : done searching
+[2024-04-17 00:33:08.061976] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes
+[2024-04-17 00:33:09.049756] UPDATE : [0]
+[2024-04-17 00:33:09.058420] UPDATE : ####################################################
+[2024-04-17 00:33:09.058963] UPDATE : Searching...
+[2024-04-17 00:33:09.058963] UPDATE : ####################################################
+[2024-04-17 00:33:09.059983] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/mod/edit
+[2024-04-17 00:33:09.060954] UPDATE : thread launched
+[2024-04-17 00:33:09.060954] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/mod/publish
+[2024-04-17 00:33:09.061952] UPDATE : thread launched
+[2024-04-17 00:33:09.061952] UPDATE : done searching
+[2024-04-17 00:33:09.060954] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/mod/edit
+[2024-04-17 00:33:09.061952] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/mod/publish
+[2024-04-17 00:33:14.850989] UPDATE : [0]
+[2024-04-17 00:33:14.851986] UPDATE : ####################################################
+[2024-04-17 00:33:14.851986] UPDATE : Searching...
+[2024-04-17 00:33:14.852984] UPDATE : ####################################################
+[2024-04-17 00:33:14.857997] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char
+[2024-04-17 00:33:14.857997] UPDATE : thread launched
+[2024-04-17 00:33:14.858994] UPDATE : done searching
+[2024-04-17 00:33:14.857997] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char
+[2024-04-17 00:33:15.544522] UPDATE : [0]
+[2024-04-17 00:33:15.544522] UPDATE : ####################################################
+[2024-04-17 00:33:15.545520] UPDATE : Searching...
+[2024-04-17 00:33:15.545520] UPDATE : ####################################################
+[2024-04-17 00:33:15.546517] UPDATE : done searching
+[2024-04-17 00:33:17.389594] UPDATE : [0]
+[2024-04-17 00:33:17.390578] UPDATE : ####################################################
+[2024-04-17 00:33:17.390578] UPDATE : Searching...
+[2024-04-17 00:33:17.390578] UPDATE : ####################################################
+[2024-04-17 00:33:17.391586] UPDATE : trying to launch thread for D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes
+[2024-04-17 00:33:17.393028] UPDATE : thread launched
+[2024-04-17 00:33:17.393028] UPDATE : done searching
+[2024-04-17 00:33:17.393028] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes
+[2024-04-17 00:33:17.741221] UPDATE : [0]
+[2024-04-17 00:33:17.742220] UPDATE : ####################################################
+[2024-04-17 00:33:17.742220] UPDATE : Searching...
+[2024-04-17 00:33:17.742220] UPDATE : ####################################################
+[2024-04-17 00:33:17.743216] UPDATE : done searching
+
+
+[2024-04-17 00:34:09.522960] New Pipo session opened on <built-in function gethostname>
+[2024-04-17 00:34:09.537920] UPDATE : Personnal settings opened
+[2024-04-17 00:34:11.398934] UPDATE : Project selected : testproject
+[2024-04-17 00:34:11.399931] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-04-17 00:34:11.400929] UPDATE : Project settings loaded!
+[2024-04-17 00:34:13.058942] UPDATE : [0]
+[2024-04-17 00:34:13.058942] UPDATE : ####################################################
+[2024-04-17 00:34:13.059911] UPDATE : Searching...
+[2024-04-17 00:34:13.059911] UPDATE : ####################################################
+[2024-04-17 00:34:13.064898] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char
+[2024-04-17 00:34:13.065896] UPDATE : done searching
+[2024-04-17 00:34:13.065896] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char
+[2024-04-17 00:34:14.536019] UPDATE : [0]
+[2024-04-17 00:34:14.537017] UPDATE : ####################################################
+[2024-04-17 00:34:14.537017] UPDATE : Searching...
+[2024-04-17 00:34:14.537017] UPDATE : ####################################################
+[2024-04-17 00:34:14.539011] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:34:14.539011] UPDATE : done searching
+[2024-04-17 00:34:14.539011] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:34:27.643738] UPDATE : [0]
+[2024-04-17 00:34:27.644735] UPDATE : ####################################################
+[2024-04-17 00:34:27.644735] UPDATE : Searching...
+[2024-04-17 00:34:27.645733] UPDATE : ####################################################
+[2024-04-17 00:34:27.647727] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:34:27.647727] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes
+[2024-04-17 00:34:27.648724] UPDATE : done searching
+[2024-04-17 00:34:27.648724] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes
+[2024-04-17 00:34:27.647727] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:34:32.189713] UPDATE : [0]
+[2024-04-17 00:34:32.190711] UPDATE : ####################################################
+[2024-04-17 00:34:32.190711] UPDATE : Searching...
+[2024-04-17 00:34:32.190711] UPDATE : ####################################################
+[2024-04-17 00:34:32.192707] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/mod/edit
+[2024-04-17 00:34:32.193703] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/mod/publish
+[2024-04-17 00:34:32.194675] UPDATE : done searching
+[2024-04-17 00:34:32.194675] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/mod/publish
+[2024-04-17 00:34:32.193703] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/mod/edit
+
+
+[2024-04-17 00:36:21.549618] New Pipo session opened on <built-in function gethostname>
+[2024-04-17 00:36:21.565577] UPDATE : Personnal settings opened
+[2024-04-17 00:36:23.527242] UPDATE : Project selected : testproject
+[2024-04-17 00:36:23.528240] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-04-17 00:36:23.528240] UPDATE : Project settings loaded!
+[2024-04-17 00:36:24.982923] UPDATE : [0]
+[2024-04-17 00:36:24.982923] UPDATE : ####################################################
+[2024-04-17 00:36:24.983920] UPDATE : Searching...
+[2024-04-17 00:36:24.983920] UPDATE : ####################################################
+
+
+[2024-04-17 00:36:41.772755] New Pipo session opened on <built-in function gethostname>
+[2024-04-17 00:36:41.788710] UPDATE : Personnal settings opened
+[2024-04-17 00:36:43.332420] UPDATE : Project selected : testproject
+[2024-04-17 00:36:43.332420] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-04-17 00:36:43.332420] UPDATE : Project settings loaded!
+[2024-04-17 00:36:44.413217] UPDATE : [0]
+[2024-04-17 00:36:44.413217] UPDATE : ####################################################
+[2024-04-17 00:36:44.414227] UPDATE : Searching...
+[2024-04-17 00:36:44.414227] UPDATE : ####################################################
+
+
+[2024-04-17 00:36:53.634855] New Pipo session opened on <built-in function gethostname>
+[2024-04-17 00:36:53.649638] UPDATE : Personnal settings opened
+[2024-04-17 00:36:55.403202] UPDATE : Project selected : testproject
+[2024-04-17 00:36:55.403785] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-04-17 00:36:55.403785] UPDATE : Project settings loaded!
+[2024-04-17 00:36:56.450612] UPDATE : [1]
+[2024-04-17 00:36:56.451611] UPDATE : ####################################################
+[2024-04-17 00:36:56.451611] UPDATE : Searching...
+[2024-04-17 00:36:56.451611] UPDATE : ####################################################
+
+
+[2024-04-17 00:37:19.429719] New Pipo session opened on <built-in function gethostname>
+[2024-04-17 00:37:19.445673] UPDATE : Personnal settings opened
+[2024-04-17 00:37:21.099772] UPDATE : Project selected : testproject
+[2024-04-17 00:37:21.099772] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-04-17 00:37:21.099772] UPDATE : Project settings loaded!
+[2024-04-17 00:37:22.086628] UPDATE : [0]
+[2024-04-17 00:37:22.087626] UPDATE : ####################################################
+[2024-04-17 00:37:22.087626] UPDATE : Searching...
+[2024-04-17 00:37:22.087626] UPDATE : ####################################################
+[2024-04-17 00:37:22.088623] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char
+[2024-04-17 00:37:22.089620] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char
+[2024-04-17 00:37:22.090618] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char
+[2024-04-17 00:37:22.090618] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char
+[2024-04-17 00:37:22.091615] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char
+[2024-04-17 00:37:22.092612] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char
+[2024-04-17 00:37:22.093610] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char
+[2024-04-17 00:37:22.093610] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char
+[2024-04-17 00:37:22.094607] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char
+[2024-04-17 00:37:22.095604] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char
+[2024-04-17 00:37:22.096602] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char
+[2024-04-17 00:37:22.096602] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char
+[2024-04-17 00:37:22.097599] UPDATE : done searching
+[2024-04-17 00:37:23.934491] UPDATE : [0]
+[2024-04-17 00:37:23.935488] UPDATE : ####################################################
+[2024-04-17 00:37:23.935488] UPDATE : Searching...
+[2024-04-17 00:37:23.935488] UPDATE : ####################################################
+[2024-04-17 00:37:23.936486] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:37:23.936486] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:37:23.937483] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:37:23.937483] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:37:23.937483] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:37:23.938480] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:37:23.938480] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:37:23.939478] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:37:23.939478] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:37:23.939478] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:37:23.940475] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:37:23.940475] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:37:23.941472] UPDATE : done searching
+[2024-04-17 00:37:24.341565] UPDATE : [0]
+[2024-04-17 00:37:24.342559] UPDATE : ####################################################
+[2024-04-17 00:37:24.342559] UPDATE : Searching...
+[2024-04-17 00:37:24.343559] UPDATE : ####################################################
+[2024-04-17 00:37:24.343559] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:37:24.343559] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:37:24.344557] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:37:24.344557] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:37:24.345554] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:37:24.345554] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:37:24.345554] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/max/maya/scenes
+[2024-04-17 00:37:24.346553] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/max/maya/scenes
+[2024-04-17 00:37:24.346553] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/max/maya/scenes
+[2024-04-17 00:37:24.347552] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/max/maya/scenes
+[2024-04-17 00:37:24.347552] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/max/maya/scenes
+[2024-04-17 00:37:24.347552] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/max/maya/scenes
+[2024-04-17 00:37:24.348546] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:37:24.348546] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:37:24.349544] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:37:24.349544] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:37:24.349544] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:37:24.350541] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:37:24.350541] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/max/maya/scenes
+[2024-04-17 00:37:24.351538] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/max/maya/scenes
+[2024-04-17 00:37:24.351538] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/max/maya/scenes
+[2024-04-17 00:37:24.351538] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/max/maya/scenes
+[2024-04-17 00:37:24.352536] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/max/maya/scenes
+[2024-04-17 00:37:24.352536] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/max/maya/scenes
+[2024-04-17 00:37:24.353537] UPDATE : done searching
+[2024-04-17 00:37:34.188999] UPDATE : [0]
+[2024-04-17 00:37:34.190026] UPDATE : ####################################################
+[2024-04-17 00:37:34.190026] UPDATE : Searching...
+[2024-04-17 00:37:34.190994] UPDATE : ####################################################
+[2024-04-17 00:37:34.190994] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes/mod/edit
+[2024-04-17 00:37:34.190994] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes/mod/edit
+[2024-04-17 00:37:34.191991] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes/mod/edit
+[2024-04-17 00:37:34.191991] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes/mod/publish
+[2024-04-17 00:37:34.192988] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes/mod/publish
+[2024-04-17 00:37:34.192988] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes/mod/publish
+[2024-04-17 00:37:34.192988] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/max/maya/scenes/mod/edit
+[2024-04-17 00:37:34.193986] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/max/maya/scenes/mod/edit
+[2024-04-17 00:37:34.193986] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/max/maya/scenes/mod/edit
+[2024-04-17 00:37:34.194983] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/max/maya/scenes/mod/publish
+[2024-04-17 00:37:34.194983] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/max/maya/scenes/mod/publish
+[2024-04-17 00:37:34.194983] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/max/maya/scenes/mod/publish
+[2024-04-17 00:37:34.195980] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes/mod/edit
+[2024-04-17 00:37:34.195980] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes/mod/edit
+[2024-04-17 00:37:34.197003] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes/mod/edit
+[2024-04-17 00:37:34.197003] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes/mod/publish
+[2024-04-17 00:37:34.197003] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes/mod/publish
+[2024-04-17 00:37:34.198000] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes/mod/publish
+[2024-04-17 00:37:34.198000] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/max/maya/scenes/mod/edit
+[2024-04-17 00:37:34.198997] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/max/maya/scenes/mod/edit
+[2024-04-17 00:37:34.198997] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/max/maya/scenes/mod/edit
+[2024-04-17 00:37:34.198997] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/max/maya/scenes/mod/publish
+[2024-04-17 00:37:34.199995] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/max/maya/scenes/mod/publish
+[2024-04-17 00:37:34.199995] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/max/maya/scenes/mod/publish
+[2024-04-17 00:37:34.200993] UPDATE : done searching
+
+
+[2024-04-17 00:43:33.042784] New Pipo session opened on <built-in function gethostname>
+[2024-04-17 00:43:33.058247] UPDATE : Personnal settings opened
+[2024-04-17 00:43:36.792638] UPDATE : Project selected : testproject
+[2024-04-17 00:43:36.793635] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-04-17 00:43:36.793635] UPDATE : Project settings loaded!
+[2024-04-17 00:43:38.410746] UPDATE : [0]
+[2024-04-17 00:43:38.410746] UPDATE : ####################################################
+[2024-04-17 00:43:38.411744] UPDATE : Searching...
+[2024-04-17 00:43:38.411744] UPDATE : ####################################################
+[2024-04-17 00:43:38.412741] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char
+[2024-04-17 00:43:38.413738] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char
+[2024-04-17 00:43:38.414736] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char
+[2024-04-17 00:43:38.415733] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char
+[2024-04-17 00:43:38.416730] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char
+[2024-04-17 00:43:38.417728] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char
+[2024-04-17 00:43:38.417728] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char
+[2024-04-17 00:43:38.418725] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char
+[2024-04-17 00:43:38.419722] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char
+[2024-04-17 00:43:38.420720] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char
+[2024-04-17 00:43:38.421717] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char
+[2024-04-17 00:43:38.422714] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char
+[2024-04-17 00:43:38.423712] UPDATE : done searching
+[2024-04-17 00:43:39.153162] UPDATE : [0]
+[2024-04-17 00:43:39.154159] UPDATE : ####################################################
+[2024-04-17 00:43:39.154159] UPDATE : Searching...
+[2024-04-17 00:43:39.155157] UPDATE : ####################################################
+[2024-04-17 00:43:39.155157] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:43:39.156154] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:43:39.157151] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:43:39.158149] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:43:39.159146] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:43:39.159146] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:43:39.160143] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:43:39.161141] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:43:39.162138] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:43:39.162138] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:43:39.163135] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:43:39.164133] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:43:39.164133] UPDATE : done searching
+[2024-04-17 00:43:41.000306] UPDATE : [0]
+[2024-04-17 00:43:41.000306] UPDATE : ####################################################
+[2024-04-17 00:43:41.001278] UPDATE : Searching...
+[2024-04-17 00:43:41.001278] UPDATE : ####################################################
+[2024-04-17 00:43:41.002301] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:43:41.003298] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:43:41.003298] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:43:41.004295] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:43:41.005292] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:43:41.006289] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:43:41.007287] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes
+[2024-04-17 00:43:41.007287] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes
+[2024-04-17 00:43:41.008285] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes
+[2024-04-17 00:43:41.009282] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes
+[2024-04-17 00:43:41.010285] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes
+[2024-04-17 00:43:41.010285] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes
+[2024-04-17 00:43:41.011276] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:43:41.012274] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:43:41.013271] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:43:41.014243] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:43:41.015264] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:43:41.015264] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:43:41.016263] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes
+[2024-04-17 00:43:41.017269] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes
+[2024-04-17 00:43:41.018258] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes
+[2024-04-17 00:43:41.019255] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes
+[2024-04-17 00:43:41.019255] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes
+[2024-04-17 00:43:41.020252] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes
+[2024-04-17 00:43:41.021251] UPDATE : done searching
+[2024-04-17 00:43:44.949008] UPDATE : [0]
+[2024-04-17 00:43:44.949008] UPDATE : ####################################################
+[2024-04-17 00:43:44.950006] UPDATE : Searching...
+[2024-04-17 00:43:44.950006] UPDATE : ####################################################
+[2024-04-17 00:43:44.951004] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes/mod
+[2024-04-17 00:43:44.952001] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes/mod
+[2024-04-17 00:43:44.952998] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes/mod
+[2024-04-17 00:43:44.953995] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes/mod
+[2024-04-17 00:43:44.954992] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes/mod
+[2024-04-17 00:43:44.955989] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes/mod
+[2024-04-17 00:43:44.956987] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/mod/edit
+[2024-04-17 00:43:44.957985] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/mod/edit
+[2024-04-17 00:43:44.958981] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/mod/edit
+[2024-04-17 00:43:44.959979] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/mod/publish
+[2024-04-17 00:43:44.960976] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/mod/publish
+[2024-04-17 00:43:44.960976] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/mod/publish
+[2024-04-17 00:43:44.961974] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes/mod
+[2024-04-17 00:43:44.962971] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes/mod
+[2024-04-17 00:43:44.963968] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes/mod
+[2024-04-17 00:43:44.964966] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes/mod
+[2024-04-17 00:43:44.965963] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes/mod
+[2024-04-17 00:43:44.966960] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes/mod
+[2024-04-17 00:43:44.967958] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/mod/edit
+[2024-04-17 00:43:44.968955] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/mod/edit
+[2024-04-17 00:43:44.969952] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/mod/edit
+[2024-04-17 00:43:44.970949] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/mod/publish
+[2024-04-17 00:43:44.970949] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/mod/publish
+[2024-04-17 00:43:44.971947] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/mod/publish
+[2024-04-17 00:43:44.972944] UPDATE : done searching
+
+
+[2024-04-17 00:44:31.696719] New Pipo session opened on <built-in function gethostname>
+[2024-04-17 00:44:31.712677] UPDATE : Personnal settings opened
+[2024-04-17 00:44:34.860541] UPDATE : Project selected : testproject
+[2024-04-17 00:44:34.861274] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-04-17 00:44:34.861274] UPDATE : Project settings loaded!
+[2024-04-17 00:44:36.927117] UPDATE : [0]
+[2024-04-17 00:44:36.928118] UPDATE : ####################################################
+[2024-04-17 00:44:36.928118] UPDATE : Searching...
+[2024-04-17 00:44:36.929111] UPDATE : ####################################################
+[2024-04-17 00:44:36.936097] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char
+[2024-04-17 00:44:36.937095] UPDATE : done searching
+[2024-04-17 00:44:36.937095] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char
+[2024-04-17 00:44:37.668865] UPDATE : [0]
+[2024-04-17 00:44:37.669862] UPDATE : ####################################################
+[2024-04-17 00:44:37.669862] UPDATE : Searching...
+[2024-04-17 00:44:37.670860] UPDATE : ####################################################
+[2024-04-17 00:44:37.675846] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes
+[2024-04-17 00:44:37.677294] UPDATE : done searching
+[2024-04-17 00:44:37.677294] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes
+[2024-04-17 00:44:38.268793] UPDATE : [0]
+[2024-04-17 00:44:38.269790] UPDATE : ####################################################
+[2024-04-17 00:44:38.269790] UPDATE : Searching...
+[2024-04-17 00:44:38.270787] UPDATE : ####################################################
+[2024-04-17 00:44:38.281783] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes
+[2024-04-17 00:44:38.282391] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/max/maya/scenes
+[2024-04-17 00:44:38.283070] UPDATE : done searching
+[2024-04-17 00:44:38.283070] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/max/maya/scenes
+[2024-04-17 00:44:38.282391] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes
+[2024-04-17 00:44:39.285687] UPDATE : [0]
+[2024-04-17 00:44:39.286685] UPDATE : ####################################################
+[2024-04-17 00:44:39.286685] UPDATE : Searching...
+[2024-04-17 00:44:39.287682] UPDATE : ####################################################
+[2024-04-17 00:44:39.301670] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes/mod
+[2024-04-17 00:44:39.302657] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/max/maya/scenes/mod
+[2024-04-17 00:44:39.303325] UPDATE : done searching
+[2024-04-17 00:44:39.302657] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes/mod
+[2024-04-17 00:44:39.303325] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/max/maya/scenes/mod
+[2024-04-17 00:44:48.111176] UPDATE : [0]
+[2024-04-17 00:44:48.112173] UPDATE : ####################################################
+[2024-04-17 00:44:48.112173] UPDATE : Searching...
+[2024-04-17 00:44:48.113171] UPDATE : ####################################################
+[2024-04-17 00:44:48.133811] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes/mod
+[2024-04-17 00:44:48.134806] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/max/maya/scenes/mod
+[2024-04-17 00:44:48.134806] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/mod/edit
+[2024-04-17 00:44:48.135825] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/mod/publish
+[2024-04-17 00:44:48.136800] UPDATE : done searching
+[2024-04-17 00:44:48.134806] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/max/maya/scenes/mod
+[2024-04-17 00:44:48.136800] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/mod/publish
+[2024-04-17 00:44:48.134806] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes/mod
+[2024-04-17 00:44:48.135825] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/mod/edit
+
+
+[2024-04-17 00:46:27.066866] New Pipo session opened on <built-in function gethostname>
+[2024-04-17 00:46:27.081992] UPDATE : Personnal settings opened
+[2024-04-17 00:46:29.183391] UPDATE : Project selected : testproject
+[2024-04-17 00:46:29.184389] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-04-17 00:46:29.184389] UPDATE : Project settings loaded!
+[2024-04-17 00:46:30.373973] UPDATE : [0]
+[2024-04-17 00:46:30.802312] UPDATE : ####################################################
+[2024-04-17 00:46:30.802312] UPDATE : Searching...
+[2024-04-17 00:46:30.802312] UPDATE : ####################################################
+[2024-04-17 00:46:30.810292] UPDATE : done searching
+[2024-04-17 00:46:30.810292] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char
+[2024-04-17 00:46:32.280064] UPDATE : [0]
+[2024-04-17 00:46:32.280064] UPDATE : ####################################################
+[2024-04-17 00:46:32.281061] UPDATE : Searching...
+[2024-04-17 00:46:32.281061] UPDATE : ####################################################
+[2024-04-17 00:46:32.287042] UPDATE : done searching
+[2024-04-17 00:46:32.287042] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:46:32.867469] UPDATE : [0]
+[2024-04-17 00:46:32.867469] UPDATE : ####################################################
+[2024-04-17 00:46:32.868467] UPDATE : Searching...
+[2024-04-17 00:46:32.868467] UPDATE : ####################################################
+[2024-04-17 00:46:32.880228] UPDATE : done searching
+[2024-04-17 00:46:32.880228] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes
+[2024-04-17 00:46:32.878945] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:46:35.152309] UPDATE : [0]
+[2024-04-17 00:46:35.153307] UPDATE : ####################################################
+[2024-04-17 00:46:35.153307] UPDATE : Searching...
+[2024-04-17 00:46:35.153307] UPDATE : ####################################################
+[2024-04-17 00:46:35.168974] UPDATE : done searching
+[2024-04-17 00:46:35.168266] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/mod/edit
+[2024-04-17 00:46:35.167269] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes/mod
+[2024-04-17 00:46:35.168266] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/mod/publish
+
+
+[2024-04-17 00:47:16.299204] New Pipo session opened on <built-in function gethostname>
+[2024-04-17 00:47:16.314189] UPDATE : Personnal settings opened
+[2024-04-17 00:47:18.192596] UPDATE : Project selected : testproject
+[2024-04-17 00:47:18.193600] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-04-17 00:47:18.193600] UPDATE : Project settings loaded!
+[2024-04-17 00:47:19.346367] UPDATE : [0]
+[2024-04-17 00:47:19.346367] UPDATE : ####################################################
+[2024-04-17 00:47:19.347364] UPDATE : Searching...
+[2024-04-17 00:47:19.347364] UPDATE : ####################################################
+[2024-04-17 00:47:19.355342] UPDATE : done searching
+[2024-04-17 00:47:19.355342] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char
+[2024-04-17 00:47:19.414044] UPDATE : matteo_file1.txt
+[2024-04-17 00:47:19.417036] UPDATE : matteo_file2.txt
+[2024-04-17 00:47:24.424951] UPDATE : [0]
+[2024-04-17 00:47:24.425958] UPDATE : ####################################################
+[2024-04-17 00:47:24.425958] UPDATE : Searching...
+[2024-04-17 00:47:24.425958] UPDATE : ####################################################
+[2024-04-17 00:47:24.432843] UPDATE : done searching
+[2024-04-17 00:47:24.432843] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:47:24.446808] UPDATE : matteo_file1.txt
+[2024-04-17 00:47:24.449800] UPDATE : matteo_file2.txt
+[2024-04-17 00:47:24.996166] UPDATE : [0]
+[2024-04-17 00:47:24.996166] UPDATE : ####################################################
+[2024-04-17 00:47:24.997135] UPDATE : Searching...
+[2024-04-17 00:47:24.997135] UPDATE : ####################################################
+[2024-04-17 00:47:25.009103] UPDATE : done searching
+[2024-04-17 00:47:25.008133] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes
+[2024-04-17 00:47:25.008133] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:47:25.026011] UPDATE : matteo_file1.txt
+[2024-04-17 00:47:25.028039] UPDATE : matteo_file2.txt
+[2024-04-17 00:47:55.773754] UPDATE : [0]
+[2024-04-17 00:47:55.773754] UPDATE : ####################################################
+[2024-04-17 00:47:55.774727] UPDATE : Searching...
+[2024-04-17 00:47:55.774727] UPDATE : ####################################################
+[2024-04-17 00:47:55.792367] UPDATE : done searching
+[2024-04-17 00:47:55.792367] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/max/maya/scenes
+[2024-04-17 00:47:55.791968] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:47:55.792367] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes
+[2024-04-17 00:47:55.809887] UPDATE : matteo_file1.txt
+[2024-04-17 00:47:55.811882] UPDATE : matteo_file2.txt
+[2024-04-17 00:47:59.890960] UPDATE : [0]
+[2024-04-17 00:47:59.891957] UPDATE : ####################################################
+[2024-04-17 00:47:59.891957] UPDATE : Searching...
+[2024-04-17 00:47:59.892955] UPDATE : ####################################################
+[2024-04-17 00:47:59.903925] UPDATE : done searching
+[2024-04-17 00:47:59.903925] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/max/maya/scenes
+[2024-04-17 00:47:59.903925] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:47:59.925857] UPDATE : matteo_file1.txt
+[2024-04-17 00:47:59.926854] UPDATE : matteo_file2.txt
+[2024-04-17 00:48:01.279056] UPDATE : [0]
+[2024-04-17 00:48:01.280053] UPDATE : ####################################################
+[2024-04-17 00:48:01.280053] UPDATE : Searching...
+[2024-04-17 00:48:01.280053] UPDATE : ####################################################
+[2024-04-17 00:48:01.297257] UPDATE : done searching
+[2024-04-17 00:48:01.297257] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:48:01.297257] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes
+[2024-04-17 00:48:01.297257] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/max/maya/scenes
+[2024-04-17 00:48:01.315359] UPDATE : matteo_file1.txt
+[2024-04-17 00:48:01.317354] UPDATE : matteo_file2.txt
+[2024-04-17 00:48:15.681343] UPDATE : [0]
+[2024-04-17 00:48:15.681343] UPDATE : ####################################################
+[2024-04-17 00:48:15.682340] UPDATE : Searching...
+[2024-04-17 00:48:15.682340] UPDATE : ####################################################
+[2024-04-17 00:48:15.694292] UPDATE : done searching
+[2024-04-17 00:48:15.694292] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/max/maya/scenes
+[2024-04-17 00:48:15.693295] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:48:15.711246] UPDATE : matteo_file1.txt
+[2024-04-17 00:48:15.712244] UPDATE : matteo_file2.txt
+[2024-04-17 00:48:16.717366] UPDATE : [0]
+[2024-04-17 00:48:16.717366] UPDATE : ####################################################
+[2024-04-17 00:48:16.717366] UPDATE : Searching...
+[2024-04-17 00:48:16.718739] UPDATE : ####################################################
+[2024-04-17 00:48:16.735659] UPDATE : done searching
+[2024-04-17 00:48:16.735659] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/max/maya/scenes
+[2024-04-17 00:48:16.735659] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes
+[2024-04-17 00:48:16.734662] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-04-17 00:48:16.764329] UPDATE : matteo_file1.txt
+[2024-04-17 00:48:16.765359] UPDATE : robin_file.txt
+[2024-04-17 00:48:16.766326] UPDATE : matteo_file2.txt
+[2024-04-17 00:48:19.882770] UPDATE : []
+[2024-04-17 00:48:19.883767] UPDATE : ####################################################
+[2024-04-17 00:48:19.883767] UPDATE : Searching...
+[2024-04-17 00:48:19.883767] UPDATE : ####################################################
+[2024-04-17 00:48:20.620894] UPDATE : [0]
+[2024-04-17 00:48:20.621891] UPDATE : ####################################################
+[2024-04-17 00:48:20.621891] UPDATE : Searching...
+[2024-04-17 00:48:20.621891] UPDATE : ####################################################
+[2024-04-17 00:48:20.629870] UPDATE : done searching
+[2024-04-17 00:48:20.629870] UPDATE : Searching folder content : D:/WORK/TESTPROJECT/ASSETS/char
+[2024-04-17 00:48:20.658156] UPDATE : matteo_file1.txt
+[2024-04-17 00:48:20.659128] UPDATE : matteo_file2.txt
+[2024-04-17 00:48:20.662120] UPDATE : robin_file.txt

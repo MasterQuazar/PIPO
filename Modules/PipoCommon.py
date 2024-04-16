@@ -14,7 +14,14 @@ from time import sleep
 
 from datetime import datetime
 
+import scandir
+import threading
 import multiprocessing
+
+
+
+
+
 
 
 
@@ -249,8 +256,16 @@ class PipoCommonApplication():
 
 
 
+
+
+
+
+
+
 	def search_files_function(self):
-		#self.display_message_function("Searching...")
+		self.display_message_function("####################################################")
+		self.display_message_function("Searching...")
+		self.display_message_function("####################################################")
 		
 		if len(self.screen.name_type_selection) == 0:
 			self.screen.name_type_selection = [None]
@@ -263,15 +278,15 @@ class PipoCommonApplication():
 
 		
 
-
+			
 
 		#DEFINE THE DEFAULT FOLDER PATH WITH CURRENT PROJECT SETTINGS FOR EACH TYPE SELECTED
 		if len(self.screen.name_kind_selection) != 0:
 
 			default_folder_list = []
-			default_folder_path_list = []
+			default_folder_path_list = {}
 			
-			self.display_message_function
+			#self.display_message_function
 		
 			for kind in self.screen.name_kind_selection:
 				default_folder_list = self.app.current_project_settings["Scenes"][kind]["folder"]
@@ -286,30 +301,41 @@ class PipoCommonApplication():
 										#self.display_message_function(status)
 										
 										default_folder_data = self.get_default_folder_path_function(default_folder, kind, n, s, l, t,)
-										
-										if os.path.isdir(default_folder_data[0]["path"]) == True:
-											#add the new default folder 
-											if default_folder_data[0]["path"] not in default_folder_path_list:
+										#self.display_message_function(default_folder_data[0]["path"])
+										#from default folder function
+										# 1 - data dictionnary
+										# 2 - name list ?
+										if (os.path.isdir(default_folder_data[0]["path"])==True) and (default_folder_data[0]["path"] not in default_folder_path_list):
+											default_folder_path_list[default_folder_data[0]["path"]] = default_folder_data[0]
 
-												#create the default folder data
-												#ready for parsing to help algorythm
-
-												default_folder_path_list.append(default_folder_data[0])
-											#update name list ?
 											for name in default_folder_data[1]:
 												if name not in temporary_name_list:
 													temporary_name_list.append(name)
 
-										#if default_folder_data[0] != None:
-										#	self.display_message_function("LAUNCH PARSING")
-								
-		#for folder in default_folder_list:
-		#self.display_message_function("done")
-		try:
-			for path in default_folder_path_list:
-				self.display_message_function(path)
-		except:
-			self.display_error_function("Impossible")
+									
+
+
+			
+			#DEFINE THE CONTENT LIST FOR EACH DEFAULT FOLDER
+			for default_folder, default_folder_values in default_folder_path_list.items():
+				#self.display_message_function(default_folder)
+				#create a new thread trying to get the content of each default folder
+			
+				searching_thread = threading.Thread(target=self.get_folder_content_function, args=(default_folder_values,), daemon=True)
+				searching_thread.start()
+			
+			
+
+
+
+			self.display_message_function("done searching")
+
+
+
+
+
+
+
 		#self.display_message_function(default_folder_list)
 		#NEED TO CHANGE THE LIST IF THE KEY HAS CHANGED!!!
 		if (self.name_name_list != temporary_name_list) and (self.screen.kind_change_list != self.screen.name_kind_selection):
@@ -322,6 +348,16 @@ class PipoCommonApplication():
 			for i in range(len(temporary_name_list)):
 				self.screen.lobby_name_list.add_option(Selection(temporary_name_list[i],i)) 
 		
+
+
+
+
+	def get_folder_content_function(self, folder_data):
+		self.display_message_function("Searching folder content : %s"%folder_data["path"])
+
+		for root, dirs, files in scandir.walk(folder_data["path"]):
+			for f in files:
+				self.display_message_function(f)
 
 
 
@@ -399,6 +435,14 @@ class PipoCommonApplication():
 
 			else:
 				final_default_folder.append(item)
+
+
+			if os.path.isdir("/".join(final_default_folder))==False:
+				#if the folder isn't existing anymore
+				#remove the last folder of the path 
+				#so the path is true
+				del final_default_folder[-1]
+				break
 
 		folder_dictionnary_data["path"] = "/".join(final_default_folder)
 		return [folder_dictionnary_data, folder_name_list]
