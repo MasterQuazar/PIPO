@@ -355,10 +355,113 @@ class PipoCommonApplication():
 	def get_folder_content_function(self, folder_data):
 		self.display_message_function("Searching folder content : %s"%folder_data["path"])
 
+		kind = folder_data["kind"]
+
+		nomenclature = self.app.current_project_settings["Scenes"][kind]["syntax"]
+		splited_nomenclature = nomenclature.split("_")
+
+		keyword = self.app.current_project_settings["Scenes"][kind]["keyword"]
+		type_list = self.app.current_project_settings["Scenes"][kind]["type"]
+
+
+		final_folder_content_list = []
+
+
 		for root, dirs, files in scandir.walk(folder_data["path"]):
 			for f in files:
-				self.display_message_function(f)
+				filepath = os.path.join(root,f)
+				filename, extension = os.path.splitext(f)
+				splited_filename = filename.split("_")
 
+				if (extension in self.app.current_project_settings["Global"]["3dScenesExtension"]) or (extension in self.app.current_project_settings["Global"]["3dItemsExtension"]):
+
+					#self.display_message_function("%s - %s"%(splited_filename, splited_nomenclature))
+					if len(splited_filename) == len(splited_nomenclature):
+						self.display_message_function("checking file : %s"%f)
+						parsing_error = False 
+
+						for i in range(len(splited_filename)):
+
+
+							self.display_message_function(splited_filename[i])
+							
+							#self.display_message_function("checking %s"%splited_filename[i])
+							if splited_nomenclature[i] == "[key]":
+								if splited_filename[i] != self.app.current_project_settings["Scenes"][kind]["keyword"]:
+									self.display_message_function("kind error")
+									parsing_error=True
+									break
+
+							elif splited_nomenclature[i] == "[type]":
+								if splited_filename[i] not in type_list:
+									parsing_error=True 
+									self.display_message_function("type error")
+									break
+							elif splited_nomenclature[i] == "[lod]":
+								if splited_filename[i] not in self.app.current_project_settings["Global"]["lodList"]:
+									parsing_error=True 
+									self.display_message_function("lod error")
+									break
+
+							#for sh and sq version check prefix and number version
+							elif splited_nomenclature[i] in ["[sqversion]", "[shversion]"]:
+								if splited_nomenclature[i] == "[sqversion]":
+									splited_content = splited_filename[i].split("sq")
+									type_keyword = "sq"
+								
+								else:
+									splited_content = splited_filename[i].split("sh")
+									type_keyword = "sh"
+
+								if (len(splited_seq) != 2) or (splited_seq[0] != "") or (splited_seq[1].isdigit() == False):
+									parsing_error=True
+
+									self.display_message_function("sq sh version error")
+									break
+
+
+							elif splited_nomenclature[i] == "[name]":
+								continue 
+
+							elif splited_nomenclature[i] == "[version]":
+								splited_content = splited_filename[i].split("v")
+
+								if (len(splited_content) != 2) or (splited_content[0] != "") or (splited_content[1].isdigit()==False):
+									parsing_error=True 
+									self.display_message_function("version error")
+									break
+
+
+							else:
+								if splited_nomenclature[i] != splited_filename[i]:
+									self.display_message_function("not matching informations in nomenclature")
+									parsing_error=True
+									break
+
+
+
+
+
+
+							"""
+							elif splited_nomenclature[i] == "[version]":
+								splited_content = splited_filename.split("v")
+
+								if (len(splited_content) != 2) or (splited_content[0] != "") or (splited_content[1].isdigit()==False):
+									parsing_error=True 
+									self.display_message_function("version error")
+
+
+							
+							"""
+						if parsing_error == False:
+							final_folder_content_list.append(os.path.join(root, f))
+
+
+
+
+
+							
 
 
 
@@ -380,7 +483,7 @@ class PipoCommonApplication():
 				final_default_folder.append(self.app.project_path)
 			elif item == "[key]":
 				final_default_folder.append(self.app.current_project_settings["Scenes"][k]["keyword"])
-				folder_dictionnary_data["key"] = k
+				folder_dictionnary_data["kind"] = k
 
 
 

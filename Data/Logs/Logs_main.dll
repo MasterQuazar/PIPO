@@ -63771,3 +63771,892 @@ Unexisting path!
 [2024-04-17 00:48:20.658156] UPDATE : matteo_file1.txt
 [2024-04-17 00:48:20.659128] UPDATE : matteo_file2.txt
 [2024-04-17 00:48:20.662120] UPDATE : robin_file.txt
+
+
+[2024-04-17 12:43:17.457092] New Pipo session opened on <built-in function gethostname>
+[2024-04-17 12:43:17.480253] UPDATE : Personnal settings opened
+[2024-04-17 12:43:19.491260] UPDATE : Project selected : TestProjectSchool
+[2024-04-17 12:43:19.493292] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-17 12:43:19.494253] UPDATE : Project settings loaded!
+[2024-04-17 12:43:20.849138] UPDATE : [0]
+[2024-04-17 12:43:20.851100] UPDATE : ####################################################
+[2024-04-17 12:43:20.853123] UPDATE : Searching...
+[2024-04-17 12:43:20.854094] UPDATE : ####################################################
+[2024-04-17 12:43:20.858011] UPDATE : done searching
+[2024-04-17 12:43:20.857807] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS/char
+[2024-04-17 12:43:20.883939] UPDATE : File found : D:/TestProjectSchool/ASSETS/char\cubetest\maya\scenes\mod\edit\char_cubeTest_mod_v001.ma
+[2024-04-17 12:43:20.896844] UPDATE : File found : D:/TestProjectSchool/ASSETS/char\cubetest\maya\scenes\mod\edit\char_cubeTest_mod_v002.ma
+[2024-04-17 12:43:20.899865] UPDATE : File found : D:/TestProjectSchool/ASSETS/char\cubetest\maya\scenes\mod\edit\char_cube_mod_v002.ma
+[2024-04-17 12:43:20.913537] UPDATE : File found : D:/TestProjectSchool/ASSETS/char\spheretest\maya\scenes\mod\edit\char_sphereTest_mod_v001.ma
+[2024-04-17 12:43:22.434639] UPDATE : [0]
+[2024-04-17 12:43:22.437245] UPDATE : ####################################################
+[2024-04-17 12:43:22.438273] UPDATE : Searching...
+[2024-04-17 12:43:22.440290] UPDATE : ####################################################
+[2024-04-17 12:43:22.442728] UPDATE : done searching
+[2024-04-17 12:43:22.442728] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS/char/spheretest/maya/scenes
+[2024-04-17 12:43:22.458747] UPDATE : File found : D:/TestProjectSchool/ASSETS/char/spheretest/maya/scenes\mod\edit\char_sphereTest_mod_v001.ma
+[2024-04-17 12:43:28.275043] UPDATE : [0]
+[2024-04-17 12:43:28.278132] UPDATE : ####################################################
+[2024-04-17 12:43:28.279665] UPDATE : Searching...
+[2024-04-17 12:43:28.280919] UPDATE : ####################################################
+[2024-04-17 12:43:28.284478] UPDATE : done searching
+[2024-04-17 12:43:28.284478] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS/char/spheretest/maya/scenes
+[2024-04-17 12:43:28.284478] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS/char/cubetest/maya/scenes
+[2024-04-17 12:43:28.313819] UPDATE : File found : D:/TestProjectSchool/ASSETS/char/spheretest/maya/scenes\mod\edit\char_sphereTest_mod_v001.ma
+[2024-04-17 12:43:28.316367] UPDATE : File found : D:/TestProjectSchool/ASSETS/char/cubetest/maya/scenes\mod\edit\char_cubeTest_mod_v002.ma
+[2024-04-17 12:43:28.355605] UPDATE : File found : D:/TestProjectSchool/ASSETS/char/cubetest/maya/scenes\mod\edit\char_cube_mod_v002.ma
+[2024-04-17 12:43:43.858202] UPDATE : [0]
+[2024-04-17 12:43:43.860197] UPDATE : ####################################################
+[2024-04-17 12:43:43.862191] UPDATE : Searching...
+[2024-04-17 12:43:43.863189] UPDATE : ####################################################
+[2024-04-17 12:43:43.866180] UPDATE : done searching
+[2024-04-17 12:43:43.866180] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS/char/cubetest/maya/scenes
+[2024-04-17 12:43:43.883593] UPDATE : File found : D:/TestProjectSchool/ASSETS/char/cubetest/maya/scenes\mod\edit\char_cubeTest_mod_v001.ma
+[2024-04-17 12:43:43.898107] UPDATE : File found : D:/TestProjectSchool/ASSETS/char/cubetest/maya/scenes\mod\edit\char_cubeTest_mod_v002.ma
+[2024-04-17 12:43:43.900128] UPDATE : File found : D:/TestProjectSchool/ASSETS/char/cubetest/maya/scenes\mod\edit\char_cube_mod_v002.ma
+[2024-04-17 12:43:54.139793] UPDATE : [0]
+[2024-04-17 12:43:54.141818] UPDATE : ####################################################
+[2024-04-17 12:43:54.143659] UPDATE : Searching...
+[2024-04-17 12:43:54.144657] UPDATE : ####################################################
+[2024-04-17 12:43:54.147678] UPDATE : done searching
+[2024-04-17 12:43:54.147678] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS/char
+[2024-04-17 12:43:54.165632] UPDATE : File found : D:/TestProjectSchool/ASSETS/char\cubetest\maya\scenes\mod\edit\char_cubeTest_mod_v001.ma
+[2024-04-17 12:43:54.178978] UPDATE : File found : D:/TestProjectSchool/ASSETS/char\cubetest\maya\scenes\mod\edit\char_cubeTest_mod_v002.ma
+[2024-04-17 12:43:54.181685] UPDATE : File found : D:/TestProjectSchool/ASSETS/char\cubetest\maya\scenes\mod\edit\char_cube_mod_v002.ma
+[2024-04-17 12:43:54.196057] UPDATE : File found : D:/TestProjectSchool/ASSETS/char\spheretest\maya\scenes\mod\edit\char_sphereTest_mod_v001.ma
+[2024-04-17 12:43:54.837967] UPDATE : [0]
+[2024-04-17 12:43:54.839996] UPDATE : ####################################################
+[2024-04-17 12:43:54.841590] UPDATE : Searching...
+[2024-04-17 12:43:54.842616] UPDATE : ####################################################
+[2024-04-17 12:43:54.845608] UPDATE : done searching
+[2024-04-17 12:43:54.845608] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS/char/cubetest/maya/scenes
+[2024-04-17 12:43:54.892855] UPDATE : File found : D:/TestProjectSchool/ASSETS/char/cubetest/maya/scenes\mod\edit\char_cubeTest_mod_v001.ma
+[2024-04-17 12:43:54.895886] UPDATE : File found : D:/TestProjectSchool/ASSETS/char/cubetest/maya/scenes\mod\edit\char_cubeTest_mod_v002.ma
+[2024-04-17 12:43:54.898348] UPDATE : File found : D:/TestProjectSchool/ASSETS/char/cubetest/maya/scenes\mod\edit\char_cube_mod_v002.ma
+[2024-04-17 12:44:01.407345] UPDATE : [0]
+[2024-04-17 12:44:01.410307] UPDATE : ####################################################
+[2024-04-17 12:44:01.411333] UPDATE : Searching...
+[2024-04-17 12:44:01.413300] UPDATE : ####################################################
+[2024-04-17 12:44:01.417288] UPDATE : done searching
+[2024-04-17 12:44:01.417288] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS/char/spheretest/maya/scenes
+[2024-04-17 12:44:01.417288] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS/char/cubetest/maya/scenes
+[2024-04-17 12:44:01.449203] UPDATE : File found : D:/TestProjectSchool/ASSETS/char/cubetest/maya/scenes\mod\edit\char_cubeTest_mod_v001.ma
+[2024-04-17 12:44:01.449203] UPDATE : File found : D:/TestProjectSchool/ASSETS/char/spheretest/maya/scenes\mod\edit\char_sphereTest_mod_v001.ma
+[2024-04-17 12:44:01.463167] UPDATE : File found : D:/TestProjectSchool/ASSETS/char/cubetest/maya/scenes\mod\edit\char_cubeTest_mod_v002.ma
+[2024-04-17 12:44:01.467156] UPDATE : File found : D:/TestProjectSchool/ASSETS/char/cubetest/maya/scenes\mod\edit\char_cube_mod_v002.ma
+[2024-04-17 12:44:06.115517] UPDATE : [0]
+[2024-04-17 12:44:06.118507] UPDATE : ####################################################
+[2024-04-17 12:44:06.120441] UPDATE : Searching...
+[2024-04-17 12:44:06.121920] UPDATE : ####################################################
+[2024-04-17 12:44:06.123916] UPDATE : done searching
+[2024-04-17 12:44:06.123916] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS/char/cubetest/maya/scenes
+[2024-04-17 12:44:06.141304] UPDATE : File found : D:/TestProjectSchool/ASSETS/char/cubetest/maya/scenes\mod\edit\char_cubeTest_mod_v001.ma
+[2024-04-17 12:44:06.143296] UPDATE : File found : D:/TestProjectSchool/ASSETS/char/cubetest/maya/scenes\mod\edit\char_cubeTest_mod_v002.ma
+[2024-04-17 12:44:06.145292] UPDATE : File found : D:/TestProjectSchool/ASSETS/char/cubetest/maya/scenes\mod\edit\char_cube_mod_v002.ma
+[2024-04-17 12:44:07.414116] UPDATE : [0]
+[2024-04-17 12:44:07.416142] UPDATE : ####################################################
+[2024-04-17 12:44:07.418136] UPDATE : Searching...
+[2024-04-17 12:44:07.419138] UPDATE : ####################################################
+[2024-04-17 12:44:07.422095] UPDATE : done searching
+[2024-04-17 12:44:07.422095] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS/char/cubetest/maya/scenes/rig
+[2024-04-17 12:44:09.132874] UPDATE : [0]
+[2024-04-17 12:44:09.134900] UPDATE : ####################################################
+[2024-04-17 12:44:09.136891] UPDATE : Searching...
+[2024-04-17 12:44:09.137888] UPDATE : ####################################################
+[2024-04-17 12:44:09.140880] UPDATE : done searching
+[2024-04-17 12:44:09.140880] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS/char/cubetest/maya/scenes
+[2024-04-17 12:44:09.157807] UPDATE : File found : D:/TestProjectSchool/ASSETS/char/cubetest/maya/scenes\mod\edit\char_cubeTest_mod_v001.ma
+[2024-04-17 12:44:09.160639] UPDATE : File found : D:/TestProjectSchool/ASSETS/char/cubetest/maya/scenes\mod\edit\char_cubeTest_mod_v002.ma
+[2024-04-17 12:44:09.162635] UPDATE : File found : D:/TestProjectSchool/ASSETS/char/cubetest/maya/scenes\mod\edit\char_cube_mod_v002.ma
+[2024-04-17 12:44:09.574247] UPDATE : [0]
+[2024-04-17 12:44:09.576243] UPDATE : ####################################################
+[2024-04-17 12:44:09.578209] UPDATE : Searching...
+[2024-04-17 12:44:09.579246] UPDATE : ####################################################
+[2024-04-17 12:44:09.582512] UPDATE : done searching
+[2024-04-17 12:44:09.582512] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS/char/cubetest/maya/scenes/sculpt
+[2024-04-17 12:44:13.177235] UPDATE : [0]
+[2024-04-17 12:44:13.179631] UPDATE : ####################################################
+[2024-04-17 12:44:13.181600] UPDATE : Searching...
+[2024-04-17 12:44:13.182631] UPDATE : ####################################################
+[2024-04-17 12:44:13.187612] UPDATE : done searching
+[2024-04-17 12:44:13.187612] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS/char/cubetest/maya/scenes/sculpt
+[2024-04-17 12:44:13.187612] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS/char/cubetest/maya/scenes/rig
+[2024-04-17 12:44:13.818131] UPDATE : [0]
+[2024-04-17 12:44:13.821078] UPDATE : ####################################################
+[2024-04-17 12:44:13.822635] UPDATE : Searching...
+[2024-04-17 12:44:13.823916] UPDATE : ####################################################
+[2024-04-17 12:44:13.826937] UPDATE : done searching
+[2024-04-17 12:44:13.826937] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS/char/cubetest/maya/scenes/sculpt
+[2024-04-17 12:44:14.198463] UPDATE : [0]
+[2024-04-17 12:44:14.200487] UPDATE : ####################################################
+[2024-04-17 12:44:14.202771] UPDATE : Searching...
+[2024-04-17 12:44:14.203797] UPDATE : ####################################################
+[2024-04-17 12:44:14.206792] UPDATE : done searching
+[2024-04-17 12:44:14.206792] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS/char/cubetest/maya/scenes
+[2024-04-17 12:44:14.223809] UPDATE : File found : D:/TestProjectSchool/ASSETS/char/cubetest/maya/scenes\mod\edit\char_cubeTest_mod_v001.ma
+[2024-04-17 12:44:14.226801] UPDATE : File found : D:/TestProjectSchool/ASSETS/char/cubetest/maya/scenes\mod\edit\char_cubeTest_mod_v002.ma
+[2024-04-17 12:44:14.228505] UPDATE : File found : D:/TestProjectSchool/ASSETS/char/cubetest/maya/scenes\mod\edit\char_cube_mod_v002.ma
+[2024-04-17 12:44:14.664608] UPDATE : [0]
+[2024-04-17 12:44:14.666603] UPDATE : ####################################################
+[2024-04-17 12:44:14.668601] UPDATE : Searching...
+[2024-04-17 12:44:14.669624] UPDATE : ####################################################
+[2024-04-17 12:44:14.673585] UPDATE : done searching
+[2024-04-17 12:44:14.672615] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS/char/cubetest/maya/scenes/mod/edit
+[2024-04-17 12:44:14.672615] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS/char/cubetest/maya/scenes/mod
+[2024-04-17 12:44:14.690618] UPDATE : File found : D:/TestProjectSchool/ASSETS/char/cubetest/maya/scenes/mod\edit\char_cubeTest_mod_v001.ma
+[2024-04-17 12:44:14.691617] UPDATE : File found : D:/TestProjectSchool/ASSETS/char/cubetest/maya/scenes/mod/edit\char_cubeTest_mod_v001.ma
+[2024-04-17 12:44:14.693238] UPDATE : File found : D:/TestProjectSchool/ASSETS/char/cubetest/maya/scenes/mod\edit\char_cubeTest_mod_v002.ma
+[2024-04-17 12:44:14.694237] UPDATE : File found : D:/TestProjectSchool/ASSETS/char/cubetest/maya/scenes/mod/edit\char_cubeTest_mod_v002.ma
+[2024-04-17 12:44:14.695234] UPDATE : File found : D:/TestProjectSchool/ASSETS/char/cubetest/maya/scenes/mod\edit\char_cube_mod_v002.ma
+[2024-04-17 12:44:14.697229] UPDATE : File found : D:/TestProjectSchool/ASSETS/char/cubetest/maya/scenes/mod/edit\char_cube_mod_v002.ma
+
+
+[2024-04-17 13:47:53.640040] New Pipo session opened on <built-in function gethostname>
+[2024-04-17 13:47:53.655492] UPDATE : Personnal settings opened
+[2024-04-17 13:47:57.352337] UPDATE : Project selected : TestProjectSchool
+[2024-04-17 13:47:57.354403] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-17 13:47:57.355359] UPDATE : Project settings loaded!
+[2024-04-17 13:47:58.746037] UPDATE : [0]
+[2024-04-17 13:47:58.749030] UPDATE : ####################################################
+[2024-04-17 13:47:58.751052] UPDATE : Searching...
+[2024-04-17 13:47:58.753019] UPDATE : ####################################################
+[2024-04-17 13:47:58.756010] UPDATE : done searching
+[2024-04-17 13:47:58.756010] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS/char
+[2024-04-17 13:48:03.749018] UPDATE : [0]
+[2024-04-17 13:48:03.751044] UPDATE : ####################################################
+[2024-04-17 13:48:03.753038] UPDATE : Searching...
+[2024-04-17 13:48:03.754036] UPDATE : ####################################################
+[2024-04-17 13:48:03.756997] UPDATE : done searching
+[2024-04-17 13:48:03.756997] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS/char/cubetest/maya/scenes
+[2024-04-17 13:48:11.493928] UPDATE : [0]
+[2024-04-17 13:48:11.496949] UPDATE : ####################################################
+[2024-04-17 13:48:11.497952] UPDATE : Searching...
+[2024-04-17 13:48:11.499941] UPDATE : ####################################################
+[2024-04-17 13:48:11.502461] UPDATE : done searching
+[2024-04-17 13:48:11.502461] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS/char/cubetest/maya/scenes/mod
+[2024-04-17 13:48:11.502461] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS/char/cubetest/maya/scenes/mod/edit
+
+
+[2024-04-17 14:03:06.872618] New Pipo session opened on <built-in function gethostname>
+[2024-04-17 14:03:06.888574] UPDATE : Personnal settings opened
+[2024-04-17 14:03:09.104369] UPDATE : Project selected : TestProjectSchool
+[2024-04-17 14:03:09.106364] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-17 14:03:09.108363] UPDATE : Project settings loaded!
+[2024-04-17 14:03:10.150442] UPDATE : [1]
+[2024-04-17 14:03:10.152472] UPDATE : ####################################################
+[2024-04-17 14:03:10.154433] UPDATE : Searching...
+[2024-04-17 14:03:10.155458] UPDATE : ####################################################
+[2024-04-17 14:03:10.158421] UPDATE : done searching
+[2024-04-17 14:03:10.158421] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS
+[2024-04-17 14:03:10.531943] UPDATE : [1, 3]
+[2024-04-17 14:03:10.534935] UPDATE : ####################################################
+[2024-04-17 14:03:10.536198] UPDATE : Searching...
+[2024-04-17 14:03:10.537230] UPDATE : ####################################################
+[2024-04-17 14:03:10.541210] UPDATE : done searching
+[2024-04-17 14:03:10.540215] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS
+[2024-04-17 14:03:10.541210] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS/set
+[2024-04-17 14:03:10.878558] UPDATE : [1, 3, 0]
+[2024-04-17 14:03:10.880553] UPDATE : ####################################################
+[2024-04-17 14:03:10.882548] UPDATE : Searching...
+[2024-04-17 14:03:10.883544] UPDATE : ####################################################
+[2024-04-17 14:03:10.888531] UPDATE : done searching
+[2024-04-17 14:03:10.888531] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS/set
+[2024-04-17 14:03:10.888531] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS/char
+[2024-04-17 14:03:10.888531] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS
+[2024-04-17 14:03:11.589611] UPDATE : [1, 3, 0]
+[2024-04-17 14:03:11.591607] UPDATE : ####################################################
+[2024-04-17 14:03:11.593602] UPDATE : Searching...
+[2024-04-17 14:03:11.594599] UPDATE : ####################################################
+[2024-04-17 14:03:11.599594] UPDATE : done searching
+[2024-04-17 14:03:11.599594] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS/set
+[2024-04-17 14:03:11.599594] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS
+[2024-04-17 14:03:11.599594] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS/char
+[2024-04-17 14:03:12.142528] UPDATE : [1, 3, 0]
+[2024-04-17 14:03:12.145554] UPDATE : ####################################################
+[2024-04-17 14:03:12.146547] UPDATE : Searching...
+[2024-04-17 14:03:12.148543] UPDATE : ####################################################
+[2024-04-17 14:03:12.152680] UPDATE : done searching
+[2024-04-17 14:03:12.152680] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS/set
+[2024-04-17 14:03:12.152680] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS
+[2024-04-17 14:03:12.152680] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS/char/spheretest/maya/scenes
+[2024-04-17 14:03:20.596739] UPDATE : [1, 3, 0]
+[2024-04-17 14:03:20.598739] UPDATE : ####################################################
+[2024-04-17 14:03:20.599704] UPDATE : Searching...
+[2024-04-17 14:03:20.601723] UPDATE : ####################################################
+[2024-04-17 14:03:20.606562] UPDATE : done searching
+[2024-04-17 14:03:20.606562] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS/char/spheretest/maya/scenes
+[2024-04-17 14:03:20.605564] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS
+[2024-04-17 14:03:20.605564] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS/set
+[2024-04-17 14:03:20.892553] UPDATE : [1, 3, 0]
+[2024-04-17 14:03:20.894577] UPDATE : ####################################################
+[2024-04-17 14:03:20.895574] UPDATE : Searching...
+[2024-04-17 14:03:20.897569] UPDATE : ####################################################
+[2024-04-17 14:03:20.902574] UPDATE : done searching
+[2024-04-17 14:03:20.901529] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS/set
+[2024-04-17 14:03:20.902574] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS/char/spheretest/maya/scenes/mod
+[2024-04-17 14:03:20.902574] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS/char/spheretest/maya/scenes/mod/edit
+[2024-04-17 14:03:20.901529] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS
+
+
+[2024-04-17 14:04:29.044469] New Pipo session opened on <built-in function gethostname>
+[2024-04-17 14:04:29.061385] UPDATE : Personnal settings opened
+[2024-04-17 14:04:31.032155] UPDATE : Project selected : TestProjectSchool
+[2024-04-17 14:04:31.034150] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-17 14:04:31.035177] UPDATE : Project settings loaded!
+[2024-04-17 14:04:32.282652] UPDATE : [1]
+[2024-04-17 14:04:32.284677] UPDATE : ####################################################
+[2024-04-17 14:04:32.286672] UPDATE : Searching...
+[2024-04-17 14:04:32.288667] UPDATE : ####################################################
+[2024-04-17 14:04:32.291628] UPDATE : done searching
+[2024-04-17 14:04:32.290631] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS
+[2024-04-17 14:04:33.851430] UPDATE : [1, 0]
+[2024-04-17 14:04:33.853456] UPDATE : ####################################################
+[2024-04-17 14:04:33.855448] UPDATE : Searching...
+[2024-04-17 14:04:33.856448] UPDATE : ####################################################
+[2024-04-17 14:04:33.860406] UPDATE : done searching
+[2024-04-17 14:04:33.860406] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS/char
+[2024-04-17 14:04:33.860406] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS
+[2024-04-17 14:04:34.184810] UPDATE : [0]
+[2024-04-17 14:04:34.186840] UPDATE : ####################################################
+[2024-04-17 14:04:34.188828] UPDATE : Searching...
+[2024-04-17 14:04:34.190334] UPDATE : ####################################################
+[2024-04-17 14:04:34.193326] UPDATE : done searching
+[2024-04-17 14:04:34.193326] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS/char
+[2024-04-17 14:04:34.878074] UPDATE : [0]
+[2024-04-17 14:04:34.880068] UPDATE : ####################################################
+[2024-04-17 14:04:34.882063] UPDATE : Searching...
+[2024-04-17 14:04:34.883482] UPDATE : ####################################################
+[2024-04-17 14:04:34.886090] UPDATE : done searching
+[2024-04-17 14:04:34.886090] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS/char/spheretest/maya/scenes
+[2024-04-17 14:04:35.500781] UPDATE : [0]
+[2024-04-17 14:04:35.503769] UPDATE : ####################################################
+[2024-04-17 14:04:35.505507] UPDATE : Searching...
+[2024-04-17 14:04:35.506977] UPDATE : ####################################################
+[2024-04-17 14:04:35.509413] UPDATE : done searching
+[2024-04-17 14:04:35.509413] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS/char
+
+
+[2024-04-17 16:29:33.384382] New Pipo session opened on <built-in function gethostname>
+[2024-04-17 16:29:33.403331] UPDATE : Personnal settings opened
+[2024-04-17 16:29:35.385986] UPDATE : Project selected : TestProjectSchool
+[2024-04-17 16:29:35.388008] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-17 16:29:35.389976] UPDATE : Project settings loaded!
+[2024-04-17 16:29:36.665149] UPDATE : [0]
+[2024-04-17 16:29:36.667174] UPDATE : ####################################################
+[2024-04-17 16:29:36.669172] UPDATE : Searching...
+[2024-04-17 16:29:36.670721] UPDATE : ####################################################
+[2024-04-17 16:29:36.673742] UPDATE : done searching
+[2024-04-17 16:29:36.673742] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS/char
+[2024-04-17 16:29:36.707622] UPDATE : ['char', 'cubeTest', 'mod', 'v001'] - ['[key]', '[name]', '[type]', '[version]']
+
+
+[2024-04-17 16:31:29.408897] New Pipo session opened on <built-in function gethostname>
+[2024-04-17 16:31:29.424828] UPDATE : Personnal settings opened
+[2024-04-17 16:31:31.170164] UPDATE : Project selected : TestProjectSchool
+[2024-04-17 16:31:31.172159] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-17 16:31:31.173156] UPDATE : Project settings loaded!
+[2024-04-17 16:31:32.337513] UPDATE : [0]
+[2024-04-17 16:31:32.339542] UPDATE : ####################################################
+[2024-04-17 16:31:32.341399] UPDATE : Searching...
+[2024-04-17 16:31:32.342424] UPDATE : ####################################################
+[2024-04-17 16:31:32.345416] UPDATE : done searching
+[2024-04-17 16:31:32.345416] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS/char
+[2024-04-17 16:31:32.372497] UPDATE : checking file : char_cubeTest_mod_v001.ma
+[2024-04-17 16:31:33.139649] UPDATE : [0]
+[2024-04-17 16:31:33.142641] UPDATE : ####################################################
+[2024-04-17 16:31:33.143639] UPDATE : Searching...
+[2024-04-17 16:31:33.145661] UPDATE : ####################################################
+[2024-04-17 16:31:33.148653] UPDATE : done searching
+[2024-04-17 16:31:33.148653] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS/char/cubetest/maya/scenes
+[2024-04-17 16:31:33.198187] UPDATE : checking file : char_cubeTest_mod_v001.ma
+
+
+[2024-04-17 16:33:24.413369] New Pipo session opened on <built-in function gethostname>
+[2024-04-17 16:33:24.429473] UPDATE : Personnal settings opened
+[2024-04-17 16:33:26.000619] UPDATE : Project selected : TestProjectSchool
+[2024-04-17 16:33:26.002614] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-17 16:33:26.003609] UPDATE : Project settings loaded!
+[2024-04-17 16:33:26.792715] UPDATE : [0]
+[2024-04-17 16:33:26.794739] UPDATE : ####################################################
+[2024-04-17 16:33:26.796734] UPDATE : Searching...
+[2024-04-17 16:33:26.797730] UPDATE : ####################################################
+[2024-04-17 16:33:26.801115] UPDATE : done searching
+[2024-04-17 16:33:26.801115] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS/char
+[2024-04-17 16:33:26.827817] UPDATE : checking file : char_cubeTest_mod_v001.ma
+
+
+[2024-04-17 16:34:01.002503] New Pipo session opened on <built-in function gethostname>
+[2024-04-17 16:34:01.018640] UPDATE : Personnal settings opened
+[2024-04-17 16:34:02.750211] UPDATE : Project selected : TestProjectSchool
+[2024-04-17 16:34:02.752233] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-17 16:34:02.753202] UPDATE : Project settings loaded!
+[2024-04-17 16:34:03.644077] UPDATE : [0]
+[2024-04-17 16:34:03.645782] UPDATE : ####################################################
+[2024-04-17 16:34:03.647805] UPDATE : Searching...
+[2024-04-17 16:34:03.648803] UPDATE : ####################################################
+[2024-04-17 16:34:03.651794] UPDATE : done searching
+[2024-04-17 16:34:03.651794] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS/char
+[2024-04-17 16:34:03.679455] UPDATE : checking file : char_cubeTest_mod_v001.ma
+[2024-04-17 16:34:03.682397] UPDATE : File not parsed : char_cubeTest_mod_v001.ma
+[2024-04-17 16:34:03.684418] UPDATE : checking file : char_cubeTest_mod_v002.ma
+[2024-04-17 16:34:03.686746] UPDATE : File not parsed : char_cubeTest_mod_v002.ma
+[2024-04-17 16:34:03.700407] UPDATE : checking file : char_cube_mod_v002.ma
+[2024-04-17 16:34:03.703001] UPDATE : File not parsed : char_cube_mod_v002.ma
+[2024-04-17 16:34:03.715941] UPDATE : checking file : char_sphereTest_mod_v001.ma
+[2024-04-17 16:34:03.718956] UPDATE : File not parsed : char_sphereTest_mod_v001.ma
+
+
+[2024-04-17 16:34:23.617812] New Pipo session opened on <built-in function gethostname>
+[2024-04-17 16:34:23.633762] UPDATE : Personnal settings opened
+[2024-04-17 16:34:25.445025] UPDATE : Project selected : TestProjectSchool
+[2024-04-17 16:34:25.448035] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-17 16:34:25.449043] UPDATE : Project settings loaded!
+[2024-04-17 16:34:26.394895] UPDATE : [0]
+[2024-04-17 16:34:26.396801] UPDATE : ####################################################
+[2024-04-17 16:34:26.398796] UPDATE : Searching...
+[2024-04-17 16:34:26.400793] UPDATE : ####################################################
+[2024-04-17 16:34:26.403754] UPDATE : done searching
+[2024-04-17 16:34:26.403754] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS/char
+[2024-04-17 16:34:26.432250] UPDATE : checking file : char_cubeTest_mod_v001.ma
+[2024-04-17 16:34:26.434262] UPDATE : kind error
+[2024-04-17 16:34:26.436533] UPDATE : key error
+[2024-04-17 16:34:26.439686] UPDATE : key error
+[2024-04-17 16:34:26.441707] UPDATE : File not parsed : char_cubeTest_mod_v001.ma
+[2024-04-17 16:34:26.453387] UPDATE : checking file : char_cubeTest_mod_v002.ma
+[2024-04-17 16:34:26.471340] UPDATE : kind error
+[2024-04-17 16:34:26.473885] UPDATE : key error
+[2024-04-17 16:34:26.484727] UPDATE : key error
+[2024-04-17 16:34:26.489680] UPDATE : File not parsed : char_cubeTest_mod_v002.ma
+[2024-04-17 16:34:26.491703] UPDATE : checking file : char_cube_mod_v002.ma
+[2024-04-17 16:34:26.504629] UPDATE : kind error
+[2024-04-17 16:34:26.507614] UPDATE : key error
+[2024-04-17 16:34:26.515933] UPDATE : key error
+[2024-04-17 16:34:26.553092] UPDATE : File not parsed : char_cube_mod_v002.ma
+[2024-04-17 16:34:26.556086] UPDATE : checking file : char_sphereTest_mod_v001.ma
+[2024-04-17 16:34:26.559080] UPDATE : kind error
+[2024-04-17 16:34:26.572795] UPDATE : key error
+[2024-04-17 16:34:26.575788] UPDATE : key error
+[2024-04-17 16:34:26.591128] UPDATE : File not parsed : char_sphereTest_mod_v001.ma
+
+
+[2024-04-17 16:35:19.617958] New Pipo session opened on <built-in function gethostname>
+[2024-04-17 16:35:19.634223] UPDATE : Personnal settings opened
+[2024-04-17 16:35:21.125222] UPDATE : Project selected : TestProjectSchool
+[2024-04-17 16:35:21.127216] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-17 16:35:21.128213] UPDATE : Project settings loaded!
+[2024-04-17 16:35:22.066801] UPDATE : [0]
+[2024-04-17 16:35:22.068825] UPDATE : ####################################################
+[2024-04-17 16:35:22.070790] UPDATE : Searching...
+[2024-04-17 16:35:22.071825] UPDATE : ####################################################
+[2024-04-17 16:35:22.074780] UPDATE : done searching
+[2024-04-17 16:35:22.074780] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS/char
+[2024-04-17 16:35:22.101375] UPDATE : checking file : char_cubeTest_mod_v001.ma
+[2024-04-17 16:35:22.104365] UPDATE : key error
+[2024-04-17 16:35:22.119635] UPDATE : key error
+[2024-04-17 16:35:22.133064] UPDATE : File not parsed : char_cubeTest_mod_v001.ma
+[2024-04-17 16:35:22.135970] UPDATE : checking file : char_cubeTest_mod_v002.ma
+[2024-04-17 16:35:22.149130] UPDATE : key error
+[2024-04-17 16:35:22.168115] UPDATE : key error
+[2024-04-17 16:35:22.180046] UPDATE : File not parsed : char_cubeTest_mod_v002.ma
+[2024-04-17 16:35:22.188025] UPDATE : checking file : char_cube_mod_v002.ma
+[2024-04-17 16:35:22.202986] UPDATE : key error
+[2024-04-17 16:35:22.227919] UPDATE : key error
+[2024-04-17 16:35:22.245388] UPDATE : File not parsed : char_cube_mod_v002.ma
+[2024-04-17 16:35:22.248371] UPDATE : checking file : char_sphereTest_mod_v001.ma
+[2024-04-17 16:35:22.251149] UPDATE : key error
+[2024-04-17 16:35:22.253145] UPDATE : key error
+[2024-04-17 16:35:22.266132] UPDATE : File not parsed : char_sphereTest_mod_v001.ma
+
+
+[2024-04-17 16:38:57.453390] New Pipo session opened on <built-in function gethostname>
+[2024-04-17 16:38:57.469058] UPDATE : Personnal settings opened
+
+
+[2024-04-17 16:39:06.815133] New Pipo session opened on <built-in function gethostname>
+[2024-04-17 16:39:06.830882] UPDATE : Personnal settings opened
+[2024-04-17 16:39:08.640690] UPDATE : Project selected : TestProjectSchool
+[2024-04-17 16:39:08.642687] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-17 16:39:08.644686] UPDATE : Project settings loaded!
+[2024-04-17 16:39:10.648288] UPDATE : [0]
+[2024-04-17 16:39:10.650313] UPDATE : ####################################################
+[2024-04-17 16:39:10.652307] UPDATE : Searching...
+[2024-04-17 16:39:10.654296] UPDATE : ####################################################
+[2024-04-17 16:39:10.657264] UPDATE : done searching
+[2024-04-17 16:39:10.657264] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS/char
+[2024-04-17 16:39:10.683526] UPDATE : checking file : char_cubeTest_mod_v001.ma
+[2024-04-17 16:39:10.698240] UPDATE : not matching [name] : cubeTest
+[2024-04-17 16:39:10.701262] UPDATE : not matching [version] : v001
+[2024-04-17 16:39:10.714980] UPDATE : File not parsed : char_cubeTest_mod_v001.ma
+[2024-04-17 16:39:10.717005] UPDATE : checking file : char_cubeTest_mod_v002.ma
+[2024-04-17 16:39:10.719000] UPDATE : not matching [name] : cubeTest
+[2024-04-17 16:39:10.732961] UPDATE : not matching [version] : v002
+[2024-04-17 16:39:10.734955] UPDATE : File not parsed : char_cubeTest_mod_v002.ma
+[2024-04-17 16:39:10.748034] UPDATE : checking file : char_cube_mod_v002.ma
+[2024-04-17 16:39:10.750156] UPDATE : not matching [name] : cube
+[2024-04-17 16:39:10.764087] UPDATE : not matching [version] : v002
+[2024-04-17 16:39:10.767078] UPDATE : File not parsed : char_cube_mod_v002.ma
+[2024-04-17 16:39:10.799046] UPDATE : checking file : char_sphereTest_mod_v001.ma
+[2024-04-17 16:39:10.802064] UPDATE : not matching [name] : sphereTest
+[2024-04-17 16:39:10.815327] UPDATE : not matching [version] : v001
+[2024-04-17 16:39:10.818240] UPDATE : File not parsed : char_sphereTest_mod_v001.ma
+
+
+[2024-04-17 16:40:22.473283] New Pipo session opened on <built-in function gethostname>
+[2024-04-17 16:40:22.490050] UPDATE : Personnal settings opened
+[2024-04-17 16:40:25.783988] UPDATE : Project selected : TestProjectSchool
+[2024-04-17 16:40:25.785957] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-17 16:40:25.786953] UPDATE : Project settings loaded!
+[2024-04-17 16:40:27.077057] UPDATE : [0]
+[2024-04-17 16:40:27.079052] UPDATE : ####################################################
+[2024-04-17 16:40:27.081075] UPDATE : Searching...
+[2024-04-17 16:40:27.083069] UPDATE : ####################################################
+[2024-04-17 16:40:27.086033] UPDATE : done searching
+[2024-04-17 16:40:27.086033] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS/char
+[2024-04-17 16:40:27.112571] UPDATE : checking file : char_cubeTest_mod_v001.ma
+[2024-04-17 16:40:27.115563] UPDATE : version error
+[2024-04-17 16:40:27.117869] UPDATE : File not parsed : char_cubeTest_mod_v001.ma
+[2024-04-17 16:40:27.131873] UPDATE : checking file : char_cubeTest_mod_v002.ma
+[2024-04-17 16:40:27.134835] UPDATE : version error
+[2024-04-17 16:40:27.148814] UPDATE : File not parsed : char_cubeTest_mod_v002.ma
+[2024-04-17 16:40:27.150780] UPDATE : checking file : char_cube_mod_v002.ma
+[2024-04-17 16:40:27.166055] UPDATE : version error
+[2024-04-17 16:40:27.173254] UPDATE : File not parsed : char_cube_mod_v002.ma
+[2024-04-17 16:40:27.212120] UPDATE : checking file : char_sphereTest_mod_v001.ma
+[2024-04-17 16:40:27.215135] UPDATE : version error
+[2024-04-17 16:40:27.217131] UPDATE : File not parsed : char_sphereTest_mod_v001.ma
+
+
+[2024-04-17 16:42:49.853015] New Pipo session opened on <built-in function gethostname>
+[2024-04-17 16:42:49.869257] UPDATE : Personnal settings opened
+[2024-04-17 16:42:52.041530] UPDATE : Project selected : TestProjectSchool
+[2024-04-17 16:42:52.043554] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-17 16:42:52.045375] UPDATE : Project settings loaded!
+[2024-04-17 16:42:53.031313] UPDATE : [0]
+[2024-04-17 16:42:53.033339] UPDATE : ####################################################
+[2024-04-17 16:42:53.034793] UPDATE : Searching...
+[2024-04-17 16:42:53.035791] UPDATE : ####################################################
+[2024-04-17 16:42:53.039747] UPDATE : done searching
+[2024-04-17 16:42:53.039747] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS/char
+[2024-04-17 16:42:53.065649] UPDATE : checking file : char_cubeTest_mod_v001.ma
+[2024-04-17 16:42:56.686313] UPDATE : [0]
+[2024-04-17 16:42:56.688338] UPDATE : ####################################################
+[2024-04-17 16:42:56.690273] UPDATE : Searching...
+[2024-04-17 16:42:56.691270] UPDATE : ####################################################
+[2024-04-17 16:42:56.694290] UPDATE : done searching
+[2024-04-17 16:42:56.694290] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS/char/cubetest/maya/scenes
+[2024-04-17 16:42:56.712136] UPDATE : checking file : char_cubeTest_mod_v001.ma
+
+
+[2024-04-17 16:44:01.932297] New Pipo session opened on <built-in function gethostname>
+[2024-04-17 16:44:01.950250] UPDATE : Personnal settings opened
+[2024-04-17 16:44:03.585668] UPDATE : Project selected : TestProjectSchool
+[2024-04-17 16:44:03.587604] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-17 16:44:03.588600] UPDATE : Project settings loaded!
+[2024-04-17 16:44:04.467705] UPDATE : [0]
+[2024-04-17 16:44:04.469700] UPDATE : ####################################################
+[2024-04-17 16:44:04.471695] UPDATE : Searching...
+[2024-04-17 16:44:04.472722] UPDATE : ####################################################
+[2024-04-17 16:44:04.475711] UPDATE : done searching
+[2024-04-17 16:44:04.475711] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS/char
+[2024-04-17 16:44:04.501803] UPDATE : checking file : char_cubeTest_mod_v001.ma
+[2024-04-17 16:44:04.516466] UPDATE : checking char
+[2024-04-17 16:44:04.530972] UPDATE : checking cubeTest
+[2024-04-17 16:44:04.532998] UPDATE : checking mod
+[2024-04-17 16:44:04.547928] UPDATE : checking v001
+
+
+[2024-04-17 16:44:33.732185] New Pipo session opened on <built-in function gethostname>
+[2024-04-17 16:44:33.748077] UPDATE : Personnal settings opened
+[2024-04-17 16:44:35.471905] UPDATE : Project selected : TestProjectSchool
+[2024-04-17 16:44:35.473928] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-17 16:44:35.475925] UPDATE : Project settings loaded!
+[2024-04-17 16:44:36.449193] UPDATE : [0]
+[2024-04-17 16:44:36.451189] UPDATE : ####################################################
+[2024-04-17 16:44:36.452216] UPDATE : Searching...
+[2024-04-17 16:44:36.454180] UPDATE : ####################################################
+[2024-04-17 16:44:36.457172] UPDATE : done searching
+[2024-04-17 16:44:36.457172] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS/char
+[2024-04-17 16:44:36.485001] UPDATE : checking file : char_cubeTest_mod_v001.ma
+[2024-04-17 16:44:36.487989] UPDATE : checking char
+[2024-04-17 16:44:36.489012] UPDATE : checking cubeTest
+[2024-04-17 16:44:36.512886] UPDATE : checking mod
+[2024-04-17 16:44:36.515123] UPDATE : checking v001
+
+
+[2024-04-17 16:45:45.058345] New Pipo session opened on <built-in function gethostname>
+[2024-04-17 16:45:45.074391] UPDATE : Personnal settings opened
+[2024-04-17 16:45:48.010205] UPDATE : Project selected : TestProjectSchool
+[2024-04-17 16:45:48.012033] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-17 16:45:48.014032] UPDATE : Project settings loaded!
+[2024-04-17 16:45:49.170672] UPDATE : [0]
+[2024-04-17 16:45:49.172922] UPDATE : ####################################################
+[2024-04-17 16:45:49.174914] UPDATE : Searching...
+[2024-04-17 16:45:49.175913] UPDATE : ####################################################
+[2024-04-17 16:45:49.179876] UPDATE : done searching
+[2024-04-17 16:45:49.178875] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS/char
+[2024-04-17 16:45:49.208864] UPDATE : checking file : char_cubeTest_mod_v001.ma
+[2024-04-17 16:45:49.211635] UPDATE : checking char
+[2024-04-17 16:45:49.213140] UPDATE : checking cubeTest
+[2024-04-17 16:45:49.216105] UPDATE : checking mod
+[2024-04-17 16:45:49.218125] UPDATE : checking v001
+[2024-04-17 16:45:52.523099] UPDATE : [0]
+[2024-04-17 16:45:52.526080] UPDATE : ####################################################
+[2024-04-17 16:45:52.527081] UPDATE : Searching...
+[2024-04-17 16:45:52.529068] UPDATE : ####################################################
+[2024-04-17 16:45:52.532032] UPDATE : done searching
+[2024-04-17 16:45:52.531035] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS/char/cubetest/maya/scenes
+[2024-04-17 16:45:52.548912] UPDATE : checking file : char_cubeTest_mod_v001.ma
+[2024-04-17 16:45:52.550935] UPDATE : checking char
+[2024-04-17 16:45:52.563878] UPDATE : checking cubeTest
+[2024-04-17 16:45:52.567096] UPDATE : checking mod
+[2024-04-17 16:45:52.580034] UPDATE : checking v001
+[2024-04-17 16:45:56.146887] UPDATE : [0]
+[2024-04-17 16:45:56.148850] UPDATE : ####################################################
+[2024-04-17 16:45:56.150875] UPDATE : Searching...
+[2024-04-17 16:45:56.152844] UPDATE : ####################################################
+[2024-04-17 16:45:56.155832] UPDATE : done searching
+[2024-04-17 16:45:56.155832] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS/char/cubetest/maya/scenes/mod/edit
+[2024-04-17 16:45:56.155832] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS/char/cubetest/maya/scenes/mod
+[2024-04-17 16:45:56.175640] UPDATE : checking file : char_cubeTest_mod_v001.ma
+[2024-04-17 16:45:56.177617] UPDATE : checking file : char_cubeTest_mod_v001.ma
+[2024-04-17 16:45:56.179602] UPDATE : checking char
+[2024-04-17 16:45:56.180599] UPDATE : checking char
+[2024-04-17 16:45:56.182593] UPDATE : checking cubeTest
+[2024-04-17 16:45:56.183629] UPDATE : checking cubeTest
+[2024-04-17 16:45:56.184587] UPDATE : checking mod
+[2024-04-17 16:45:56.197611] UPDATE : checking v001
+[2024-04-17 16:45:56.197611] UPDATE : checking mod
+[2024-04-17 16:45:56.208059] UPDATE : checking v001
+
+
+[2024-04-17 16:47:27.421894] New Pipo session opened on <built-in function gethostname>
+[2024-04-17 16:47:27.438066] UPDATE : Personnal settings opened
+[2024-04-17 16:47:29.088585] UPDATE : Project selected : TestProjectSchool
+[2024-04-17 16:47:29.090434] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-17 16:47:29.092400] UPDATE : Project settings loaded!
+[2024-04-17 16:47:30.604204] UPDATE : [0]
+[2024-04-17 16:47:30.606228] UPDATE : ####################################################
+[2024-04-17 16:47:30.608218] UPDATE : Searching...
+[2024-04-17 16:47:30.609219] UPDATE : ####################################################
+[2024-04-17 16:47:30.613145] UPDATE : done searching
+[2024-04-17 16:47:30.612975] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS/char
+[2024-04-17 16:47:30.647948] UPDATE : checking file : char_cubeTest_mod_v001.ma
+[2024-04-17 16:47:30.649943] UPDATE : checking char
+[2024-04-17 16:47:30.663736] UPDATE : running
+[2024-04-17 16:47:30.666323] UPDATE : checking cubeTest
+[2024-04-17 16:47:30.668344] UPDATE : checking mod
+[2024-04-17 16:47:30.682373] UPDATE : running
+[2024-04-17 16:47:30.696355] UPDATE : checking v001
+[2024-04-17 16:47:53.768399] UPDATE : [0]
+[2024-04-17 16:47:53.771420] UPDATE : ####################################################
+[2024-04-17 16:47:53.772859] UPDATE : Searching...
+[2024-04-17 16:47:53.773862] UPDATE : ####################################################
+[2024-04-17 16:47:53.777013] UPDATE : done searching
+[2024-04-17 16:47:53.777013] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS/char/cubetest/maya/scenes
+[2024-04-17 16:47:53.794962] UPDATE : checking file : char_cubeTest_mod_v001.ma
+[2024-04-17 16:47:53.796960] UPDATE : checking char
+[2024-04-17 16:47:53.798953] UPDATE : running
+[2024-04-17 16:47:53.800946] UPDATE : checking cubeTest
+[2024-04-17 16:47:53.815744] UPDATE : checking mod
+[2024-04-17 16:47:53.830311] UPDATE : running
+[2024-04-17 16:47:53.833269] UPDATE : checking v001
+[2024-04-17 16:48:00.778835] UPDATE : [0]
+[2024-04-17 16:48:00.781826] UPDATE : ####################################################
+[2024-04-17 16:48:00.783822] UPDATE : Searching...
+[2024-04-17 16:48:00.784847] UPDATE : ####################################################
+[2024-04-17 16:48:00.789818] UPDATE : done searching
+[2024-04-17 16:48:00.788808] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS/char/cubetest/maya/scenes
+[2024-04-17 16:48:00.789818] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS/char/spheretest/maya/scenes
+[2024-04-17 16:48:00.809768] UPDATE : checking file : char_cubeTest_mod_v001.ma
+[2024-04-17 16:48:00.811747] UPDATE : checking file : char_sphereTest_mod_v001.ma
+[2024-04-17 16:48:00.812744] UPDATE : checking char
+[2024-04-17 16:48:00.813741] UPDATE : checking char
+[2024-04-17 16:48:00.815736] UPDATE : running
+[2024-04-17 16:48:00.816733] UPDATE : running
+[2024-04-17 16:48:00.817731] UPDATE : checking cubeTest
+[2024-04-17 16:48:00.830766] UPDATE : checking sphereTest
+[2024-04-17 16:48:00.833688] UPDATE : checking mod
+[2024-04-17 16:48:00.846169] UPDATE : running
+[2024-04-17 16:48:00.848210] UPDATE : checking mod
+[2024-04-17 16:48:00.851185] UPDATE : checking v001
+[2024-04-17 16:48:00.862967] UPDATE : running
+[2024-04-17 16:48:00.866516] UPDATE : checking v001
+
+
+[2024-04-17 16:49:07.992899] New Pipo session opened on <built-in function gethostname>
+[2024-04-17 16:49:08.009226] UPDATE : Personnal settings opened
+[2024-04-17 16:49:09.604934] UPDATE : Project selected : TestProjectSchool
+[2024-04-17 16:49:09.606828] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-17 16:49:09.608792] UPDATE : Project settings loaded!
+[2024-04-17 16:49:10.957568] UPDATE : [0]
+[2024-04-17 16:49:10.960009] UPDATE : ####################################################
+[2024-04-17 16:49:10.962247] UPDATE : Searching...
+[2024-04-17 16:49:10.963276] UPDATE : ####################################################
+[2024-04-17 16:49:10.966266] UPDATE : done searching
+[2024-04-17 16:49:10.966266] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS/char
+[2024-04-17 16:49:10.993166] UPDATE : checking file : char_cubeTest_mod_v001.ma
+[2024-04-17 16:49:10.996185] UPDATE : checking char
+[2024-04-17 16:49:10.998188] UPDATE : checking cubeTest
+[2024-04-17 16:49:11.000174] UPDATE : name checked
+[2024-04-17 16:49:11.015227] UPDATE : checking mod
+[2024-04-17 16:49:11.017221] UPDATE : checking v001
+
+
+[2024-04-17 16:50:17.323563] New Pipo session opened on <built-in function gethostname>
+[2024-04-17 16:50:17.339469] UPDATE : Personnal settings opened
+[2024-04-17 16:50:19.399051] UPDATE : Project selected : TestProjectSchool
+[2024-04-17 16:50:19.401519] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-17 16:50:19.402545] UPDATE : Project settings loaded!
+[2024-04-17 16:50:20.178530] UPDATE : [0]
+[2024-04-17 16:50:20.181542] UPDATE : ####################################################
+[2024-04-17 16:50:20.182521] UPDATE : Searching...
+[2024-04-17 16:50:20.184513] UPDATE : ####################################################
+[2024-04-17 16:50:20.187632] UPDATE : done searching
+[2024-04-17 16:50:20.187632] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS/char
+[2024-04-17 16:50:20.226210] UPDATE : checking file : char_cubeTest_mod_v001.ma
+[2024-04-17 16:50:20.228923] UPDATE : name checked
+
+
+[2024-04-17 16:51:44.847319] New Pipo session opened on <built-in function gethostname>
+[2024-04-17 16:51:44.862794] UPDATE : Personnal settings opened
+[2024-04-17 16:51:46.622720] UPDATE : Project selected : TestProjectSchool
+[2024-04-17 16:51:46.624745] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-17 16:51:46.626737] UPDATE : Project settings loaded!
+[2024-04-17 16:51:47.663011] UPDATE : [0]
+[2024-04-17 16:51:47.665006] UPDATE : ####################################################
+[2024-04-17 16:51:47.666870] UPDATE : Searching...
+[2024-04-17 16:51:47.667897] UPDATE : ####################################################
+[2024-04-17 16:51:47.670889] UPDATE : done searching
+[2024-04-17 16:51:47.670889] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS/char
+[2024-04-17 16:51:47.698925] UPDATE : checking file : char_cubeTest_mod_v001.ma
+
+
+[2024-04-17 16:52:17.254915] New Pipo session opened on <built-in function gethostname>
+[2024-04-17 16:52:17.270788] UPDATE : Personnal settings opened
+[2024-04-17 16:52:18.588502] UPDATE : Project selected : TestProjectSchool
+[2024-04-17 16:52:18.590144] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-17 16:52:18.592139] UPDATE : Project settings loaded!
+[2024-04-17 16:52:19.622371] UPDATE : [0]
+[2024-04-17 16:52:19.625363] UPDATE : ####################################################
+[2024-04-17 16:52:19.626897] UPDATE : Searching...
+[2024-04-17 16:52:19.628166] UPDATE : ####################################################
+[2024-04-17 16:52:19.631408] UPDATE : done searching
+[2024-04-17 16:52:19.631241] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS/char
+[2024-04-17 16:52:19.656694] UPDATE : checking file : char_cubeTest_mod_v001.ma
+[2024-04-17 16:52:19.658689] UPDATE : char
+[2024-04-17 16:52:19.660435] UPDATE : cubeTest
+[2024-04-17 16:52:19.663452] UPDATE : mod
+[2024-04-17 16:52:19.665393] UPDATE : v001
+[2024-04-17 16:52:19.679785] UPDATE : done searching babe
+[2024-04-17 16:52:19.681779] UPDATE : checking file : char_cubeTest_mod_v002.ma
+[2024-04-17 16:52:19.695976] UPDATE : char
+[2024-04-17 16:52:19.698964] UPDATE : cubeTest
+[2024-04-17 16:52:19.719510] UPDATE : mod
+[2024-04-17 16:52:19.722425] UPDATE : v002
+[2024-04-17 16:52:19.725050] UPDATE : done searching babe
+[2024-04-17 16:52:19.727439] UPDATE : checking file : char_cube_mod_v002.ma
+[2024-04-17 16:52:19.729504] UPDATE : char
+[2024-04-17 16:52:19.731497] UPDATE : cube
+[2024-04-17 16:52:19.759936] UPDATE : mod
+[2024-04-17 16:52:19.765922] UPDATE : v002
+[2024-04-17 16:52:19.777826] UPDATE : done searching babe
+[2024-04-17 16:52:19.781011] UPDATE : checking file : char_sphereTest_mod_v001.ma
+[2024-04-17 16:52:19.792951] UPDATE : char
+[2024-04-17 16:52:19.795360] UPDATE : sphereTest
+[2024-04-17 16:52:19.798328] UPDATE : mod
+[2024-04-17 16:52:19.812290] UPDATE : v001
+[2024-04-17 16:52:19.814313] UPDATE : done searching babe
+
+
+[2024-04-17 16:52:42.687430] New Pipo session opened on <built-in function gethostname>
+[2024-04-17 16:52:42.707344] UPDATE : Personnal settings opened
+[2024-04-17 16:52:44.205122] UPDATE : Project selected : TestProjectSchool
+[2024-04-17 16:52:44.207115] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-17 16:52:44.209111] UPDATE : Project settings loaded!
+[2024-04-17 16:52:45.448730] UPDATE : [1]
+[2024-04-17 16:52:45.450725] UPDATE : ####################################################
+[2024-04-17 16:52:45.451751] UPDATE : Searching...
+[2024-04-17 16:52:45.453746] UPDATE : ####################################################
+[2024-04-17 16:52:45.455711] UPDATE : done searching
+[2024-04-17 16:52:45.455711] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS
+[2024-04-17 16:52:45.477464] UPDATE : checking file : char_cubeTest_mod_v001.ma
+[2024-04-17 16:52:45.480426] UPDATE : char
+[2024-04-17 16:52:45.482450] UPDATE : kind error
+[2024-04-17 16:52:45.494341] UPDATE : cubeTest
+[2024-04-17 16:52:45.498712] UPDATE : mod
+[2024-04-17 16:52:45.509512] UPDATE : v001
+[2024-04-17 16:52:45.514803] UPDATE : done searching babe
+[2024-04-17 16:52:45.516794] UPDATE : checking file : char_cubeTest_mod_v002.ma
+[2024-04-17 16:52:45.525373] UPDATE : char
+[2024-04-17 16:52:45.531146] UPDATE : kind error
+[2024-04-17 16:52:45.533138] UPDATE : cubeTest
+[2024-04-17 16:52:45.547101] UPDATE : mod
+[2024-04-17 16:52:45.550093] UPDATE : v002
+[2024-04-17 16:52:45.562108] UPDATE : done searching babe
+[2024-04-17 16:52:45.564211] UPDATE : checking file : char_cube_mod_v002.ma
+[2024-04-17 16:52:45.572519] UPDATE : char
+[2024-04-17 16:52:45.580841] UPDATE : kind error
+[2024-04-17 16:52:45.582834] UPDATE : cube
+[2024-04-17 16:52:45.605459] UPDATE : mod
+[2024-04-17 16:52:45.623086] UPDATE : v002
+[2024-04-17 16:52:45.626155] UPDATE : done searching babe
+[2024-04-17 16:52:45.628177] UPDATE : checking file : char_sphereTest_mod_v001.ma
+[2024-04-17 16:52:45.630171] UPDATE : char
+[2024-04-17 16:52:45.633138] UPDATE : kind error
+[2024-04-17 16:52:45.645106] UPDATE : sphereTest
+[2024-04-17 16:52:45.648125] UPDATE : mod
+[2024-04-17 16:52:45.650118] UPDATE : v001
+[2024-04-17 16:52:45.662060] UPDATE : done searching babe
+
+
+[2024-04-17 16:54:54.502001] New Pipo session opened on <built-in function gethostname>
+[2024-04-17 16:54:54.520951] UPDATE : Personnal settings opened
+[2024-04-17 16:54:56.853884] UPDATE : Project selected : TestProjectSchool
+[2024-04-17 16:54:56.855908] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-17 16:54:56.857662] UPDATE : Project settings loaded!
+[2024-04-17 16:54:57.855673] UPDATE : [0]
+[2024-04-17 16:54:57.858666] UPDATE : ####################################################
+[2024-04-17 16:54:57.860687] UPDATE : Searching...
+[2024-04-17 16:54:57.861686] UPDATE : ####################################################
+[2024-04-17 16:54:57.864491] UPDATE : done searching
+[2024-04-17 16:54:57.864491] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS/char
+[2024-04-17 16:54:57.900532] UPDATE : checking file : char_cubeTest_mod_v001.ma
+[2024-04-17 16:54:57.903554] UPDATE : char
+[2024-04-17 16:54:57.916488] UPDATE : cubeTest
+[2024-04-17 16:54:57.919513] UPDATE : missing informations
+[2024-04-17 16:54:57.921396] UPDATE : not matching file
+[2024-04-17 16:54:57.933364] UPDATE : done searching babe
+[2024-04-17 16:54:57.936359] UPDATE : checking file : char_cubeTest_mod_v002.ma
+[2024-04-17 16:54:57.949273] UPDATE : char
+[2024-04-17 16:54:57.951735] UPDATE : cubeTest
+[2024-04-17 16:54:57.954727] UPDATE : missing informations
+[2024-04-17 16:54:57.975844] UPDATE : not matching file
+[2024-04-17 16:54:57.978863] UPDATE : done searching babe
+[2024-04-17 16:54:57.980655] UPDATE : checking file : char_cube_mod_v002.ma
+[2024-04-17 16:54:57.982678] UPDATE : char
+[2024-04-17 16:54:57.984644] UPDATE : cube
+[2024-04-17 16:54:57.986670] UPDATE : missing informations
+[2024-04-17 16:54:58.006619] UPDATE : not matching file
+[2024-04-17 16:54:58.018553] UPDATE : done searching babe
+[2024-04-17 16:54:58.032770] UPDATE : checking file : char_sphereTest_mod_v001.ma
+[2024-04-17 16:54:58.035118] UPDATE : char
+[2024-04-17 16:54:58.037511] UPDATE : sphereTest
+[2024-04-17 16:54:58.046590] UPDATE : missing informations
+[2024-04-17 16:54:58.051503] UPDATE : not matching file
+[2024-04-17 16:54:58.054490] UPDATE : done searching babe
+
+
+[2024-04-17 16:58:03.929950] New Pipo session opened on <built-in function gethostname>
+[2024-04-17 16:58:03.946354] UPDATE : Personnal settings opened
+[2024-04-17 16:58:05.429567] UPDATE : Project selected : TestProjectSchool
+[2024-04-17 16:58:05.431560] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-17 16:58:05.433552] UPDATE : Project settings loaded!
+[2024-04-17 16:58:06.316935] UPDATE : [0]
+[2024-04-17 16:58:06.319956] UPDATE : ####################################################
+[2024-04-17 16:58:06.320957] UPDATE : Searching...
+[2024-04-17 16:58:06.322949] UPDATE : ####################################################
+[2024-04-17 16:58:06.326026] UPDATE : done searching
+[2024-04-17 16:58:06.326026] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS/char
+[2024-04-17 16:58:06.352225] UPDATE : checking file : char_cubeTest_mod_v001.ma
+[2024-04-17 16:58:06.354219] UPDATE : char
+[2024-04-17 16:58:06.356554] UPDATE : cubeTest
+[2024-04-17 16:58:06.369969] UPDATE : mod
+[2024-04-17 16:58:06.372401] UPDATE : v001
+[2024-04-17 16:58:06.385420] UPDATE : done searching babe
+[2024-04-17 16:58:06.388314] UPDATE : char_cubeTest_mod_v001.ma : False
+[2024-04-17 16:58:06.391304] UPDATE : checking file : char_cubeTest_mod_v002.ma
+[2024-04-17 16:58:06.404272] UPDATE : char
+[2024-04-17 16:58:06.406264] UPDATE : cubeTest
+[2024-04-17 16:58:06.419789] UPDATE : mod
+[2024-04-17 16:58:06.422778] UPDATE : v002
+[2024-04-17 16:58:06.435122] UPDATE : done searching babe
+[2024-04-17 16:58:06.438194] UPDATE : char_cubeTest_mod_v002.ma : False
+[2024-04-17 16:58:06.440191] UPDATE : checking file : char_cube_mod_v002.ma
+[2024-04-17 16:58:06.481153] UPDATE : char
+[2024-04-17 16:58:06.484172] UPDATE : cube
+[2024-04-17 16:58:06.486349] UPDATE : mod
+[2024-04-17 16:58:06.488488] UPDATE : v002
+[2024-04-17 16:58:06.490483] UPDATE : done searching babe
+[2024-04-17 16:58:06.496954] UPDATE : char_cube_mod_v002.ma : False
+[2024-04-17 16:58:06.504921] UPDATE : checking file : char_sphereTest_mod_v001.ma
+[2024-04-17 16:58:06.507883] UPDATE : char
+[2024-04-17 16:58:06.520778] UPDATE : sphereTest
+[2024-04-17 16:58:06.522772] UPDATE : mod
+[2024-04-17 16:58:06.534741] UPDATE : v001
+[2024-04-17 16:58:06.537735] UPDATE : done searching babe
+[2024-04-17 16:58:06.540186] UPDATE : char_sphereTest_mod_v001.ma : False
+
+
+[2024-04-17 16:58:29.264557] New Pipo session opened on <built-in function gethostname>
+[2024-04-17 16:58:29.281627] UPDATE : Personnal settings opened
+[2024-04-17 16:58:31.708445] UPDATE : Project selected : TestProjectSchool
+[2024-04-17 16:58:31.710229] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-17 16:58:31.712261] UPDATE : Project settings loaded!
+[2024-04-17 16:58:33.064044] UPDATE : [0]
+[2024-04-17 16:58:33.066156] UPDATE : ####################################################
+[2024-04-17 16:58:33.068180] UPDATE : Searching...
+[2024-04-17 16:58:33.069175] UPDATE : ####################################################
+[2024-04-17 16:58:33.072770] UPDATE : done searching
+[2024-04-17 16:58:33.072770] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS/char
+[2024-04-17 16:58:33.098702] UPDATE : checking file : char_cubeTest_mod_v001.ma
+[2024-04-17 16:58:33.112665] UPDATE : char
+[2024-04-17 16:58:33.115685] UPDATE : cubeTest
+[2024-04-17 16:58:33.129020] UPDATE : mod
+[2024-04-17 16:58:33.131671] UPDATE : v001
+[2024-04-17 16:58:33.133640] UPDATE : done searching babe
+[2024-04-17 16:58:33.147632] UPDATE : char_cubeTest_mod_v001.ma : False
+============================
+[2024-04-17 16:58:33.149624] UPDATE : checking file : char_cubeTest_mod_v002.ma
+[2024-04-17 16:58:33.163589] UPDATE : char
+[2024-04-17 16:58:33.166578] UPDATE : cubeTest
+[2024-04-17 16:58:33.178520] UPDATE : mod
+[2024-04-17 16:58:33.182510] UPDATE : v002
+[2024-04-17 16:58:33.210435] UPDATE : done searching babe
+[2024-04-17 16:58:33.224397] UPDATE : char_cubeTest_mod_v002.ma : False
+============================
+[2024-04-17 16:58:33.231379] UPDATE : checking file : char_cube_mod_v002.ma
+[2024-04-17 16:58:33.248332] UPDATE : char
+[2024-04-17 16:58:33.262295] UPDATE : cube
+[2024-04-17 16:58:33.277256] UPDATE : mod
+[2024-04-17 16:58:33.300194] UPDATE : v002
+[2024-04-17 16:58:33.329117] UPDATE : done searching babe
+[2024-04-17 16:58:33.346071] UPDATE : char_cube_mod_v002.ma : False
+============================
+[2024-04-17 16:58:33.377987] UPDATE : checking file : char_sphereTest_mod_v001.ma
+[2024-04-17 16:58:33.382973] UPDATE : char
+[2024-04-17 16:58:33.396935] UPDATE : sphereTest
+[2024-04-17 16:58:33.410898] UPDATE : mod
+[2024-04-17 16:58:33.416882] UPDATE : v001
+[2024-04-17 16:58:33.429847] UPDATE : done searching babe
+[2024-04-17 16:58:33.433836] UPDATE : char_sphereTest_mod_v001.ma : False
+============================
+[2024-04-17 16:59:10.925168] UPDATE : [0]
+[2024-04-17 16:59:10.927151] UPDATE : ####################################################
+[2024-04-17 16:59:10.929582] UPDATE : Searching...
+[2024-04-17 16:59:10.930853] UPDATE : ####################################################
+[2024-04-17 16:59:10.933845] UPDATE : done searching
+[2024-04-17 16:59:10.933845] UPDATE : Searching folder content : D:/TestProjectSchool/ASSETS/char/cubetest/maya/scenes
+[2024-04-17 16:59:10.962910] UPDATE : checking file : char_cubeTest_mod_v001.ma
+[2024-04-17 16:59:10.965761] UPDATE : char
+[2024-04-17 16:59:10.979078] UPDATE : cubeTest
+[2024-04-17 16:59:10.981803] UPDATE : mod
+[2024-04-17 16:59:10.994772] UPDATE : v001
+[2024-04-17 16:59:10.996729] UPDATE : done searching babe
+[2024-04-17 16:59:10.999750] UPDATE : char_cubeTest_mod_v001.ma : False
+============================
+[2024-04-17 16:59:11.012687] UPDATE : checking file : char_cubeTest_mod_v002.ma
+[2024-04-17 16:59:11.015679] UPDATE : char
+[2024-04-17 16:59:11.028457] UPDATE : cubeTest
+[2024-04-17 16:59:11.031161] UPDATE : mod
+[2024-04-17 16:59:11.033158] UPDATE : v002
+[2024-04-17 16:59:11.047090] UPDATE : done searching babe
+[2024-04-17 16:59:11.050082] UPDATE : char_cubeTest_mod_v002.ma : False
+============================
+[2024-04-17 16:59:11.063961] UPDATE : checking file : char_cube_mod_v002.ma
+[2024-04-17 16:59:11.065956] UPDATE : char
+[2024-04-17 16:59:11.077951] UPDATE : cube
+[2024-04-17 16:59:11.080806] UPDATE : mod
+[2024-04-17 16:59:11.083670] UPDATE : v002
+[2024-04-17 16:59:11.093673] UPDATE : done searching babe
+[2024-04-17 16:59:11.099627] UPDATE : char_cube_mod_v002.ma : False
+============================
