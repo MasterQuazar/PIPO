@@ -20,7 +20,7 @@ import os
 import colorama
 import copy
 import pyfiglet
-
+import asyncio
 
 from termcolor import *
 
@@ -30,7 +30,7 @@ colorama.init()
 
 from Modules.PipoCommon import PipoCommonApplication
 from Modules.PipoLog import PipoLogApplication
-
+from Modules.PipoCommon import PipoSearchFilesApplication
 
 
 
@@ -48,6 +48,10 @@ class PipoLobbyApplication(Screen, PipoCommonApplication, PipoLogApplication):
 	def __init__(self):
 		super().__init__()
 
+
+		#create instance of the search files class
+		#self.search_app = PipoSearchFilesApplication()
+
 		self.name_kind_selection = []
 		self.name_name_selection = []
 		self.name_shots_selection = []
@@ -63,6 +67,8 @@ class PipoLobbyApplication(Screen, PipoCommonApplication, PipoLogApplication):
 		self.name_file_list = []
 
 		self.kind_change_list = []
+
+		self.searching_thread = None
 
 		
 		#self.kind_list = app.current_project_settings["Scenes"].keys()
@@ -150,8 +156,8 @@ class PipoLobbyApplication(Screen, PipoCommonApplication, PipoLogApplication):
 		#update list values
 		self.update_lobby_list_function()
 		#launch lobby log thread
-		#self.log_thread = threading.Thread(target=self.update_lobby_log_function, daemon=True, args=())
-		#self.log_thread.start()
+		self.log_thread = threading.Thread(target=self.update_lobby_log_function, daemon=True, args=())
+		self.log_thread.start()
 
 
 
@@ -229,8 +235,58 @@ class PipoLobbyApplication(Screen, PipoCommonApplication, PipoLogApplication):
 			self.display_message_function(kind_selection)
 
 			#self.name_kind_selection = []
+			#check the value of the searching thread event status
+			#if the event is valid shut down the current thread!
+			
 
-			self.search_files_function()
+			searching_class = PipoSearchFilesApplication()
+			self.display_message_function("launch")
+			test_process = multiprocessing.Process(target=searching_class.test_function, args=("bonjour"))
+			test_process.start()
+			"""
+			if self.searching_thread == None:
+				self.searching_event = threading.Event()
+				self.searching_thread = threading.Thread(target=self.test_process_function,daemon=True, args=())
+			
+				self.searching_thread.start()
+
+			else:
+				if self.searching_thread.is_alive():
+					#make the thread crash to launch a new one
+					self.searching_event.set()
+			"""
+			"""
+			
+			self.display_message_function("event : %s"%searching_event.is_set())
+			self.search_thread = threading.Thread(target=self.test_process_function, args=(searching_event,))
+
+			self.display_message_function("alive : %s"%self.search_thread.is_alive())
+			if self.search_thread.is_alive():
+				self.display_message_function("alive : %s"%self.search_thread.is_alive())
+				#kill thread
+				searching_event.set()
+			self.search_thread.start()
+			"""
+
+			
+
+
+				
+
+
+
+
+
+	def test_process_function(self):
+		for i in range(20):
+
+
+			if self.searching_event.is_set():
+				self.display_message_function("TERMINATED")
+				return
+			self.display_message_function("hello world : %s"%self.searching_event.is_set())
+
+			sleep(1)
 		
 
 

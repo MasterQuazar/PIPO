@@ -64660,3 +64660,1663 @@ Unexisting path!
 [2024-04-17 16:59:11.093673] UPDATE : done searching babe
 [2024-04-17 16:59:11.099627] UPDATE : char_cube_mod_v002.ma : False
 ============================
+
+
+[2024-04-22 13:29:10.484639] New Pipo session opened on <built-in function gethostname>
+[2024-04-22 13:29:10.563255] UPDATE : Personnal settings opened
+[2024-04-22 13:29:14.087540] UPDATE : Project selected : TestProjectSchool
+[2024-04-22 13:29:14.090535] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-22 13:29:14.092528] UPDATE : Project settings loaded!
+[2024-04-22 13:29:15.084506] UPDATE : [0]
+[2024-04-22 13:29:15.086501] UPDATE : ####################################################
+[2024-04-22 13:29:15.088496] UPDATE : Searching...
+[2024-04-22 13:29:15.090491] UPDATE : ####################################################
+[2024-04-22 13:29:15.093484] UPDATE : thread 0 started
+[2024-04-22 13:29:15.096474] UPDATE : thread 1 started
+[2024-04-22 13:29:15.097472] UPDATE : thread 2 started
+[2024-04-22 13:29:15.099466] UPDATE : thread 3 started
+[2024-04-22 13:29:15.101461] UPDATE : thread 4 started
+[2024-04-22 13:29:15.103456] UPDATE : thread 5 started
+[2024-04-22 13:29:15.105202] UPDATE : thread 6 started
+[2024-04-22 13:29:15.106843] UPDATE : thread 7 started
+[2024-04-22 13:29:15.108840] UPDATE : thread 8 started
+[2024-04-22 13:29:15.110130] UPDATE : thread 9 started
+[2024-04-22 13:29:15.111158] UPDATE : done searching
+[2024-04-22 13:29:15.093484] UPDATE : thread 0 DONE!
+[2024-04-22 13:29:15.106843] UPDATE : thread 7 DONE!
+[2024-04-22 13:29:15.099466] UPDATE : thread 3 DONE!
+[2024-04-22 13:29:15.350314] UPDATE : [0, 1]
+[2024-04-22 13:29:15.351817] UPDATE : ####################################################
+[2024-04-22 13:29:15.354059] UPDATE : Searching...
+[2024-04-22 13:29:15.355084] UPDATE : ####################################################
+[2024-04-22 13:29:15.359072] UPDATE : thread 0 started
+[2024-04-22 13:29:15.361041] UPDATE : thread 1 started
+[2024-04-22 13:29:15.363036] UPDATE : thread 2 started
+[2024-04-22 13:29:15.365030] UPDATE : thread 3 started
+[2024-04-22 13:29:15.366057] UPDATE : thread 4 started
+[2024-04-22 13:29:15.368049] UPDATE : thread 5 started
+[2024-04-22 13:29:15.369051] UPDATE : thread 6 started
+[2024-04-22 13:29:15.371042] UPDATE : thread 7 started
+[2024-04-22 13:29:15.373045] UPDATE : thread 8 started
+[2024-04-22 13:29:15.374005] UPDATE : thread 9 started
+[2024-04-22 13:29:15.376032] UPDATE : done searching
+[2024-04-22 13:29:15.368049] UPDATE : thread 5 DONE!
+[2024-04-22 13:29:16.102516] UPDATE : thread 4 DONE!
+[2024-04-22 13:29:17.097617] UPDATE : thread 1 DONE!
+[2024-04-22 13:29:17.361826] UPDATE : thread 1 DONE!
+[2024-04-22 13:29:19.373273] UPDATE : thread 8 DONE!
+[2024-04-22 13:29:20.370419] UPDATE : thread 6 DONE!
+[2024-04-22 13:29:21.110943] UPDATE : thread 8 DONE!
+[2024-04-22 13:29:21.098976] UPDATE : thread 2 DONE!
+[2024-04-22 13:29:22.104071] UPDATE : thread 5 DONE!
+[2024-04-22 13:29:22.360250] UPDATE : thread 0 DONE!
+[2024-04-22 13:29:22.372987] UPDATE : thread 7 DONE!
+[2024-04-22 13:29:23.106145] UPDATE : thread 6 DONE!
+[2024-04-22 13:29:24.111347] UPDATE : thread 9 DONE!
+[2024-04-22 13:29:24.376323] UPDATE : thread 3 DONE!
+[2024-04-22 13:29:24.376323] UPDATE : thread 4 DONE!
+[2024-04-22 13:29:24.377321] UPDATE : thread 9 DONE!
+[2024-04-22 13:29:24.363952] UPDATE : thread 2 DONE!
+
+
+[2024-04-22 13:29:40.474370] New Pipo session opened on <built-in function gethostname>
+[2024-04-22 13:29:40.492298] UPDATE : Personnal settings opened
+[2024-04-22 13:29:42.911166] UPDATE : Project selected : testproject
+[2024-04-22 13:29:42.912825] ERROR : Impossible to access that project!
+Unexisting path!
+[2024-04-22 13:29:45.219268] UPDATE : Project selected : TestProjectSchool
+[2024-04-22 13:29:45.222261] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-22 13:29:45.223257] UPDATE : Project settings loaded!
+[2024-04-22 13:29:46.201652] UPDATE : [0]
+[2024-04-22 13:29:46.203653] UPDATE : ####################################################
+[2024-04-22 13:29:46.205642] UPDATE : Searching...
+[2024-04-22 13:29:46.213443] UPDATE : ####################################################
+[2024-04-22 13:29:46.216776] UPDATE : thread 0 started
+[2024-04-22 13:29:46.217775] UPDATE : thread 1 started
+[2024-04-22 13:29:46.219770] UPDATE : thread 2 started
+[2024-04-22 13:29:46.221765] UPDATE : thread 3 started
+[2024-04-22 13:29:46.223759] UPDATE : thread 4 started
+[2024-04-22 13:29:46.225382] UPDATE : thread 5 started
+[2024-04-22 13:29:46.226409] UPDATE : thread 6 started
+[2024-04-22 13:29:46.228375] UPDATE : thread 7 started
+[2024-04-22 13:29:46.229373] UPDATE : thread 8 started
+[2024-04-22 13:29:46.231405] UPDATE : thread 9 started
+[2024-04-22 13:29:46.233392] UPDATE : done searching
+[2024-04-22 13:29:46.217775] UPDATE : thread 1 DONE!
+[2024-04-22 13:29:48.217855] UPDATE : thread 0 DONE!
+[2024-04-22 13:29:48.231937] UPDATE : thread 9 DONE!
+[2024-04-22 13:29:49.228047] UPDATE : thread 6 DONE!
+[2024-04-22 13:29:50.220895] UPDATE : thread 2 DONE!
+[2024-04-22 13:29:50.232998] UPDATE : thread 4 DONE!
+[2024-04-22 13:29:51.238043] UPDATE : thread 7 DONE!
+[2024-04-22 13:29:51.225396] UPDATE : thread 5 DONE!
+[2024-04-22 13:29:52.230660] UPDATE : thread 8 DONE!
+[2024-04-22 13:29:54.222633] UPDATE : thread 3 DONE!
+
+
+[2024-04-22 13:31:38.378338] New Pipo session opened on <built-in function gethostname>
+[2024-04-22 13:31:38.395942] UPDATE : Personnal settings opened
+[2024-04-22 13:31:41.869563] UPDATE : Project selected : TestProjectSchool
+[2024-04-22 13:31:41.871557] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-22 13:31:41.873553] UPDATE : Project settings loaded!
+[2024-04-22 13:31:43.027572] UPDATE : [0]
+[2024-04-22 13:31:43.029081] UPDATE : ####################################################
+[2024-04-22 13:31:43.031071] UPDATE : Searching...
+[2024-04-22 13:31:43.033067] UPDATE : ####################################################
+[2024-04-22 13:31:43.036086] UPDATE : thread 0 started
+[2024-04-22 13:31:43.037087] UPDATE : thread 1 started
+[2024-04-22 13:31:43.039050] UPDATE : thread 2 started
+[2024-04-22 13:31:43.041045] UPDATE : thread 3 started
+[2024-04-22 13:31:43.042042] UPDATE : thread 4 started
+[2024-04-22 13:31:43.044272] UPDATE : thread 5 started
+[2024-04-22 13:31:43.045298] UPDATE : thread 6 started
+[2024-04-22 13:31:43.047292] UPDATE : thread 7 started
+[2024-04-22 13:31:43.049288] UPDATE : thread 8 started
+[2024-04-22 13:31:43.051254] UPDATE : thread 9 started
+[2024-04-22 13:31:43.053249] UPDATE : 0 / 10
+[2024-04-22 13:31:44.055253] UPDATE : 0 / 10
+[2024-04-22 13:31:45.057614] UPDATE : 0 / 10
+[2024-04-22 13:31:46.060245] UPDATE : 0 / 10
+[2024-04-22 13:31:47.062436] UPDATE : 0 / 10
+[2024-04-22 13:31:48.064423] UPDATE : 0 / 10
+
+
+[2024-04-22 13:31:58.202775] New Pipo session opened on <built-in function gethostname>
+[2024-04-22 13:31:58.219540] UPDATE : Personnal settings opened
+[2024-04-22 13:32:00.104658] UPDATE : Project selected : TestProjectSchool
+[2024-04-22 13:32:00.106667] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-22 13:32:00.108649] UPDATE : Project settings loaded!
+[2024-04-22 13:32:01.799145] UPDATE : [0]
+[2024-04-22 13:32:01.802137] UPDATE : ####################################################
+[2024-04-22 13:32:01.803134] UPDATE : Searching...
+[2024-04-22 13:32:01.805129] UPDATE : ####################################################
+[2024-04-22 13:32:01.808121] UPDATE : thread 0 started
+[2024-04-22 13:32:01.810115] UPDATE : thread 1 started
+[2024-04-22 13:32:01.811113] UPDATE : thread 2 started
+[2024-04-22 13:32:01.813107] UPDATE : thread 3 started
+[2024-04-22 13:32:01.815193] UPDATE : thread 4 started
+[2024-04-22 13:32:01.816217] UPDATE : thread 5 started
+[2024-04-22 13:32:01.818188] UPDATE : thread 6 started
+[2024-04-22 13:32:01.820182] UPDATE : thread 7 started
+[2024-04-22 13:32:01.822177] UPDATE : thread 8 started
+[2024-04-22 13:32:01.823872] UPDATE : thread 9 started
+[2024-04-22 13:32:01.824904] UPDATE : 0 / 10
+[2024-04-22 13:32:02.827080] UPDATE : 0 / 10
+[2024-04-22 13:32:03.829190] UPDATE : 0 / 10
+[2024-04-22 13:32:04.831894] UPDATE : 0 / 10
+[2024-04-22 13:32:05.834927] UPDATE : 0 / 10
+[2024-04-22 13:32:06.837698] UPDATE : 0 / 10
+[2024-04-22 13:32:07.840591] UPDATE : 0 / 10
+[2024-04-22 13:32:08.843535] UPDATE : 0 / 10
+[2024-04-22 13:32:09.847343] UPDATE : 0 / 10
+
+
+[2024-04-22 13:32:23.499237] New Pipo session opened on <built-in function gethostname>
+[2024-04-22 13:32:23.517188] UPDATE : Personnal settings opened
+[2024-04-22 13:32:25.091060] UPDATE : Project selected : TestProjectSchool
+[2024-04-22 13:32:25.093056] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-22 13:32:25.096049] UPDATE : Project settings loaded!
+[2024-04-22 13:32:25.997876] UPDATE : [1]
+[2024-04-22 13:32:25.999870] UPDATE : ####################################################
+[2024-04-22 13:32:26.001896] UPDATE : Searching...
+[2024-04-22 13:32:26.002890] UPDATE : ####################################################
+[2024-04-22 13:32:26.005886] UPDATE : thread 0 started
+[2024-04-22 13:32:26.007850] UPDATE : thread 1 started
+[2024-04-22 13:32:26.008874] UPDATE : thread 2 started
+[2024-04-22 13:32:26.010869] UPDATE : thread 3 started
+[2024-04-22 13:32:26.012879] UPDATE : thread 4 started
+[2024-04-22 13:32:26.014831] UPDATE : thread 5 started
+[2024-04-22 13:32:26.015854] UPDATE : thread 6 started
+[2024-04-22 13:32:26.017834] UPDATE : thread 7 started
+[2024-04-22 13:32:26.018820] UPDATE : thread 8 started
+[2024-04-22 13:32:26.020841] UPDATE : thread 9 started
+[2024-04-22 13:32:26.022809] UPDATE : 0 / 10
+[2024-04-22 13:32:27.025071] UPDATE : 0 / 10
+[2024-04-22 13:32:28.028014] UPDATE : 0 / 10
+[2024-04-22 13:32:29.031116] UPDATE : 0 / 10
+[2024-04-22 13:32:30.033667] UPDATE : 0 / 10
+[2024-04-22 13:32:31.036378] UPDATE : 0 / 10
+[2024-04-22 13:32:32.038574] UPDATE : 0 / 10
+[2024-04-22 13:32:33.040888] UPDATE : 0 / 10
+[2024-04-22 13:32:34.043325] UPDATE : 0 / 10
+[2024-04-22 13:32:35.046638] UPDATE : 0 / 10
+[2024-04-22 13:32:36.049398] UPDATE : 0 / 10
+[2024-04-22 13:32:37.051839] UPDATE : 0 / 10
+[2024-04-22 13:32:38.054939] UPDATE : 0 / 10
+[2024-04-22 13:32:39.057392] UPDATE : 0 / 10
+[2024-04-22 13:32:40.060152] UPDATE : 0 / 10
+[2024-04-22 13:32:41.063176] UPDATE : 0 / 10
+[2024-04-22 13:32:42.065676] UPDATE : 0 / 10
+[2024-04-22 13:32:43.068691] UPDATE : 0 / 10
+[2024-04-22 13:32:44.072615] UPDATE : 0 / 10
+[2024-04-22 13:32:45.075146] UPDATE : 0 / 10
+
+
+[2024-04-22 13:33:55.536076] New Pipo session opened on <built-in function gethostname>
+[2024-04-22 13:33:55.556050] UPDATE : Personnal settings opened
+[2024-04-22 13:33:57.831893] UPDATE : Project selected : TestProjectSchool
+[2024-04-22 13:33:57.833888] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-22 13:33:57.835659] UPDATE : Project settings loaded!
+[2024-04-22 13:33:58.798115] UPDATE : [0]
+[2024-04-22 13:33:58.800641] UPDATE : ####################################################
+[2024-04-22 13:33:58.801635] UPDATE : Searching...
+[2024-04-22 13:33:58.803827] UPDATE : ####################################################
+[2024-04-22 13:33:58.806849] UPDATE : thread 0 started
+[2024-04-22 13:33:58.808821] UPDATE : thread 1 started
+[2024-04-22 13:33:58.810837] UPDATE : thread 2 started
+[2024-04-22 13:33:58.812801] UPDATE : thread 3 started
+[2024-04-22 13:33:58.814688] UPDATE : thread 4 started
+[2024-04-22 13:33:58.815689] UPDATE : thread 5 started
+[2024-04-22 13:33:58.817682] UPDATE : thread 6 started
+[2024-04-22 13:33:58.819677] UPDATE : thread 7 started
+[2024-04-22 13:33:58.820674] UPDATE : thread 8 started
+[2024-04-22 13:33:58.823262] UPDATE : thread 9 started
+[2024-04-22 13:33:58.824289] UPDATE : hello world
+[2024-04-22 13:33:59.828018] UPDATE : hello world
+[2024-04-22 13:34:00.830561] UPDATE : hello world
+[2024-04-22 13:34:01.833602] UPDATE : hello world
+[2024-04-22 13:34:02.836675] UPDATE : hello world
+[2024-04-22 13:34:03.839783] UPDATE : hello world
+[2024-04-22 13:34:04.842659] UPDATE : hello world
+
+
+[2024-04-22 13:34:36.045323] New Pipo session opened on <built-in function gethostname>
+[2024-04-22 13:34:36.068843] UPDATE : Personnal settings opened
+[2024-04-22 13:34:37.647017] UPDATE : Project selected : TestProjectSchool
+[2024-04-22 13:34:37.650009] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-22 13:34:37.651038] UPDATE : Project settings loaded!
+[2024-04-22 13:34:38.816538] UPDATE : [0]
+[2024-04-22 13:34:38.819558] UPDATE : ####################################################
+[2024-04-22 13:34:38.820556] UPDATE : Searching...
+[2024-04-22 13:34:38.822553] UPDATE : ####################################################
+[2024-04-22 13:34:38.831090] UPDATE : thread 0 started
+[2024-04-22 13:34:38.833088] UPDATE : thread 1 started
+[2024-04-22 13:34:38.835086] UPDATE : thread 2 started
+[2024-04-22 13:34:38.837074] UPDATE : thread 3 started
+[2024-04-22 13:34:38.839040] UPDATE : thread 4 started
+[2024-04-22 13:34:38.841035] UPDATE : thread 5 started
+[2024-04-22 13:34:38.842060] UPDATE : thread 6 started
+[2024-04-22 13:34:38.844058] UPDATE : thread 7 started
+[2024-04-22 13:34:38.846046] UPDATE : thread 8 started
+[2024-04-22 13:34:38.848041] UPDATE : thread 9 started
+[2024-04-22 13:34:38.849041] UPDATE : hello world
+[2024-04-22 13:34:39.851862] UPDATE : hello world
+[2024-04-22 13:34:40.853983] UPDATE : hello world
+[2024-04-22 13:34:41.857041] UPDATE : hello world
+[2024-04-22 13:34:42.859708] UPDATE : hello world
+[2024-04-22 13:34:43.862597] UPDATE : hello world
+[2024-04-22 13:34:44.865203] UPDATE : hello world
+[2024-04-22 13:34:45.868237] UPDATE : hello world
+[2024-04-22 13:34:46.871001] UPDATE : hello world
+[2024-04-22 13:34:47.874138] UPDATE : hello world
+[2024-04-22 13:34:48.876586] UPDATE : hello world
+
+
+[2024-04-22 13:35:06.588852] New Pipo session opened on <built-in function gethostname>
+[2024-04-22 13:35:06.607599] UPDATE : Personnal settings opened
+[2024-04-22 13:35:07.943886] UPDATE : Project selected : TestProjectSchool
+[2024-04-22 13:35:07.945881] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-22 13:35:07.946878] UPDATE : Project settings loaded!
+[2024-04-22 13:35:08.830052] UPDATE : [0]
+[2024-04-22 13:35:08.832046] UPDATE : ####################################################
+[2024-04-22 13:35:08.834040] UPDATE : Searching...
+[2024-04-22 13:35:08.836036] UPDATE : ####################################################
+[2024-04-22 13:35:08.839064] UPDATE : thread 0 started
+[2024-04-22 13:35:08.843413] UPDATE : thread 1 started
+[2024-04-22 13:35:08.845423] UPDATE : thread 2 started
+[2024-04-22 13:35:08.846451] UPDATE : thread 3 started
+[2024-04-22 13:35:08.848445] UPDATE : thread 4 started
+[2024-04-22 13:35:08.850439] UPDATE : thread 5 started
+[2024-04-22 13:35:08.852406] UPDATE : thread 6 started
+[2024-04-22 13:35:08.853404] UPDATE : thread 7 started
+[2024-04-22 13:35:08.855397] UPDATE : thread 8 started
+[2024-04-22 13:35:08.857393] UPDATE : thread 9 started
+[2024-04-22 13:35:09.852600] UPDATE : thread 6 DONE!
+[2024-04-22 13:35:10.858198] UPDATE : thread 9 DONE!
+[2024-04-22 13:35:11.854240] UPDATE : thread 7 DONE!
+[2024-04-22 13:35:12.849505] UPDATE : thread 4 DONE!
+[2024-04-22 13:35:14.843985] UPDATE : thread 1 DONE!
+[2024-04-22 13:35:14.856951] UPDATE : thread 8 DONE!
+[2024-04-22 13:35:14.856951] UPDATE : thread 3 DONE!
+[2024-04-22 13:35:15.851159] UPDATE : thread 5 DONE!
+[2024-04-22 13:35:16.852330] UPDATE : thread 2 DONE!
+[2024-04-22 13:35:16.840162] UPDATE : thread 0 DONE!
+
+
+[2024-04-22 13:37:59.805755] New Pipo session opened on <built-in function gethostname>
+[2024-04-22 13:37:59.823287] UPDATE : Personnal settings opened
+[2024-04-22 13:38:02.431168] UPDATE : Project selected : TestProjectSchool
+[2024-04-22 13:38:02.433156] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-22 13:38:02.435125] UPDATE : Project settings loaded!
+[2024-04-22 13:38:03.616532] UPDATE : [0]
+[2024-04-22 13:38:03.618528] UPDATE : ####################################################
+[2024-04-22 13:38:03.620529] UPDATE : Searching...
+[2024-04-22 13:38:03.622553] UPDATE : ####################################################
+[2024-04-22 13:38:03.641537] UPDATE : thread 0 started
+[2024-04-22 13:38:03.643531] UPDATE : thread 1 started
+[2024-04-22 13:38:03.645526] UPDATE : thread 2 started
+[2024-04-22 13:38:03.647521] UPDATE : thread 3 started
+[2024-04-22 13:38:03.649516] UPDATE : thread 4 started
+[2024-04-22 13:38:03.651510] UPDATE : thread 5 started
+[2024-04-22 13:38:03.653505] UPDATE : thread 6 started
+[2024-04-22 13:38:03.655432] UPDATE : thread 7 started
+[2024-04-22 13:38:03.656457] UPDATE : thread 8 started
+[2024-04-22 13:38:03.658451] UPDATE : thread 9 started
+[2024-04-22 13:38:05.668507] UPDATE : thread 4 DONE!
+[2024-04-22 13:38:06.652070] UPDATE : thread 5 DONE!
+[2024-04-22 13:38:06.665150] UPDATE : thread 9 DONE!
+[2024-04-22 13:38:06.664153] UPDATE : thread 8 DONE!
+[2024-04-22 13:38:07.642949] UPDATE : thread 0 DONE!
+[2024-04-22 13:38:08.396361] UPDATE : [0, 2]
+[2024-04-22 13:38:08.398356] UPDATE : ####################################################
+[2024-04-22 13:38:08.400350] UPDATE : Searching...
+[2024-04-22 13:38:08.402346] UPDATE : ####################################################
+[2024-04-22 13:38:08.407331] UPDATE : thread 0 started
+[2024-04-22 13:38:08.409331] UPDATE : thread 1 started
+[2024-04-22 13:38:08.411321] UPDATE : thread 2 started
+[2024-04-22 13:38:08.413316] UPDATE : thread 3 started
+[2024-04-22 13:38:08.415311] UPDATE : thread 4 started
+[2024-04-22 13:38:08.416308] UPDATE : thread 5 started
+[2024-04-22 13:38:08.418840] UPDATE : thread 6 started
+[2024-04-22 13:38:08.419833] UPDATE : thread 7 started
+[2024-04-22 13:38:08.422476] UPDATE : thread 8 started
+[2024-04-22 13:38:08.424253] UPDATE : thread 9 started
+[2024-04-22 13:38:08.409331] UPDATE : thread 1 DONE!
+[2024-04-22 13:38:08.657756] UPDATE : [0, 2, 1]
+[2024-04-22 13:38:08.660756] UPDATE : ####################################################
+[2024-04-22 13:38:08.661775] UPDATE : Searching...
+[2024-04-22 13:38:08.663740] UPDATE : ####################################################
+[2024-04-22 13:38:08.669725] UPDATE : thread 0 started
+[2024-04-22 13:38:08.671719] UPDATE : thread 1 started
+[2024-04-22 13:38:08.673714] UPDATE : thread 2 started
+[2024-04-22 13:38:08.675709] UPDATE : thread 3 started
+[2024-04-22 13:38:08.677704] UPDATE : thread 4 started
+[2024-04-22 13:38:08.679698] UPDATE : thread 5 started
+[2024-04-22 13:38:08.682691] UPDATE : thread 6 started
+[2024-04-22 13:38:08.684685] UPDATE : thread 7 started
+[2024-04-22 13:38:08.686679] UPDATE : thread 8 started
+[2024-04-22 13:38:08.689672] UPDATE : thread 9 started
+[2024-04-22 13:38:08.686679] UPDATE : thread 8 DONE!
+[2024-04-22 13:38:08.689672] UPDATE : thread 9 DONE!
+[2024-04-22 13:38:08.671719] UPDATE : thread 1 DONE!
+[2024-04-22 13:38:09.417567] UPDATE : thread 5 DONE!
+[2024-04-22 13:38:09.645297] UPDATE : thread 1 DONE!
+[2024-04-22 13:38:09.657743] UPDATE : thread 6 DONE!
+[2024-04-22 13:38:09.658740] UPDATE : thread 3 DONE!
+[2024-04-22 13:38:09.657743] UPDATE : thread 7 DONE!
+[2024-04-22 13:38:10.415399] UPDATE : thread 4 DONE!
+[2024-04-22 13:38:11.413553] UPDATE : thread 3 DONE!
+[2024-04-22 13:38:11.425568] UPDATE : thread 9 DONE!
+[2024-04-22 13:38:11.646286] UPDATE : thread 2 DONE!
+
+
+[2024-04-22 13:41:12.444724] New Pipo session opened on <built-in function gethostname>
+[2024-04-22 13:41:12.463674] UPDATE : Personnal settings opened
+[2024-04-22 13:41:14.415243] UPDATE : Project selected : TestProjectSchool
+[2024-04-22 13:41:14.417218] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-22 13:41:14.419240] UPDATE : Project settings loaded!
+[2024-04-22 13:41:15.326750] UPDATE : [0]
+
+
+[2024-04-22 13:43:41.806408] New Pipo session opened on <built-in function gethostname>
+[2024-04-22 13:43:41.824333] UPDATE : Personnal settings opened
+[2024-04-22 13:43:43.439717] UPDATE : Project selected : TestProjectSchool
+[2024-04-22 13:43:43.442178] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-22 13:43:43.443176] UPDATE : Project settings loaded!
+[2024-04-22 13:43:44.431698] UPDATE : [0]
+
+
+[2024-04-22 13:51:46.116712] New Pipo session opened on <built-in function gethostname>
+[2024-04-22 13:51:46.134611] UPDATE : Personnal settings opened
+[2024-04-22 13:51:47.773982] UPDATE : Project selected : TestProjectSchool
+[2024-04-22 13:51:47.776975] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-22 13:51:47.777972] UPDATE : Project settings loaded!
+[2024-04-22 13:51:50.251336] UPDATE : [0]
+[2024-04-22 13:51:50.253331] UPDATE : ####################################################
+[2024-04-22 13:51:50.255353] UPDATE : Searching...
+[2024-04-22 13:51:50.257364] UPDATE : ####################################################
+[2024-04-22 13:51:50.260382] UPDATE : thread 0 started
+[2024-04-22 13:51:50.262455] UPDATE : thread 1 started
+[2024-04-22 13:51:50.263486] UPDATE : thread 2 started
+[2024-04-22 13:51:50.265448] UPDATE : thread 3 started
+[2024-04-22 13:51:50.267474] UPDATE : thread 4 started
+[2024-04-22 13:51:50.269407] UPDATE : thread 5 started
+[2024-04-22 13:51:50.271244] UPDATE : thread 6 started
+[2024-04-22 13:51:50.272548] UPDATE : thread 7 started
+[2024-04-22 13:51:50.274570] UPDATE : thread 8 started
+[2024-04-22 13:51:50.276538] UPDATE : thread 9 started
+[2024-04-22 13:51:50.278532] UPDATE : 0 / 10
+[2024-04-22 13:51:51.280812] UPDATE : 0 / 10
+[2024-04-22 13:51:52.283673] UPDATE : 0 / 10
+[2024-04-22 13:51:53.286842] UPDATE : 0 / 10
+[2024-04-22 13:51:54.290049] UPDATE : 0 / 10
+[2024-04-22 13:51:55.292710] UPDATE : 0 / 10
+[2024-04-22 13:51:56.295023] UPDATE : 0 / 10
+[2024-04-22 13:51:57.297498] UPDATE : 0 / 10
+[2024-04-22 13:51:58.299768] UPDATE : 0 / 10
+[2024-04-22 13:51:59.302359] UPDATE : 0 / 10
+[2024-04-22 13:52:00.305124] UPDATE : 0 / 10
+[2024-04-22 13:52:01.307654] UPDATE : 0 / 10
+[2024-04-22 13:52:02.310800] UPDATE : 0 / 10
+
+
+[2024-04-22 13:52:27.143617] New Pipo session opened on <built-in function gethostname>
+[2024-04-22 13:52:27.161431] UPDATE : Personnal settings opened
+[2024-04-22 13:52:29.810436] UPDATE : Project selected : TestProjectSchool
+[2024-04-22 13:52:29.812394] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-22 13:52:29.814413] UPDATE : Project settings loaded!
+[2024-04-22 13:52:30.742861] UPDATE : [0]
+[2024-04-22 13:52:30.744856] UPDATE : ####################################################
+[2024-04-22 13:52:30.746851] UPDATE : Searching...
+[2024-04-22 13:52:30.748845] UPDATE : ####################################################
+[2024-04-22 13:52:30.751488] UPDATE : thread 0 started
+[2024-04-22 13:52:30.753456] UPDATE : thread 1 started
+[2024-04-22 13:52:30.755451] UPDATE : thread 2 started
+[2024-04-22 13:52:30.756448] UPDATE : thread 3 started
+[2024-04-22 13:52:30.758470] UPDATE : thread 4 started
+[2024-04-22 13:52:30.760464] UPDATE : thread 5 started
+[2024-04-22 13:52:30.762460] UPDATE : thread 6 started
+[2024-04-22 13:52:30.764467] UPDATE : thread 7 started
+[2024-04-22 13:52:30.765424] UPDATE : thread 8 started
+[2024-04-22 13:52:30.767448] UPDATE : thread 9 started
+[2024-04-22 13:52:30.763456] UPDATE : thread 7 DONE!
+[2024-04-22 13:52:31.755789] UPDATE : thread 2 DONE!
+[2024-04-22 13:52:32.768696] UPDATE : thread 9 DONE!
+[2024-04-22 13:52:33.766352] UPDATE : thread 6 DONE!
+[2024-04-22 13:52:33.767145] UPDATE : thread 8 DONE!
+[2024-04-22 13:52:33.753387] UPDATE : thread 0 DONE!
+[2024-04-22 13:52:34.761477] UPDATE : thread 5 DONE!
+[2024-04-22 13:52:35.754128] UPDATE : thread 1 DONE!
+[2024-04-22 13:52:37.759257] UPDATE : thread 4 DONE!
+[2024-04-22 13:52:38.757592] UPDATE : thread 3 DONE!
+
+
+[2024-04-22 13:58:06.697243] New Pipo session opened on <built-in function gethostname>
+[2024-04-22 13:58:06.716014] UPDATE : Personnal settings opened
+[2024-04-22 13:58:08.666361] UPDATE : Project selected : TestProjectSchool
+[2024-04-22 13:58:08.668360] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-22 13:58:08.670327] UPDATE : Project settings loaded!
+[2024-04-22 13:58:11.332095] UPDATE : [0]
+
+
+[2024-04-22 13:58:33.505485] New Pipo session opened on <built-in function gethostname>
+[2024-04-22 13:58:33.524394] UPDATE : Personnal settings opened
+[2024-04-22 13:58:37.204009] UPDATE : Project selected : TestProjectSchool
+[2024-04-22 13:58:37.207000] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-22 13:58:37.207998] UPDATE : Project settings loaded!
+[2024-04-22 13:58:38.042304] UPDATE : [0]
+[2024-04-22 13:58:39.889887] UPDATE : []
+[2024-04-22 13:58:40.827188] UPDATE : [0]
+
+
+[2024-04-22 13:59:00.282209] New Pipo session opened on <built-in function gethostname>
+[2024-04-22 13:59:00.301130] UPDATE : Personnal settings opened
+[2024-04-22 13:59:02.668955] UPDATE : Project selected : TestProjectSchool
+[2024-04-22 13:59:02.671916] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-22 13:59:02.672913] UPDATE : Project settings loaded!
+[2024-04-22 13:59:03.572325] UPDATE : [1]
+[2024-04-22 13:59:06.044800] UPDATE : [1, 0]
+
+
+[2024-04-22 14:08:57.771935] New Pipo session opened on <built-in function gethostname>
+[2024-04-22 14:08:57.789498] UPDATE : Personnal settings opened
+[2024-04-22 14:08:59.158139] UPDATE : Project selected : TestProjectSchool
+[2024-04-22 14:08:59.160134] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-22 14:08:59.162129] UPDATE : Project settings loaded!
+[2024-04-22 14:08:59.998369] UPDATE : [1]
+
+
+[2024-04-22 16:26:10.490957] New Pipo session opened on <built-in function gethostname>
+[2024-04-22 16:26:10.509653] UPDATE : Personnal settings opened
+[2024-04-22 16:26:15.373380] UPDATE : Project selected : TestProjectSchool
+[2024-04-22 16:26:15.376109] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-22 16:26:15.377106] UPDATE : Project settings loaded!
+[2024-04-22 16:26:16.607602] UPDATE : [0]
+
+
+[2024-04-22 16:26:40.662483] New Pipo session opened on <built-in function gethostname>
+[2024-04-22 16:26:40.681382] UPDATE : Personnal settings opened
+[2024-04-22 16:26:42.625342] UPDATE : Project selected : TestProjectSchool
+[2024-04-22 16:26:42.627337] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-22 16:26:42.629332] UPDATE : Project settings loaded!
+[2024-04-22 16:26:43.541243] UPDATE : [0]
+[2024-04-22 16:26:43.543238] UPDATE : hello world : 0
+
+
+[2024-04-22 16:26:58.014664] New Pipo session opened on <built-in function gethostname>
+[2024-04-22 16:26:58.033708] UPDATE : Personnal settings opened
+[2024-04-22 16:26:59.710709] UPDATE : Project selected : TestProjectSchool
+[2024-04-22 16:26:59.713207] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-22 16:26:59.714207] UPDATE : Project settings loaded!
+[2024-04-22 16:27:00.744155] UPDATE : [0]
+[2024-04-22 16:27:00.747148] UPDATE : hello world : 0
+[2024-04-22 16:27:02.887263] UPDATE : [0, 1]
+[2024-04-22 16:27:02.890256] UPDATE : hello world : 0
+[2024-04-22 16:27:03.732796] UPDATE : [0, 1, 2]
+[2024-04-22 16:27:03.734792] UPDATE : hello world : 0
+[2024-04-22 16:27:05.985350] UPDATE : [0, 1]
+[2024-04-22 16:27:05.988342] UPDATE : hello world : 0
+[2024-04-22 16:27:06.252356] UPDATE : [0]
+[2024-04-22 16:27:06.255348] UPDATE : hello world : 0
+[2024-04-22 16:27:06.511577] UPDATE : []
+[2024-04-22 16:27:06.514568] UPDATE : hello world : 0
+
+
+[2024-04-22 16:27:15.653002] New Pipo session opened on <built-in function gethostname>
+[2024-04-22 16:27:15.671703] UPDATE : Personnal settings opened
+[2024-04-22 16:27:17.452294] UPDATE : Project selected : TestProjectSchool
+[2024-04-22 16:27:17.455292] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-22 16:27:17.457249] UPDATE : Project settings loaded!
+[2024-04-22 16:27:18.300934] UPDATE : [0]
+[2024-04-22 16:27:18.303957] UPDATE : hello world : 0
+[2024-04-22 16:27:19.323981] UPDATE : hello world : 1
+[2024-04-22 16:27:20.339260] UPDATE : hello world : 2
+[2024-04-22 16:27:21.354069] UPDATE : hello world : 3
+[2024-04-22 16:27:22.370528] UPDATE : hello world : 4
+[2024-04-22 16:27:23.373165] UPDATE : hello world : 5
+[2024-04-22 16:27:24.375331] UPDATE : hello world : 6
+[2024-04-22 16:27:25.378358] UPDATE : hello world : 7
+[2024-04-22 16:27:26.399694] UPDATE : hello world : 8
+[2024-04-22 16:27:27.402637] UPDATE : hello world : 9
+[2024-04-22 16:27:28.405461] UPDATE : hello world : 10
+[2024-04-22 16:27:29.408493] UPDATE : hello world : 11
+[2024-04-22 16:27:30.411090] UPDATE : hello world : 12
+[2024-04-22 16:27:31.413227] UPDATE : hello world : 13
+[2024-04-22 16:27:32.416162] UPDATE : hello world : 14
+[2024-04-22 16:27:33.418243] UPDATE : hello world : 15
+[2024-04-22 16:27:34.420405] UPDATE : hello world : 16
+[2024-04-22 16:27:35.423264] UPDATE : hello world : 17
+[2024-04-22 16:27:36.425800] UPDATE : hello world : 18
+[2024-04-22 16:27:37.428002] UPDATE : hello world : 19
+
+
+[2024-04-22 16:41:06.113466] New Pipo session opened on <built-in function gethostname>
+[2024-04-22 16:41:06.131388] UPDATE : Personnal settings opened
+[2024-04-22 16:41:07.534237] UPDATE : Project selected : TestProjectSchool
+[2024-04-22 16:41:07.536117] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-22 16:41:07.538092] UPDATE : Project settings loaded!
+[2024-04-22 16:41:08.558787] UPDATE : [0]
+[2024-04-22 16:41:13.284808] UPDATE : [0, 1]
+[2024-04-22 16:41:13.287800] UPDATE : hello world : SelectionToggled(selection_list=SelectionList(id='lobby_kind_list'), selection=<textual.widgets._selection_list.Selection object at 0x0000016C0BACB680>, selection_index=1)
+[2024-04-22 16:41:13.793323] UPDATE : [0, 1, 3]
+[2024-04-22 16:41:13.795988] UPDATE : hello world : SelectionToggled(selection_list=SelectionList(id='lobby_kind_list'), selection=<textual.widgets._selection_list.Selection object at 0x0000016C0BACB710>, selection_index=3)
+[2024-04-22 16:41:14.291919] UPDATE : hello world : SelectionToggled(selection_list=SelectionList(id='lobby_kind_list'), selection=<textual.widgets._selection_list.Selection object at 0x0000016C0BACB680>, selection_index=1)
+[2024-04-22 16:41:14.815216] UPDATE : hello world : SelectionToggled(selection_list=SelectionList(id='lobby_kind_list'), selection=<textual.widgets._selection_list.Selection object at 0x0000016C0BACB710>, selection_index=3)
+[2024-04-22 16:41:15.306548] UPDATE : hello world : SelectionToggled(selection_list=SelectionList(id='lobby_kind_list'), selection=<textual.widgets._selection_list.Selection object at 0x0000016C0BACB680>, selection_index=1)
+[2024-04-22 16:41:15.851549] UPDATE : hello world : SelectionToggled(selection_list=SelectionList(id='lobby_kind_list'), selection=<textual.widgets._selection_list.Selection object at 0x0000016C0BACB710>, selection_index=3)
+[2024-04-22 16:41:16.324563] UPDATE : hello world : SelectionToggled(selection_list=SelectionList(id='lobby_kind_list'), selection=<textual.widgets._selection_list.Selection object at 0x0000016C0BACB680>, selection_index=1)
+[2024-04-22 16:41:16.854564] UPDATE : hello world : SelectionToggled(selection_list=SelectionList(id='lobby_kind_list'), selection=<textual.widgets._selection_list.Selection object at 0x0000016C0BACB710>, selection_index=3)
+[2024-04-22 16:41:17.339316] UPDATE : hello world : SelectionToggled(selection_list=SelectionList(id='lobby_kind_list'), selection=<textual.widgets._selection_list.Selection object at 0x0000016C0BACB680>, selection_index=1)
+[2024-04-22 16:41:17.869638] UPDATE : hello world : SelectionToggled(selection_list=SelectionList(id='lobby_kind_list'), selection=<textual.widgets._selection_list.Selection object at 0x0000016C0BACB710>, selection_index=3)
+[2024-04-22 16:41:18.355667] UPDATE : hello world : SelectionToggled(selection_list=SelectionList(id='lobby_kind_list'), selection=<textual.widgets._selection_list.Selection object at 0x0000016C0BACB680>, selection_index=1)
+[2024-04-22 16:41:18.898751] UPDATE : hello world : SelectionToggled(selection_list=SelectionList(id='lobby_kind_list'), selection=<textual.widgets._selection_list.Selection object at 0x0000016C0BACB710>, selection_index=3)
+[2024-04-22 16:41:19.400735] UPDATE : hello world : SelectionToggled(selection_list=SelectionList(id='lobby_kind_list'), selection=<textual.widgets._selection_list.Selection object at 0x0000016C0BACB680>, selection_index=1)
+[2024-04-22 16:41:20.134623] UPDATE : hello world : SelectionToggled(selection_list=SelectionList(id='lobby_kind_list'), selection=<textual.widgets._selection_list.Selection object at 0x0000016C0BACB710>, selection_index=3)
+[2024-04-22 16:41:20.422830] UPDATE : hello world : SelectionToggled(selection_list=SelectionList(id='lobby_kind_list'), selection=<textual.widgets._selection_list.Selection object at 0x0000016C0BACB680>, selection_index=1)
+[2024-04-22 16:41:21.152165] UPDATE : hello world : SelectionToggled(selection_list=SelectionList(id='lobby_kind_list'), selection=<textual.widgets._selection_list.Selection object at 0x0000016C0BACB710>, selection_index=3)
+[2024-04-22 16:41:21.440065] UPDATE : hello world : SelectionToggled(selection_list=SelectionList(id='lobby_kind_list'), selection=<textual.widgets._selection_list.Selection object at 0x0000016C0BACB680>, selection_index=1)
+[2024-04-22 16:41:22.174006] UPDATE : hello world : SelectionToggled(selection_list=SelectionList(id='lobby_kind_list'), selection=<textual.widgets._selection_list.Selection object at 0x0000016C0BACB710>, selection_index=3)
+[2024-04-22 16:41:22.455630] UPDATE : hello world : SelectionToggled(selection_list=SelectionList(id='lobby_kind_list'), selection=<textual.widgets._selection_list.Selection object at 0x0000016C0BACB680>, selection_index=1)
+[2024-04-22 16:41:23.223790] UPDATE : hello world : SelectionToggled(selection_list=SelectionList(id='lobby_kind_list'), selection=<textual.widgets._selection_list.Selection object at 0x0000016C0BACB710>, selection_index=3)
+[2024-04-22 16:41:23.470670] UPDATE : hello world : SelectionToggled(selection_list=SelectionList(id='lobby_kind_list'), selection=<textual.widgets._selection_list.Selection object at 0x0000016C0BACB680>, selection_index=1)
+[2024-04-22 16:41:24.242490] UPDATE : hello world : SelectionToggled(selection_list=SelectionList(id='lobby_kind_list'), selection=<textual.widgets._selection_list.Selection object at 0x0000016C0BACB710>, selection_index=3)
+[2024-04-22 16:41:24.486879] UPDATE : hello world : SelectionToggled(selection_list=SelectionList(id='lobby_kind_list'), selection=<textual.widgets._selection_list.Selection object at 0x0000016C0BACB680>, selection_index=1)
+[2024-04-22 16:41:25.257884] UPDATE : hello world : SelectionToggled(selection_list=SelectionList(id='lobby_kind_list'), selection=<textual.widgets._selection_list.Selection object at 0x0000016C0BACB710>, selection_index=3)
+[2024-04-22 16:41:25.534667] UPDATE : hello world : SelectionToggled(selection_list=SelectionList(id='lobby_kind_list'), selection=<textual.widgets._selection_list.Selection object at 0x0000016C0BACB680>, selection_index=1)
+[2024-04-22 16:41:26.281054] UPDATE : hello world : SelectionToggled(selection_list=SelectionList(id='lobby_kind_list'), selection=<textual.widgets._selection_list.Selection object at 0x0000016C0BACB710>, selection_index=3)
+[2024-04-22 16:41:26.550462] UPDATE : hello world : SelectionToggled(selection_list=SelectionList(id='lobby_kind_list'), selection=<textual.widgets._selection_list.Selection object at 0x0000016C0BACB680>, selection_index=1)
+[2024-04-22 16:41:27.390655] UPDATE : hello world : SelectionToggled(selection_list=SelectionList(id='lobby_kind_list'), selection=<textual.widgets._selection_list.Selection object at 0x0000016C0BACB710>, selection_index=3)
+[2024-04-22 16:41:27.592550] UPDATE : hello world : SelectionToggled(selection_list=SelectionList(id='lobby_kind_list'), selection=<textual.widgets._selection_list.Selection object at 0x0000016C0BACB680>, selection_index=1)
+[2024-04-22 16:41:28.219153] UPDATE : [0, 1]
+[2024-04-22 16:41:28.221121] UPDATE : hello world : SelectionToggled(selection_list=SelectionList(id='lobby_kind_list'), selection=<textual.widgets._selection_list.Selection object at 0x0000016C0BACB710>, selection_index=3)
+[2024-04-22 16:41:28.407448] UPDATE : hello world : SelectionToggled(selection_list=SelectionList(id='lobby_kind_list'), selection=<textual.widgets._selection_list.Selection object at 0x0000016C0BACB710>, selection_index=3)
+[2024-04-22 16:41:28.607598] UPDATE : hello world : SelectionToggled(selection_list=SelectionList(id='lobby_kind_list'), selection=<textual.widgets._selection_list.Selection object at 0x0000016C0BACB680>, selection_index=1)
+[2024-04-22 16:41:29.240140] UPDATE : hello world : SelectionToggled(selection_list=SelectionList(id='lobby_kind_list'), selection=<textual.widgets._selection_list.Selection object at 0x0000016C0BACB710>, selection_index=3)
+[2024-04-22 16:41:29.423704] UPDATE : hello world : SelectionToggled(selection_list=SelectionList(id='lobby_kind_list'), selection=<textual.widgets._selection_list.Selection object at 0x0000016C0BACB710>, selection_index=3)
+[2024-04-22 16:41:29.637118] UPDATE : hello world : SelectionToggled(selection_list=SelectionList(id='lobby_kind_list'), selection=<textual.widgets._selection_list.Selection object at 0x0000016C0BACB680>, selection_index=1)
+[2024-04-22 16:41:30.255468] UPDATE : hello world : SelectionToggled(selection_list=SelectionList(id='lobby_kind_list'), selection=<textual.widgets._selection_list.Selection object at 0x0000016C0BACB710>, selection_index=3)
+[2024-04-22 16:41:30.471143] UPDATE : hello world : SelectionToggled(selection_list=SelectionList(id='lobby_kind_list'), selection=<textual.widgets._selection_list.Selection object at 0x0000016C0BACB710>, selection_index=3)
+[2024-04-22 16:41:30.652476] UPDATE : hello world : SelectionToggled(selection_list=SelectionList(id='lobby_kind_list'), selection=<textual.widgets._selection_list.Selection object at 0x0000016C0BACB680>, selection_index=1)
+
+
+[2024-04-22 16:42:01.878997] New Pipo session opened on <built-in function gethostname>
+[2024-04-22 16:42:01.896948] UPDATE : Personnal settings opened
+[2024-04-22 16:42:03.444252] UPDATE : Project selected : TestProjectSchool
+[2024-04-22 16:42:03.446007] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-22 16:42:03.448002] UPDATE : Project settings loaded!
+[2024-04-22 16:42:04.351890] UPDATE : [0]
+[2024-04-22 16:42:06.676814] UPDATE : [0, 1]
+[2024-04-22 16:42:08.478145] UPDATE : [0, 1, 3]
+[2024-04-22 16:42:08.741424] UPDATE : [0, 3]
+[2024-04-22 16:42:09.329428] UPDATE : [0, 3, 2]
+[2024-04-22 16:42:09.602480] UPDATE : [0, 3, 2, 1]
+
+
+[2024-04-22 16:42:27.125030] New Pipo session opened on <built-in function gethostname>
+[2024-04-22 16:42:27.144977] UPDATE : Personnal settings opened
+[2024-04-22 16:42:28.779265] UPDATE : Project selected : TestProjectSchool
+[2024-04-22 16:42:28.781259] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-22 16:42:28.782257] UPDATE : Project settings loaded!
+[2024-04-22 16:42:29.549283] UPDATE : [0]
+
+
+[2024-04-22 16:43:15.712096] New Pipo session opened on <built-in function gethostname>
+[2024-04-22 16:43:15.730079] UPDATE : Personnal settings opened
+[2024-04-22 16:43:17.007088] UPDATE : Project selected : TestProjectSchool
+[2024-04-22 16:43:17.009054] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-22 16:43:17.010080] UPDATE : Project settings loaded!
+[2024-04-22 16:43:17.843608] UPDATE : [0]
+[2024-04-22 16:43:17.846600] UPDATE : event : False
+[2024-04-22 16:43:20.789456] UPDATE : []
+[2024-04-22 16:43:20.792448] UPDATE : event : True
+[2024-04-22 16:43:20.794442] UPDATE : hello world : True
+[2024-04-22 16:43:21.818505] UPDATE : hello world : True
+[2024-04-22 16:43:22.858295] UPDATE : hello world : True
+[2024-04-22 16:43:23.861069] UPDATE : hello world : True
+[2024-04-22 16:43:24.863050] UPDATE : hello world : True
+[2024-04-22 16:43:25.865127] UPDATE : hello world : True
+[2024-04-22 16:43:26.867962] UPDATE : hello world : True
+[2024-04-22 16:43:27.870670] UPDATE : hello world : True
+[2024-04-22 16:43:28.873629] UPDATE : hello world : True
+[2024-04-22 16:43:29.875726] UPDATE : hello world : True
+[2024-04-22 16:43:30.877786] UPDATE : hello world : True
+[2024-04-22 16:43:31.880599] UPDATE : hello world : True
+[2024-04-22 16:43:32.882624] UPDATE : hello world : True
+[2024-04-22 16:43:33.885201] UPDATE : hello world : True
+[2024-04-22 16:43:34.904375] UPDATE : hello world : True
+[2024-04-22 16:43:35.906205] UPDATE : hello world : True
+[2024-04-22 16:43:36.908581] UPDATE : hello world : True
+[2024-04-22 16:43:37.911380] UPDATE : hello world : True
+[2024-04-22 16:43:38.914290] UPDATE : hello world : True
+[2024-04-22 16:43:39.917512] UPDATE : hello world : True
+
+
+[2024-04-22 16:43:52.913173] New Pipo session opened on <built-in function gethostname>
+[2024-04-22 16:43:52.932891] UPDATE : Personnal settings opened
+[2024-04-22 16:43:58.282617] UPDATE : Project selected : TestProjectSchool
+[2024-04-22 16:43:58.284612] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-22 16:43:58.286607] UPDATE : Project settings loaded!
+[2024-04-22 16:43:59.492905] UPDATE : [0]
+[2024-04-22 16:43:59.494901] UPDATE : event : False
+[2024-04-22 16:44:02.028203] UPDATE : []
+[2024-04-22 16:44:02.030198] UPDATE : event : True
+[2024-04-22 16:44:02.033190] UPDATE : hello world : True
+[2024-04-22 16:44:03.053715] UPDATE : hello world : True
+[2024-04-22 16:44:04.070503] UPDATE : hello world : True
+[2024-04-22 16:44:05.086249] UPDATE : hello world : True
+[2024-04-22 16:44:05.745173] UPDATE : [0]
+[2024-04-22 16:44:05.748165] UPDATE : event : True
+[2024-04-22 16:44:05.750161] UPDATE : hello world : True
+[2024-04-22 16:44:06.102383] UPDATE : hello world : True
+[2024-04-22 16:44:06.770960] UPDATE : hello world : True
+[2024-04-22 16:44:07.119437] UPDATE : hello world : True
+[2024-04-22 16:44:07.787022] UPDATE : hello world : True
+[2024-04-22 16:44:08.135544] UPDATE : hello world : True
+[2024-04-22 16:44:08.804340] UPDATE : hello world : True
+[2024-04-22 16:44:09.152827] UPDATE : hello world : True
+[2024-04-22 16:44:09.821450] UPDATE : hello world : True
+[2024-04-22 16:44:10.169751] UPDATE : hello world : True
+[2024-04-22 16:44:10.824145] UPDATE : hello world : True
+[2024-04-22 16:44:11.172460] UPDATE : hello world : True
+[2024-04-22 16:44:11.826164] UPDATE : hello world : True
+[2024-04-22 16:44:12.175346] UPDATE : hello world : True
+[2024-04-22 16:44:12.828644] UPDATE : hello world : True
+[2024-04-22 16:44:13.177847] UPDATE : hello world : True
+[2024-04-22 16:44:13.830756] UPDATE : hello world : True
+[2024-04-22 16:44:14.180025] UPDATE : hello world : True
+[2024-04-22 16:44:14.833684] UPDATE : hello world : True
+[2024-04-22 16:44:15.182300] UPDATE : hello world : True
+[2024-04-22 16:44:15.835674] UPDATE : hello world : True
+[2024-04-22 16:44:16.184718] UPDATE : hello world : True
+[2024-04-22 16:44:16.837875] UPDATE : hello world : True
+[2024-04-22 16:44:17.186754] UPDATE : hello world : True
+[2024-04-22 16:44:17.840735] UPDATE : hello world : True
+[2024-04-22 16:44:18.189703] UPDATE : hello world : True
+[2024-04-22 16:44:18.843697] UPDATE : hello world : True
+[2024-04-22 16:44:19.192935] UPDATE : hello world : True
+[2024-04-22 16:44:19.845731] UPDATE : hello world : True
+[2024-04-22 16:44:20.195623] UPDATE : hello world : True
+[2024-04-22 16:44:20.847774] UPDATE : hello world : True
+[2024-04-22 16:44:21.197768] UPDATE : hello world : True
+[2024-04-22 16:44:21.850435] UPDATE : hello world : True
+[2024-04-22 16:44:22.852357] UPDATE : hello world : True
+[2024-04-22 16:44:23.854358] UPDATE : hello world : True
+[2024-04-22 16:44:24.857431] UPDATE : hello world : True
+
+
+[2024-04-22 16:44:49.163520] New Pipo session opened on <built-in function gethostname>
+[2024-04-22 16:44:49.182469] UPDATE : Personnal settings opened
+[2024-04-22 16:44:50.883877] UPDATE : Project selected : TestProjectSchool
+[2024-04-22 16:44:50.885872] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-22 16:44:50.886870] UPDATE : Project settings loaded!
+[2024-04-22 16:44:52.182394] UPDATE : [0]
+[2024-04-22 16:44:52.185386] UPDATE : event : False
+[2024-04-22 16:44:54.615797] UPDATE : [0, 2]
+[2024-04-22 16:44:54.618790] UPDATE : event : True
+[2024-04-22 16:44:54.620784] UPDATE : hello world : True
+[2024-04-22 16:44:55.636535] UPDATE : hello world : True
+[2024-04-22 16:44:56.653284] UPDATE : hello world : True
+[2024-04-22 16:44:57.056182] UPDATE : [0]
+[2024-04-22 16:44:57.073199] UPDATE : event : True
+[2024-04-22 16:44:57.075534] UPDATE : hello world : True
+[2024-04-22 16:44:57.669761] UPDATE : hello world : True
+[2024-04-22 16:44:58.097647] UPDATE : hello world : True
+[2024-04-22 16:44:58.682238] UPDATE : hello world : True
+[2024-04-22 16:44:59.114727] UPDATE : hello world : True
+[2024-04-22 16:44:59.729698] UPDATE : hello world : True
+[2024-04-22 16:45:00.117373] UPDATE : hello world : True
+[2024-04-22 16:45:00.732705] UPDATE : hello world : True
+[2024-04-22 16:45:01.119985] UPDATE : hello world : True
+[2024-04-22 16:45:01.734949] UPDATE : hello world : True
+[2024-04-22 16:45:02.122428] UPDATE : hello world : True
+[2024-04-22 16:45:02.737203] UPDATE : hello world : True
+[2024-04-22 16:45:03.124452] UPDATE : hello world : True
+[2024-04-22 16:45:03.739800] UPDATE : hello world : True
+[2024-04-22 16:45:04.126641] UPDATE : hello world : True
+[2024-04-22 16:45:04.742619] UPDATE : hello world : True
+[2024-04-22 16:45:05.129032] UPDATE : hello world : True
+[2024-04-22 16:45:05.745610] UPDATE : hello world : True
+[2024-04-22 16:45:06.131119] UPDATE : hello world : True
+[2024-04-22 16:45:06.747642] UPDATE : hello world : True
+[2024-04-22 16:45:07.134003] UPDATE : hello world : True
+[2024-04-22 16:45:07.750514] UPDATE : hello world : True
+[2024-04-22 16:45:08.136100] UPDATE : hello world : True
+[2024-04-22 16:45:08.752594] UPDATE : hello world : True
+[2024-04-22 16:45:09.138910] UPDATE : hello world : True
+[2024-04-22 16:45:09.755533] UPDATE : hello world : True
+[2024-04-22 16:45:10.141712] UPDATE : hello world : True
+[2024-04-22 16:45:10.757874] UPDATE : hello world : True
+[2024-04-22 16:45:11.143689] UPDATE : hello world : True
+[2024-04-22 16:45:11.760852] UPDATE : hello world : True
+[2024-04-22 16:45:12.145707] UPDATE : hello world : True
+[2024-04-22 16:45:12.763225] UPDATE : hello world : True
+[2024-04-22 16:45:13.148638] UPDATE : hello world : True
+[2024-04-22 16:45:13.765858] UPDATE : hello world : True
+[2024-04-22 16:45:14.150868] UPDATE : hello world : True
+[2024-04-22 16:45:15.153918] UPDATE : hello world : True
+[2024-04-22 16:45:16.156670] UPDATE : hello world : True
+
+
+[2024-04-22 16:47:21.220394] New Pipo session opened on <built-in function gethostname>
+[2024-04-22 16:47:21.238317] UPDATE : Personnal settings opened
+[2024-04-22 16:47:23.316100] UPDATE : Project selected : TestProjectSchool
+[2024-04-22 16:47:23.318094] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-22 16:47:23.320094] UPDATE : Project settings loaded!
+[2024-04-22 16:47:24.543480] UPDATE : [0]
+[2024-04-22 16:47:24.545476] UPDATE : event : False
+[2024-04-22 16:47:24.547469] UPDATE : hello world : False
+[2024-04-22 16:47:25.569515] UPDATE : hello world : False
+[2024-04-22 16:47:26.586379] UPDATE : hello world : False
+[2024-04-22 16:47:27.602190] UPDATE : hello world : False
+[2024-04-22 16:47:28.618268] UPDATE : hello world : False
+[2024-04-22 16:47:29.620748] UPDATE : hello world : False
+[2024-04-22 16:47:30.622967] UPDATE : hello world : False
+[2024-04-22 16:47:31.625773] UPDATE : hello world : False
+[2024-04-22 16:47:32.627859] UPDATE : hello world : False
+[2024-04-22 16:47:33.629919] UPDATE : hello world : False
+[2024-04-22 16:47:34.632198] UPDATE : hello world : False
+[2024-04-22 16:47:35.635087] UPDATE : hello world : False
+[2024-04-22 16:47:36.638100] UPDATE : hello world : False
+[2024-04-22 16:47:37.640240] UPDATE : hello world : False
+[2024-04-22 16:47:38.642915] UPDATE : hello world : False
+[2024-04-22 16:47:39.645154] UPDATE : hello world : False
+[2024-04-22 16:47:40.647688] UPDATE : hello world : False
+[2024-04-22 16:47:41.649722] UPDATE : hello world : False
+[2024-04-22 16:47:42.652743] UPDATE : hello world : False
+[2024-04-22 16:47:43.655874] UPDATE : hello world : False
+
+
+[2024-04-22 16:48:31.727693] New Pipo session opened on <built-in function gethostname>
+[2024-04-22 16:48:31.745552] UPDATE : Personnal settings opened
+[2024-04-22 16:48:34.185684] UPDATE : Project selected : TestProjectSchool
+[2024-04-22 16:48:34.196654] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-22 16:48:34.197652] UPDATE : Project settings loaded!
+[2024-04-22 16:48:35.020517] UPDATE : [0]
+[2024-04-22 16:48:35.023510] UPDATE : event : False
+
+
+[2024-04-22 16:49:28.094432] New Pipo session opened on <built-in function gethostname>
+[2024-04-22 16:49:28.113382] UPDATE : Personnal settings opened
+[2024-04-22 16:49:29.671561] UPDATE : Project selected : TestProjectSchool
+[2024-04-22 16:49:29.674553] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-22 16:49:29.676217] UPDATE : Project settings loaded!
+[2024-04-22 16:49:30.671860] UPDATE : [0]
+[2024-04-22 16:49:30.673855] UPDATE : event : False
+[2024-04-22 16:49:30.675851] UPDATE : NONE
+[2024-04-22 16:49:30.677841] UPDATE : hello world : False
+[2024-04-22 16:49:31.701705] UPDATE : hello world : False
+[2024-04-22 16:49:32.738731] UPDATE : hello world : False
+[2024-04-22 16:49:33.235672] UPDATE : []
+[2024-04-22 16:49:33.238690] UPDATE : event : False
+[2024-04-22 16:49:33.240690] UPDATE : NONE
+[2024-04-22 16:49:33.242653] UPDATE : hello world : False
+[2024-04-22 16:49:33.754546] UPDATE : hello world : False
+[2024-04-22 16:49:34.268401] UPDATE : hello world : False
+[2024-04-22 16:49:34.777460] UPDATE : [0]
+[2024-04-22 16:49:34.780197] UPDATE : event : False
+[2024-04-22 16:49:34.781164] UPDATE : NONE
+[2024-04-22 16:49:34.777460] UPDATE : hello world : False
+[2024-04-22 16:49:34.783159] UPDATE : hello world : False
+[2024-04-22 16:49:35.283320] UPDATE : hello world : False
+[2024-04-22 16:49:35.805022] UPDATE : hello world : False
+[2024-04-22 16:49:35.818098] UPDATE : hello world : False
+[2024-04-22 16:49:36.299798] UPDATE : hello world : False
+[2024-04-22 16:49:36.821632] UPDATE : hello world : False
+[2024-04-22 16:49:36.834598] UPDATE : hello world : False
+[2024-04-22 16:49:37.317364] UPDATE : hello world : False
+[2024-04-22 16:49:37.838288] UPDATE : hello world : False
+[2024-04-22 16:49:37.840285] UPDATE : hello world : False
+[2024-04-22 16:49:38.333423] UPDATE : hello world : False
+[2024-04-22 16:49:38.840452] UPDATE : hello world : False
+[2024-04-22 16:49:38.842772] UPDATE : hello world : False
+[2024-04-22 16:49:39.335812] UPDATE : hello world : False
+[2024-04-22 16:49:39.842700] UPDATE : hello world : False
+[2024-04-22 16:49:39.844695] UPDATE : hello world : False
+[2024-04-22 16:49:40.338688] UPDATE : hello world : False
+[2024-04-22 16:49:40.845304] UPDATE : hello world : False
+[2024-04-22 16:49:40.846301] UPDATE : hello world : False
+[2024-04-22 16:49:41.341733] UPDATE : hello world : False
+[2024-04-22 16:49:41.847630] UPDATE : hello world : False
+[2024-04-22 16:49:41.848627] UPDATE : hello world : False
+[2024-04-22 16:49:42.344692] UPDATE : hello world : False
+[2024-04-22 16:49:42.850562] UPDATE : hello world : False
+[2024-04-22 16:49:42.851419] UPDATE : hello world : False
+[2024-04-22 16:49:43.346689] UPDATE : hello world : False
+[2024-04-22 16:49:43.852993] UPDATE : hello world : False
+[2024-04-22 16:49:43.854988] UPDATE : hello world : False
+[2024-04-22 16:49:44.348703] UPDATE : hello world : False
+[2024-04-22 16:49:44.855620] UPDATE : hello world : False
+[2024-04-22 16:49:44.857649] UPDATE : hello world : False
+[2024-04-22 16:49:45.351251] UPDATE : hello world : False
+[2024-04-22 16:49:45.857579] UPDATE : hello world : False
+[2024-04-22 16:49:45.859575] UPDATE : hello world : False
+[2024-04-22 16:49:46.353873] UPDATE : hello world : False
+[2024-04-22 16:49:46.860467] UPDATE : hello world : False
+[2024-04-22 16:49:46.861465] UPDATE : hello world : False
+[2024-04-22 16:49:47.356090] UPDATE : hello world : False
+[2024-04-22 16:49:47.862594] UPDATE : hello world : False
+[2024-04-22 16:49:47.864149] UPDATE : hello world : False
+[2024-04-22 16:49:48.358567] UPDATE : hello world : False
+[2024-04-22 16:49:48.865114] UPDATE : hello world : False
+[2024-04-22 16:49:48.866112] UPDATE : hello world : False
+[2024-04-22 16:49:49.360950] UPDATE : hello world : False
+
+
+[2024-04-22 16:51:36.109080] New Pipo session opened on <built-in function gethostname>
+[2024-04-22 16:51:36.128029] UPDATE : Personnal settings opened
+[2024-04-22 16:51:37.401443] UPDATE : Project selected : TestProjectSchool
+[2024-04-22 16:51:37.403438] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-22 16:51:37.405432] UPDATE : Project settings loaded!
+[2024-04-22 16:51:38.368542] UPDATE : [0]
+[2024-04-22 16:51:38.370538] UPDATE : event : False
+[2024-04-22 16:51:38.372532] UPDATE : alive ? False
+[2024-04-22 16:51:38.373529] UPDATE : alive ? True
+[2024-04-22 16:51:38.373529] UPDATE : hello world : False
+[2024-04-22 16:51:39.396650] UPDATE : hello world : False
+[2024-04-22 16:51:40.416308] UPDATE : hello world : False
+[2024-04-22 16:51:41.432842] UPDATE : hello world : False
+[2024-04-22 16:51:42.447447] UPDATE : hello world : False
+[2024-04-22 16:51:43.483225] UPDATE : hello world : False
+[2024-04-22 16:51:44.498919] UPDATE : hello world : False
+[2024-04-22 16:51:45.514964] UPDATE : hello world : False
+[2024-04-22 16:51:46.530998] UPDATE : hello world : False
+[2024-04-22 16:51:47.550690] UPDATE : hello world : False
+[2024-04-22 16:51:48.567249] UPDATE : hello world : False
+
+
+[2024-04-22 16:53:28.481403] New Pipo session opened on <built-in function gethostname>
+[2024-04-22 16:53:28.500119] UPDATE : Personnal settings opened
+[2024-04-22 16:53:33.343071] UPDATE : Project selected : TestProjectSchool
+[2024-04-22 16:53:33.345066] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-22 16:53:33.347060] UPDATE : Project settings loaded!
+[2024-04-22 16:53:37.448084] UPDATE : [0]
+[2024-04-22 16:53:37.450053] UPDATE : event : False
+[2024-04-22 16:53:37.452049] UPDATE : hello world : False
+[2024-04-22 16:53:38.473155] UPDATE : hello world : False
+[2024-04-22 16:53:39.477119] UPDATE : hello world : False
+[2024-04-22 16:53:40.494429] UPDATE : hello world : False
+[2024-04-22 16:53:41.516637] UPDATE : hello world : False
+[2024-04-22 16:53:42.524130] UPDATE : hello world : False
+[2024-04-22 16:53:43.356088] UPDATE : [0, 1]
+[2024-04-22 16:53:43.358082] UPDATE : event : False
+[2024-04-22 16:53:43.360049] UPDATE : hello world : False
+[2024-04-22 16:53:43.539200] UPDATE : hello world : False
+[2024-04-22 16:53:44.380980] UPDATE : hello world : False
+[2024-04-22 16:53:44.554899] UPDATE : hello world : False
+[2024-04-22 16:53:45.397355] UPDATE : hello world : False
+[2024-04-22 16:53:45.570408] UPDATE : hello world : False
+[2024-04-22 16:53:46.413312] UPDATE : hello world : False
+[2024-04-22 16:53:46.592361] UPDATE : hello world : False
+[2024-04-22 16:53:47.429924] UPDATE : hello world : False
+[2024-04-22 16:53:47.645443] UPDATE : hello world : False
+[2024-04-22 16:53:48.446293] UPDATE : hello world : False
+[2024-04-22 16:53:48.661042] UPDATE : hello world : False
+[2024-04-22 16:53:49.462334] UPDATE : hello world : False
+[2024-04-22 16:53:49.676401] UPDATE : hello world : False
+[2024-04-22 16:53:50.478930] UPDATE : hello world : False
+[2024-04-22 16:53:50.691924] UPDATE : hello world : False
+[2024-04-22 16:53:51.321781] UPDATE : [0, 1, 2]
+[2024-04-22 16:53:51.324774] UPDATE : event : False
+[2024-04-22 16:53:51.325772] UPDATE : hello world : False
+[2024-04-22 16:53:51.493601] UPDATE : hello world : False
+[2024-04-22 16:53:51.707701] UPDATE : hello world : False
+[2024-04-22 16:53:52.346676] UPDATE : hello world : False
+[2024-04-22 16:53:52.533166] UPDATE : hello world : False
+[2024-04-22 16:53:52.723874] UPDATE : hello world : False
+[2024-04-22 16:53:53.362157] UPDATE : hello world : False
+[2024-04-22 16:53:53.535484] UPDATE : hello world : False
+[2024-04-22 16:53:53.726906] UPDATE : hello world : False
+
+
+[2024-04-22 16:55:36.730689] New Pipo session opened on <built-in function gethostname>
+[2024-04-22 16:55:36.748641] UPDATE : Personnal settings opened
+[2024-04-22 16:55:38.282440] UPDATE : Project selected : TestProjectSchool
+[2024-04-22 16:55:38.284434] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-22 16:55:38.285431] UPDATE : Project settings loaded!
+[2024-04-22 16:55:41.277982] UPDATE : [0]
+
+
+[2024-04-22 16:55:58.234019] New Pipo session opened on <built-in function gethostname>
+[2024-04-22 16:55:58.254175] UPDATE : Personnal settings opened
+[2024-04-22 16:55:59.874212] UPDATE : Project selected : TestProjectSchool
+[2024-04-22 16:55:59.876206] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-22 16:55:59.878201] UPDATE : Project settings loaded!
+[2024-04-22 16:56:00.651658] UPDATE : [0]
+
+
+[2024-04-22 16:56:24.901497] New Pipo session opened on <built-in function gethostname>
+[2024-04-22 16:56:24.919612] UPDATE : Personnal settings opened
+[2024-04-22 16:56:26.415857] UPDATE : Project selected : TestProjectSchool
+[2024-04-22 16:56:26.417676] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-22 16:56:26.419670] UPDATE : Project settings loaded!
+[2024-04-22 16:56:27.505540] UPDATE : [0]
+
+
+[2024-04-22 16:56:43.397122] New Pipo session opened on <built-in function gethostname>
+[2024-04-22 16:56:43.415073] UPDATE : Personnal settings opened
+[2024-04-22 16:56:45.052233] UPDATE : Project selected : TestProjectSchool
+[2024-04-22 16:56:45.053963] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-22 16:56:45.055958] UPDATE : Project settings loaded!
+[2024-04-22 16:56:45.968045] UPDATE : [0]
+[2024-04-22 16:56:45.970039] UPDATE : event : False
+[2024-04-22 16:56:45.972350] UPDATE : hello world : False
+[2024-04-22 16:56:46.994391] UPDATE : hello world : False
+[2024-04-22 16:56:48.009910] UPDATE : hello world : False
+[2024-04-22 16:56:48.649421] UPDATE : [0, 1]
+[2024-04-22 16:56:48.651415] UPDATE : event : False
+[2024-04-22 16:56:48.658397] UPDATE : hello world : False
+[2024-04-22 16:56:49.026714] UPDATE : hello world : False
+[2024-04-22 16:56:49.679695] UPDATE : hello world : False
+[2024-04-22 16:56:50.061741] UPDATE : hello world : False
+[2024-04-22 16:56:50.209333] UPDATE : [0]
+[2024-04-22 16:56:50.211328] UPDATE : event : False
+[2024-04-22 16:56:50.217832] UPDATE : hello world : False
+[2024-04-22 16:56:50.609011] UPDATE : [0, 1]
+[2024-04-22 16:56:50.611007] UPDATE : event : False
+[2024-04-22 16:56:50.616991] UPDATE : hello world : False
+[2024-04-22 16:56:50.695306] UPDATE : hello world : False
+[2024-04-22 16:56:51.074099] UPDATE : [0]
+[2024-04-22 16:56:51.076094] UPDATE : event : False
+[2024-04-22 16:56:51.078089] UPDATE : hello world : False
+[2024-04-22 16:56:51.083075] UPDATE : hello world : False
+[2024-04-22 16:56:51.242807] UPDATE : hello world : False
+[2024-04-22 16:56:51.531100] UPDATE : [0, 1]
+[2024-04-22 16:56:51.533125] UPDATE : event : False
+[2024-04-22 16:56:51.539079] UPDATE : hello world : False
+[2024-04-22 16:56:51.641905] UPDATE : hello world : False
+[2024-04-22 16:56:51.739460] UPDATE : [0]
+ world : False
+[2024-04-22 16:56:51.743450] UPDATE : event : False
+[2024-04-22 16:56:51.745146] UPDATE : hello world : False
+[2024-04-22 16:56:51.871347] UPDATE : [0, 1]
+[2024-04-22 16:56:51.873343] UPDATE : event : False
+[2024-04-22 16:56:51.879326] UPDATE : hello world : False
+[2024-04-22 16:56:52.028959] UPDATE : [0]
+[2024-04-22 16:56:52.030955] UPDATE : event : False
+[2024-04-22 16:56:52.036938] UPDATE : hello world : False
+[2024-04-22 16:56:52.108516] UPDATE : hello world : False
+[2024-04-22 16:56:52.108516] UPDATE : hello world : False
+[2024-04-22 16:56:52.185488] UPDATE : [0, 1]
+[2024-04-22 16:56:52.187483] UPDATE : event : False
+[2024-04-22 16:56:52.194464] UPDATE : hello world : False
+[2024-04-22 16:56:52.257007] UPDATE : hello world : False
+[2024-04-22 16:56:52.334250] UPDATE : [0]
+[2024-04-22 16:56:52.336220] UPDATE : event : False
+[2024-04-22 16:56:52.341230] UPDATE : hello world : False
+[2024-04-22 16:56:52.559969] UPDATE : hello world : False
+[2024-04-22 16:56:52.678271] UPDATE : hello world : False
+[2024-04-22 16:56:52.737112] UPDATE : []
+[2024-04-22 16:56:52.740104] UPDATE : event : False
+[2024-04-22 16:56:52.742099] UPDATE : hello world : False
+[2024-04-22 16:56:52.743096] UPDATE : hello world : False
+[2024-04-22 16:56:52.767013] UPDATE : hello world : False
+[2024-04-22 16:56:52.900259] UPDATE : hello world : False
+[2024-04-22 16:56:53.058615] UPDATE : hello world : False
+[2024-04-22 16:56:53.124494] UPDATE : hello world : False
+[2024-04-22 16:56:53.144511] UPDATE : [3]
+[2024-04-22 16:56:53.125015] UPDATE : hello world : False
+[2024-04-22 16:56:53.150495] UPDATE : event : False
+[2024-04-22 16:56:53.154484] UPDATE : hello world : False
+[2024-04-22 16:56:53.214434] UPDATE : hello world : False
+[2024-04-22 16:56:53.324419] UPDATE : []
+[2024-04-22 16:56:53.275927] UPDATE : hello world : False
+[2024-04-22 16:56:53.328408] UPDATE : event : False
+[2024-04-22 16:56:53.330402] UPDATE : hello world : False
+[2024-04-22 16:56:53.366698] UPDATE : hello world : False
+[2024-04-22 16:56:53.524631] UPDATE : [1]
+[2024-04-22 16:56:53.527591] UPDATE : event : False
+[2024-04-22 16:56:53.532577] UPDATE : hello world : False
+[2024-04-22 16:56:53.598365] UPDATE : hello world : False
+[2024-04-22 16:56:53.695494] UPDATE : hello world : False
+[2024-04-22 16:56:53.761920] UPDATE : hello world : False
+[2024-04-22 16:56:53.762917] UPDATE : hello world : False
+[2024-04-22 16:56:53.797405] UPDATE : hello world : False
+[2024-04-22 16:56:53.914837] UPDATE : hello world : False
+[2024-04-22 16:56:54.074460] UPDATE : hello world : False
+[2024-04-22 16:56:54.148068] UPDATE : hello world : False
+[2024-04-22 16:56:54.160540] UPDATE : hello world : False
+[2024-04-22 16:56:54.182481] UPDATE : hello world : False
+[2024-04-22 16:56:54.230418] UPDATE : hello world : False
+[2024-04-22 16:56:54.328187] UPDATE : hello world : False
+[2024-04-22 16:56:54.353420] UPDATE : hello world : False
+[2024-04-22 16:56:54.379010] UPDATE : hello world : False
+[2024-04-22 16:56:54.552281] UPDATE : hello world : False
+[2024-04-22 16:56:54.613934] UPDATE : hello world : False
+[2024-04-22 16:56:54.719182] UPDATE : hello world : False
+[2024-04-22 16:56:54.766196] UPDATE : hello world : False
+[2024-04-22 16:56:54.768187] UPDATE : hello world : False
+[2024-04-22 16:56:54.801153] UPDATE : hello world : False
+[2024-04-22 16:56:54.931500] UPDATE : hello world : False
+[2024-04-22 16:56:55.093811] UPDATE : hello world : False
+
+
+[2024-04-26 13:38:00.003048] New Pipo session opened on <built-in function gethostname>
+[2024-04-26 13:38:00.118277] UPDATE : Personnal settings opened
+[2024-04-26 13:38:02.091927] UPDATE : Project selected : TestProjectSchool
+[2024-04-26 13:38:02.114164] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-26 13:38:02.116053] UPDATE : Project settings loaded!
+[2024-04-26 13:38:04.827552] UPDATE : [1]
+[2024-04-26 13:38:04.829547] UPDATE : event : False
+[2024-04-26 13:38:04.831541] UPDATE : hello world : False
+[2024-04-26 13:38:05.860986] UPDATE : hello world : False
+[2024-04-26 13:38:06.877183] UPDATE : hello world : False
+[2024-04-26 13:38:07.857114] UPDATE : []
+[2024-04-26 13:38:07.860077] UPDATE : event : False
+[2024-04-26 13:38:07.862071] UPDATE : hello world : False
+[2024-04-26 13:38:07.891991] UPDATE : hello world : False
+[2024-04-26 13:38:08.903820] UPDATE : [0]
+[2024-04-26 13:38:08.865211] UPDATE : hello world : False
+[2024-04-26 13:38:08.896845] UPDATE : hello world : False
+[2024-04-26 13:38:08.905806] UPDATE : event : False
+[2024-04-26 13:38:08.910769] UPDATE : hello world : False
+[2024-04-26 13:38:09.920186] UPDATE : hello world : False
+[2024-04-26 13:38:09.908637] UPDATE : hello world : False
+[2024-04-26 13:38:09.937163] UPDATE : hello world : False
+[2024-04-26 13:38:10.924042] UPDATE : hello world : False
+[2024-04-26 13:38:10.935575] UPDATE : hello world : False
+[2024-04-26 13:38:10.945549] UPDATE : hello world : False
+[2024-04-26 13:38:11.945208] UPDATE : hello world : False
+[2024-04-26 13:38:11.939229] UPDATE : hello world : False
+[2024-04-26 13:38:11.955180] UPDATE : hello world : False
+[2024-04-26 13:38:12.955476] UPDATE : hello world : False
+[2024-04-26 13:38:12.967690] UPDATE : hello world : False
+[2024-04-26 13:38:12.966720] UPDATE : hello world : False
+[2024-04-26 13:38:13.970999] UPDATE : hello world : False
+[2024-04-26 13:38:13.972989] UPDATE : hello world : False
+[2024-04-26 13:38:13.973901] UPDATE : hello world : False
+[2024-04-26 13:38:14.973538] UPDATE : hello world : False
+[2024-04-26 13:38:14.975046] UPDATE : hello world : False
+[2024-04-26 13:38:14.977066] UPDATE : hello world : False
+[2024-04-26 13:38:15.976417] UPDATE : hello world : False
+[2024-04-26 13:38:15.977365] UPDATE : hello world : False
+[2024-04-26 13:38:15.979381] UPDATE : hello world : False
+[2024-04-26 13:38:16.978961] UPDATE : hello world : False
+[2024-04-26 13:38:16.980387] UPDATE : hello world : False
+[2024-04-26 13:38:16.981396] UPDATE : hello world : False
+[2024-04-26 13:38:17.982033] UPDATE : hello world : False
+[2024-04-26 13:38:17.982912] UPDATE : hello world : False
+[2024-04-26 13:38:17.984931] UPDATE : hello world : False
+[2024-04-26 13:38:18.985004] UPDATE : hello world : False
+[2024-04-26 13:38:18.985615] UPDATE : hello world : False
+[2024-04-26 13:38:18.987633] UPDATE : hello world : False
+[2024-04-26 13:38:19.987110] UPDATE : hello world : False
+[2024-04-26 13:38:19.989102] UPDATE : hello world : False
+[2024-04-26 13:38:19.990095] UPDATE : hello world : False
+[2024-04-26 13:38:20.989891] UPDATE : hello world : False
+[2024-04-26 13:38:20.990808] UPDATE : hello world : False
+[2024-04-26 13:38:20.992822] UPDATE : hello world : False
+[2024-04-26 13:38:21.992372] UPDATE : hello world : False
+[2024-04-26 13:38:21.994340] UPDATE : hello world : False
+[2024-04-26 13:38:21.995362] UPDATE : hello world : False
+[2024-04-26 13:38:22.994791] UPDATE : hello world : False
+[2024-04-26 13:38:22.996499] UPDATE : hello world : False
+[2024-04-26 13:38:22.997496] UPDATE : hello world : False
+[2024-04-26 13:38:23.997609] UPDATE : hello world : False
+[2024-04-26 13:38:23.998311] UPDATE : hello world : False
+[2024-04-26 13:38:24.000337] UPDATE : hello world : False
+[2024-04-26 13:38:25.000425] UPDATE : hello world : False
+[2024-04-26 13:38:25.001375] UPDATE : hello world : False
+[2024-04-26 13:38:26.003137] UPDATE : hello world : False
+[2024-04-26 13:38:26.003907] UPDATE : hello world : False
+[2024-04-26 13:38:27.005933] UPDATE : hello world : False
+[2024-04-26 13:38:27.006844] UPDATE : hello world : False
+[2024-04-26 13:38:28.010083] UPDATE : hello world : False
+
+
+[2024-04-26 13:39:09.741748] New Pipo session opened on <built-in function gethostname>
+[2024-04-26 13:39:09.758734] UPDATE : Personnal settings opened
+[2024-04-26 13:39:11.418097] UPDATE : Project selected : TestProjectSchool
+[2024-04-26 13:39:11.420100] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-26 13:39:11.422085] UPDATE : Project settings loaded!
+[2024-04-26 13:39:12.410967] UPDATE : [0]
+[2024-04-26 13:39:12.412959] UPDATE : event : False
+[2024-04-26 13:39:12.414953] UPDATE : False
+[2024-04-26 13:39:12.416950] UPDATE : hello world : False
+[2024-04-26 13:39:13.440104] UPDATE : hello world : False
+[2024-04-26 13:39:14.458236] UPDATE : hello world : False
+[2024-04-26 13:39:15.472734] UPDATE : hello world : False
+[2024-04-26 13:39:16.488975] UPDATE : hello world : False
+[2024-04-26 13:39:17.528102] UPDATE : hello world : False
+[2024-04-26 13:39:18.542793] UPDATE : hello world : False
+[2024-04-26 13:39:19.546193] UPDATE : hello world : False
+[2024-04-26 13:39:20.561295] UPDATE : hello world : False
+[2024-04-26 13:39:21.577430] UPDATE : hello world : False
+[2024-04-26 13:39:22.613567] UPDATE : hello world : False
+[2024-04-26 13:39:23.802871] UPDATE : hello world : False
+[2024-04-26 13:39:24.823319] UPDATE : hello world : False
+[2024-04-26 13:39:25.838146] UPDATE : hello world : False
+[2024-04-26 13:39:26.856219] UPDATE : hello world : False
+[2024-04-26 13:39:27.858743] UPDATE : hello world : False
+[2024-04-26 13:39:28.861166] UPDATE : hello world : False
+[2024-04-26 13:39:29.864040] UPDATE : hello world : False
+[2024-04-26 13:39:30.866688] UPDATE : hello world : False
+[2024-04-26 13:39:31.869328] UPDATE : hello world : False
+
+
+[2024-04-26 13:39:55.780456] New Pipo session opened on <built-in function gethostname>
+[2024-04-26 13:39:55.797409] UPDATE : Personnal settings opened
+[2024-04-26 13:39:57.624780] UPDATE : Project selected : TestProjectSchool
+[2024-04-26 13:39:57.626746] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-26 13:39:57.628741] UPDATE : Project settings loaded!
+[2024-04-26 13:39:58.648445] UPDATE : [0]
+[2024-04-26 13:39:58.650439] UPDATE : event : False
+[2024-04-26 13:39:58.652434] UPDATE : alive : False
+[2024-04-26 13:39:58.654429] UPDATE : hello world : False
+[2024-04-26 13:39:59.675701] UPDATE : hello world : False
+[2024-04-26 13:40:00.690374] UPDATE : hello world : False
+[2024-04-26 13:40:01.705149] UPDATE : hello world : False
+[2024-04-26 13:40:02.719182] UPDATE : hello world : False
+[2024-04-26 13:40:03.733794] UPDATE : hello world : False
+[2024-04-26 13:40:04.748136] UPDATE : hello world : False
+[2024-04-26 13:40:05.765402] UPDATE : hello world : False
+[2024-04-26 13:40:06.784325] UPDATE : hello world : False
+[2024-04-26 13:40:07.798882] UPDATE : hello world : False
+[2024-04-26 13:40:08.817653] UPDATE : hello world : False
+[2024-04-26 13:40:09.820063] UPDATE : hello world : False
+[2024-04-26 13:40:10.822966] UPDATE : hello world : False
+[2024-04-26 13:40:11.825202] UPDATE : hello world : False
+[2024-04-26 13:40:12.828283] UPDATE : hello world : False
+[2024-04-26 13:40:13.831156] UPDATE : hello world : False
+[2024-04-26 13:40:14.833845] UPDATE : hello world : False
+[2024-04-26 13:40:15.836682] UPDATE : hello world : False
+[2024-04-26 13:40:16.839201] UPDATE : hello world : False
+[2024-04-26 13:40:17.841511] UPDATE : hello world : False
+
+
+[2024-04-26 13:40:37.276331] New Pipo session opened on <built-in function gethostname>
+[2024-04-26 13:40:37.294284] UPDATE : Personnal settings opened
+[2024-04-26 13:40:41.808379] UPDATE : Project selected : TestProjectSchool
+[2024-04-26 13:40:41.810902] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-26 13:40:41.811862] UPDATE : Project settings loaded!
+[2024-04-26 13:40:42.584895] UPDATE : [0]
+[2024-04-26 13:40:42.587887] UPDATE : event : False
+[2024-04-26 13:40:42.588889] UPDATE : alive : False
+[2024-04-26 13:40:42.590878] UPDATE : hello world : False
+[2024-04-26 13:40:43.618095] UPDATE : hello world : False
+[2024-04-26 13:40:44.244691] UPDATE : []
+[2024-04-26 13:40:44.247686] UPDATE : event : False
+[2024-04-26 13:40:44.248684] UPDATE : alive : False
+[2024-04-26 13:40:44.250681] UPDATE : hello world : False
+[2024-04-26 13:40:44.632474] UPDATE : hello world : False
+[2024-04-26 13:40:45.255083] UPDATE : hello world : False
+[2024-04-26 13:40:45.678707] UPDATE : [0]
+[2024-04-26 13:40:45.680732] UPDATE : event : False
+[2024-04-26 13:40:45.682712] UPDATE : alive : False
+[2024-04-26 13:40:45.683723] UPDATE : hello world : False
+[2024-04-26 13:40:45.678707] UPDATE : hello world : False
+[2024-04-26 13:40:46.270089] UPDATE : hello world : False
+[2024-04-26 13:40:46.703126] UPDATE : hello world : False
+[2024-04-26 13:40:46.704123] UPDATE : hello world : False
+[2024-04-26 13:40:47.284333] UPDATE : hello world : False
+[2024-04-26 13:40:47.707614] UPDATE : hello world : False
+[2024-04-26 13:40:47.733556] UPDATE : hello world : False
+[2024-04-26 13:40:48.298542] UPDATE : hello world : False
+[2024-04-26 13:40:48.741143] UPDATE : hello world : False
+[2024-04-26 13:40:48.753083] UPDATE : hello world : False
+[2024-04-26 13:40:49.300973] UPDATE : hello world : False
+[2024-04-26 13:40:49.743984] UPDATE : hello world : False
+[2024-04-26 13:40:49.755953] UPDATE : hello world : False
+[2024-04-26 13:40:50.304088] UPDATE : hello world : False
+[2024-04-26 13:40:50.746960] UPDATE : hello world : False
+[2024-04-26 13:40:50.757829] UPDATE : hello world : False
+[2024-04-26 13:40:51.306838] UPDATE : hello world : False
+[2024-04-26 13:40:51.749247] UPDATE : hello world : False
+[2024-04-26 13:40:51.760212] UPDATE : hello world : False
+[2024-04-26 13:40:52.309808] UPDATE : hello world : False
+[2024-04-26 13:40:52.751851] UPDATE : hello world : False
+[2024-04-26 13:40:52.762817] UPDATE : hello world : False
+[2024-04-26 13:40:53.312650] UPDATE : hello world : False
+[2024-04-26 13:40:53.754663] UPDATE : hello world : False
+[2024-04-26 13:40:53.777284] UPDATE : hello world : False
+[2024-04-26 13:40:54.315192] UPDATE : hello world : False
+[2024-04-26 13:40:54.757240] UPDATE : hello world : False
+[2024-04-26 13:40:54.779866] UPDATE : hello world : False
+[2024-04-26 13:40:55.317930] UPDATE : hello world : False
+[2024-04-26 13:40:55.760172] UPDATE : hello world : False
+[2024-04-26 13:40:55.782110] UPDATE : hello world : False
+[2024-04-26 13:40:56.320185] UPDATE : hello world : False
+[2024-04-26 13:40:56.762401] UPDATE : hello world : False
+[2024-04-26 13:40:56.785027] UPDATE : hello world : False
+[2024-04-26 13:40:57.323233] UPDATE : hello world : False
+[2024-04-26 13:40:57.765438] UPDATE : hello world : False
+[2024-04-26 13:40:57.787380] UPDATE : hello world : False
+[2024-04-26 13:40:58.325467] UPDATE : hello world : False
+[2024-04-26 13:40:58.768282] UPDATE : hello world : False
+[2024-04-26 13:40:58.790789] UPDATE : hello world : False
+[2024-04-26 13:40:59.328044] UPDATE : hello world : False
+[2024-04-26 13:40:59.770891] UPDATE : hello world : False
+[2024-04-26 13:40:59.792995] UPDATE : hello world : False
+[2024-04-26 13:41:00.330119] UPDATE : hello world : False
+[2024-04-26 13:41:00.773112] UPDATE : hello world : False
+[2024-04-26 13:41:00.796055] UPDATE : hello world : False
+[2024-04-26 13:41:01.332727] UPDATE : hello world : False
+[2024-04-26 13:41:01.775721] UPDATE : hello world : False
+[2024-04-26 13:41:01.798222] UPDATE : hello world : False
+[2024-04-26 13:41:02.335421] UPDATE : hello world : False
+[2024-04-26 13:41:02.777803] UPDATE : hello world : False
+[2024-04-26 13:41:03.337729] UPDATE : hello world : False
+[2024-04-26 13:41:03.780739] UPDATE : hello world : False
+[2024-04-26 13:41:04.783208] UPDATE : hello world : False
+
+
+[2024-04-26 13:44:31.103158] New Pipo session opened on <built-in function gethostname>
+[2024-04-26 13:44:31.120115] UPDATE : Personnal settings opened
+[2024-04-26 13:44:32.589232] UPDATE : Project selected : TestProjectSchool
+[2024-04-26 13:44:32.591199] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-26 13:44:32.592197] UPDATE : Project settings loaded!
+[2024-04-26 13:44:33.565636] UPDATE : [0]
+[2024-04-26 13:44:33.568628] UPDATE : False
+[2024-04-26 13:44:33.570651] UPDATE : True
+[2024-04-26 13:44:33.569654] UPDATE : hello world : False
+[2024-04-26 13:44:34.600542] UPDATE : hello world : False
+[2024-04-26 13:44:35.617006] UPDATE : hello world : False
+[2024-04-26 13:44:36.651110] UPDATE : hello world : False
+[2024-04-26 13:44:37.653591] UPDATE : hello world : False
+[2024-04-26 13:44:38.656082] UPDATE : hello world : False
+[2024-04-26 13:44:39.658926] UPDATE : hello world : False
+[2024-04-26 13:44:40.661660] UPDATE : hello world : False
+[2024-04-26 13:44:41.664643] UPDATE : hello world : False
+[2024-04-26 13:44:42.667008] UPDATE : hello world : False
+[2024-04-26 13:44:43.670201] UPDATE : hello world : False
+
+
+[2024-04-26 13:45:03.066659] New Pipo session opened on <built-in function gethostname>
+[2024-04-26 13:45:03.082609] UPDATE : Personnal settings opened
+[2024-04-26 13:45:06.170544] UPDATE : Project selected : TestProjectSchool
+[2024-04-26 13:45:06.172526] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-26 13:45:06.174522] UPDATE : Project settings loaded!
+[2024-04-26 13:45:07.125474] UPDATE : [0]
+[2024-04-26 13:45:07.128466] UPDATE : False
+[2024-04-26 13:45:07.130488] UPDATE : True
+[2024-04-26 13:45:07.130488] UPDATE : hello world : False
+[2024-04-26 13:45:08.170092] UPDATE : hello world : False
+[2024-04-26 13:45:09.185102] UPDATE : hello world : False
+[2024-04-26 13:45:10.199794] UPDATE : hello world : False
+[2024-04-26 13:45:10.705857] UPDATE : []
+[2024-04-26 13:45:10.707823] UPDATE : False
+[2024-04-26 13:45:10.709846] UPDATE : True
+[2024-04-26 13:45:10.709846] UPDATE : hello world : False
+[2024-04-26 13:45:11.214972] UPDATE : hello world : False
+[2024-04-26 13:45:11.729519] UPDATE : hello world : False
+[2024-04-26 13:45:11.965397] UPDATE : [0]
+[2024-04-26 13:45:11.967393] UPDATE : False
+[2024-04-26 13:45:11.969420] UPDATE : True
+[2024-04-26 13:45:11.969420] UPDATE : hello world : False
+[2024-04-26 13:45:12.229573] UPDATE : hello world : False
+[2024-04-26 13:45:12.744058] UPDATE : hello world : False
+[2024-04-26 13:45:13.012440] UPDATE : hello world : False
+[2024-04-26 13:45:13.245119] UPDATE : hello world : False
+[2024-04-26 13:45:13.758873] UPDATE : hello world : False
+
+
+[2024-04-26 13:45:42.316413] New Pipo session opened on <built-in function gethostname>
+[2024-04-26 13:45:42.333367] UPDATE : Personnal settings opened
+[2024-04-26 13:45:43.638631] UPDATE : Project selected : TestProjectSchool
+[2024-04-26 13:45:43.640597] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-26 13:45:43.642619] UPDATE : Project settings loaded!
+[2024-04-26 13:45:44.492584] UPDATE : [0]
+[2024-04-26 13:45:44.494579] UPDATE : False
+[2024-04-26 13:45:44.496575] UPDATE : True
+[2024-04-26 13:45:44.496575] UPDATE : hello world : False
+[2024-04-26 13:45:45.435968] UPDATE : []
+[2024-04-26 13:45:45.437962] UPDATE : True
+[2024-04-26 13:45:45.541742] UPDATE : hello world : False
+
+
+[2024-04-26 13:46:10.209038] New Pipo session opened on <built-in function gethostname>
+[2024-04-26 13:46:10.225992] UPDATE : Personnal settings opened
+[2024-04-26 13:46:11.631683] UPDATE : Project selected : TestProjectSchool
+[2024-04-26 13:46:11.633672] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-26 13:46:11.635637] UPDATE : Project settings loaded!
+[2024-04-26 13:46:12.580437] UPDATE : [0]
+[2024-04-26 13:46:12.583430] UPDATE : True
+[2024-04-26 13:46:12.583430] UPDATE : hello world : False
+[2024-04-26 13:46:13.594697] UPDATE : []
+[2024-04-26 13:46:13.596722] UPDATE : True
+[2024-04-26 13:46:13.614733] UPDATE : hello world : False
+[2024-04-26 13:46:14.629565] UPDATE : hello world : False
+[2024-04-26 13:46:14.729467] UPDATE : [0]
+[2024-04-26 13:46:14.732460] UPDATE : True
+[2024-04-26 13:46:15.645031] UPDATE : hello world : False
+
+
+[2024-04-26 13:47:33.138866] New Pipo session opened on <built-in function gethostname>
+[2024-04-26 13:47:33.156818] UPDATE : Personnal settings opened
+[2024-04-26 13:47:34.540217] UPDATE : Project selected : TestProjectSchool
+[2024-04-26 13:47:34.544106] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-26 13:47:34.545103] UPDATE : Project settings loaded!
+[2024-04-26 13:47:35.326035] UPDATE : [0]
+[2024-04-26 13:47:35.328002] UPDATE : hello world : False
+[2024-04-26 13:47:36.281159] UPDATE : []
+[2024-04-26 13:47:36.342008] UPDATE : hello world : True
+[2024-04-26 13:47:37.356131] UPDATE : hello world : True
+[2024-04-26 13:47:38.361160] UPDATE : hello world : True
+
+
+[2024-04-26 13:48:06.977424] New Pipo session opened on <built-in function gethostname>
+[2024-04-26 13:48:06.994347] UPDATE : Personnal settings opened
+[2024-04-26 13:48:08.242769] UPDATE : Project selected : TestProjectSchool
+[2024-04-26 13:48:08.244759] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-26 13:48:08.246752] UPDATE : Project settings loaded!
+[2024-04-26 13:48:09.459674] UPDATE : [0]
+[2024-04-26 13:48:09.461670] UPDATE : hello world : False
+[2024-04-26 13:48:10.483295] UPDATE : hello world : False
+[2024-04-26 13:48:11.497804] UPDATE : hello world : False
+[2024-04-26 13:48:12.517762] UPDATE : hello world : False
+[2024-04-26 13:48:12.704331] UPDATE : []
+[2024-04-26 13:48:13.531900] UPDATE : TERMINATED
+
+
+[2024-04-26 13:56:45.469643] New Pipo session opened on <built-in function gethostname>
+[2024-04-26 13:56:45.486596] UPDATE : Personnal settings opened
+[2024-04-26 13:56:47.227068] UPDATE : Project selected : TestProjectSchool
+[2024-04-26 13:56:47.228804] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-26 13:56:47.230837] UPDATE : Project settings loaded!
+[2024-04-26 13:56:48.366432] UPDATE : [0]
+[2024-04-26 13:56:48.369424] UPDATE : hello world : False
+[2024-04-26 13:56:49.388253] UPDATE : hello world : False
+[2024-04-26 13:56:50.402336] UPDATE : hello world : False
+[2024-04-26 13:56:51.317411] UPDATE : []
+[2024-04-26 13:56:51.417190] UPDATE : TERMINATED
+
+
+[2024-04-26 13:57:12.566771] New Pipo session opened on <built-in function gethostname>
+[2024-04-26 13:57:12.583753] UPDATE : Personnal settings opened
+[2024-04-26 13:57:14.733499] UPDATE : Project selected : TestProjectSchool
+[2024-04-26 13:57:14.735968] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-26 13:57:14.736993] UPDATE : Project settings loaded!
+[2024-04-26 13:57:15.658918] UPDATE : [0]
+[2024-04-26 13:57:15.660940] UPDATE : ####################################################
+[2024-04-26 13:57:15.663932] UPDATE : Searching...
+[2024-04-26 13:57:15.672916] UPDATE : ####################################################
+[2024-04-26 13:57:15.694822] UPDATE : thread : 0
+[2024-04-26 13:57:15.695869] UPDATE : thread 0 started
+[2024-04-26 13:57:15.710804] UPDATE : thread : 0
+[2024-04-26 13:57:15.710804] UPDATE : thread 1 started
+[2024-04-26 13:57:15.715782] UPDATE : thread : 0
+[2024-04-26 13:57:15.715782] UPDATE : thread 2 started
+[2024-04-26 13:57:15.731359] UPDATE : thread 3 started
+[2024-04-26 13:57:15.731359] UPDATE : thread : 0
+[2024-04-26 13:57:15.744361] UPDATE : thread 4 started
+[2024-04-26 13:57:15.744361] UPDATE : thread 4 DONE!
+[2024-04-26 13:57:15.747316] UPDATE : thread : 0
+[2024-04-26 13:57:15.748313] UPDATE : thread 5 started
+[2024-04-26 13:57:15.760519] UPDATE : thread : 0
+[2024-04-26 13:57:15.761279] UPDATE : thread 6 started
+[2024-04-26 13:57:15.766296] UPDATE : thread 7 started
+[2024-04-26 13:57:15.765297] UPDATE : thread : 0
+[2024-04-26 13:57:15.778263] UPDATE : thread : 0
+[2024-04-26 13:57:15.779231] UPDATE : thread 8 started
+[2024-04-26 13:57:15.819123] UPDATE : thread : 0
+[2024-04-26 13:57:15.820135] UPDATE : thread 9 started
+[2024-04-26 13:57:16.698968] UPDATE : thread : 1
+[2024-04-26 13:57:16.715237] UPDATE : thread : 1
+[2024-04-26 13:57:16.730227] UPDATE : thread : 1
+[2024-04-26 13:57:16.745451] UPDATE : thread : 1
+[2024-04-26 13:57:16.761426] UPDATE : thread : 1
+[2024-04-26 13:57:16.765125] UPDATE : thread : 1
+[2024-04-26 13:57:16.779063] UPDATE : thread : 1
+[2024-04-26 13:57:16.783211] UPDATE : thread : 1
+[2024-04-26 13:57:16.823970] UPDATE : thread : 1
+[2024-04-26 13:57:17.713223] UPDATE : thread : 2
+[2024-04-26 13:57:17.730190] UPDATE : thread : 2
+[2024-04-26 13:57:17.733181] UPDATE : thread : 2
+[2024-04-26 13:57:17.756016] UPDATE : thread : 2
+[2024-04-26 13:57:17.765985] UPDATE : thread : 2
+[2024-04-26 13:57:17.779920] UPDATE : thread : 2
+[2024-04-26 13:57:17.781914] UPDATE : thread 7 DONE!
+[2024-04-26 13:57:17.798938] UPDATE : thread 8 DONE!
+[2024-04-26 13:57:17.838687] UPDATE : thread 9 DONE!
+[2024-04-26 13:57:18.727198] UPDATE : thread : 3
+[2024-04-26 13:57:18.733071] UPDATE : thread : 3
+[2024-04-26 13:57:18.765990] UPDATE : thread : 3
+[2024-04-26 13:57:18.778085] UPDATE : thread : 3
+[2024-04-26 13:57:18.779949] UPDATE : thread : 3
+[2024-04-26 13:57:18.782942] UPDATE : thread : 3
+[2024-04-26 13:57:19.743004] UPDATE : thread : 4
+[2024-04-26 13:57:19.754225] UPDATE : thread : 4
+[2024-04-26 13:57:19.778243] UPDATE : thread 2 DONE!
+[2024-04-26 13:57:19.782366] UPDATE : thread 3 DONE!
+[2024-04-26 13:57:19.794460] UPDATE : thread : 4
+[2024-04-26 13:57:19.797433] UPDATE : thread : 4
+[2024-04-26 13:57:20.769858] UPDATE : thread : 5
+[2024-04-26 13:57:20.797969] UPDATE : thread 5 DONE!
+[2024-04-26 13:57:20.828660] UPDATE : thread : 5
+[2024-04-26 13:57:20.835487] UPDATE : []
+[2024-04-26 13:57:21.773404] UPDATE : thread 0 DONE!
+[2024-04-26 13:57:21.785060] UPDATE : thread : 6
+[2024-04-26 13:57:21.854214] UPDATE : thread : 6
+[2024-04-26 13:57:22.789645] UPDATE : thread : 7
+[2024-04-26 13:57:22.872297] UPDATE : thread : 7
+[2024-04-26 13:57:23.804423] UPDATE : thread : 8
+[2024-04-26 13:57:23.887022] UPDATE : thread 6 DONE!
+[2024-04-26 13:57:24.824064] UPDATE : thread 1 DONE!
+[2024-04-26 13:57:32.082916] UPDATE : [0]
+[2024-04-26 13:57:34.537499] UPDATE : [0, 1]
+[2024-04-26 13:57:35.014936] UPDATE : [1]
+[2024-04-26 13:57:36.148407] UPDATE : []
+[2024-04-26 13:57:37.504608] UPDATE : [0]
+[2024-04-26 13:57:40.076726] UPDATE : []
+[2024-04-26 13:57:40.660017] UPDATE : [0]
+[2024-04-26 13:57:41.100873] UPDATE : []
+[2024-04-26 13:57:42.555915] UPDATE : [3]
+[2024-04-26 13:57:43.147923] UPDATE : [3, 2]
+[2024-04-26 13:57:43.464026] UPDATE : [3, 2, 1]
+[2024-04-26 13:57:43.748619] UPDATE : [3, 2, 1, 0]
+[2024-04-26 13:57:44.278545] UPDATE : [3, 2, 1]
+[2024-04-26 13:57:44.548050] UPDATE : [3, 2]
+[2024-04-26 13:57:44.845041] UPDATE : [3]
+[2024-04-26 13:57:45.089034] UPDATE : [3, 2]
+[2024-04-26 13:57:45.730748] UPDATE : [3]
+[2024-04-26 13:57:46.424915] UPDATE : []
+
+
+[2024-04-26 13:58:12.125753] New Pipo session opened on <built-in function gethostname>
+[2024-04-26 13:58:12.142708] UPDATE : Personnal settings opened
+[2024-04-26 13:58:14.068827] UPDATE : Project selected : TestProjectSchool
+[2024-04-26 13:58:14.070822] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-26 13:58:14.071819] UPDATE : Project settings loaded!
+[2024-04-26 13:58:15.032067] UPDATE : [0]
+[2024-04-26 13:58:15.034058] UPDATE : ####################################################
+[2024-04-26 13:58:15.061957] UPDATE : Searching...
+[2024-04-26 13:58:15.064948] UPDATE : ####################################################
+[2024-04-26 13:58:15.080906] UPDATE : thread : 0
+[2024-04-26 13:58:15.080906] UPDATE : thread 0 started
+[2024-04-26 13:58:15.095156] UPDATE : thread : 0
+[2024-04-26 13:58:15.096863] UPDATE : thread 1 started
+[2024-04-26 13:58:15.121796] UPDATE : thread 2 started
+[2024-04-26 13:58:15.106940] UPDATE : thread : 0
+[2024-04-26 13:58:15.124788] UPDATE : thread : 0
+[2024-04-26 13:58:15.125786] UPDATE : thread 3 started
+[2024-04-26 13:58:15.129429] UPDATE : thread : 0
+[2024-04-26 13:58:15.129429] UPDATE : thread 4 started
+[2024-04-26 13:58:15.132397] UPDATE : thread : 0
+[2024-04-26 13:58:15.133371] UPDATE : thread 5 started
+[2024-04-26 13:58:15.146337] UPDATE : thread : 0
+[2024-04-26 13:58:15.146337] UPDATE : thread 6 started
+[2024-04-26 13:58:15.180246] UPDATE : thread 7 started
+[2024-04-26 13:58:15.195206] UPDATE : thread 8 started
+[2024-04-26 13:58:15.195206] UPDATE : thread : 0
+[2024-04-26 13:58:15.198198] UPDATE : thread 9 started
+[2024-04-26 13:58:15.198198] UPDATE : thread : 0
+[2024-04-26 13:58:16.083906] UPDATE : thread : 1
+[2024-04-26 13:58:16.099863] UPDATE : thread : 1
+[2024-04-26 13:58:16.127409] UPDATE : thread : 1
+[2024-04-26 13:58:16.128364] UPDATE : thread : 1
+[2024-04-26 13:58:16.132384] UPDATE : thread : 1
+[2024-04-26 13:58:16.146367] UPDATE : thread : 1
+[2024-04-26 13:58:16.150455] UPDATE : thread : 1
+[2024-04-26 13:58:16.196307] UPDATE : thread : 1
+[2024-04-26 13:58:16.206178] UPDATE : thread : 1
+[2024-04-26 13:58:16.213136] UPDATE : thread : 1
+[2024-04-26 13:58:17.099742] UPDATE : thread : 2
+[2024-04-26 13:58:17.113414] UPDATE : thread : 2
+[2024-04-26 13:58:17.132468] UPDATE : thread : 2
+[2024-04-26 13:58:17.144331] UPDATE : thread : 2
+[2024-04-26 13:58:17.144331] UPDATE : thread : 2
+[2024-04-26 13:58:17.149742] UPDATE : thread : 2
+[2024-04-26 13:58:17.178403] UPDATE : thread : 2
+[2024-04-26 13:58:17.211281] UPDATE : thread : 2
+[2024-04-26 13:58:17.213276] UPDATE : thread : 2
+[2024-04-26 13:58:17.216268] UPDATE : thread : 2
+[2024-04-26 13:58:18.115150] UPDATE : thread : 3
+[2024-04-26 13:58:18.126309] UPDATE : thread : 3
+[2024-04-26 13:58:18.145100] UPDATE : thread : 3
+[2024-04-26 13:58:18.148234] UPDATE : thread : 3
+[2024-04-26 13:58:18.149041] UPDATE : thread : 3
+[2024-04-26 13:58:18.203075] UPDATE : thread : 3
+[2024-04-26 13:58:18.191242] UPDATE : thread : 3
+[2024-04-26 13:58:18.215328] UPDATE : thread : 3
+[2024-04-26 13:58:18.216131] UPDATE : thread : 3
+[2024-04-26 13:58:18.230124] UPDATE : thread : 3
+[2024-04-26 13:58:19.141589] UPDATE : thread : 4
+[2024-04-26 13:58:19.130176] UPDATE : thread : 4
+[2024-04-26 13:58:19.148541] UPDATE : thread : 4
+[2024-04-26 13:58:19.161565] UPDATE : thread : 4
+[2024-04-26 13:58:19.161565] UPDATE : thread : 4
+[2024-04-26 13:58:19.212426] UPDATE : thread : 4
+[2024-04-26 13:58:19.234830] UPDATE : thread : 4
+[2024-04-26 13:58:19.206569] UPDATE : thread : 4
+[2024-04-26 13:58:19.234830] UPDATE : thread : 4
+[2024-04-26 13:58:19.238838] UPDATE : thread : 4
+[2024-04-26 13:58:20.146347] UPDATE : thread : 5
+[2024-04-26 13:58:20.158318] UPDATE : thread : 5
+[2024-04-26 13:58:20.163304] UPDATE : thread : 5
+[2024-04-26 13:58:20.166296] UPDATE : thread : 5
+[2024-04-26 13:58:20.167295] UPDATE : thread : 5
+[2024-04-26 13:58:20.249977] UPDATE : thread : 5
+[2024-04-26 13:58:20.242096] UPDATE : thread : 5
+[2024-04-26 13:58:20.249977] UPDATE : thread : 5
+[2024-04-26 13:58:20.253975] UPDATE : thread : 5
+[2024-04-26 13:58:20.254964] UPDATE : thread : 5
+[2024-04-26 13:58:21.161158] UPDATE : thread : 6
+[2024-04-26 13:58:21.168954] UPDATE : thread : 6
+[2024-04-26 13:58:21.173812] UPDATE : thread : 6
+[2024-04-26 13:58:21.179932] UPDATE : thread : 6
+[2024-04-26 13:58:21.182920] UPDATE : thread : 6
+[2024-04-26 13:58:21.272906] UPDATE : thread : 6
+[2024-04-26 13:58:21.272906] UPDATE : thread : 6
+[2024-04-26 13:58:21.272906] UPDATE : thread : 6
+[2024-04-26 13:58:21.274899] UPDATE : thread : 6
+[2024-04-26 13:58:21.259932] UPDATE : thread : 6
+[2024-04-26 13:58:21.479868] UPDATE : []
+[2024-04-26 13:58:22.188410] UPDATE : thread : 7
+[2024-04-26 13:58:22.176268] UPDATE : thread : 7
+[2024-04-26 13:58:22.188410] UPDATE : thread : 7
+[2024-04-26 13:58:22.189421] UPDATE : thread : 7
+[2024-04-26 13:58:22.197407] UPDATE : thread : 7
+[2024-04-26 13:58:22.277474] UPDATE : thread : 7
+[2024-04-26 13:58:22.288216] UPDATE : thread : 7
+[2024-04-26 13:58:22.289375] UPDATE : thread : 7
+[2024-04-26 13:58:22.288216] UPDATE : thread : 7
+[2024-04-26 13:58:22.290184] UPDATE : thread : 7
+[2024-04-26 13:58:23.193275] UPDATE : thread : 8
+[2024-04-26 13:58:23.204949] UPDATE : thread : 8
+[2024-04-26 13:58:23.204949] UPDATE : thread : 8
+[2024-04-26 13:58:23.204949] UPDATE : thread : 8
+[2024-04-26 13:58:23.204949] UPDATE : thread : 8
+[2024-04-26 13:58:23.306000] UPDATE : thread : 8
+[2024-04-26 13:58:23.294379] UPDATE : thread : 8
+[2024-04-26 13:58:23.306000] UPDATE : thread : 8
+[2024-04-26 13:58:23.306000] UPDATE : thread : 8
+[2024-04-26 13:58:23.307011] UPDATE : thread : 8
+[2024-04-26 13:58:24.210307] UPDATE : thread : 9
+[2024-04-26 13:58:24.220470] UPDATE : thread : 9
+[2024-04-26 13:58:24.220470] UPDATE : thread : 9
+[2024-04-26 13:58:24.220470] UPDATE : thread : 9
+[2024-04-26 13:58:24.220470] UPDATE : thread : 9
+[2024-04-26 13:58:24.310271] UPDATE : thread : 9
+[2024-04-26 13:58:24.322112] UPDATE : thread : 9
+[2024-04-26 13:58:24.322112] UPDATE : thread : 9
+[2024-04-26 13:58:24.321141] UPDATE : thread : 9
+[2024-04-26 13:58:24.322112] UPDATE : thread : 9
+[2024-04-26 13:58:25.229862] UPDATE : thread : 10
+[2024-04-26 13:58:25.229862] UPDATE : thread : 10
+[2024-04-26 13:58:25.222957] UPDATE : thread : 10
+[2024-04-26 13:58:25.235821] UPDATE : thread : 10
+[2024-04-26 13:58:25.234847] UPDATE : thread : 10
+[2024-04-26 13:58:25.326399] UPDATE : thread : 10
+[2024-04-26 13:58:25.338412] UPDATE : thread : 10
+[2024-04-26 13:58:25.338412] UPDATE : thread : 10
+[2024-04-26 13:58:25.338412] UPDATE : thread : 10
+[2024-04-26 13:58:25.337743] UPDATE : thread : 10
+[2024-04-26 13:58:25.468805] UPDATE : [0]
+[2024-04-26 13:58:26.254994] UPDATE : thread : 11
+[2024-04-26 13:58:26.254994] UPDATE : thread : 11
+[2024-04-26 13:58:26.254023] UPDATE : thread : 11
+[2024-04-26 13:58:26.254994] UPDATE : thread : 11
+[2024-04-26 13:58:26.239321] UPDATE : thread : 11
+[2024-04-26 13:58:26.351337] UPDATE : thread : 11
+[2024-04-26 13:58:26.351227] UPDATE : thread : 11
+[2024-04-26 13:58:26.341457] UPDATE : thread : 11
+[2024-04-26 13:58:26.354192] UPDATE : thread : 11
+[2024-04-26 13:58:26.355219] UPDATE : thread : 11
+[2024-04-26 13:58:27.272400] UPDATE : thread : 12
+[2024-04-26 13:58:27.273425] UPDATE : thread : 12
+[2024-04-26 13:58:27.260811] UPDATE : thread : 12
+[2024-04-26 13:58:27.273425] UPDATE : thread : 12
+[2024-04-26 13:58:27.272400] UPDATE : thread : 12
+[2024-04-26 13:58:27.357337] UPDATE : thread : 12
+[2024-04-26 13:58:27.368703] UPDATE : thread : 12
+[2024-04-26 13:58:27.368703] UPDATE : thread : 12
+[2024-04-26 13:58:27.370428] UPDATE : thread : 12
+[2024-04-26 13:58:27.368703] UPDATE : thread : 12
+[2024-04-26 13:58:28.278084] UPDATE : thread : 13
+[2024-04-26 13:58:28.290333] UPDATE : thread : 13
+[2024-04-26 13:58:28.290333] UPDATE : thread : 13
+[2024-04-26 13:58:28.291302] UPDATE : thread : 13
+[2024-04-26 13:58:28.290333] UPDATE : thread : 13
+[2024-04-26 13:58:28.373235] UPDATE : thread : 13
+[2024-04-26 13:58:28.384229] UPDATE : thread : 13
+[2024-04-26 13:58:28.373235] UPDATE : thread : 13
+[2024-04-26 13:58:28.385202] UPDATE : thread : 13
+[2024-04-26 13:58:28.386199] UPDATE : thread : 13
+[2024-04-26 13:58:29.294409] UPDATE : thread : 14
+[2024-04-26 13:58:29.300781] UPDATE : thread : 14
+[2024-04-26 13:58:29.300781] UPDATE : thread : 14
+[2024-04-26 13:58:29.300684] UPDATE : thread : 14
+[2024-04-26 13:58:29.308630] UPDATE : thread : 14
+[2024-04-26 13:58:29.389473] UPDATE : thread : 14
+[2024-04-26 13:58:29.405444] UPDATE : thread : 14
+[2024-04-26 13:58:29.406441] UPDATE : thread : 14
+[2024-04-26 13:58:29.404899] UPDATE : thread : 14
+[2024-04-26 13:58:29.405444] UPDATE : thread : 14
+[2024-04-26 13:58:30.312157] UPDATE : thread : 15
+[2024-04-26 13:58:30.325293] UPDATE : thread : 15
+[2024-04-26 13:58:30.322325] UPDATE : thread : 15
+[2024-04-26 13:58:30.322325] UPDATE : thread : 15
+[2024-04-26 13:58:30.322325] UPDATE : thread : 15
+[2024-04-26 13:58:30.408231] UPDATE : thread : 15
+[2024-04-26 13:58:30.414681] UPDATE : thread : 15
+[2024-04-26 13:58:30.414681] UPDATE : thread : 15
+[2024-04-26 13:58:30.414681] UPDATE : thread : 15
+[2024-04-26 13:58:30.414681] UPDATE : thread : 15
+
+
+[2024-04-26 14:00:41.903416] New Pipo session opened on <built-in function gethostname>
+[2024-04-26 14:00:41.920364] UPDATE : Personnal settings opened
+[2024-04-26 14:00:43.931735] UPDATE : Project selected : TestProjectSchool
+[2024-04-26 14:00:43.933724] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-26 14:00:43.934698] UPDATE : Project settings loaded!
+[2024-04-26 14:00:44.685870] UPDATE : [0]
+[2024-04-26 14:00:44.687868] UPDATE : launch
+
+
+[2024-04-26 14:02:48.295788] New Pipo session opened on <built-in function gethostname>
+[2024-04-26 14:02:48.312735] UPDATE : Personnal settings opened
+[2024-04-26 14:02:49.923638] UPDATE : Project selected : TestProjectSchool
+[2024-04-26 14:02:49.925620] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-26 14:02:49.926617] UPDATE : Project settings loaded!
+[2024-04-26 14:02:50.934193] UPDATE : [0]
+[2024-04-26 14:02:50.936188] UPDATE : launch
+
+
+[2024-04-26 14:03:15.156840] New Pipo session opened on <built-in function gethostname>
+[2024-04-26 14:03:15.174818] UPDATE : Personnal settings opened
+[2024-04-26 14:03:17.589673] UPDATE : Project selected : TestProjectSchool
+[2024-04-26 14:03:17.591667] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-04-26 14:03:17.592665] UPDATE : Project settings loaded!
+[2024-04-26 14:03:18.517692] UPDATE : [0]
+[2024-04-26 14:03:18.519687] UPDATE : launch
+[2024-04-26 14:03:23.566689] UPDATE : []
+[2024-04-26 14:03:23.568681] UPDATE : launch

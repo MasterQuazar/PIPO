@@ -11,7 +11,7 @@ from textual import events
 from textual.containers import Horizontal, Vertical, Container, VerticalScroll
 from pyfiglet import Figlet 
 from time import sleep
-
+from random import randrange 
 from datetime import datetime
 
 import scandir
@@ -21,6 +21,11 @@ import multiprocessing
 
 
 
+
+
+class PipoSearchFilesApplication():
+	def test_function(self, text):
+		self.display_message_function("message is : %s"%text)
 
 
 
@@ -313,29 +318,42 @@ class PipoCommonApplication():
 													temporary_name_list.append(name)
 
 									
-
+			#check if the thread is still valid
+			if self.searching_event.is_set():
+				self.display_message_function("Main searching thread terminated")
+				return None
 
 			
 			#DEFINE THE CONTENT LIST FOR EACH DEFAULT FOLDER
+			"""
 			for default_folder, default_folder_values in default_folder_path_list.items():
 				#self.display_message_function(default_folder)
 				#create a new thread trying to get the content of each default folder
 			
 				searching_thread = threading.Thread(target=self.get_folder_content_function, args=(default_folder_values,), daemon=True)
 				searching_thread.start()
+			"""
+			self.thread_list = []
+			self.thread_number = 10
+			self.thread_count = 0
+
+			for i in range(self.thread_number):
+				x = threading.Thread(target=self.test_thread_function, args=(i, randrange(20,50),), daemon=True)
+				x.start()
+				self.display_message_function("thread %s started"%i)
+				self.thread_list.append(x)
 			
+
 			
 
+			"""
+			while True:
+				self.display_message_function("%s / %s"%(self.thread_count, self.thread_number))
+				sleep(1)
+			"""
 
 
-			self.display_message_function("done searching")
-
-
-
-
-
-
-
+		return
 		#self.display_message_function(default_folder_list)
 		#NEED TO CHANGE THE LIST IF THE KEY HAS CHANGED!!!
 		if (self.name_name_list != temporary_name_list) and (self.screen.kind_change_list != self.screen.name_kind_selection):
@@ -347,6 +365,19 @@ class PipoCommonApplication():
 
 			for i in range(len(temporary_name_list)):
 				self.screen.lobby_name_list.add_option(Selection(temporary_name_list[i],i)) 
+
+
+
+
+	def test_thread_function(self,i, duration):
+		for y in range(duration):
+
+			if self.searching_event.is_set():
+				break
+			self.display_message_function("thread : %s"%y)
+			sleep(1)
+		self.display_message_function("thread %s DONE!"%i)
+		self.thread_count += 1
 		
 
 
