@@ -30,7 +30,6 @@ colorama.init()
 
 from Modules.PipoCommon import PipoCommonApplication
 from Modules.PipoLog import PipoLogApplication
-from Modules.PipoCommon import PipoSearchFilesApplication
 
 
 
@@ -238,11 +237,9 @@ class PipoLobbyApplication(Screen, PipoCommonApplication, PipoLogApplication):
 			#check the value of the searching thread event status
 			#if the event is valid shut down the current thread!
 			
+			
 
-			searching_class = PipoSearchFilesApplication()
-			self.display_message_function("launch")
-			test_process = multiprocessing.Process(target=searching_class.test_function, args=("bonjour"))
-			test_process.start()
+
 			"""
 			if self.searching_thread == None:
 				self.searching_event = threading.Event()
