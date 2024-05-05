@@ -68621,3 +68621,83 @@ Unexisting path!
 [2024-05-06 00:05:57.256460] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes/lookdev/publish
 [2024-05-06 00:05:57.257457] UPDATE : PROCESS STARTED : <Process name='Process-15' parent=25684 initial>
 [2024-05-06 00:05:57.266434] UPDATE : PROCESS STARTED : <Process name='Process-16' parent=25684 initial>
+
+
+[2024-05-06 00:39:01.159426] New Pipo session opened on <built-in function gethostname>
+[2024-05-06 00:39:01.173389] UPDATE : Personnal settings opened
+[2024-05-06 00:39:04.081925] UPDATE : Project selected : testproject
+[2024-05-06 00:39:04.081925] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-05-06 00:39:04.082923] UPDATE : Project settings loaded!
+[2024-05-06 00:39:05.729689] UPDATE : ++++++++++++++++++++++++ SEARCHING ++++++++++++++++++++++++
+[2024-05-06 00:39:05.730686] UPDATE : ['character']
+[2024-05-06 00:39:05.730686] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-06 00:39:05.731683] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char
+[2024-05-06 00:39:05.732681] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char
+[2024-05-06 00:39:05.732681] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char
+[2024-05-06 00:39:05.732681] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char
+[2024-05-06 00:39:05.733678] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char
+[2024-05-06 00:39:05.733678] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char
+[2024-05-06 00:39:05.734675] UPDATE : PROCESS STARTED : <Process name='Process-1' parent=27340 initial>
+[2024-05-06 00:39:07.459189] UPDATE : ++++++++++++++++++++++++ SEARCHING ++++++++++++++++++++++++
+[2024-05-06 00:39:07.460187] UPDATE : ['character']
+[2024-05-06 00:39:07.460187] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-06 00:39:07.461184] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-05-06 00:39:07.461184] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-05-06 00:39:07.462181] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-05-06 00:39:07.462181] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-05-06 00:39:07.463179] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-05-06 00:39:07.463179] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-05-06 00:39:07.464176] UPDATE : PROCESS STARTED : <Process name='Process-2' parent=27340 initial>
+[2024-05-06 00:39:11.584801] UPDATE : ++++++++++++++++++++++++ SEARCHING ++++++++++++++++++++++++
+[2024-05-06 00:39:11.584801] UPDATE : ['character']
+[2024-05-06 00:39:11.585798] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-06 00:39:11.586796] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes/lookdev/edit
+[2024-05-06 00:39:11.586796] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes/lookdev/publish
+[2024-05-06 00:39:11.587793] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes/lookdev/edit
+[2024-05-06 00:39:11.587793] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes/lookdev/publish
+[2024-05-06 00:39:11.588790] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes/lookdev/edit
+[2024-05-06 00:39:11.588790] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes/lookdev/publish
+[2024-05-06 00:39:11.588790] UPDATE : PROCESS STARTED : <Process name='Process-3' parent=27340 initial>
+[2024-05-06 00:39:11.598792] UPDATE : PROCESS STARTED : <Process name='Process-4' parent=27340 initial>
+[2024-05-06 00:39:25.841881] UPDATE : ++++++++++++++++++++++++ SEARCHING ++++++++++++++++++++++++
+[2024-05-06 00:39:25.841881] UPDATE : ['character']
+[2024-05-06 00:39:25.842878] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-06 00:39:25.843876] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-05-06 00:39:25.843876] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-05-06 00:39:25.844873] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-05-06 00:39:25.844873] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-05-06 00:39:25.845870] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-05-06 00:39:25.845870] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-05-06 00:39:25.845870] UPDATE : PROCESS STARTED : <Process name='Process-5' parent=27340 initial>
+[2024-05-06 00:39:26.249998] UPDATE : ++++++++++++++++++++++++ SEARCHING ++++++++++++++++++++++++
+[2024-05-06 00:39:26.249998] UPDATE : ['character']
+[2024-05-06 00:39:26.250995] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-06 00:39:26.250995] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes/lookdev/edit
+[2024-05-06 00:39:26.251993] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes/lookdev/publish
+[2024-05-06 00:39:26.251993] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes/lookdev/edit
+[2024-05-06 00:39:26.252991] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes/lookdev/publish
+[2024-05-06 00:39:26.252991] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes/lookdev/edit
+[2024-05-06 00:39:26.253987] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes/lookdev/publish
+[2024-05-06 00:39:26.253987] UPDATE : PROCESS STARTED : <Process name='Process-6' parent=27340 initial>
+[2024-05-06 00:39:26.263969] UPDATE : PROCESS STARTED : <Process name='Process-7' parent=27340 initial>
+[2024-05-06 00:39:42.763907] UPDATE : ++++++++++++++++++++++++ SEARCHING ++++++++++++++++++++++++
+[2024-05-06 00:39:42.764905] UPDATE : ['character']
+[2024-05-06 00:39:42.764905] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-06 00:39:42.765902] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-05-06 00:39:42.766900] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-05-06 00:39:42.766900] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-05-06 00:39:42.766900] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-05-06 00:39:42.767897] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-05-06 00:39:42.767897] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-05-06 00:39:42.768894] UPDATE : PROCESS STARTED : <Process name='Process-8' parent=27340 initial>
+[2024-05-06 00:39:43.909992] UPDATE : ++++++++++++++++++++++++ SEARCHING ++++++++++++++++++++++++
+[2024-05-06 00:39:43.910989] UPDATE : ['character']
+[2024-05-06 00:39:43.910989] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-06 00:39:43.912052] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes/lookdev/edit
+[2024-05-06 00:39:43.912052] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes/lookdev/publish
+[2024-05-06 00:39:43.912984] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes/lookdev/edit
+[2024-05-06 00:39:43.912984] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes/lookdev/publish
+[2024-05-06 00:39:43.913981] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes/lookdev/edit
+[2024-05-06 00:39:43.913981] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes/lookdev/publish
+[2024-05-06 00:39:43.914978] UPDATE : PROCESS STARTED : <Process name='Process-9' parent=27340 initial>
+[2024-05-06 00:39:43.924951] UPDATE : PROCESS STARTED : <Process name='Process-10' parent=27340 initial>

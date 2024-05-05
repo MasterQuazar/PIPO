@@ -10,6 +10,8 @@ class PipoSearchingApplication:
 
 
 	def get_folder_function(self, folder_name, folder_data, project_settings):
-		print(folder_name)
-		for key, value in folder_data.items():
-			print(key, value)
+		print("FILES FOUND")
+		for root, dirs, files in scandir.walk(folder_name):
+			for file in files:
+				print(file)
+
