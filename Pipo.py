@@ -14,6 +14,7 @@ from textual import on
 import multiprocessing
 import threading 
 import socket
+import aioprocessing
 
 import psutil
 import os 
@@ -101,11 +102,12 @@ class PipoLobbyApplication(Screen, PipoCommonApplication, PipoLogApplication):
 				#with Vertical(classes="container_t2"):
 				with Horizontal(classes="lobby_list_container"):
 					with Vertical(classes="container_t2"):
-						yield Label("Category")
+						
 
 						#self.lobby_kind_list = OptionList(id="lobby_kind_list", classes="optionlist_t1")
 						#yield self.lobby_kind_list
 						self.lobby_kind_list = SelectionList[int](id="lobby_kind_list")
+						self.lobby_kind_list.border_title = "Category"
 						yield self.lobby_kind_list
 
 						"""
@@ -125,24 +127,27 @@ class PipoLobbyApplication(Screen, PipoCommonApplication, PipoLogApplication):
 							with TabPane("Shots"):
 								with Horizontal(classes="container_t2"):
 									with Vertical(classes="container_t2"):
-										yield Label("Sequence")
+
 										self.lobby_sequence_list = SelectionList(id="lobby_sequence_list", classes="optionlist_t1")
+										self.lobby_sequence_list.border_title = "Sequence list"
 										yield self.lobby_sequence_list
 									with Vertical(classes="container_t2"):
-										yield Label("Shots")
 										self.lobby_shot_list = SelectionList(id="lobby_shot_list", classes="optionlist_t1")
+										self.lobby_shot_list.border_title = "Shot list"
 										yield self.lobby_shot_list
 
 					with Vertical(classes="container_t2"):
-						yield Label("Type")
+						
 
 						self.lobby_type_list = SelectionList(id="lobby_type_list", classes="optionlist_t1")
+						self.lobby_type_list.border_title = "Type"
 						yield self.lobby_type_list
 
 
 				with Vertical(classes="lobby_bottom_container"):
-					yield Label("Found files")
-					self.lobby_file_list = SelectionList(classes="lobby_file_list")
+					
+					self.lobby_file_list = SelectionList(classes="selectionlist_t1", id="lobby_file_list")
+					self.lobby_file_list.border_title = "Found files"
 					yield self.lobby_file_list
 
 
@@ -223,26 +228,30 @@ class PipoLobbyApplication(Screen, PipoCommonApplication, PipoLogApplication):
 		if event.selection_list.id in ["lobby_name_list", "lobby_type_list", "lobby_sequence_list", "lobby_shots_list", "lobby_kind_list"]:
 			#get value of the selection
 			#for each list
-			kind_selection = self.query_one("#lobby_kind_list").selected
-			type_selection = self.query_one("#lobby_type_list").selected 
-			name_selection = self.query_one("#lobby_name_list").selected
-			shot_selection = self.query_one("#lobby_shot_list").selected
-			sequence_selection = self.query_one("#lobby_sequence_list").selected
+			self.kind_selection = self.query_one("#lobby_kind_list").selected
+			self.type_selection = self.query_one("#lobby_type_list").selected 
+			self.name_selection = self.query_one("#lobby_name_list").selected
+			self.shot_selection = self.query_one("#lobby_shot_list").selected
+			self.sequence_selection = self.query_one("#lobby_sequence_list").selected
 			#self.display_message_function(str(kind_selection))
 			#self.display_message_function(str(type_selection))
 			#self.display_message_function(str(name_selection))
 
-			self.display_message_function(kind_selection)
+			#self.display_message_function(kind_selection)
 
 			#self.name_kind_selection = []
 			#check the value of the searching thread event status
 			#if the event is valid shut down the current thread!
 			
 
+			self.search_files_function()			
+			"""
 			searching_class = PipoSearchFilesApplication()
 			self.display_message_function("launch")
-			test_process = multiprocessing.Process(target=searching_class.test_function, args=("bonjour"))
+			test_process = multiprocessing.Process(target=searching_class.test_function, args=())
 			test_process.start()
+			"""
+
 			"""
 			if self.searching_thread == None:
 				self.searching_event = threading.Event()
@@ -477,9 +486,10 @@ class PipoLoginApplication(App, PipoCommonApplication, PipoLogApplication):
 
 				with Vertical(classes="container_t3"):
 					with Vertical(classes="container_t4"):
-						yield Label(self.font_subtitle.renderText("PROJECT LIST"), classes="label_t1")
+						#yield Label(self.font_subtitle.renderText("PROJECT LIST"), classes="label_t1")
 
 						self.login_project_list = OptionList(classes="login_projectlist", id="login_projectlist")
+						self.login_project_list.border_title = "PROJECT LIST"
 						#self.login_project_list = ListView(classes="login_projectlist", id="login_projectlist")
 						yield self.login_project_list
 

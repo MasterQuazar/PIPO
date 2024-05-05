@@ -42,10 +42,7 @@ OptionList {
 }
 
 
-.container_t4 {
-	border: double white;
-	height:20%;
-}
+
 
 
 .container_t5 {
@@ -62,16 +59,12 @@ OptionList {
 
 .login_projectlist {
 	height: 50%;
+	border: heavy white;
+
 }
 
-.button_t1 {
-	background: $panel-darken-2;
 
-	border: double #FFA364;
-}
-.button_t1:hover {
-	background: #FFA364;
-}
+
 
 .list_label {
 	color: white;

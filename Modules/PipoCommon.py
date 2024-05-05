@@ -19,13 +19,12 @@ import threading
 import multiprocessing
 
 
-
-
+from Modules.PipoResearch import PipoSearchingApplication
 
 
 class PipoSearchFilesApplication():
-	def test_function(self, text):
-		self.display_message_function("message is : %s"%text)
+	def test_function(self):
+		self.notify("hello world", timeout=5)
 
 
 
@@ -262,337 +261,150 @@ class PipoCommonApplication():
 
 
 
-
-
-
-
-
 	def search_files_function(self):
-		self.display_message_function("####################################################")
-		self.display_message_function("Searching...")
-		self.display_message_function("####################################################")
-		
-		if len(self.screen.name_type_selection) == 0:
-			self.screen.name_type_selection = [None]
-		if len(self.screen.name_name_selection) == 0:
-			self.screen.name_name_selection = [None]
-		
-		#self.display_message_function(self.screen.name_name_selection)
-		#self.display_message_function(self.screen.name_type_selection)
-		temporary_name_list = []
+		self.display_message_function("++++++++++++++++++++++++ SEARCHING ++++++++++++++++++++++++")
+		"""
+		for the kind selected get data in current project settings
+		"""
+		default_folder_list = []
+		new_name_list_content = []
 
-		
+		searching_folder_data = {}
 
+		self.display_message_function(self.name_kind_selection)
+		for kind in self.name_kind_selection:
 			
+			try:
+				kind_data = self.app.current_project_settings["Scenes"][kind]
+			except:
+				self.display_error_function("Impossible to get data from kind : %s"%kind)
+				continue 
+			else:
+				#self.display_message_function("hello world!")
+				#define the name list for that kind and add it to the new content
+				#get the default folder from kind and remove after [name] IF NAME
+				kind_default_folder_list = kind_data["folder"]
+
+				for kind_default_folder in kind_default_folder_list:
+					self.display_message_function("Default folder for %s : %s"%(kind, kind_default_folder))
+
+
+					#GET THE NAME LIST
+					if "[name]" in kind_default_folder.split("/"):
+						index = kind_default_folder.split("/").index("[name]")
+						new_list = kind_default_folder.split("/")[:index]
+
+						name_folder_path = self.get_path_from_default_folder_function(kind, "/".join(new_list))
+						if os.path.isdir(name_folder_path)==True:
+							name_folder_list = os.listdir(name_folder_path)
+							for name_folder in name_folder_list:
+								if os.path.isdir(os.path.join(name_folder_path, name_folder))==True:
+									new_name_list_content.append(name_folder)
+						else:
+							self.display_error_function("Impossible to get name folder for that kind : %s"%kind)
 
-		#DEFINE THE DEFAULT FOLDER PATH WITH CURRENT PROJECT SETTINGS FOR EACH TYPE SELECTED
-		if len(self.screen.name_kind_selection) != 0:
-
-			default_folder_list = []
-			default_folder_path_list = {}
-			
-			#self.display_message_function
-		
-			for kind in self.screen.name_kind_selection:
-				default_folder_list = self.app.current_project_settings["Scenes"][kind]["folder"]
-
-				for default_folder in default_folder_list:
-					for status in self.app.current_project_settings["Global"]["stateList"]:
-						#self.get_default_folder_path_function(default_folder, kind)
-						for n in self.screen.name_name_selection:
-							for t in self.screen.name_type_selection:
-								for s in self.app.current_project_settings["Global"]["stateList"]:
-									for l in self.app.current_project_settings["Global"]["lodList"]:
-										#self.display_message_function(status)
-										
-										default_folder_data = self.get_default_folder_path_function(default_folder, kind, n, s, l, t,)
-										#self.display_message_function(default_folder_data[0]["path"])
-										#from default folder function
-										# 1 - data dictionnary
-										# 2 - name list ?
-										if (os.path.isdir(default_folder_data[0]["path"])==True) and (default_folder_data[0]["path"] not in default_folder_path_list):
-											default_folder_path_list[default_folder_data[0]["path"]] = default_folder_data[0]
-
-											for name in default_folder_data[1]:
-												if name not in temporary_name_list:
-													temporary_name_list.append(name)
-
-									
-			#check if the thread is still valid
-			if self.searching_event.is_set():
-				self.display_message_function("Main searching thread terminated")
-				return None
-
-			
-			#DEFINE THE CONTENT LIST FOR EACH DEFAULT FOLDER
-			"""
-			for default_folder, default_folder_values in default_folder_path_list.items():
-				#self.display_message_function(default_folder)
-				#create a new thread trying to get the content of each default folder
-			
-				searching_thread = threading.Thread(target=self.get_folder_content_function, args=(default_folder_values,), daemon=True)
-				searching_thread.start()
-			"""
-			self.thread_list = []
-			self.thread_number = 10
-			self.thread_count = 0
-
-			for i in range(self.thread_number):
-				x = threading.Thread(target=self.test_thread_function, args=(i, randrange(20,50),), daemon=True)
-				x.start()
-				self.display_message_function("thread %s started"%i)
-				self.thread_list.append(x)
-			
-
-			
-
-			"""
-			while True:
-				self.display_message_function("%s / %s"%(self.thread_count, self.thread_number))
-				sleep(1)
-			"""
-
-
-		return
-		#self.display_message_function(default_folder_list)
-		#NEED TO CHANGE THE LIST IF THE KEY HAS CHANGED!!!
-		if (self.name_name_list != temporary_name_list) and (self.screen.kind_change_list != self.screen.name_kind_selection):
-			self.name_name_list = temporary_name_list
-			self.name_name_selection = []	
-
-			self.screen.kind_change_list = copy.copy(self.screen.name_kind_selection)
-			self.screen.lobby_name_list.clear_options()
-
-			for i in range(len(temporary_name_list)):
-				self.screen.lobby_name_list.add_option(Selection(temporary_name_list[i],i)) 
-
-
-
-
-	def test_thread_function(self,i, duration):
-		for y in range(duration):
-
-			if self.searching_event.is_set():
-				break
-			self.display_message_function("thread : %s"%y)
-			sleep(1)
-		self.display_message_function("thread %s DONE!"%i)
-		self.thread_count += 1
-		
-
-
-
-
-	def get_folder_content_function(self, folder_data):
-		self.display_message_function("Searching folder content : %s"%folder_data["path"])
-
-		kind = folder_data["kind"]
-
-		nomenclature = self.app.current_project_settings["Scenes"][kind]["syntax"]
-		splited_nomenclature = nomenclature.split("_")
-
-		keyword = self.app.current_project_settings["Scenes"][kind]["keyword"]
-		type_list = self.app.current_project_settings["Scenes"][kind]["type"]
-
-
-		final_folder_content_list = []
-
-
-		for root, dirs, files in scandir.walk(folder_data["path"]):
-			for f in files:
-				filepath = os.path.join(root,f)
-				filename, extension = os.path.splitext(f)
-				splited_filename = filename.split("_")
-
-				if (extension in self.app.current_project_settings["Global"]["3dScenesExtension"]) or (extension in self.app.current_project_settings["Global"]["3dItemsExtension"]):
-
-					#self.display_message_function("%s - %s"%(splited_filename, splited_nomenclature))
-					if len(splited_filename) == len(splited_nomenclature):
-						self.display_message_function("checking file : %s"%f)
-						parsing_error = False 
-
-						for i in range(len(splited_filename)):
-
-
-							self.display_message_function(splited_filename[i])
-							
-							#self.display_message_function("checking %s"%splited_filename[i])
-							if splited_nomenclature[i] == "[key]":
-								if splited_filename[i] != self.app.current_project_settings["Scenes"][kind]["keyword"]:
-									self.display_message_function("kind error")
-									parsing_error=True
-									break
-
-							elif splited_nomenclature[i] == "[type]":
-								if splited_filename[i] not in type_list:
-									parsing_error=True 
-									self.display_message_function("type error")
-									break
-							elif splited_nomenclature[i] == "[lod]":
-								if splited_filename[i] not in self.app.current_project_settings["Global"]["lodList"]:
-									parsing_error=True 
-									self.display_message_function("lod error")
-									break
-
-							#for sh and sq version check prefix and number version
-							elif splited_nomenclature[i] in ["[sqversion]", "[shversion]"]:
-								if splited_nomenclature[i] == "[sqversion]":
-									splited_content = splited_filename[i].split("sq")
-									type_keyword = "sq"
-								
-								else:
-									splited_content = splited_filename[i].split("sh")
-									type_keyword = "sh"
-
-								if (len(splited_seq) != 2) or (splited_seq[0] != "") or (splited_seq[1].isdigit() == False):
-									parsing_error=True
-
-									self.display_message_function("sq sh version error")
-									break
-
-
-							elif splited_nomenclature[i] == "[name]":
-								continue 
-
-							elif splited_nomenclature[i] == "[version]":
-								splited_content = splited_filename[i].split("v")
-
-								if (len(splited_content) != 2) or (splited_content[0] != "") or (splited_content[1].isdigit()==False):
-									parsing_error=True 
-									self.display_message_function("version error")
-									break
-
-
-							else:
-								if splited_nomenclature[i] != splited_filename[i]:
-									self.display_message_function("not matching informations in nomenclature")
-									parsing_error=True
-									break
-
-
-
-
-
-
-							"""
-							elif splited_nomenclature[i] == "[version]":
-								splited_content = splited_filename.split("v")
-
-								if (len(splited_content) != 2) or (splited_content[0] != "") or (splited_content[1].isdigit()==False):
-									parsing_error=True 
-									self.display_message_function("version error")
-
-
-							
-							"""
-						if parsing_error == False:
-							final_folder_content_list.append(os.path.join(root, f))
-
-
-
-
-
-							
-
-
-
-
-
-
-	def get_default_folder_path_function(self, default_folder = None, k=None, n=None, s=None, l=None, t=None):
-		folder_dictionnary_data = {}
-
-		splited_default_folder = default_folder.split("/")
-		final_default_folder = []
-		folder_name_list = []
-		#change_name = True
-
-		#self.display_message_function("Searching default folder path")
-
-		for item in splited_default_folder:
-			if item == "[Origin]":
-				final_default_folder.append(self.app.project_path)
-			elif item == "[key]":
-				final_default_folder.append(self.app.current_project_settings["Scenes"][k]["keyword"])
-				folder_dictionnary_data["kind"] = k
-
-
-
-
-			elif item == "[name]":
-				if n == None:
-					#get the current path
-					#check if the path exists
-					#get the list of folder name inside of that path
-					name_folder_path = "/".join(final_default_folder)
-					#self.display_message_function("NAME FOLDER : %s"%name_folder_path)
-					#self.display_message_function(os.path.isdir(name_folder_path))
-					try:
-						name_folder_content = os.listdir(name_folder_path)
-					except:
-						#self.display_error_function("Impossible to get the name list in folder")
-						break
 					else:
-						for item in name_folder_content:
-							if os.path.isdir(os.path.join(name_folder_path, item)) == True:
-								folder_name_list.append(item)
+						new_name_list_content = [None]
+					
 
-					break
-				else:
-					folder_dictionnary_data["name"] = n
-					#self.display_message_function("name added : %s"%n)
-					final_default_folder.append(n)
+					#if name, type, state, or lod list are empty fill values with str(None)
+					if len(self.name_name_selection) == 0:
+						self.name_name_selection = [None]
+					if len(self.name_type_selection) == 0:
+						self.name_type_selection = [None]
 
-			elif item == "[type]":
-				if t == None:
-					break
-				else:
-					folder_dictionnary_data["type"] = t
-					final_default_folder.append(t)
+					#FOR EACH NAME TRY TO GET THE END OF THE PATH
+					for name_selected in self.name_name_selection:
+						#self.display_message_function("searching folder for %s"%name_selected)
+						
+						#FOR EACH TYPE TRY TO GET THE END OF THE PATH
+						for type_selected in self.name_type_selection:
+							state_list = self.app.current_project_settings["Global"]["stateList"] if self.app.current_project_settings["Global"]["stateList"] != [] else [None]
+							lod_list = self.app.current_project_settings["Global"]["lodList"] if self.app.current_project_settings["Global"]["lodList"] != [] else [None]
 
-			elif item == "[lod]":
-				if l == None:
-					break
-				else:
-					folder_dictionnary_data["lod"] = l
-					final_default_folder.append(l)
 
-			elif item == "[state]":
-				if s == None:
-					break
-				else:
-					folder_dictionnary_data["state"] = s
-					final_default_folder.append(s)
+							for lod in lod_list:
+								for state in state_list:
+									#self.display_message_function(name_selected)
+									searching_path = self.get_path_from_default_folder_function(kind, kind_default_folder, name_selected, None, None, type_selected, state, lod)
+									self.display_message_function("Searching path %s : %s"%(os.path.isdir(searching_path), searching_path))
+									#if the folder exists add it to the searching queue data
+									if (os.path.isdir(searching_path) == True) and (searching_path not in searching_folder_data):
+											searching_folder_data[searching_path] = {
+												"KIND":kind,
+												"NAME":name_selected,
+												"TYPE":type_selected,
+												"LOD":lod,
+												"STATE":state
+											}
 
-			elif item == "[mayaProject]":
-				final_default_folder.append(self.app.current_project_settings["Global"]["mayaFolder"])
+
+		#LAUNCH MULTIPROCESSING
+		self.searching_app = PipoSearchingApplication()
+
+		searching_process_list = []
+		for folder_name, folder_data in searching_folder_data.items():
+			process = multiprocessing.Process(target=self.searching_app.get_folder_function, args=(folder_name, folder_data, self.app.current_project_settings,))
+			self.display_message_function("PROCESS STARTED : %s"%process)
+			process.start()
+			searching_process_list.append(process)
+
+		#check if the name list is different than the previous one
+		#if yes replace the name list in lists
+		if self.name_name_list != new_name_list_content:
+			self.name_name_list = new_name_list_content
+			self.lobby_name_list.clear_options()
+
+			for i in range(len(self.name_name_list)):
+				self.lobby_name_list.add_option(Selection(self.name_name_list[i], i))
+		#self.display_message_function(new_name_list_content)
+
+
+
+
+
+
+
+	def get_path_from_default_folder_function(self, kind=None, default_path=None, name_selection=None, shot_selection=None, sequence_selection=None, type_selection=None, state=None, lod=None):
+		path = default_path.split("/")
+
+		#self.display_message_function("GET FOLDER FOR %s / %s: %s"%(kind, name_selection, default_path))
+		for i in range(len(path)):
+			if path[i] == "[Origin]":
+				path[i] = self.app.project_path
+			elif path[i] == "[key]":
+				path[i] = self.app.current_project_settings["Scenes"][kind]["keyword"]
+			elif path[i] == "[mayaProject]":
+				path[i] = self.app.current_project_settings["Global"]["mayaFolder"]
+			elif path[i] == "[type]":
+				path[i] =(type_selection)
+			elif path[i] == "[state]":
+				path[i] = (state)
+			elif path[i] == "[lod]":
+				path[i] = (lod)
+			elif path[i] == "[name]":
+				path[i] = (name_selection)
 
 			else:
-				final_default_folder.append(item)
-
-
-			if os.path.isdir("/".join(final_default_folder))==False:
-				#if the folder isn't existing anymore
-				#remove the last folder of the path 
-				#so the path is true
-				del final_default_folder[-1]
-				break
-
-		folder_dictionnary_data["path"] = "/".join(final_default_folder)
-		return [folder_dictionnary_data, folder_name_list]
+				pass
 
 		
 
 
+		#try to find None values in the list
+		#if there is delete all values after the first None value
+		if None in path:
+			none_index = path.index(None)
+			path = path[:none_index]
+			#self.display_message_function(path)
+		return "/".join(path)
+		#self.display_message_function("%s : %s"%(os.path.isdir(final_path), final_path))
 
 
 
 
 
-	def get_shared_values(*data):
-		if not data:
-			return []
-		intersection = set(data[0])
-		for item in data[1:]:
-			intersection = intersection.intersection(set(item))
-		return list(intersection)
+							
+
+
+
