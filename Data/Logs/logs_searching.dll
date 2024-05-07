@@ -1,0 +1,53 @@
+char_lucas_mod_v001.ma
+char_lucas_mod_v002.ma
+char_lucastest_rig_publish.ma
+char_lucastest_rig_v001.ma
+char_lucastest_rig_v002.ma
+char_lucastest_rig_publish.ma
+char_lucastest_rig_publish.ma
+char_max_bonjour_v004.ma
+char_max_rig_v003.ma
+char_lucas_mod_v001.ma
+char_lucas_mod_v002.ma
+char_lucastest_rig_publish.ma
+char_lucastest_rig_v001.ma
+char_lucastest_rig_v002.ma
+char_lucastest_rig_publish.ma
+char_max_bonjour_v004.ma
+char_max_rig_v003.ma
+char_lucas_mod_v001.ma
+char_lucas_mod_v002.ma
+char_lucastest_rig_publish.ma
+char_lucastest_rig_v001.ma
+char_lucastest_rig_v002.ma
+char_lucastest_rig_publish.ma
+char_max_bonjour_v004.ma
+char_max_rig_v003.ma
+char_lucastest_rig_publish.ma
+char_lucastest_rig_publish.ma
+char_matteotestlook_lookdev_v002.ma
+char_matteo_lookdev_v001.ma
+char_matteotestlook_lookdev_publish.ma
+['char', 'lucas', 'mod', 'v001'] ; ['[key]', '[name]', '[type]', '[version]']
+['char', 'matteotestlook', 'lookdev', 'v002'] ; ['[key]', '[name]', '[type]', '[version]']
+['char', 'lucas', 'mod', 'v002'] ; ['[key]', '[name]', '[type]', '[version]']
+['char', 'matteo', 'lookdev', 'v001'] ; ['[key]', '[name]', '[type]', '[version]']
+['char', 'matteotestlook', 'lookdev', 'publish'] ; ['[key]', '[name]', '[type]', '[version]']
+['char', 'lucastest', 'rig', 'publish'] ; ['[key]', '[name]', '[type]', '[version]']
+['char', 'lucastest', 'rig', 'v001'] ; ['[key]', '[name]', '[type]', '[version]']
+['char', 'lucastest', 'rig', 'v002'] ; ['[key]', '[name]', '[type]', '[version]']
+['char', 'lucastest', 'rig', 'publish'] ; ['[key]', '[name]', '[type]', '[version]']
+['char', 'max', 'bonjour', 'v004'] ; ['[key]', '[name]', '[type]', '[version]']
+['char', 'max', 'rig', 'v003'] ; ['[key]', '[name]', '[type]', '[version]']
+['char', 'lucas', 'mod', 'v001'] ; ['[key]', '[name]', '[type]', '[version]']
+['char', 'lucas', 'mod', 'v002'] ; ['[key]', '[name]', '[type]', '[version]']
+['char', 'lucastest', 'rig', 'publish'] ; ['[key]', '[name]', '[type]', '[version]']
+['char', 'lucastest', 'rig', 'v001'] ; ['[key]', '[name]', '[type]', '[version]']
+['char', 'lucastest', 'rig', 'v002'] ; ['[key]', '[name]', '[type]', '[version]']
+['char', 'lucastest', 'rig', 'publish'] ; ['[key]', '[name]', '[type]', '[version]']
+['char', 'matteotestlook', 'lookdev', 'v002'] ; ['[key]', '[name]', '[type]', '[version]']
+['char', 'matteo', 'lookdev', 'v001'] ; ['[key]', '[name]', '[type]', '[version]']
+['char', 'matteotestlook', 'lookdev', 'publish'] ; ['[key]', '[name]', '[type]', '[version]']
+['char', 'Robin', 'mod', 'v001'] ; ['[key]', '[name]', '[type]', '[version]']
+['char', 'max', 'bonjour', 'v004'] ; ['[key]', '[name]', '[type]', '[version]']
+['char', 'max', 'rig', 'v003'] ; ['[key]', '[name]', '[type]', '[version]']

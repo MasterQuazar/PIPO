@@ -71,6 +71,8 @@ class PipoLobbyApplication(Screen, PipoCommonApplication, PipoLogApplication):
 
 		self.searching_thread = None
 
+		self.searching_process_list = []
+
 		
 		#self.kind_list = app.current_project_settings["Scenes"].keys()
 
@@ -94,10 +96,7 @@ class PipoLobbyApplication(Screen, PipoCommonApplication, PipoLogApplication):
 		"""
 		with Horizontal(classes="lobby_main_container"):
 			with VerticalScroll(classes="lobby_left_column"):
-				yield Button("Hello world", classes="button_t1")
-				yield Button("Hello world", classes="button_t1")
-				yield Button("Hello world", classes="button_t1")
-
+				yield Static("hello world!")
 			with VerticalScroll(classes="lobby_center_column"):
 				#with Vertical(classes="container_t2"):
 				with Horizontal(classes="lobby_list_container"):
@@ -237,47 +236,7 @@ class PipoLobbyApplication(Screen, PipoCommonApplication, PipoLogApplication):
 			#self.display_message_function(str(type_selection))
 			#self.display_message_function(str(name_selection))
 
-			#self.display_message_function(kind_selection)
-
-			#self.name_kind_selection = []
-			#check the value of the searching thread event status
-			#if the event is valid shut down the current thread!
-			
-
 			self.search_files_function()			
-			"""
-			searching_class = PipoSearchFilesApplication()
-			self.display_message_function("launch")
-			test_process = multiprocessing.Process(target=searching_class.test_function, args=())
-			test_process.start()
-			"""
-
-			"""
-			if self.searching_thread == None:
-				self.searching_event = threading.Event()
-				self.searching_thread = threading.Thread(target=self.test_process_function,daemon=True, args=())
-			
-				self.searching_thread.start()
-
-			else:
-				if self.searching_thread.is_alive():
-					#make the thread crash to launch a new one
-					self.searching_event.set()
-			"""
-			"""
-			
-			self.display_message_function("event : %s"%searching_event.is_set())
-			self.search_thread = threading.Thread(target=self.test_process_function, args=(searching_event,))
-
-			self.display_message_function("alive : %s"%self.search_thread.is_alive())
-			if self.search_thread.is_alive():
-				self.display_message_function("alive : %s"%self.search_thread.is_alive())
-				#kill thread
-				searching_event.set()
-			self.search_thread.start()
-			"""
-
-			
 
 
 				
@@ -363,7 +322,7 @@ class PipoLobbyApplication(Screen, PipoCommonApplication, PipoLogApplication):
 
 
 
-
+	
 
 
 

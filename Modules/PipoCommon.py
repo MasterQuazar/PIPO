@@ -30,16 +30,6 @@ class PipoSearchFilesApplication():
 
 
 class PipoCommonApplication():
-	
-	"""
-	def __init__(self):
-		super().__init__()
-
-		self.program_path = os.getcwd()
-		self.program_log = []
-		self.program_log_copy = []
-	"""
-		#self.current_project_settings = {}
 		
 
 
@@ -262,7 +252,17 @@ class PipoCommonApplication():
 
 
 	def search_files_function(self):
-		self.display_message_function("++++++++++++++++++++++++ SEARCHING ++++++++++++++++++++++++")
+		self.display_message_function("")
+		self.display_message_function("============================================= SEARCHING =============================================")
+
+
+		#TRY TO TERMINATE PREVIOUS PROCESSES
+		if len(self.screen.searching_process_list) != 0:
+			for process in self.screen.searching_process_list:
+				process.terminate()
+				self.display_message_function("PROCESS TERMINATED : %s"%process)
+		else:
+			self.display_message_function("NO PROCESS TO END!")
 		"""
 		for the kind selected get data in current project settings
 		"""
@@ -338,17 +338,34 @@ class PipoCommonApplication():
 												"STATE":state
 											}
 
-
+		
 		#LAUNCH MULTIPROCESSING
 		self.searching_app = PipoSearchingApplication()
+		
 
-		searching_process_list = []
-		for folder_name, folder_data in searching_folder_data.items():
-			process = multiprocessing.Process(target=self.searching_app.get_folder_function, args=(folder_name, folder_data, self.app.current_project_settings,))
-			self.display_message_function("PROCESS STARTED : %s"%process)
-			process.start()
-			searching_process_list.append(process)
+		self.display_message_function(self.name_name_selection)
+		if ( len(self.name_name_selection) != 0) and (self.name_name_selection != [None]):
 
+
+
+			for folder_name, folder_data in searching_folder_data.items():
+
+
+				process = multiprocessing.Process(target=self.searching_app.get_folder_function, args=(folder_name, folder_data, self.app.current_project_settings,))
+				#self.display_message_function("PROCESS STARTED : %s"%process)
+				process.start()
+				#add new processes to process list
+				self.screen.searching_process_list.append(process)
+				self.display_message_function("PROCESS %s ADDED TO LIST : [%s]"%(process, folder_name))
+		else:
+			self.display_message_function("No name selected so no process launched!")
+
+
+
+		
+
+		self.display_message_function("%s : %s"%(self.name_name_list, new_name_list_content))
+		#return
 		#check if the name list is different than the previous one
 		#if yes replace the name list in lists
 		if self.name_name_list != new_name_list_content:
@@ -356,7 +373,8 @@ class PipoCommonApplication():
 			self.lobby_name_list.clear_options()
 
 			for i in range(len(self.name_name_list)):
-				self.lobby_name_list.add_option(Selection(self.name_name_list[i], i))
+				if self.name_name_list[i] != None:
+					self.lobby_name_list.add_option(Selection(str(self.name_name_list[i]), i))
 		#self.display_message_function(new_name_list_content)
 
 
