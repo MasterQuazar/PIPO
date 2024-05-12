@@ -344,6 +344,11 @@ class PipoCommonApplication():
 		
 
 		self.display_message_function(self.name_name_selection)
+
+
+		
+
+
 		if ( len(self.name_name_selection) != 0) and (self.name_name_selection != [None]):
 
 
@@ -351,7 +356,7 @@ class PipoCommonApplication():
 			for folder_name, folder_data in searching_folder_data.items():
 
 
-				process = multiprocessing.Process(target=self.searching_app.get_folder_function, args=(folder_name, folder_data, self.app.current_project_settings,))
+				process = multiprocessing.Process(target=self.searching_app.get_folder_function, args=(self.screen.final_files_dictionnary, folder_name, folder_data, self.app.current_project_settings,))
 				#self.display_message_function("PROCESS STARTED : %s"%process)
 				process.start()
 				#add new processes to process list
@@ -376,6 +381,9 @@ class PipoCommonApplication():
 				if self.name_name_list[i] != None:
 					self.lobby_name_list.add_option(Selection(str(self.name_name_list[i]), i))
 		#self.display_message_function(new_name_list_content)
+
+
+
 
 
 

@@ -1,53 +1,169 @@
-char_lucas_mod_v001.ma
-char_lucas_mod_v002.ma
-char_lucastest_rig_publish.ma
-char_lucastest_rig_v001.ma
-char_lucastest_rig_v002.ma
-char_lucastest_rig_publish.ma
-char_lucastest_rig_publish.ma
-char_max_bonjour_v004.ma
-char_max_rig_v003.ma
-char_lucas_mod_v001.ma
-char_lucas_mod_v002.ma
-char_lucastest_rig_publish.ma
-char_lucastest_rig_v001.ma
-char_lucastest_rig_v002.ma
-char_lucastest_rig_publish.ma
-char_max_bonjour_v004.ma
-char_max_rig_v003.ma
-char_lucas_mod_v001.ma
-char_lucas_mod_v002.ma
-char_lucastest_rig_publish.ma
-char_lucastest_rig_v001.ma
-char_lucastest_rig_v002.ma
-char_lucastest_rig_publish.ma
-char_max_bonjour_v004.ma
-char_max_rig_v003.ma
-char_lucastest_rig_publish.ma
-char_lucastest_rig_publish.ma
-char_matteotestlook_lookdev_v002.ma
-char_matteo_lookdev_v001.ma
-char_matteotestlook_lookdev_publish.ma
+
+
+SEARCHING DATA : 
+KIND : character
+NAME : lucas
+TYPE : None
+LOD : 1
+STATE : edit
+CHECKING FILE : char_lucas_mod_v001.ma
 ['char', 'lucas', 'mod', 'v001'] ; ['[key]', '[name]', '[type]', '[version]']
-['char', 'matteotestlook', 'lookdev', 'v002'] ; ['[key]', '[name]', '[type]', '[version]']
+file returned : char_lucas_mod_v001.ma
+CHECKING FILE : char_lucas_mod_v002.ma
 ['char', 'lucas', 'mod', 'v002'] ; ['[key]', '[name]', '[type]', '[version]']
-['char', 'matteo', 'lookdev', 'v001'] ; ['[key]', '[name]', '[type]', '[version]']
-['char', 'matteotestlook', 'lookdev', 'publish'] ; ['[key]', '[name]', '[type]', '[version]']
+file returned : char_lucas_mod_v002.ma
+CHECKING FILE : char_lucastest_rig_publish.ma
 ['char', 'lucastest', 'rig', 'publish'] ; ['[key]', '[name]', '[type]', '[version]']
+file returned : char_lucastest_rig_publish.ma
+CHECKING FILE : char_lucastest_rig_v001.ma
 ['char', 'lucastest', 'rig', 'v001'] ; ['[key]', '[name]', '[type]', '[version]']
+file returned : char_lucastest_rig_v001.ma
+CHECKING FILE : char_lucastest_rig_v002.ma
 ['char', 'lucastest', 'rig', 'v002'] ; ['[key]', '[name]', '[type]', '[version]']
+file returned : char_lucastest_rig_v002.ma
+CHECKING FILE : char_lucastest_rig_publish.ma
 ['char', 'lucastest', 'rig', 'publish'] ; ['[key]', '[name]', '[type]', '[version]']
+file returned : char_lucastest_rig_publish.ma
+
+
+SEARCHING DATA : 
+KIND : character
+NAME : lucas
+TYPE : None
+LOD : 1
+STATE : edit
+CHECKING FILE : char_lucas_mod_v001.ma
+['char', 'lucas', 'mod', 'v001'] ; ['[key]', '[name]', '[type]', '[version]']
+file returned : char_lucas_mod_v001.ma
+CHECKING FILE : char_lucas_mod_v002.ma
+['char', 'lucas', 'mod', 'v002'] ; ['[key]', '[name]', '[type]', '[version]']
+file returned : char_lucas_mod_v002.ma
+CHECKING FILE : char_lucastest_rig_publish.ma
+['char', 'lucastest', 'rig', 'publish'] ; ['[key]', '[name]', '[type]', '[version]']
+file returned : char_lucastest_rig_publish.ma
+CHECKING FILE : char_lucastest_rig_v001.ma
+['char', 'lucastest', 'rig', 'v001'] ; ['[key]', '[name]', '[type]', '[version]']
+file returned : char_lucastest_rig_v001.ma
+CHECKING FILE : char_lucastest_rig_v002.ma
+['char', 'lucastest', 'rig', 'v002'] ; ['[key]', '[name]', '[type]', '[version]']
+file returned : char_lucastest_rig_v002.ma
+CHECKING FILE : char_lucastest_rig_publish.ma
+['char', 'lucastest', 'rig', 'publish'] ; ['[key]', '[name]', '[type]', '[version]']
+file returned : char_lucastest_rig_publish.ma
+
+
+SEARCHING DATA : 
+KIND : character
+NAME : lucas
+TYPE : None
+LOD : 1
+STATE : edit
+CHECKING FILE : char_lucas_mod_v001.ma
+['char', 'lucas', 'mod', 'v001'] ; ['[key]', '[name]', '[type]', '[version]']
+file returned : char_lucas_mod_v001.ma
+CHECKING FILE : char_lucas_mod_v002.ma
+['char', 'lucas', 'mod', 'v002'] ; ['[key]', '[name]', '[type]', '[version]']
+file returned : char_lucas_mod_v002.ma
+CHECKING FILE : char_lucastest_rig_publish.ma
+['char', 'lucastest', 'rig', 'publish'] ; ['[key]', '[name]', '[type]', '[version]']
+file returned : char_lucastest_rig_publish.ma
+CHECKING FILE : char_lucastest_rig_v001.ma
+['char', 'lucastest', 'rig', 'v001'] ; ['[key]', '[name]', '[type]', '[version]']
+file returned : char_lucastest_rig_v001.ma
+CHECKING FILE : char_lucastest_rig_v002.ma
+['char', 'lucastest', 'rig', 'v002'] ; ['[key]', '[name]', '[type]', '[version]']
+file returned : char_lucastest_rig_v002.ma
+CHECKING FILE : char_lucastest_rig_publish.ma
+['char', 'lucastest', 'rig', 'publish'] ; ['[key]', '[name]', '[type]', '[version]']
+file returned : char_lucastest_rig_publish.ma
+
+
+SEARCHING DATA : 
+KIND : character
+NAME : max
+TYPE : None
+LOD : 1
+STATE : edit
+CHECKING FILE : char_max_bonjour_v004.ma
 ['char', 'max', 'bonjour', 'v004'] ; ['[key]', '[name]', '[type]', '[version]']
+CHECKING FILE : char_max_rig_v003.ma
 ['char', 'max', 'rig', 'v003'] ; ['[key]', '[name]', '[type]', '[version]']
-['char', 'lucas', 'mod', 'v001'] ; ['[key]', '[name]', '[type]', '[version]']
-['char', 'lucas', 'mod', 'v002'] ; ['[key]', '[name]', '[type]', '[version]']
-['char', 'lucastest', 'rig', 'publish'] ; ['[key]', '[name]', '[type]', '[version]']
-['char', 'lucastest', 'rig', 'v001'] ; ['[key]', '[name]', '[type]', '[version]']
-['char', 'lucastest', 'rig', 'v002'] ; ['[key]', '[name]', '[type]', '[version]']
-['char', 'lucastest', 'rig', 'publish'] ; ['[key]', '[name]', '[type]', '[version]']
-['char', 'matteotestlook', 'lookdev', 'v002'] ; ['[key]', '[name]', '[type]', '[version]']
-['char', 'matteo', 'lookdev', 'v001'] ; ['[key]', '[name]', '[type]', '[version]']
-['char', 'matteotestlook', 'lookdev', 'publish'] ; ['[key]', '[name]', '[type]', '[version]']
+file returned : char_max_rig_v003.ma
+
+
+SEARCHING DATA : 
+KIND : character
+NAME : robin
+TYPE : None
+LOD : 1
+STATE : edit
+CHECKING FILE : char_Robin_mod_v001.ma
 ['char', 'Robin', 'mod', 'v001'] ; ['[key]', '[name]', '[type]', '[version]']
+file returned : char_Robin_mod_v001.ma
+
+
+SEARCHING DATA : 
+KIND : character
+NAME : lucas
+TYPE : None
+LOD : 1
+STATE : edit
+CHECKING FILE : char_lucas_mod_v001.ma
+['char', 'lucas', 'mod', 'v001'] ; ['[key]', '[name]', '[type]', '[version]']
+file returned : char_lucas_mod_v001.ma
+CHECKING FILE : char_lucas_mod_v002.ma
+['char', 'lucas', 'mod', 'v002'] ; ['[key]', '[name]', '[type]', '[version]']
+file returned : char_lucas_mod_v002.ma
+CHECKING FILE : char_lucastest_rig_publish.ma
+['char', 'lucastest', 'rig', 'publish'] ; ['[key]', '[name]', '[type]', '[version]']
+file returned : char_lucastest_rig_publish.ma
+CHECKING FILE : char_lucastest_rig_v001.ma
+['char', 'lucastest', 'rig', 'v001'] ; ['[key]', '[name]', '[type]', '[version]']
+file returned : char_lucastest_rig_v001.ma
+CHECKING FILE : char_lucastest_rig_v002.ma
+['char', 'lucastest', 'rig', 'v002'] ; ['[key]', '[name]', '[type]', '[version]']
+file returned : char_lucastest_rig_v002.ma
+CHECKING FILE : char_lucastest_rig_publish.ma
+['char', 'lucastest', 'rig', 'publish'] ; ['[key]', '[name]', '[type]', '[version]']
+file returned : char_lucastest_rig_publish.ma
+
+
+SEARCHING DATA : 
+KIND : character
+NAME : max
+TYPE : None
+LOD : 1
+STATE : edit
+CHECKING FILE : char_max_bonjour_v004.ma
 ['char', 'max', 'bonjour', 'v004'] ; ['[key]', '[name]', '[type]', '[version]']
+CHECKING FILE : char_max_rig_v003.ma
 ['char', 'max', 'rig', 'v003'] ; ['[key]', '[name]', '[type]', '[version]']
+file returned : char_max_rig_v003.ma
+
+
+SEARCHING DATA : 
+KIND : character
+NAME : robin
+TYPE : None
+LOD : 1
+STATE : edit
+CHECKING FILE : char_Robin_mod_v001.ma
+['char', 'Robin', 'mod', 'v001'] ; ['[key]', '[name]', '[type]', '[version]']
+file returned : char_Robin_mod_v001.ma
+
+
+SEARCHING DATA : 
+KIND : character
+NAME : matteo
+TYPE : None
+LOD : 1
+STATE : edit
+CHECKING FILE : char_matteotestlook_lookdev_v002.ma
+['char', 'matteotestlook', 'lookdev', 'v002'] ; ['[key]', '[name]', '[type]', '[version]']
+file returned : char_matteotestlook_lookdev_v002.ma
+CHECKING FILE : char_matteo_lookdev_v001.ma
+['char', 'matteo', 'lookdev', 'v001'] ; ['[key]', '[name]', '[type]', '[version]']
+file returned : char_matteo_lookdev_v001.ma
+CHECKING FILE : char_matteotestlook_lookdev_publish.ma
+['char', 'matteotestlook', 'lookdev', 'publish'] ; ['[key]', '[name]', '[type]', '[version]']
+file returned : char_matteotestlook_lookdev_publish.ma

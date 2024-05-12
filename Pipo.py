@@ -53,6 +53,10 @@ class PipoLobbyApplication(Screen, PipoCommonApplication, PipoLogApplication):
 		#create instance of the search files class
 		#self.search_app = PipoSearchFilesApplication()
 
+		self.final_files_dictionnary = {}
+
+
+
 		self.name_kind_selection = []
 		self.name_name_selection = []
 		self.name_shots_selection = []
@@ -76,7 +80,7 @@ class PipoLobbyApplication(Screen, PipoCommonApplication, PipoLogApplication):
 		
 		#self.kind_list = app.current_project_settings["Scenes"].keys()
 
-
+	
 	
 
 	def compose(self) -> ComposeResult:
@@ -162,6 +166,9 @@ class PipoLobbyApplication(Screen, PipoCommonApplication, PipoLogApplication):
 		#launch lobby log thread
 		self.log_thread = threading.Thread(target=self.update_lobby_log_function, daemon=True, args=())
 		self.log_thread.start()
+
+
+
 
 
 
