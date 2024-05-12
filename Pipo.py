@@ -56,8 +56,7 @@ class PipoLobbyApplication(Screen, PipoCommonApplication, PipoLogApplication):
 
 
 
-		self.name_kind_selection = []
-		self.name_name_selection = []
+		self.name_kind_sn = []
 		self.name_shots_selection = []
 		self.name_sequence_selection = []
 		self.name_type_selection = []
@@ -85,7 +84,11 @@ class PipoLobbyApplication(Screen, PipoCommonApplication, PipoLogApplication):
 	def compose(self) -> ComposeResult:
 
 		"""
-		yield Label("bonjour le monde!")
+		yield Laself.create_variable_function()
+
+
+	def create_variable_function(self):
+		print()bel("bonjour le monde!")
 
 
 		self.test_list = ListView()
@@ -242,9 +245,9 @@ class PipoLobbyApplication(Screen, PipoCommonApplication, PipoLogApplication):
 			#self.display_message_function(str(type_selection))
 			#self.display_message_function(str(name_selection))
 
-<<<<<<< HEAD
+
 			self.search_files_function()			
-=======
+
 			self.display_message_function(kind_selection)
 
 			#self.name_kind_selection = []
@@ -280,7 +283,7 @@ class PipoLobbyApplication(Screen, PipoCommonApplication, PipoLogApplication):
 			"""
 
 			
->>>>>>> 6ee8f77d51a475f0e20757bbc382914487e8cb9a
+
 
 
 				

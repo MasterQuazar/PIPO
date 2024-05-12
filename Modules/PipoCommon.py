@@ -22,12 +22,11 @@ import multiprocessing
 from Modules.PipoResearch import PipoSearchingApplication
 
 
-<<<<<<< HEAD
+
 class PipoSearchFilesApplication():
 	def test_function(self):
 		self.notify("hello world", timeout=5)
-=======
->>>>>>> 6ee8f77d51a475f0e20757bbc382914487e8cb9a
+
 
 
 
@@ -254,7 +253,7 @@ class PipoCommonApplication():
 
 
 
-<<<<<<< HEAD
+
 	def search_files_function(self):
 		self.display_message_function("")
 		self.display_message_function("============================================= SEARCHING =============================================")
@@ -385,20 +384,20 @@ class PipoCommonApplication():
 				if self.name_name_list[i] != None:
 					self.lobby_name_list.add_option(Selection(str(self.name_name_list[i]), i))
 		#self.display_message_function(new_name_list_content)
-=======
+
 
 
 
 
 							
->>>>>>> 6ee8f77d51a475f0e20757bbc382914487e8cb9a
 
 
 
 
 
 
-<<<<<<< HEAD
+
+
 
 
 
@@ -440,8 +439,7 @@ class PipoCommonApplication():
 
 
 
-=======
->>>>>>> 6ee8f77d51a475f0e20757bbc382914487e8cb9a
+
 
 
 							
