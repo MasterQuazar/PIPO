@@ -31,7 +31,6 @@ colorama.init()
 
 from Modules.PipoCommon import PipoCommonApplication
 from Modules.PipoLog import PipoLogApplication
-from Modules.PipoCommon import PipoSearchFilesApplication
 
 
 
@@ -243,7 +242,45 @@ class PipoLobbyApplication(Screen, PipoCommonApplication, PipoLogApplication):
 			#self.display_message_function(str(type_selection))
 			#self.display_message_function(str(name_selection))
 
+<<<<<<< HEAD
 			self.search_files_function()			
+=======
+			self.display_message_function(kind_selection)
+
+			#self.name_kind_selection = []
+			#check the value of the searching thread event status
+			#if the event is valid shut down the current thread!
+			
+			
+
+
+			"""
+			if self.searching_thread == None:
+				self.searching_event = threading.Event()
+				self.searching_thread = threading.Thread(target=self.test_process_function,daemon=True, args=())
+			
+				self.searching_thread.start()
+
+			else:
+				if self.searching_thread.is_alive():
+					#make the thread crash to launch a new one
+					self.searching_event.set()
+			"""
+			"""
+			
+			self.display_message_function("event : %s"%searching_event.is_set())
+			self.search_thread = threading.Thread(target=self.test_process_function, args=(searching_event,))
+
+			self.display_message_function("alive : %s"%self.search_thread.is_alive())
+			if self.search_thread.is_alive():
+				self.display_message_function("alive : %s"%self.search_thread.is_alive())
+				#kill thread
+				searching_event.set()
+			self.search_thread.start()
+			"""
+
+			
+>>>>>>> 6ee8f77d51a475f0e20757bbc382914487e8cb9a
 
 
 				
