@@ -355,16 +355,26 @@ class PipoCommonApplication():
 		if ( len(self.name_name_selection) != 0) and (self.name_name_selection != [None]):
 
 
+			final_file_queue = multiprocessing.Queue()
+
 
 			for folder_name, folder_data in searching_folder_data.items():
 
 
-				process = multiprocessing.Process(target=self.searching_app.get_folder_function, args=(self.screen.final_files_dictionnary, folder_name, folder_data, self.app.current_project_settings,))
+				process = multiprocessing.Process(target=self.searching_app.get_folder_function, args=(final_file_queue, folder_name, folder_data, self.app.current_project_settings,))
 				#self.display_message_function("PROCESS STARTED : %s"%process)
 				process.start()
 				#add new processes to process list
 				self.screen.searching_process_list.append(process)
 				self.display_message_function("PROCESS %s ADDED TO LIST : [%s]"%(process, folder_name))
+
+
+			for process in self.screen.searching_process_list:
+				process.join()
+
+			self.display_message_function("FINAL QUEUE CONTENT : ")
+			while not final_file_queue.empty():
+				self.display_message_function(final_file_queue.get())
 		else:
 			self.display_message_function("No name selected so no process launched!")
 
@@ -372,7 +382,7 @@ class PipoCommonApplication():
 
 		
 
-		self.display_message_function("%s : %s"%(self.name_name_list, new_name_list_content))
+		#self.display_message_function("%s : %s"%(self.name_name_list, new_name_list_content))
 		#return
 		#check if the name list is different than the previous one
 		#if yes replace the name list in lists

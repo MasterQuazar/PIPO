@@ -52,11 +52,11 @@ class PipoLobbyApplication(Screen, PipoCommonApplication, PipoLogApplication):
 		#create instance of the search files class
 		#self.search_app = PipoSearchFilesApplication()
 
-		self.final_files_dictionnary = {}
+		self.final_files_list = []
 
 
-
-		self.name_kind_sn = []
+		self.name_name_selection = []
+		self.name_kind_selection = []
 		self.name_shots_selection = []
 		self.name_sequence_selection = []
 		self.name_type_selection = []
@@ -248,7 +248,7 @@ class PipoLobbyApplication(Screen, PipoCommonApplication, PipoLogApplication):
 
 			self.search_files_function()			
 
-			self.display_message_function(kind_selection)
+			#self.display_message_function(kind_selection)
 
 			#self.name_kind_selection = []
 			#check the value of the searching thread event status

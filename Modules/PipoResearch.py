@@ -2,6 +2,7 @@ import os
 import sys
 import scandir
 
+
 from time import sleep
 
 
@@ -9,7 +10,7 @@ class PipoSearchingApplication:
 
 
 
-	def get_folder_function(self, final_files_dictionnary, folder_name, folder_data, project_settings):
+	def get_folder_function(self, final_file_queue,folder_name, folder_data, project_settings):
 		self.save_log_function("\n")
 		
 
@@ -120,16 +121,12 @@ class PipoSearchingApplication:
 
 								if file_parsing_error==False:
 									self.save_log_function("file returned : %s"%file)
-									final_files_dictionnary[file] = {
-										"FULLPATH":os.path.join(root, file),
-										"PATH": root
-									}
+									final_file_queue.put(os.path.join(root, file))
 
 
 
 		return
 
-		#sleep(5)
 
 
 
