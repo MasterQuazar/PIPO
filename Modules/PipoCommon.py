@@ -13,6 +13,7 @@ from pyfiglet import Figlet
 from time import sleep
 from random import randrange 
 from datetime import datetime
+from multiprocessing import Manager
 
 import scandir
 import threading
@@ -266,6 +267,14 @@ class PipoCommonApplication():
 				self.display_message_function("PROCESS TERMINATED : %s"%process)
 		else:
 			self.display_message_function("NO PROCESS TO END!")
+
+
+
+		#CLEAN THE FILE QUEUE
+		while not self.app.final_file_queue.empty():
+			self.app.final_file_queue.get()
+
+
 		"""
 		for the kind selected get data in current project settings
 		"""
@@ -330,7 +339,7 @@ class PipoCommonApplication():
 								for state in state_list:
 									#self.display_message_function(name_selected)
 									searching_path = self.get_path_from_default_folder_function(kind, kind_default_folder, name_selected, None, None, type_selected, state, lod)
-									self.display_message_function("Searching path %s : %s"%(os.path.isdir(searching_path), searching_path))
+									#self.display_message_function("Searching path %s : %s"%(os.path.isdir(searching_path), searching_path))
 									#if the folder exists add it to the searching queue data
 									if (os.path.isdir(searching_path) == True) and (searching_path not in searching_folder_data):
 											searching_folder_data[searching_path] = {
@@ -346,7 +355,7 @@ class PipoCommonApplication():
 		self.searching_app = PipoSearchingApplication()
 		
 
-		self.display_message_function(self.name_name_selection)
+		#self.display_message_function(self.name_name_selection)
 
 
 		
@@ -355,13 +364,14 @@ class PipoCommonApplication():
 		if ( len(self.name_name_selection) != 0) and (self.name_name_selection != [None]):
 
 
-			final_file_queue = multiprocessing.Queue()
+		
 
 
 			for folder_name, folder_data in searching_folder_data.items():
+				+0
 
 
-				process = multiprocessing.Process(target=self.searching_app.get_folder_function, args=(final_file_queue, folder_name, folder_data, self.app.current_project_settings,))
+				process = multiprocessing.Process(target=self.searching_app.get_folder_function, args=(self.app.final_file_queue, folder_name, folder_data, self.app.current_project_settings,))
 				#self.display_message_function("PROCESS STARTED : %s"%process)
 				process.start()
 				#add new processes to process list
@@ -372,9 +382,19 @@ class PipoCommonApplication():
 			for process in self.screen.searching_process_list:
 				process.join()
 
-			self.display_message_function("FINAL QUEUE CONTENT : ")
-			while not final_file_queue.empty():
-				self.display_message_function(final_file_queue.get())
+
+			if self.app.final_file_queue.empty() == False:
+				self.app.final_file_list = []
+
+				#self.display_message_function("FINAL QUEUE CONTENT : ")
+				while not self.app.final_file_queue.empty():
+					self.app.final_file_list.append(self.app.final_file_queue.get())
+					self.display_message_function("element added")
+
+				self.display_message_function(self.app.final_file_list)
+					#self.display_message_function(self.app.final_file_queue.get(block=False))
+			else:
+				self.display_message_function("NO FILES FOUND!")
 		else:
 			self.display_message_function("No name selected so no process launched!")
 

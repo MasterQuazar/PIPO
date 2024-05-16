@@ -52,7 +52,6 @@ class PipoLobbyApplication(Screen, PipoCommonApplication, PipoLogApplication):
 		#create instance of the search files class
 		#self.search_app = PipoSearchFilesApplication()
 
-		self.final_files_list = []
 
 
 		self.name_name_selection = []
@@ -73,7 +72,15 @@ class PipoLobbyApplication(Screen, PipoCommonApplication, PipoLogApplication):
 
 		self.searching_thread = None
 
+		self.file_list_image = None
 		self.searching_process_list = []
+
+
+
+		
+
+
+		
 
 		
 		#self.kind_list = app.current_project_settings["Scenes"].keys()
@@ -169,6 +176,9 @@ class PipoLobbyApplication(Screen, PipoCommonApplication, PipoLogApplication):
 		self.log_thread = threading.Thread(target=self.update_lobby_log_function, daemon=True, args=())
 		self.log_thread.start()
 
+		self.update_file_list_thread = threading.Thread(target=self.update_file_list_function, daemon=True, args=())
+		self.update_file_list_thread.start()
+
 
 
 
@@ -248,69 +258,11 @@ class PipoLobbyApplication(Screen, PipoCommonApplication, PipoLogApplication):
 
 			self.search_files_function()			
 
-			#self.display_message_function(kind_selection)
-
-			#self.name_kind_selection = []
-			#check the value of the searching thread event status
-			#if the event is valid shut down the current thread!
-			
-			
-
-
-			"""
-			if self.searching_thread == None:
-				self.searching_event = threading.Event()
-				self.searching_thread = threading.Thread(target=self.test_process_function,daemon=True, args=())
-			
-				self.searching_thread.start()
-
-			else:
-				if self.searching_thread.is_alive():
-					#make the thread crash to launch a new one
-					self.searching_event.set()
-			"""
-			"""
-			
-			self.display_message_function("event : %s"%searching_event.is_set())
-			self.search_thread = threading.Thread(target=self.test_process_function, args=(searching_event,))
-
-			self.display_message_function("alive : %s"%self.search_thread.is_alive())
-			if self.search_thread.is_alive():
-				self.display_message_function("alive : %s"%self.search_thread.is_alive())
-				#kill thread
-				searching_event.set()
-			self.search_thread.start()
-			"""
-
-			
 
 
 
 				
 
-
-
-
-
-	def test_process_function(self):
-		for i in range(20):
-
-
-			if self.searching_event.is_set():
-				self.display_message_function("TERMINATED")
-				return
-			self.display_message_function("hello world : %s"%self.searching_event.is_set())
-
-			sleep(1)
-		
-
-
-
-
-
-
-
-		
 		
 		#self.display_message_function(self.name_kind_selection)
 
@@ -321,6 +273,30 @@ class PipoLobbyApplication(Screen, PipoCommonApplication, PipoLogApplication):
 	def on_option_list_option_highlighted(self, event: OptionList.OptionHighlighted) -> None:
 		if event.option_list.id == "lobby_type_list":
 			self.display_message_function("hello world")
+
+
+
+
+	def update_file_list_function(self):
+		#check changes in the final file queue
+		#if the queue changed, update the file list in lobby
+		#and create an image of the queue to remember its current state!
+		while True:
+			#create a copy of the queue
+			#queue_copy = self.app.final_file_queue
+			#file_list = []
+
+			if self.app.final_file_list != self.file_list_image: 
+				#clean the options in the list
+				self.lobby_file_list.clear_options()
+				#copy the value of the current file list in image list
+				#update the final file list
+				self.file_list_image = self.app.final_file_list
+
+				for i in range(len(self.file_list_image)):
+					self.lobby_file_list.add_option(Selection(self.file_list_image[i],i))
+
+			sleep(0.5)
 
 
 
@@ -449,6 +425,16 @@ class PipoLoginApplication(App, PipoCommonApplication, PipoLogApplication):
 
 		self.project_name = None
 		self.project_path = None
+
+
+
+
+		manager = multiprocessing.Manager()
+		self.final_file_queue = manager.Queue()
+		self.final_file_list = []
+
+
+
 		
 		
 

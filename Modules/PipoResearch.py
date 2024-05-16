@@ -43,7 +43,7 @@ class PipoSearchingApplication:
 					#CHECK THE LENGHT OF THE SPLITED FILE FOR THE GIVEN KIND
 					splited_filename = filename.split("_")
 					splited_nomenclature = kind_settings["syntax"].split("_")
-					self.save_log_function("%s ; %s"%(splited_filename, splited_nomenclature))
+					#self.save_log_function("%s ; %s"%(splited_filename, splited_nomenclature))
 
 					if len(splited_nomenclature) != len(splited_filename):
 						#file_parsing_error = True 
@@ -60,7 +60,7 @@ class PipoSearchingApplication:
 						else:
 							if splited_filename[kind_index] != kind_settings["keyword"]:
 								#file_parsing_error = True 
-								self.save_log_function("KIND ERROR")
+								#self.save_log_function("KIND ERROR")
 								continue
 							else:
 								file_parsing_error = False
@@ -79,7 +79,7 @@ class PipoSearchingApplication:
 											splited_version = splited_filename[i].split("v")
 											if (len(splited_version) != 2) or (splited_version[0] != "") or (splited_version[1].isdigit()==False):
 												file_parsing_error=True
-												error_list.append("version")
+												#error_list.append("version")
 
 									#CHECKING TYPE
 									elif splited_nomenclature[i] == "[type]":
@@ -87,14 +87,14 @@ class PipoSearchingApplication:
 										file_type = splited_filename[i]
 										if file_type not in kind_settings["type"]:
 											file_parsing_error=True
-											error_list.append("type")
+											#error_list.append("type")
 
 										else:
 											if folder_data["TYPE"] != None:
 												#check that the type is also selected!
 												if splited_filename[i] not in folder_data["TYPE"]:
 													file_parsing_error=True 
-													error_list.append("type")
+													#error_list.append("type")
 
 									#CHECKING NAME
 									#no verification if name restriction isn't checked!
@@ -106,7 +106,7 @@ class PipoSearchingApplication:
 										filename_lod = splited_filename[i].split("LOD")
 
 										if (filename_lod[0] != "") or (filename_lod[1] not in project_settings["Global"]["lodList"]):
-											error_list.append("lod")
+											#error_list.append("lod")
 											file_parsing_error=True
 
 									#NOT ASSOSIATED WITH A SYNTAX KEYWORD
@@ -115,12 +115,12 @@ class PipoSearchingApplication:
 									else:
 										if splited_nomenclature[i] != splited_filename[i]:
 											file_parsing_error=True 
-											error_list.append("nomenclature item")
+											#error_list.append("nomenclature item")
 
 
 
 								if file_parsing_error==False:
-									self.save_log_function("file returned : %s"%file)
+									#self.save_log_function("file returned : %s"%file)
 									final_file_queue.put(os.path.join(root, file))
 
 

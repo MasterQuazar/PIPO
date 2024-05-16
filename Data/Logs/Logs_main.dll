@@ -724,3 +724,1514 @@
 [2024-05-13 01:25:09.940809] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes\lookdev\publish\char_matteotestlook_lookdev_publish.ma
 [2024-05-13 01:25:09.940809] UPDATE : D:/WORK/TESTPROJECT/ASSETS/item/carolo/maya/scenes\mod\edit\item_carolo_mod_v001.ma
 [2024-05-13 01:25:09.940809] UPDATE : D:/WORK/TESTPROJECT/ASSETS/item/carolo/maya/scenes\mod\publish\item_carolo_mod_publish.ma
+
+
+[2024-05-15 20:11:27.788940] New Pipo session opened on <built-in function gethostname>
+[2024-05-15 20:11:27.819977] UPDATE : Personnal settings opened
+[2024-05-15 20:11:29.622716] UPDATE : Project selected : testproject
+[2024-05-15 20:11:29.622716] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-05-15 20:11:29.622716] UPDATE : Project settings loaded!
+
+[2024-05-15 20:11:30.775054] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-15 20:11:30.775054] UPDATE : NO PROCESS TO END!
+[2024-05-15 20:11:30.776052] UPDATE : ['character']
+[2024-05-15 20:11:30.776052] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-15 20:11:30.777049] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char
+[2024-05-15 20:11:30.777049] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char
+[2024-05-15 20:11:30.778046] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char
+[2024-05-15 20:11:30.778046] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char
+[2024-05-15 20:11:30.778046] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char
+[2024-05-15 20:11:30.779043] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char
+[2024-05-15 20:11:30.779043] UPDATE : [None]
+[2024-05-15 20:11:30.779043] UPDATE : No name selected so no process launched!
+
+[2024-05-15 20:11:31.906682] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-15 20:11:31.906682] UPDATE : NO PROCESS TO END!
+[2024-05-15 20:11:31.907680] UPDATE : ['character']
+[2024-05-15 20:11:31.907680] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-15 20:11:31.908677] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes
+[2024-05-15 20:11:31.908677] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes
+[2024-05-15 20:11:31.909674] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes
+[2024-05-15 20:11:31.909674] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes
+[2024-05-15 20:11:31.909674] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes
+[2024-05-15 20:11:31.910671] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes
+[2024-05-15 20:11:31.910671] UPDATE : ['lucas']
+[2024-05-15 20:11:31.930660] UPDATE : PROCESS <Process name='Process-1' pid=12992 parent=24520 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes]
+[2024-05-15 20:11:32.411448] UPDATE : FINAL QUEUE CONTENT : 
+[2024-05-15 20:11:32.412445] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\mod\edit\char_lucas_mod_v001.ma
+[2024-05-15 20:11:32.412445] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\mod\edit\char_lucas_mod_v002.ma
+[2024-05-15 20:11:32.413442] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\rig\edit\char_lucastest_rig_publish.ma
+[2024-05-15 20:11:32.413442] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\rig\edit\char_lucastest_rig_v001.ma
+[2024-05-15 20:11:32.413442] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\rig\edit\char_lucastest_rig_v002.ma
+[2024-05-15 20:11:32.414440] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\rig\publish\char_lucastest_rig_publish.ma
+
+[2024-05-15 20:11:32.773209] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-15 20:11:32.773209] UPDATE : PROCESS TERMINATED : <Process name='Process-1' pid=12992 parent=24520 stopped exitcode=0>
+[2024-05-15 20:11:32.774206] UPDATE : ['character']
+[2024-05-15 20:11:32.774206] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-15 20:11:32.775203] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes
+[2024-05-15 20:11:32.775203] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes
+[2024-05-15 20:11:32.775203] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes
+[2024-05-15 20:11:32.776200] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes
+[2024-05-15 20:11:32.776200] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes
+[2024-05-15 20:11:32.777197] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes
+[2024-05-15 20:11:32.777197] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/max/maya/scenes
+[2024-05-15 20:11:32.778195] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/max/maya/scenes
+[2024-05-15 20:11:32.778195] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/max/maya/scenes
+[2024-05-15 20:11:32.778195] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/max/maya/scenes
+[2024-05-15 20:11:32.779192] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/max/maya/scenes
+[2024-05-15 20:11:32.779192] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/max/maya/scenes
+[2024-05-15 20:11:32.779192] UPDATE : ['lucas', 'max']
+[2024-05-15 20:11:32.789684] UPDATE : PROCESS <Process name='Process-2' pid=1456 parent=24520 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes]
+[2024-05-15 20:11:32.800655] UPDATE : PROCESS <Process name='Process-3' pid=5412 parent=24520 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/max/maya/scenes]
+[2024-05-15 20:11:33.286818] UPDATE : FINAL QUEUE CONTENT : 
+[2024-05-15 20:11:33.286818] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\mod\edit\char_lucas_mod_v001.ma
+[2024-05-15 20:11:33.287815] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\mod\edit\char_lucas_mod_v002.ma
+[2024-05-15 20:11:33.287815] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\rig\edit\char_lucastest_rig_publish.ma
+[2024-05-15 20:11:33.287815] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\rig\edit\char_lucastest_rig_v001.ma
+[2024-05-15 20:11:33.287815] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\rig\edit\char_lucastest_rig_v002.ma
+[2024-05-15 20:11:33.288813] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\rig\publish\char_lucastest_rig_publish.ma
+[2024-05-15 20:11:33.288813] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/max/maya/scenes\rig\char_max_rig_v003.ma
+
+[2024-05-15 20:11:33.752127] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-15 20:11:33.753124] UPDATE : PROCESS TERMINATED : <Process name='Process-1' pid=12992 parent=24520 stopped exitcode=0>
+[2024-05-15 20:11:33.753124] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=1456 parent=24520 stopped exitcode=0>
+[2024-05-15 20:11:33.753124] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=5412 parent=24520 stopped exitcode=0>
+[2024-05-15 20:11:33.753124] UPDATE : ['character']
+[2024-05-15 20:11:33.754122] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-15 20:11:33.754122] UPDATE : Searching path False : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes/sculpt/edit
+[2024-05-15 20:11:33.755119] UPDATE : Searching path False : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes/sculpt/publish
+[2024-05-15 20:11:33.755119] UPDATE : Searching path False : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes/sculpt/edit
+[2024-05-15 20:11:33.755119] UPDATE : Searching path False : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes/sculpt/publish
+[2024-05-15 20:11:33.756117] UPDATE : Searching path False : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes/sculpt/edit
+[2024-05-15 20:11:33.756117] UPDATE : Searching path False : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes/sculpt/publish
+[2024-05-15 20:11:33.756117] UPDATE : Searching path False : D:/WORK/TESTPROJECT/ASSETS/char/max/maya/scenes/sculpt/edit
+[2024-05-15 20:11:33.757114] UPDATE : Searching path False : D:/WORK/TESTPROJECT/ASSETS/char/max/maya/scenes/sculpt/publish
+[2024-05-15 20:11:33.757114] UPDATE : Searching path False : D:/WORK/TESTPROJECT/ASSETS/char/max/maya/scenes/sculpt/edit
+[2024-05-15 20:11:33.758111] UPDATE : Searching path False : D:/WORK/TESTPROJECT/ASSETS/char/max/maya/scenes/sculpt/publish
+[2024-05-15 20:11:33.758111] UPDATE : Searching path False : D:/WORK/TESTPROJECT/ASSETS/char/max/maya/scenes/sculpt/edit
+[2024-05-15 20:11:33.758111] UPDATE : Searching path False : D:/WORK/TESTPROJECT/ASSETS/char/max/maya/scenes/sculpt/publish
+[2024-05-15 20:11:33.759108] UPDATE : ['lucas', 'max']
+[2024-05-15 20:11:33.759108] UPDATE : FINAL QUEUE CONTENT : 
+
+
+[2024-05-15 20:19:14.902818] New Pipo session opened on <built-in function gethostname>
+[2024-05-15 20:19:14.918776] UPDATE : Personnal settings opened
+[2024-05-15 20:19:17.309075] UPDATE : Project selected : testproject
+[2024-05-15 20:19:17.310044] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-05-15 20:19:17.310044] UPDATE : Project settings loaded!
+
+[2024-05-15 20:19:18.403729] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-15 20:19:18.404726] UPDATE : NO PROCESS TO END!
+[2024-05-15 20:19:18.404726] UPDATE : ['character']
+[2024-05-15 20:19:18.405724] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-15 20:19:18.405724] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char
+[2024-05-15 20:19:18.406721] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char
+[2024-05-15 20:19:18.406721] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char
+[2024-05-15 20:19:18.407718] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char
+[2024-05-15 20:19:18.407718] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char
+[2024-05-15 20:19:18.407718] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char
+[2024-05-15 20:19:18.408715] UPDATE : [None]
+[2024-05-15 20:19:18.408715] UPDATE : No name selected so no process launched!
+
+[2024-05-15 20:19:19.085485] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-15 20:19:19.086482] UPDATE : NO PROCESS TO END!
+[2024-05-15 20:19:19.086482] UPDATE : ['character']
+[2024-05-15 20:19:19.086482] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-15 20:19:19.087454] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes
+[2024-05-15 20:19:19.088478] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes
+[2024-05-15 20:19:19.088478] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes
+[2024-05-15 20:19:19.089057] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes
+[2024-05-15 20:19:19.089057] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes
+[2024-05-15 20:19:19.090033] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes
+[2024-05-15 20:19:19.090033] UPDATE : ['lucas']
+[2024-05-15 20:19:19.556700] UPDATE : PROCESS <Process name='Process-2' pid=10820 parent=16336 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes]
+[2024-05-15 20:19:20.033223] UPDATE : FINAL QUEUE CONTENT : 
+[2024-05-15 20:19:20.035217] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\mod\edit\char_lucas_mod_v001.ma
+[2024-05-15 20:19:20.035217] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\mod\edit\char_lucas_mod_v002.ma
+[2024-05-15 20:19:20.036214] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\rig\edit\char_lucastest_rig_publish.ma
+[2024-05-15 20:19:20.036214] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\rig\edit\char_lucastest_rig_v001.ma
+[2024-05-15 20:19:20.036214] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\rig\edit\char_lucastest_rig_v002.ma
+[2024-05-15 20:19:20.037212] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\rig\publish\char_lucastest_rig_publish.ma
+
+[2024-05-15 20:19:20.099048] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-15 20:19:20.100046] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=10820 parent=16336 stopped exitcode=0>
+[2024-05-15 20:19:20.100046] UPDATE : ['character']
+[2024-05-15 20:19:20.101043] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-15 20:19:20.102041] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes
+[2024-05-15 20:19:20.102041] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes
+[2024-05-15 20:19:20.102041] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes
+[2024-05-15 20:19:20.103065] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes
+[2024-05-15 20:19:20.103065] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes
+[2024-05-15 20:19:20.104062] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes
+[2024-05-15 20:19:20.104062] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-05-15 20:19:20.104062] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-05-15 20:19:20.105060] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-05-15 20:19:20.105060] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-05-15 20:19:20.106057] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-05-15 20:19:20.106057] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes
+[2024-05-15 20:19:20.107053] UPDATE : ['lucas', 'matteo']
+[2024-05-15 20:19:20.563250] UPDATE : PROCESS <Process name='Process-4' pid=3744 parent=16336 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes]
+[2024-05-15 20:19:20.572226] UPDATE : PROCESS <Process name='Process-5' pid=13352 parent=16336 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes]
+[2024-05-15 20:19:21.062950] UPDATE : FINAL QUEUE CONTENT : 
+[2024-05-15 20:19:21.063947] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\mod\edit\char_lucas_mod_v001.ma
+[2024-05-15 20:19:21.063947] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\mod\edit\char_lucas_mod_v002.ma
+[2024-05-15 20:19:21.063947] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\rig\edit\char_lucastest_rig_publish.ma
+[2024-05-15 20:19:21.064945] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\rig\edit\char_lucastest_rig_v001.ma
+[2024-05-15 20:19:21.064945] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\rig\edit\char_lucastest_rig_v002.ma
+[2024-05-15 20:19:21.064945] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\rig\publish\char_lucastest_rig_publish.ma
+[2024-05-15 20:19:21.065942] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes\lookdev\edit\char_matteotestlook_lookdev_v002.ma
+[2024-05-15 20:19:21.065942] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes\lookdev\edit\char_matteo_lookdev_v001.ma
+[2024-05-15 20:19:21.065942] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes\lookdev\publish\char_matteotestlook_lookdev_publish.ma
+
+[2024-05-15 20:19:44.202754] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-15 20:19:44.202754] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=10820 parent=16336 stopped exitcode=0>
+[2024-05-15 20:19:44.203752] UPDATE : PROCESS TERMINATED : <Process name='Process-4' pid=3744 parent=16336 stopped exitcode=0>
+[2024-05-15 20:19:44.203752] UPDATE : PROCESS TERMINATED : <Process name='Process-5' pid=13352 parent=16336 stopped exitcode=0>
+[2024-05-15 20:19:44.203752] UPDATE : ['character']
+[2024-05-15 20:19:44.203752] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-15 20:19:44.204749] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes
+[2024-05-15 20:19:44.205746] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes
+[2024-05-15 20:19:44.205746] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes
+[2024-05-15 20:19:44.205746] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes
+[2024-05-15 20:19:44.206744] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes
+[2024-05-15 20:19:44.206744] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes
+[2024-05-15 20:19:44.207741] UPDATE : ['lucas']
+[2024-05-15 20:19:44.674096] UPDATE : PROCESS <Process name='Process-7' pid=12492 parent=16336 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes]
+[2024-05-15 20:19:45.150673] UPDATE : FINAL QUEUE CONTENT : 
+[2024-05-15 20:19:45.151670] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\mod\edit\char_lucas_mod_v001.ma
+[2024-05-15 20:19:45.151670] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\mod\edit\char_lucas_mod_v002.ma
+[2024-05-15 20:19:45.151670] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\rig\edit\char_lucastest_rig_publish.ma
+[2024-05-15 20:19:45.152667] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\rig\edit\char_lucastest_rig_v001.ma
+[2024-05-15 20:19:45.152667] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\rig\edit\char_lucastest_rig_v002.ma
+[2024-05-15 20:19:45.153665] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\rig\publish\char_lucastest_rig_publish.ma
+
+[2024-05-15 20:19:45.257894] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-15 20:19:45.258892] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=10820 parent=16336 stopped exitcode=0>
+[2024-05-15 20:19:45.258892] UPDATE : PROCESS TERMINATED : <Process name='Process-4' pid=3744 parent=16336 stopped exitcode=0>
+[2024-05-15 20:19:45.258892] UPDATE : PROCESS TERMINATED : <Process name='Process-5' pid=13352 parent=16336 stopped exitcode=0>
+[2024-05-15 20:19:45.259890] UPDATE : PROCESS TERMINATED : <Process name='Process-7' pid=12492 parent=16336 stopped exitcode=0>
+[2024-05-15 20:19:45.259890] UPDATE : ['character']
+[2024-05-15 20:19:45.259890] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-15 20:19:45.260886] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes
+[2024-05-15 20:19:45.260886] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes
+[2024-05-15 20:19:45.261884] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes
+[2024-05-15 20:19:45.261884] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes
+[2024-05-15 20:19:45.261884] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes
+[2024-05-15 20:19:45.262881] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes
+[2024-05-15 20:19:45.262881] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/max/maya/scenes
+[2024-05-15 20:19:45.263878] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/max/maya/scenes
+[2024-05-15 20:19:45.263878] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/max/maya/scenes
+[2024-05-15 20:19:45.263878] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/max/maya/scenes
+[2024-05-15 20:19:45.264876] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/max/maya/scenes
+[2024-05-15 20:19:45.264876] UPDATE : Searching path True : D:/WORK/TESTPROJECT/ASSETS/char/max/maya/scenes
+[2024-05-15 20:19:45.265873] UPDATE : ['lucas', 'max']
+[2024-05-15 20:19:45.720560] UPDATE : PROCESS <Process name='Process-9' pid=6256 parent=16336 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes]
+[2024-05-15 20:19:45.729501] UPDATE : PROCESS <Process name='Process-10' pid=11220 parent=16336 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/max/maya/scenes]
+[2024-05-15 20:19:46.216979] UPDATE : FINAL QUEUE CONTENT : 
+[2024-05-15 20:19:46.217683] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\mod\edit\char_lucas_mod_v001.ma
+[2024-05-15 20:19:46.217683] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\mod\edit\char_lucas_mod_v002.ma
+[2024-05-15 20:19:46.218712] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\rig\edit\char_lucastest_rig_publish.ma
+[2024-05-15 20:19:46.218712] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\rig\edit\char_lucastest_rig_v001.ma
+[2024-05-15 20:19:46.218712] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\rig\edit\char_lucastest_rig_v002.ma
+[2024-05-15 20:19:46.219707] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\rig\publish\char_lucastest_rig_publish.ma
+[2024-05-15 20:19:46.219707] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/max/maya/scenes\rig\char_max_rig_v003.ma
+
+
+[2024-05-16 20:32:16.174507] New Pipo session opened on <built-in function gethostname>
+[2024-05-16 20:32:16.215830] UPDATE : Personnal settings opened
+[2024-05-16 20:32:18.252364] UPDATE : Project selected : testproject
+[2024-05-16 20:32:18.252364] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-05-16 20:32:18.252364] UPDATE : Project settings loaded!
+
+[2024-05-16 20:32:19.468300] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 20:32:19.468300] UPDATE : NO PROCESS TO END!
+
+
+[2024-05-16 20:32:43.173232] New Pipo session opened on <built-in function gethostname>
+[2024-05-16 20:32:43.196049] UPDATE : Personnal settings opened
+[2024-05-16 20:32:45.265127] UPDATE : Project selected : testproject
+[2024-05-16 20:32:45.265127] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-05-16 20:32:45.265127] UPDATE : Project settings loaded!
+
+[2024-05-16 20:32:47.793741] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 20:32:47.793741] UPDATE : NO PROCESS TO END!
+[2024-05-16 20:32:47.793741] UPDATE : ['character']
+[2024-05-16 20:32:47.793741] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 20:32:47.800244] UPDATE : No name selected so no process launched!
+
+[2024-05-16 20:32:49.275953] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 20:32:49.275953] UPDATE : NO PROCESS TO END!
+[2024-05-16 20:32:49.275953] UPDATE : ['character', 'item']
+[2024-05-16 20:32:49.275953] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 20:32:49.275953] UPDATE : Default folder for item : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 20:32:49.283458] UPDATE : No name selected so no process launched!
+
+[2024-05-16 20:33:02.494722] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 20:33:02.494722] UPDATE : NO PROCESS TO END!
+[2024-05-16 20:33:02.494722] UPDATE : ['character', 'item']
+[2024-05-16 20:33:02.494722] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 20:33:02.494722] UPDATE : Default folder for item : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 20:33:02.500229] UPDATE : PROCESS <Process name='Process-1' pid=10752 parent=4376 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes]
+[2024-05-16 20:33:02.992117] UPDATE : FINAL QUEUE CONTENT : 
+
+
+[2024-05-16 20:36:52.212353] New Pipo session opened on <built-in function gethostname>
+[2024-05-16 20:36:52.222383] UPDATE : Personnal settings opened
+[2024-05-16 20:36:54.126749] UPDATE : Project selected : testproject
+[2024-05-16 20:36:54.126749] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-05-16 20:36:54.128255] UPDATE : Project settings loaded!
+
+[2024-05-16 20:36:55.477702] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 20:36:55.477702] UPDATE : NO PROCESS TO END!
+
+
+[2024-05-16 20:37:07.442432] New Pipo session opened on <built-in function gethostname>
+[2024-05-16 20:37:07.468205] UPDATE : Personnal settings opened
+[2024-05-16 20:37:09.351406] UPDATE : Project selected : testproject
+[2024-05-16 20:37:09.351406] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-05-16 20:37:09.351406] UPDATE : Project settings loaded!
+
+[2024-05-16 20:37:10.175317] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 20:37:10.190941] UPDATE : NO PROCESS TO END!
+[2024-05-16 20:37:10.190941] UPDATE : ['character']
+[2024-05-16 20:37:10.190941] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 20:37:10.190941] UPDATE : No name selected so no process launched!
+
+[2024-05-16 20:37:10.653951] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 20:37:10.653951] UPDATE : NO PROCESS TO END!
+[2024-05-16 20:37:10.653951] UPDATE : ['character']
+[2024-05-16 20:37:10.653951] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+
+
+[2024-05-16 20:37:31.470038] New Pipo session opened on <built-in function gethostname>
+[2024-05-16 20:37:31.485688] UPDATE : Personnal settings opened
+[2024-05-16 20:37:33.220041] UPDATE : Project selected : testproject
+[2024-05-16 20:37:33.220041] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-05-16 20:37:33.220041] UPDATE : Project settings loaded!
+
+[2024-05-16 20:37:33.987766] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 20:37:33.987766] UPDATE : NO PROCESS TO END!
+[2024-05-16 20:37:33.987766] UPDATE : ['character']
+[2024-05-16 20:37:33.987766] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 20:37:33.987766] UPDATE : No name selected so no process launched!
+
+[2024-05-16 20:37:34.520747] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 20:37:34.520747] UPDATE : NO PROCESS TO END!
+[2024-05-16 20:37:34.520747] UPDATE : ['character']
+[2024-05-16 20:37:34.520747] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 20:37:34.537877] UPDATE : PROCESS <Process name='Process-1' pid=22152 parent=12140 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes]
+[2024-05-16 20:37:35.028800] UPDATE : FINAL QUEUE CONTENT : 
+
+
+[2024-05-16 20:43:04.219804] New Pipo session opened on <built-in function gethostname>
+[2024-05-16 20:43:04.235450] UPDATE : Personnal settings opened
+[2024-05-16 20:43:05.970948] UPDATE : Project selected : testproject
+[2024-05-16 20:43:05.970948] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-05-16 20:43:05.970948] UPDATE : Project settings loaded!
+
+[2024-05-16 20:43:06.957366] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 20:43:06.957366] UPDATE : NO PROCESS TO END!
+[2024-05-16 20:43:06.957366] UPDATE : ['character']
+[2024-05-16 20:43:06.957366] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 20:43:06.957366] UPDATE : No name selected so no process launched!
+
+[2024-05-16 20:43:07.533520] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 20:43:07.533520] UPDATE : NO PROCESS TO END!
+[2024-05-16 20:43:07.533520] UPDATE : ['character']
+[2024-05-16 20:43:07.533520] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 20:43:07.549141] UPDATE : PROCESS <Process name='Process-1' pid=11580 parent=10748 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes]
+[2024-05-16 20:43:08.022102] UPDATE : FINAL QUEUE CONTENT : 
+[2024-05-16 20:43:08.022102] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\mod\edit\char_lucas_mod_v001.ma
+[2024-05-16 20:43:08.022102] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\mod\edit\char_lucas_mod_v002.ma
+[2024-05-16 20:43:08.022102] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\rig\edit\char_lucastest_rig_publish.ma
+[2024-05-16 20:43:08.022102] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\rig\edit\char_lucastest_rig_v001.ma
+[2024-05-16 20:43:08.022102] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\rig\edit\char_lucastest_rig_v002.ma
+[2024-05-16 20:43:08.022102] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\rig\publish\char_lucastest_rig_publish.ma
+
+
+[2024-05-16 20:43:50.275380] New Pipo session opened on <built-in function gethostname>
+[2024-05-16 20:43:50.291029] UPDATE : Personnal settings opened
+[2024-05-16 20:43:53.014873] UPDATE : Project selected : testproject
+[2024-05-16 20:43:53.014873] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-05-16 20:43:53.014873] UPDATE : Project settings loaded!
+
+[2024-05-16 20:43:53.993474] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 20:43:53.993474] UPDATE : NO PROCESS TO END!
+[2024-05-16 20:43:53.993474] UPDATE : ['character']
+[2024-05-16 20:43:53.993474] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 20:43:53.993474] UPDATE : No name selected so no process launched!
+
+[2024-05-16 20:43:54.884551] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 20:43:54.884551] UPDATE : NO PROCESS TO END!
+[2024-05-16 20:43:54.884551] UPDATE : ['character']
+[2024-05-16 20:43:54.884551] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 20:43:54.893077] UPDATE : PROCESS <Process name='Process-1' pid=3868 parent=5080 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes]
+[2024-05-16 20:43:55.366561] UPDATE : FINAL QUEUE CONTENT : 
+[2024-05-16 20:43:55.366561] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\mod\edit\char_lucas_mod_v001.ma
+[2024-05-16 20:43:55.366561] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\mod\edit\char_lucas_mod_v002.ma
+[2024-05-16 20:43:55.366561] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\rig\edit\char_lucastest_rig_publish.ma
+[2024-05-16 20:43:55.366561] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\rig\edit\char_lucastest_rig_v001.ma
+[2024-05-16 20:43:55.366561] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\rig\edit\char_lucastest_rig_v002.ma
+[2024-05-16 20:43:55.366561] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\rig\publish\char_lucastest_rig_publish.ma
+
+[2024-05-16 20:43:55.609614] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 20:43:55.609614] UPDATE : PROCESS TERMINATED : <Process name='Process-1' pid=3868 parent=5080 stopped exitcode=0>
+[2024-05-16 20:43:55.609614] UPDATE : ['character']
+[2024-05-16 20:43:55.609614] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 20:43:55.609614] UPDATE : PROCESS <Process name='Process-2' pid=3832 parent=5080 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes]
+[2024-05-16 20:43:55.625327] UPDATE : PROCESS <Process name='Process-3' pid=1428 parent=5080 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes]
+[2024-05-16 20:43:56.113324] UPDATE : FINAL QUEUE CONTENT : 
+[2024-05-16 20:43:56.113324] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\mod\edit\char_lucas_mod_v001.ma
+[2024-05-16 20:43:56.113324] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\mod\edit\char_lucas_mod_v002.ma
+[2024-05-16 20:43:56.113324] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\rig\edit\char_lucastest_rig_publish.ma
+[2024-05-16 20:43:56.113324] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\rig\edit\char_lucastest_rig_v001.ma
+[2024-05-16 20:43:56.113324] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\rig\edit\char_lucastest_rig_v002.ma
+[2024-05-16 20:43:56.123369] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\rig\publish\char_lucastest_rig_publish.ma
+[2024-05-16 20:43:56.123369] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes\lookdev\edit\char_matteotestlook_lookdev_v002.ma
+[2024-05-16 20:43:56.123369] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes\lookdev\edit\char_matteo_lookdev_v001.ma
+[2024-05-16 20:43:56.123369] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes\lookdev\publish\char_matteotestlook_lookdev_publish.ma
+
+
+[2024-05-16 21:32:56.614683] New Pipo session opened on <built-in function gethostname>
+[2024-05-16 21:32:56.645929] UPDATE : Personnal settings opened
+[2024-05-16 21:32:58.371442] UPDATE : Project selected : testproject
+[2024-05-16 21:32:58.387066] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-05-16 21:32:58.387066] UPDATE : Project settings loaded!
+
+[2024-05-16 21:32:59.404986] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 21:32:59.410517] UPDATE : NO PROCESS TO END!
+[2024-05-16 21:32:59.410517] UPDATE : ['prop']
+[2024-05-16 21:32:59.410517] UPDATE : Default folder for prop : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 21:32:59.410517] ERROR : Impossible to get name folder for that kind : prop
+[2024-05-16 21:32:59.410517] UPDATE : No name selected so no process launched!
+
+[2024-05-16 21:33:00.566270] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 21:33:00.566270] UPDATE : NO PROCESS TO END!
+[2024-05-16 21:33:00.566270] UPDATE : ['prop', 'character']
+[2024-05-16 21:33:00.566270] UPDATE : Default folder for prop : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 21:33:00.566270] ERROR : Impossible to get name folder for that kind : prop
+[2024-05-16 21:33:00.566270] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 21:33:00.566270] UPDATE : No name selected so no process launched!
+
+[2024-05-16 21:33:00.960490] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 21:33:00.960490] UPDATE : NO PROCESS TO END!
+[2024-05-16 21:33:00.960490] UPDATE : ['character']
+[2024-05-16 21:33:00.960490] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 21:33:00.960490] UPDATE : No name selected so no process launched!
+
+[2024-05-16 21:33:01.528428] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 21:33:01.528428] UPDATE : NO PROCESS TO END!
+[2024-05-16 21:33:01.528428] UPDATE : ['character']
+[2024-05-16 21:33:01.528428] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 21:33:01.544050] UPDATE : PROCESS <Process name='Process-1' pid=14972 parent=11220 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes]
+[2024-05-16 21:33:02.020270] UPDATE : FINAL QUEUE CONTENT : 
+[2024-05-16 21:33:02.020270] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\mod\edit\char_lucas_mod_v001.ma
+[2024-05-16 21:33:02.020270] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\mod\edit\char_lucas_mod_v002.ma
+[2024-05-16 21:33:02.020270] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\rig\edit\char_lucastest_rig_publish.ma
+[2024-05-16 21:33:02.020270] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\rig\edit\char_lucastest_rig_v001.ma
+[2024-05-16 21:33:02.020270] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\rig\edit\char_lucastest_rig_v002.ma
+[2024-05-16 21:33:02.020270] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\rig\publish\char_lucastest_rig_publish.ma
+
+
+[2024-05-16 21:36:21.364832] New Pipo session opened on <built-in function gethostname>
+[2024-05-16 21:36:21.374835] UPDATE : Personnal settings opened
+[2024-05-16 21:36:23.022191] UPDATE : Project selected : testproject
+[2024-05-16 21:36:23.022191] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-05-16 21:36:23.022191] UPDATE : Project settings loaded!
+
+[2024-05-16 21:36:24.008812] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 21:36:24.008812] UPDATE : NO PROCESS TO END!
+[2024-05-16 21:36:24.008812] UPDATE : ['character']
+[2024-05-16 21:36:24.008812] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 21:36:24.008812] UPDATE : No name selected so no process launched!
+
+[2024-05-16 21:36:25.150054] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 21:36:25.150054] UPDATE : NO PROCESS TO END!
+[2024-05-16 21:36:25.150054] UPDATE : ['character']
+[2024-05-16 21:36:25.150054] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 21:36:25.158558] UPDATE : PROCESS <Process name='Process-2' pid=21132 parent=21796 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes]
+[2024-05-16 21:36:25.641321] UPDATE : FINAL QUEUE CONTENT : 
+[2024-05-16 21:36:25.641321] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\mod\edit\char_lucas_mod_v001.ma
+[2024-05-16 21:36:25.641321] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\mod\edit\char_lucas_mod_v002.ma
+[2024-05-16 21:36:25.641321] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\rig\edit\char_lucastest_rig_publish.ma
+[2024-05-16 21:36:25.641321] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\rig\edit\char_lucastest_rig_v001.ma
+[2024-05-16 21:36:25.641321] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\rig\edit\char_lucastest_rig_v002.ma
+[2024-05-16 21:36:25.641321] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\rig\publish\char_lucastest_rig_publish.ma
+
+[2024-05-16 21:36:27.318818] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 21:36:27.318818] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=21132 parent=21796 stopped exitcode=0>
+[2024-05-16 21:36:27.318818] UPDATE : ['character']
+[2024-05-16 21:36:27.318818] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 21:36:27.342001] UPDATE : PROCESS <Process name='Process-3' pid=18544 parent=21796 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes]
+[2024-05-16 21:36:27.342001] UPDATE : PROCESS <Process name='Process-4' pid=17756 parent=21796 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes]
+[2024-05-16 21:36:27.833077] UPDATE : FINAL QUEUE CONTENT : 
+[2024-05-16 21:36:27.833077] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\mod\edit\char_lucas_mod_v001.ma
+[2024-05-16 21:36:27.833077] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\mod\edit\char_lucas_mod_v002.ma
+[2024-05-16 21:36:27.833077] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\rig\edit\char_lucastest_rig_publish.ma
+[2024-05-16 21:36:27.833077] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\rig\edit\char_lucastest_rig_v001.ma
+[2024-05-16 21:36:27.833077] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\rig\edit\char_lucastest_rig_v002.ma
+[2024-05-16 21:36:27.833077] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\rig\publish\char_lucastest_rig_publish.ma
+[2024-05-16 21:36:27.833077] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes\lookdev\edit\char_matteotestlook_lookdev_v002.ma
+[2024-05-16 21:36:27.833077] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes\lookdev\edit\char_matteo_lookdev_v001.ma
+[2024-05-16 21:36:27.848671] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes\lookdev\publish\char_matteotestlook_lookdev_publish.ma
+
+
+[2024-05-16 21:36:56.100912] New Pipo session opened on <built-in function gethostname>
+[2024-05-16 21:36:56.100912] UPDATE : Personnal settings opened
+[2024-05-16 21:36:57.611205] UPDATE : Project selected : testproject
+[2024-05-16 21:36:57.611205] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-05-16 21:36:57.611205] UPDATE : Project settings loaded!
+[2024-05-16 21:36:57.621207] UPDATE : hello world!
+[2024-05-16 21:36:58.760875] UPDATE : hello world!
+[2024-05-16 21:36:59.773081] UPDATE : hello world!
+[2024-05-16 21:37:00.779127] UPDATE : hello world!
+
+[2024-05-16 21:37:01.458960] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 21:37:01.458960] UPDATE : NO PROCESS TO END!
+[2024-05-16 21:37:01.458960] UPDATE : ['character']
+[2024-05-16 21:37:01.458960] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 21:37:01.458960] UPDATE : No name selected so no process launched!
+[2024-05-16 21:37:01.791566] UPDATE : hello world!
+
+[2024-05-16 21:37:02.084263] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 21:37:02.084263] UPDATE : NO PROCESS TO END!
+[2024-05-16 21:37:02.084263] UPDATE : ['character']
+[2024-05-16 21:37:02.084263] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 21:37:02.084263] UPDATE : PROCESS <Process name='Process-2' pid=20428 parent=1584 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes]
+[2024-05-16 21:37:02.563389] UPDATE : FINAL QUEUE CONTENT : 
+[2024-05-16 21:37:02.563389] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\mod\edit\char_lucas_mod_v001.ma
+[2024-05-16 21:37:02.563389] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\mod\edit\char_lucas_mod_v002.ma
+[2024-05-16 21:37:02.579015] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\rig\edit\char_lucastest_rig_publish.ma
+[2024-05-16 21:37:02.579015] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\rig\edit\char_lucastest_rig_v001.ma
+[2024-05-16 21:37:02.579015] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\rig\edit\char_lucastest_rig_v002.ma
+[2024-05-16 21:37:02.579015] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\rig\publish\char_lucastest_rig_publish.ma
+[2024-05-16 21:37:02.803587] UPDATE : hello world!
+[2024-05-16 21:37:03.816320] UPDATE : hello world!
+[2024-05-16 21:37:04.828758] UPDATE : hello world!
+
+
+[2024-05-16 21:47:03.869546] New Pipo session opened on <built-in function gethostname>
+[2024-05-16 21:47:03.896851] UPDATE : Personnal settings opened
+[2024-05-16 21:47:06.026022] UPDATE : Project selected : testproject
+[2024-05-16 21:47:06.026022] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-05-16 21:47:06.026022] UPDATE : Project settings loaded!
+
+[2024-05-16 21:47:07.259023] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 21:47:07.259023] UPDATE : NO PROCESS TO END!
+[2024-05-16 21:47:07.259023] UPDATE : ['character']
+[2024-05-16 21:47:07.259023] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 21:47:07.259023] UPDATE : No name selected so no process launched!
+
+[2024-05-16 21:47:09.123640] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 21:47:09.123640] UPDATE : NO PROCESS TO END!
+[2024-05-16 21:47:09.123640] UPDATE : ['character']
+[2024-05-16 21:47:09.123640] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 21:47:09.127641] UPDATE : PROCESS <Process name='Process-2' pid=11916 parent=14872 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes]
+[2024-05-16 21:47:09.614162] UPDATE : FINAL QUEUE CONTENT : 
+[2024-05-16 21:47:09.614162] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\mod\edit\char_lucas_mod_v001.ma
+[2024-05-16 21:47:09.614162] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\mod\edit\char_lucas_mod_v002.ma
+[2024-05-16 21:47:09.614162] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\rig\edit\char_lucastest_rig_publish.ma
+[2024-05-16 21:47:09.614162] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\rig\edit\char_lucastest_rig_v001.ma
+[2024-05-16 21:47:09.614162] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\rig\edit\char_lucastest_rig_v002.ma
+[2024-05-16 21:47:09.614162] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\rig\publish\char_lucastest_rig_publish.ma
+
+
+[2024-05-16 21:50:14.724421] New Pipo session opened on <built-in function gethostname>
+[2024-05-16 21:50:14.740313] UPDATE : Personnal settings opened
+[2024-05-16 21:50:17.572009] UPDATE : Project selected : testproject
+[2024-05-16 21:50:17.572009] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-05-16 21:50:17.572009] UPDATE : Project settings loaded!
+
+[2024-05-16 21:50:19.681861] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 21:50:19.681861] UPDATE : NO PROCESS TO END!
+[2024-05-16 21:50:19.681861] UPDATE : ['character']
+[2024-05-16 21:50:19.681861] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 21:50:19.681861] UPDATE : No name selected so no process launched!
+
+[2024-05-16 21:50:20.368866] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 21:50:20.368866] UPDATE : NO PROCESS TO END!
+[2024-05-16 21:50:20.368866] UPDATE : ['character']
+[2024-05-16 21:50:20.368866] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 21:50:20.381872] UPDATE : PROCESS <Process name='Process-2' pid=20292 parent=18612 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes]
+[2024-05-16 21:50:20.855972] UPDATE : FINAL QUEUE CONTENT : 
+[2024-05-16 21:50:20.855972] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\mod\edit\char_lucas_mod_v001.ma
+[2024-05-16 21:50:20.855972] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\mod\edit\char_lucas_mod_v002.ma
+[2024-05-16 21:50:20.855972] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\rig\edit\char_lucastest_rig_publish.ma
+[2024-05-16 21:50:20.855972] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\rig\edit\char_lucastest_rig_v001.ma
+[2024-05-16 21:50:20.855972] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\rig\edit\char_lucastest_rig_v002.ma
+[2024-05-16 21:50:20.855972] UPDATE : D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\rig\publish\char_lucastest_rig_publish.ma
+
+
+[2024-05-16 21:53:13.224596] New Pipo session opened on <built-in function gethostname>
+[2024-05-16 21:53:13.245184] UPDATE : Personnal settings opened
+[2024-05-16 21:53:14.745213] UPDATE : Project selected : testproject
+[2024-05-16 21:53:14.746245] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-05-16 21:53:14.746245] UPDATE : Project settings loaded!
+
+[2024-05-16 21:53:15.721495] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 21:53:15.721495] UPDATE : NO PROCESS TO END!
+[2024-05-16 21:53:15.721495] UPDATE : ['character']
+[2024-05-16 21:53:15.721495] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 21:53:15.721495] UPDATE : No name selected so no process launched!
+
+[2024-05-16 21:53:16.483305] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 21:53:16.483305] UPDATE : NO PROCESS TO END!
+[2024-05-16 21:53:16.483305] UPDATE : ['character']
+[2024-05-16 21:53:16.483305] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 21:53:16.488310] UPDATE : PROCESS <Process name='Process-2' pid=18056 parent=21744 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes]
+[2024-05-16 21:53:17.879826] UPDATE : content : None
+[2024-05-16 21:53:17.879826] UPDATE : content : None
+[2024-05-16 21:53:17.895449] UPDATE : content : None
+[2024-05-16 21:53:17.895449] UPDATE : content : None
+[2024-05-16 21:53:17.895449] UPDATE : content : None
+[2024-05-16 21:53:17.895449] UPDATE : content : None
+
+[2024-05-16 21:53:32.729732] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 21:53:32.729732] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=18056 parent=21744 stopped exitcode=0>
+[2024-05-16 21:53:32.729732] UPDATE : ['character']
+[2024-05-16 21:53:32.729732] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 21:53:32.738262] UPDATE : PROCESS <Process name='Process-3' pid=16708 parent=21744 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes]
+[2024-05-16 21:53:32.753930] UPDATE : PROCESS <Process name='Process-4' pid=12880 parent=21744 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes]
+[2024-05-16 21:53:33.949334] UPDATE : content : None
+[2024-05-16 21:53:33.949334] UPDATE : content : None
+[2024-05-16 21:53:33.949334] UPDATE : content : None
+[2024-05-16 21:53:33.964958] UPDATE : content : None
+[2024-05-16 21:53:33.964958] UPDATE : content : None
+[2024-05-16 21:53:33.964958] UPDATE : content : None
+[2024-05-16 21:53:33.964958] UPDATE : content : None
+[2024-05-16 21:53:33.964958] UPDATE : content : None
+[2024-05-16 21:53:33.981814] UPDATE : content : None
+
+
+[2024-05-16 21:55:27.442887] New Pipo session opened on <built-in function gethostname>
+[2024-05-16 21:55:27.458565] UPDATE : Personnal settings opened
+[2024-05-16 21:55:29.189095] UPDATE : Project selected : testproject
+[2024-05-16 21:55:29.189095] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-05-16 21:55:29.189095] UPDATE : Project settings loaded!
+
+[2024-05-16 21:55:30.051692] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 21:55:30.051692] UPDATE : NO PROCESS TO END!
+[2024-05-16 21:55:30.057694] UPDATE : ['character']
+[2024-05-16 21:55:30.057694] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 21:55:30.057694] UPDATE : No name selected so no process launched!
+
+[2024-05-16 21:55:30.632509] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 21:55:30.632509] UPDATE : NO PROCESS TO END!
+[2024-05-16 21:55:30.632509] UPDATE : ['character']
+[2024-05-16 21:55:30.632509] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 21:55:30.641012] UPDATE : PROCESS <Process name='Process-2' pid=15292 parent=19716 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes]
+
+
+[2024-05-16 21:55:51.595328] New Pipo session opened on <built-in function gethostname>
+[2024-05-16 21:55:51.621003] UPDATE : Personnal settings opened
+[2024-05-16 21:55:54.718679] UPDATE : Project selected : testproject
+[2024-05-16 21:55:54.718679] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-05-16 21:55:54.718679] UPDATE : Project settings loaded!
+
+[2024-05-16 21:55:55.564580] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 21:55:55.564580] UPDATE : NO PROCESS TO END!
+[2024-05-16 21:55:55.571129] UPDATE : ['character']
+[2024-05-16 21:55:55.571129] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 21:55:55.571129] UPDATE : No name selected so no process launched!
+
+[2024-05-16 21:55:56.231302] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 21:55:56.231302] UPDATE : NO PROCESS TO END!
+[2024-05-16 21:55:56.231302] UPDATE : ['character']
+[2024-05-16 21:55:56.231302] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 21:55:56.236808] UPDATE : PROCESS <Process name='Process-2' pid=2108 parent=10212 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes]
+[2024-05-16 21:55:56.712577] UPDATE : element added
+[2024-05-16 21:55:56.712577] UPDATE : element added
+[2024-05-16 21:55:56.712577] UPDATE : element added
+[2024-05-16 21:55:56.712577] UPDATE : element added
+[2024-05-16 21:55:56.712577] UPDATE : element added
+[2024-05-16 21:55:56.712577] UPDATE : element added
+[2024-05-16 21:55:56.712577] UPDATE : ['D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\mod\\edit\\char_lucas_mod_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\mod\\edit\\char_lucas_mod_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_publish.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\publish\\char_lucastest_rig_publish.ma']
+
+
+[2024-05-16 21:58:12.345002] New Pipo session opened on <built-in function gethostname>
+[2024-05-16 21:58:12.362353] UPDATE : Personnal settings opened
+[2024-05-16 21:58:17.428667] UPDATE : Project selected : testproject
+[2024-05-16 21:58:17.428667] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-05-16 21:58:17.428667] UPDATE : Project settings loaded!
+
+[2024-05-16 21:58:21.336272] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 21:58:21.336272] UPDATE : NO PROCESS TO END!
+[2024-05-16 21:58:21.336272] UPDATE : ['character']
+[2024-05-16 21:58:21.336272] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 21:58:21.336272] UPDATE : No name selected so no process launched!
+
+[2024-05-16 21:58:22.032436] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 21:58:22.032436] UPDATE : NO PROCESS TO END!
+[2024-05-16 21:58:22.032436] UPDATE : ['character']
+[2024-05-16 21:58:22.032436] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 21:58:22.036463] UPDATE : PROCESS <Process name='Process-2' pid=21584 parent=6556 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes]
+[2024-05-16 21:58:22.512520] UPDATE : element added
+[2024-05-16 21:58:22.512520] UPDATE : element added
+[2024-05-16 21:58:22.512520] UPDATE : element added
+[2024-05-16 21:58:22.512520] UPDATE : element added
+[2024-05-16 21:58:22.512520] UPDATE : element added
+[2024-05-16 21:58:22.512520] UPDATE : element added
+[2024-05-16 21:58:22.512520] UPDATE : ['D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\mod\\edit\\char_lucas_mod_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\mod\\edit\\char_lucas_mod_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_publish.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\publish\\char_lucastest_rig_publish.ma']
+
+
+[2024-05-16 22:08:08.440051] New Pipo session opened on <built-in function gethostname>
+[2024-05-16 22:08:08.455889] UPDATE : Personnal settings opened
+[2024-05-16 22:08:14.865036] UPDATE : Project selected : testproject
+[2024-05-16 22:08:14.865036] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-05-16 22:08:14.865036] UPDATE : Project settings loaded!
+[2024-05-16 22:08:14.875066] UPDATE : ...
+[2024-05-16 22:08:14.981407] UPDATE : None
+[2024-05-16 22:08:15.022647] UPDATE : []
+[2024-05-16 22:08:16.094683] UPDATE : ...
+[2024-05-16 22:08:16.094683] UPDATE : None
+[2024-05-16 22:08:16.094683] UPDATE : []
+
+[2024-05-16 22:08:16.267472] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 22:08:16.267472] UPDATE : NO PROCESS TO END!
+[2024-05-16 22:08:16.267472] UPDATE : ['character']
+[2024-05-16 22:08:16.267472] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 22:08:16.267472] UPDATE : No name selected so no process launched!
+
+[2024-05-16 22:08:16.968465] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 22:08:16.968465] UPDATE : NO PROCESS TO END!
+[2024-05-16 22:08:16.968465] UPDATE : ['character']
+[2024-05-16 22:08:16.968465] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 22:08:16.968465] UPDATE : PROCESS <Process name='Process-2' pid=18896 parent=17268 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes]
+[2024-05-16 22:08:17.462796] UPDATE : element added
+[2024-05-16 22:08:17.462796] UPDATE : element added
+[2024-05-16 22:08:17.462796] UPDATE : element added
+[2024-05-16 22:08:17.462796] UPDATE : element added
+[2024-05-16 22:08:17.462796] UPDATE : element added
+[2024-05-16 22:08:17.462796] UPDATE : element added
+[2024-05-16 22:08:17.462796] UPDATE : ['D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\mod\\edit\\char_lucas_mod_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\mod\\edit\\char_lucas_mod_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_publish.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\publish\\char_lucastest_rig_publish.ma']
+[2024-05-16 22:08:17.110924] UPDATE : ...
+[2024-05-16 22:08:17.530382] UPDATE : None
+[2024-05-16 22:08:17.530382] UPDATE : ['D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\mod\\edit\\char_lucas_mod_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\mod\\edit\\char_lucas_mod_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_publish.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\publish\\char_lucastest_rig_publish.ma']
+[2024-05-16 22:08:18.546847] UPDATE : ...
+[2024-05-16 22:08:18.546847] UPDATE : None
+[2024-05-16 22:08:18.546847] UPDATE : ['D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\mod\\edit\\char_lucas_mod_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\mod\\edit\\char_lucas_mod_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_publish.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\publish\\char_lucastest_rig_publish.ma']
+[2024-05-16 22:08:19.562329] UPDATE : ...
+[2024-05-16 22:08:19.562329] UPDATE : None
+[2024-05-16 22:08:19.562329] UPDATE : ['D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\mod\\edit\\char_lucas_mod_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\mod\\edit\\char_lucas_mod_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_publish.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\publish\\char_lucastest_rig_publish.ma']
+[2024-05-16 22:08:20.578652] UPDATE : ...
+[2024-05-16 22:08:20.578652] UPDATE : None
+[2024-05-16 22:08:20.578652] UPDATE : ['D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\mod\\edit\\char_lucas_mod_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\mod\\edit\\char_lucas_mod_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_publish.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\publish\\char_lucastest_rig_publish.ma']
+[2024-05-16 22:08:21.582613] UPDATE : ...
+[2024-05-16 22:08:21.582613] UPDATE : None
+[2024-05-16 22:08:21.582613] UPDATE : ['D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\mod\\edit\\char_lucas_mod_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\mod\\edit\\char_lucas_mod_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_publish.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\publish\\char_lucastest_rig_publish.ma']
+[2024-05-16 22:08:22.598439] UPDATE : ...
+[2024-05-16 22:08:22.598439] UPDATE : None
+[2024-05-16 22:08:22.614065] UPDATE : ['D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\mod\\edit\\char_lucas_mod_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\mod\\edit\\char_lucas_mod_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_publish.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\publish\\char_lucastest_rig_publish.ma']
+
+[2024-05-16 22:08:23.593491] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 22:08:23.593491] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=18896 parent=17268 stopped exitcode=0>
+[2024-05-16 22:08:23.593491] UPDATE : ['character']
+[2024-05-16 22:08:23.593491] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 22:08:23.600501] UPDATE : PROCESS <Process name='Process-3' pid=16288 parent=17268 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes]
+[2024-05-16 22:08:23.616253] UPDATE : PROCESS <Process name='Process-4' pid=21392 parent=17268 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes]
+[2024-05-16 22:08:24.107652] UPDATE : element added
+[2024-05-16 22:08:24.107652] UPDATE : element added
+[2024-05-16 22:08:24.107652] UPDATE : element added
+[2024-05-16 22:08:24.107652] UPDATE : element added
+[2024-05-16 22:08:24.107652] UPDATE : element added
+[2024-05-16 22:08:24.107652] UPDATE : element added
+[2024-05-16 22:08:24.107652] UPDATE : element added
+[2024-05-16 22:08:24.107652] UPDATE : element added
+[2024-05-16 22:08:24.107652] UPDATE : element added
+[2024-05-16 22:08:24.107652] UPDATE : ['D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\mod\\edit\\char_lucas_mod_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\mod\\edit\\char_lucas_mod_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_publish.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\publish\\char_lucastest_rig_publish.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\mod\\edit\\char_lucas_mod_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\mod\\edit\\char_lucas_mod_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_publish.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\publish\\char_lucastest_rig_publish.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes\\lookdev\\edit\\char_matteotestlook_lookdev_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes\\lookdev\\edit\\char_matteo_lookdev_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes\\lookdev\\publish\\char_matteotestlook_lookdev_publish.ma']
+[2024-05-16 22:08:23.616121] UPDATE : ...
+[2024-05-16 22:08:24.165246] UPDATE : None
+[2024-05-16 22:08:24.175248] UPDATE : ['D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\mod\\edit\\char_lucas_mod_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\mod\\edit\\char_lucas_mod_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_publish.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\publish\\char_lucastest_rig_publish.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\mod\\edit\\char_lucas_mod_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\mod\\edit\\char_lucas_mod_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_publish.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\publish\\char_lucastest_rig_publish.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes\\lookdev\\edit\\char_matteotestlook_lookdev_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes\\lookdev\\edit\\char_matteo_lookdev_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes\\lookdev\\publish\\char_matteotestlook_lookdev_publish.ma']
+[2024-05-16 22:08:25.191925] UPDATE : ...
+[2024-05-16 22:08:25.194418] UPDATE : None
+[2024-05-16 22:08:25.194418] UPDATE : ['D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\mod\\edit\\char_lucas_mod_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\mod\\edit\\char_lucas_mod_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_publish.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\publish\\char_lucastest_rig_publish.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\mod\\edit\\char_lucas_mod_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\mod\\edit\\char_lucas_mod_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_publish.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\publish\\char_lucastest_rig_publish.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes\\lookdev\\edit\\char_matteotestlook_lookdev_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes\\lookdev\\edit\\char_matteo_lookdev_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes\\lookdev\\publish\\char_matteotestlook_lookdev_publish.ma']
+[2024-05-16 22:08:26.199655] UPDATE : ...
+[2024-05-16 22:08:26.234374] UPDATE : None
+[2024-05-16 22:08:26.234374] UPDATE : ['D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\mod\\edit\\char_lucas_mod_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\mod\\edit\\char_lucas_mod_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_publish.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\publish\\char_lucastest_rig_publish.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\mod\\edit\\char_lucas_mod_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\mod\\edit\\char_lucas_mod_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_publish.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\publish\\char_lucastest_rig_publish.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes\\lookdev\\edit\\char_matteotestlook_lookdev_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes\\lookdev\\edit\\char_matteo_lookdev_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes\\lookdev\\publish\\char_matteotestlook_lookdev_publish.ma']
+[2024-05-16 22:08:27.244703] UPDATE : ...
+[2024-05-16 22:08:27.244703] UPDATE : None
+[2024-05-16 22:08:27.244703] UPDATE : ['D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\mod\\edit\\char_lucas_mod_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\mod\\edit\\char_lucas_mod_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_publish.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\publish\\char_lucastest_rig_publish.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\mod\\edit\\char_lucas_mod_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\mod\\edit\\char_lucas_mod_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_publish.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\publish\\char_lucastest_rig_publish.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes\\lookdev\\edit\\char_matteotestlook_lookdev_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes\\lookdev\\edit\\char_matteo_lookdev_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes\\lookdev\\publish\\char_matteotestlook_lookdev_publish.ma']
+
+
+[2024-05-16 22:15:49.213274] New Pipo session opened on <built-in function gethostname>
+[2024-05-16 22:15:49.223277] UPDATE : Personnal settings opened
+[2024-05-16 22:15:51.442864] UPDATE : Project selected : testproject
+[2024-05-16 22:15:51.442864] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-05-16 22:15:51.442864] UPDATE : Project settings loaded!
+
+[2024-05-16 22:15:52.717800] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 22:15:52.717800] UPDATE : NO PROCESS TO END!
+[2024-05-16 22:15:52.717800] UPDATE : ['character']
+[2024-05-16 22:15:52.717800] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 22:15:52.717800] UPDATE : No name selected so no process launched!
+
+[2024-05-16 22:15:54.049872] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 22:15:54.049872] UPDATE : NO PROCESS TO END!
+[2024-05-16 22:15:54.049872] UPDATE : ['character']
+[2024-05-16 22:15:54.049872] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 22:15:54.059404] UPDATE : PROCESS <Process name='Process-2' pid=5344 parent=14864 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes]
+[2024-05-16 22:15:54.528046] UPDATE : element added
+[2024-05-16 22:15:54.528046] UPDATE : element added
+[2024-05-16 22:15:54.528046] UPDATE : element added
+[2024-05-16 22:15:54.528046] UPDATE : ['D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes\\lookdev\\edit\\char_matteotestlook_lookdev_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes\\lookdev\\edit\\char_matteo_lookdev_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes\\lookdev\\publish\\char_matteotestlook_lookdev_publish.ma']
+
+[2024-05-16 22:16:02.238897] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 22:16:02.238897] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=5344 parent=14864 stopped exitcode=0>
+[2024-05-16 22:16:02.238897] UPDATE : ['character']
+[2024-05-16 22:16:02.238897] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 22:16:02.242899] UPDATE : PROCESS <Process name='Process-3' pid=20288 parent=14864 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes]
+[2024-05-16 22:16:02.258561] UPDATE : PROCESS <Process name='Process-4' pid=1852 parent=14864 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes]
+[2024-05-16 22:16:02.738690] UPDATE : element added
+[2024-05-16 22:16:02.738690] UPDATE : element added
+[2024-05-16 22:16:02.738690] UPDATE : element added
+[2024-05-16 22:16:02.738690] UPDATE : element added
+[2024-05-16 22:16:02.738690] UPDATE : element added
+[2024-05-16 22:16:02.738690] UPDATE : element added
+[2024-05-16 22:16:02.738690] UPDATE : element added
+[2024-05-16 22:16:02.738690] UPDATE : element added
+[2024-05-16 22:16:02.738690] UPDATE : element added
+[2024-05-16 22:16:02.738690] UPDATE : ['D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes\\lookdev\\edit\\char_matteotestlook_lookdev_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes\\lookdev\\edit\\char_matteo_lookdev_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes\\lookdev\\publish\\char_matteotestlook_lookdev_publish.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\mod\\edit\\char_lucas_mod_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\mod\\edit\\char_lucas_mod_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_publish.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\publish\\char_lucastest_rig_publish.ma']
+
+
+[2024-05-16 22:17:42.955502] New Pipo session opened on <built-in function gethostname>
+[2024-05-16 22:17:42.965504] UPDATE : Personnal settings opened
+[2024-05-16 22:17:44.752659] UPDATE : Project selected : testproject
+[2024-05-16 22:17:44.752659] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-05-16 22:17:44.752659] UPDATE : Project settings loaded!
+
+[2024-05-16 22:17:45.638897] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 22:17:45.638897] UPDATE : NO PROCESS TO END!
+[2024-05-16 22:17:45.638897] UPDATE : ['character']
+[2024-05-16 22:17:45.638897] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 22:17:45.654551] UPDATE : No name selected so no process launched!
+
+[2024-05-16 22:17:46.292253] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 22:17:46.292253] UPDATE : NO PROCESS TO END!
+[2024-05-16 22:17:46.292253] UPDATE : ['character']
+[2024-05-16 22:17:46.292253] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 22:17:46.297260] UPDATE : PROCESS <Process name='Process-2' pid=2064 parent=21364 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes]
+[2024-05-16 22:17:46.787676] UPDATE : element added
+[2024-05-16 22:17:46.788226] UPDATE : element added
+[2024-05-16 22:17:46.788226] UPDATE : element added
+[2024-05-16 22:17:46.788226] UPDATE : element added
+[2024-05-16 22:17:46.789224] UPDATE : element added
+[2024-05-16 22:17:46.789224] UPDATE : element added
+[2024-05-16 22:17:46.789224] UPDATE : ['D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\mod\\edit\\char_lucas_mod_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\mod\\edit\\char_lucas_mod_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_publish.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\publish\\char_lucastest_rig_publish.ma']
+
+[2024-05-16 22:17:50.736010] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 22:17:50.736010] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=2064 parent=21364 stopped exitcode=0>
+[2024-05-16 22:17:50.736010] UPDATE : ['character']
+[2024-05-16 22:17:50.736010] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 22:17:50.747517] UPDATE : PROCESS <Process name='Process-3' pid=10288 parent=21364 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes]
+[2024-05-16 22:17:50.747517] UPDATE : PROCESS <Process name='Process-4' pid=2788 parent=21364 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes]
+[2024-05-16 22:17:51.236475] UPDATE : element added
+[2024-05-16 22:17:51.236475] UPDATE : element added
+[2024-05-16 22:17:51.236475] UPDATE : element added
+[2024-05-16 22:17:51.236475] UPDATE : element added
+[2024-05-16 22:17:51.236475] UPDATE : element added
+[2024-05-16 22:17:51.236475] UPDATE : element added
+[2024-05-16 22:17:51.236475] UPDATE : element added
+[2024-05-16 22:17:51.236475] UPDATE : element added
+[2024-05-16 22:17:51.236475] UPDATE : element added
+[2024-05-16 22:17:51.236475] UPDATE : ['D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\mod\\edit\\char_lucas_mod_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\mod\\edit\\char_lucas_mod_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_publish.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\publish\\char_lucastest_rig_publish.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes\\lookdev\\edit\\char_matteotestlook_lookdev_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes\\lookdev\\edit\\char_matteo_lookdev_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes\\lookdev\\publish\\char_matteotestlook_lookdev_publish.ma']
+
+[2024-05-16 22:17:53.597219] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 22:17:53.598217] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=2064 parent=21364 stopped exitcode=0>
+[2024-05-16 22:17:53.598217] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=10288 parent=21364 stopped exitcode=0>
+[2024-05-16 22:17:53.599214] UPDATE : PROCESS TERMINATED : <Process name='Process-4' pid=2788 parent=21364 stopped exitcode=0>
+[2024-05-16 22:17:53.599648] UPDATE : ['character']
+[2024-05-16 22:17:53.599648] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 22:17:53.608150] UPDATE : PROCESS <Process name='Process-5' pid=8512 parent=21364 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes]
+[2024-05-16 22:17:54.075660] UPDATE : element added
+[2024-05-16 22:17:54.075660] UPDATE : element added
+[2024-05-16 22:17:54.075660] UPDATE : element added
+[2024-05-16 22:17:54.075660] UPDATE : ['D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes\\lookdev\\edit\\char_matteotestlook_lookdev_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes\\lookdev\\edit\\char_matteo_lookdev_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes\\lookdev\\publish\\char_matteotestlook_lookdev_publish.ma']
+
+[2024-05-16 22:17:58.591412] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 22:17:58.591412] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=2064 parent=21364 stopped exitcode=0>
+[2024-05-16 22:17:58.591412] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=10288 parent=21364 stopped exitcode=0>
+[2024-05-16 22:17:58.591412] UPDATE : PROCESS TERMINATED : <Process name='Process-4' pid=2788 parent=21364 stopped exitcode=0>
+[2024-05-16 22:17:58.591412] UPDATE : PROCESS TERMINATED : <Process name='Process-5' pid=8512 parent=21364 stopped exitcode=0>
+[2024-05-16 22:17:58.591412] UPDATE : ['character']
+[2024-05-16 22:17:58.591412] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 22:17:58.597439] UPDATE : PROCESS <Process name='Process-6' pid=17768 parent=21364 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes]
+[2024-05-16 22:17:58.613138] UPDATE : PROCESS <Process name='Process-7' pid=20060 parent=21364 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes]
+[2024-05-16 22:17:59.115580] UPDATE : element added
+[2024-05-16 22:17:59.115580] UPDATE : element added
+[2024-05-16 22:17:59.115580] UPDATE : element added
+[2024-05-16 22:17:59.116578] UPDATE : element added
+[2024-05-16 22:17:59.116578] UPDATE : element added
+[2024-05-16 22:17:59.117465] UPDATE : element added
+[2024-05-16 22:17:59.117465] UPDATE : element added
+[2024-05-16 22:17:59.117465] UPDATE : element added
+[2024-05-16 22:17:59.117465] UPDATE : element added
+[2024-05-16 22:17:59.117465] UPDATE : ['D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes\\lookdev\\edit\\char_matteotestlook_lookdev_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes\\lookdev\\edit\\char_matteo_lookdev_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes\\lookdev\\publish\\char_matteotestlook_lookdev_publish.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\mod\\edit\\char_lucas_mod_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\mod\\edit\\char_lucas_mod_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_publish.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\publish\\char_lucastest_rig_publish.ma']
+
+[2024-05-16 22:18:06.285199] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 22:18:06.285199] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=2064 parent=21364 stopped exitcode=0>
+[2024-05-16 22:18:06.285199] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=10288 parent=21364 stopped exitcode=0>
+[2024-05-16 22:18:06.285199] UPDATE : PROCESS TERMINATED : <Process name='Process-4' pid=2788 parent=21364 stopped exitcode=0>
+[2024-05-16 22:18:06.285199] UPDATE : PROCESS TERMINATED : <Process name='Process-5' pid=8512 parent=21364 stopped exitcode=0>
+[2024-05-16 22:18:06.285199] UPDATE : PROCESS TERMINATED : <Process name='Process-6' pid=17768 parent=21364 stopped exitcode=0>
+[2024-05-16 22:18:06.285199] UPDATE : PROCESS TERMINATED : <Process name='Process-7' pid=20060 parent=21364 stopped exitcode=0>
+[2024-05-16 22:18:06.285199] UPDATE : ['character']
+[2024-05-16 22:18:06.285199] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 22:18:06.302254] UPDATE : PROCESS <Process name='Process-8' pid=13180 parent=21364 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes]
+[2024-05-16 22:18:06.312236] UPDATE : PROCESS <Process name='Process-9' pid=1212 parent=21364 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes]
+[2024-05-16 22:18:06.319184] UPDATE : PROCESS <Process name='Process-10' pid=14656 parent=21364 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes]
+[2024-05-16 22:18:06.825194] UPDATE : element added
+[2024-05-16 22:18:06.825194] UPDATE : element added
+[2024-05-16 22:18:06.826220] UPDATE : element added
+[2024-05-16 22:18:06.826220] UPDATE : element added
+[2024-05-16 22:18:06.827230] UPDATE : element added
+[2024-05-16 22:18:06.827230] UPDATE : element added
+[2024-05-16 22:18:06.828189] UPDATE : element added
+[2024-05-16 22:18:06.828189] UPDATE : element added
+[2024-05-16 22:18:06.828189] UPDATE : element added
+[2024-05-16 22:18:06.829264] UPDATE : element added
+[2024-05-16 22:18:06.829264] UPDATE : ['D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes\\lookdev\\edit\\char_matteotestlook_lookdev_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes\\lookdev\\edit\\char_matteo_lookdev_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes\\lookdev\\publish\\char_matteotestlook_lookdev_publish.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\mod\\edit\\char_lucas_mod_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\mod\\edit\\char_lucas_mod_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_publish.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\publish\\char_lucastest_rig_publish.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes\\mod\\edit\\char_Robin_mod_v001.ma']
+
+[2024-05-16 22:18:11.263423] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 22:18:11.263423] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=2064 parent=21364 stopped exitcode=0>
+[2024-05-16 22:18:11.263423] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=10288 parent=21364 stopped exitcode=0>
+[2024-05-16 22:18:11.263423] UPDATE : PROCESS TERMINATED : <Process name='Process-4' pid=2788 parent=21364 stopped exitcode=0>
+[2024-05-16 22:18:11.263423] UPDATE : PROCESS TERMINATED : <Process name='Process-5' pid=8512 parent=21364 stopped exitcode=0>
+[2024-05-16 22:18:11.263423] UPDATE : PROCESS TERMINATED : <Process name='Process-6' pid=17768 parent=21364 stopped exitcode=0>
+[2024-05-16 22:18:11.263423] UPDATE : PROCESS TERMINATED : <Process name='Process-7' pid=20060 parent=21364 stopped exitcode=0>
+[2024-05-16 22:18:11.263423] UPDATE : PROCESS TERMINATED : <Process name='Process-8' pid=13180 parent=21364 stopped exitcode=0>
+[2024-05-16 22:18:11.263423] UPDATE : PROCESS TERMINATED : <Process name='Process-9' pid=1212 parent=21364 stopped exitcode=0>
+[2024-05-16 22:18:11.263423] UPDATE : PROCESS TERMINATED : <Process name='Process-10' pid=14656 parent=21364 stopped exitcode=0>
+[2024-05-16 22:18:11.263423] UPDATE : ['character']
+[2024-05-16 22:18:11.263423] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 22:18:11.273425] UPDATE : PROCESS <Process name='Process-11' pid=3496 parent=21364 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes]
+[2024-05-16 22:18:11.290695] UPDATE : PROCESS <Process name='Process-12' pid=4452 parent=21364 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes]
+[2024-05-16 22:18:11.766969] UPDATE : element added
+[2024-05-16 22:18:11.766969] UPDATE : element added
+[2024-05-16 22:18:11.766969] UPDATE : element added
+[2024-05-16 22:18:11.766969] UPDATE : element added
+[2024-05-16 22:18:11.766969] UPDATE : element added
+[2024-05-16 22:18:11.766969] UPDATE : element added
+[2024-05-16 22:18:11.766969] UPDATE : element added
+[2024-05-16 22:18:11.766969] UPDATE : ['D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\mod\\edit\\char_lucas_mod_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\mod\\edit\\char_lucas_mod_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_publish.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\publish\\char_lucastest_rig_publish.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes\\mod\\edit\\char_Robin_mod_v001.ma']
+
+[2024-05-16 22:18:14.761788] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 22:18:14.761788] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=2064 parent=21364 stopped exitcode=0>
+[2024-05-16 22:18:14.761788] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=10288 parent=21364 stopped exitcode=0>
+[2024-05-16 22:18:14.761788] UPDATE : PROCESS TERMINATED : <Process name='Process-4' pid=2788 parent=21364 stopped exitcode=0>
+[2024-05-16 22:18:14.761788] UPDATE : PROCESS TERMINATED : <Process name='Process-5' pid=8512 parent=21364 stopped exitcode=0>
+[2024-05-16 22:18:14.761788] UPDATE : PROCESS TERMINATED : <Process name='Process-6' pid=17768 parent=21364 stopped exitcode=0>
+[2024-05-16 22:18:14.761788] UPDATE : PROCESS TERMINATED : <Process name='Process-7' pid=20060 parent=21364 stopped exitcode=0>
+[2024-05-16 22:18:14.761788] UPDATE : PROCESS TERMINATED : <Process name='Process-8' pid=13180 parent=21364 stopped exitcode=0>
+[2024-05-16 22:18:14.761788] UPDATE : PROCESS TERMINATED : <Process name='Process-9' pid=1212 parent=21364 stopped exitcode=0>
+[2024-05-16 22:18:14.761788] UPDATE : PROCESS TERMINATED : <Process name='Process-10' pid=14656 parent=21364 stopped exitcode=0>
+[2024-05-16 22:18:14.761788] UPDATE : PROCESS TERMINATED : <Process name='Process-11' pid=3496 parent=21364 stopped exitcode=0>
+[2024-05-16 22:18:14.761788] UPDATE : PROCESS TERMINATED : <Process name='Process-12' pid=4452 parent=21364 stopped exitcode=0>
+[2024-05-16 22:18:14.761788] UPDATE : ['character']
+[2024-05-16 22:18:14.761788] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 22:18:14.780919] UPDATE : PROCESS <Process name='Process-13' pid=18504 parent=21364 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes]
+[2024-05-16 22:18:15.260404] UPDATE : element added
+[2024-05-16 22:18:15.260404] UPDATE : ['D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes\\mod\\edit\\char_Robin_mod_v001.ma']
+
+[2024-05-16 22:18:17.663934] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 22:18:17.663934] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=2064 parent=21364 stopped exitcode=0>
+[2024-05-16 22:18:17.663934] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=10288 parent=21364 stopped exitcode=0>
+[2024-05-16 22:18:17.663934] UPDATE : PROCESS TERMINATED : <Process name='Process-4' pid=2788 parent=21364 stopped exitcode=0>
+[2024-05-16 22:18:17.663934] UPDATE : PROCESS TERMINATED : <Process name='Process-5' pid=8512 parent=21364 stopped exitcode=0>
+[2024-05-16 22:18:17.663934] UPDATE : PROCESS TERMINATED : <Process name='Process-6' pid=17768 parent=21364 stopped exitcode=0>
+[2024-05-16 22:18:17.667439] UPDATE : PROCESS TERMINATED : <Process name='Process-7' pid=20060 parent=21364 stopped exitcode=0>
+[2024-05-16 22:18:17.667439] UPDATE : PROCESS TERMINATED : <Process name='Process-8' pid=13180 parent=21364 stopped exitcode=0>
+[2024-05-16 22:18:17.667439] UPDATE : PROCESS TERMINATED : <Process name='Process-9' pid=1212 parent=21364 stopped exitcode=0>
+[2024-05-16 22:18:17.667439] UPDATE : PROCESS TERMINATED : <Process name='Process-10' pid=14656 parent=21364 stopped exitcode=0>
+[2024-05-16 22:18:17.667439] UPDATE : PROCESS TERMINATED : <Process name='Process-11' pid=3496 parent=21364 stopped exitcode=0>
+[2024-05-16 22:18:17.667439] UPDATE : PROCESS TERMINATED : <Process name='Process-12' pid=4452 parent=21364 stopped exitcode=0>
+[2024-05-16 22:18:17.667439] UPDATE : PROCESS TERMINATED : <Process name='Process-13' pid=18504 parent=21364 stopped exitcode=0>
+[2024-05-16 22:18:17.667439] UPDATE : ['character']
+[2024-05-16 22:18:17.667439] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 22:18:17.667439] UPDATE : No name selected so no process launched!
+
+[2024-05-16 22:18:18.242781] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 22:18:18.242781] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=2064 parent=21364 stopped exitcode=0>
+[2024-05-16 22:18:18.242781] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=10288 parent=21364 stopped exitcode=0>
+[2024-05-16 22:18:18.242781] UPDATE : PROCESS TERMINATED : <Process name='Process-4' pid=2788 parent=21364 stopped exitcode=0>
+[2024-05-16 22:18:18.242781] UPDATE : PROCESS TERMINATED : <Process name='Process-5' pid=8512 parent=21364 stopped exitcode=0>
+[2024-05-16 22:18:18.242781] UPDATE : PROCESS TERMINATED : <Process name='Process-6' pid=17768 parent=21364 stopped exitcode=0>
+[2024-05-16 22:18:18.258289] UPDATE : PROCESS TERMINATED : <Process name='Process-7' pid=20060 parent=21364 stopped exitcode=0>
+[2024-05-16 22:18:18.258289] UPDATE : PROCESS TERMINATED : <Process name='Process-8' pid=13180 parent=21364 stopped exitcode=0>
+[2024-05-16 22:18:18.258289] UPDATE : PROCESS TERMINATED : <Process name='Process-9' pid=1212 parent=21364 stopped exitcode=0>
+[2024-05-16 22:18:18.258289] UPDATE : PROCESS TERMINATED : <Process name='Process-10' pid=14656 parent=21364 stopped exitcode=0>
+[2024-05-16 22:18:18.258289] UPDATE : PROCESS TERMINATED : <Process name='Process-11' pid=3496 parent=21364 stopped exitcode=0>
+[2024-05-16 22:18:18.258289] UPDATE : PROCESS TERMINATED : <Process name='Process-12' pid=4452 parent=21364 stopped exitcode=0>
+[2024-05-16 22:18:18.258289] UPDATE : PROCESS TERMINATED : <Process name='Process-13' pid=18504 parent=21364 stopped exitcode=0>
+[2024-05-16 22:18:18.258289] UPDATE : ['character']
+[2024-05-16 22:18:18.258289] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 22:18:18.268812] UPDATE : PROCESS <Process name='Process-14' pid=4272 parent=21364 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes]
+[2024-05-16 22:18:18.740608] UPDATE : element added
+[2024-05-16 22:18:18.741549] UPDATE : element added
+[2024-05-16 22:18:18.742018] UPDATE : element added
+[2024-05-16 22:18:18.742469] UPDATE : element added
+[2024-05-16 22:18:18.742834] UPDATE : element added
+[2024-05-16 22:18:18.743399] UPDATE : element added
+[2024-05-16 22:18:18.743399] UPDATE : ['D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\mod\\edit\\char_lucas_mod_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\mod\\edit\\char_lucas_mod_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_publish.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\publish\\char_lucastest_rig_publish.ma']
+
+[2024-05-16 22:18:22.061728] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 22:18:22.064261] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=2064 parent=21364 stopped exitcode=0>
+[2024-05-16 22:18:22.064261] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=10288 parent=21364 stopped exitcode=0>
+[2024-05-16 22:18:22.064261] UPDATE : PROCESS TERMINATED : <Process name='Process-4' pid=2788 parent=21364 stopped exitcode=0>
+[2024-05-16 22:18:22.064261] UPDATE : PROCESS TERMINATED : <Process name='Process-5' pid=8512 parent=21364 stopped exitcode=0>
+[2024-05-16 22:18:22.064261] UPDATE : PROCESS TERMINATED : <Process name='Process-6' pid=17768 parent=21364 stopped exitcode=0>
+[2024-05-16 22:18:22.064261] UPDATE : PROCESS TERMINATED : <Process name='Process-7' pid=20060 parent=21364 stopped exitcode=0>
+[2024-05-16 22:18:22.064261] UPDATE : PROCESS TERMINATED : <Process name='Process-8' pid=13180 parent=21364 stopped exitcode=0>
+[2024-05-16 22:18:22.064261] UPDATE : PROCESS TERMINATED : <Process name='Process-9' pid=1212 parent=21364 stopped exitcode=0>
+[2024-05-16 22:18:22.064261] UPDATE : PROCESS TERMINATED : <Process name='Process-10' pid=14656 parent=21364 stopped exitcode=0>
+[2024-05-16 22:18:22.064261] UPDATE : PROCESS TERMINATED : <Process name='Process-11' pid=3496 parent=21364 stopped exitcode=0>
+[2024-05-16 22:18:22.064261] UPDATE : PROCESS TERMINATED : <Process name='Process-12' pid=4452 parent=21364 stopped exitcode=0>
+[2024-05-16 22:18:22.064261] UPDATE : PROCESS TERMINATED : <Process name='Process-13' pid=18504 parent=21364 stopped exitcode=0>
+[2024-05-16 22:18:22.064261] UPDATE : PROCESS TERMINATED : <Process name='Process-14' pid=4272 parent=21364 stopped exitcode=0>
+[2024-05-16 22:18:22.064261] UPDATE : ['character']
+[2024-05-16 22:18:22.064261] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 22:18:22.069265] UPDATE : PROCESS <Process name='Process-15' pid=22476 parent=21364 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes/rig/edit]
+[2024-05-16 22:18:22.088687] UPDATE : PROCESS <Process name='Process-16' pid=16828 parent=21364 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes/rig/publish]
+[2024-05-16 22:18:22.559528] UPDATE : element added
+[2024-05-16 22:18:22.559528] UPDATE : element added
+[2024-05-16 22:18:22.559528] UPDATE : element added
+[2024-05-16 22:18:22.559528] UPDATE : element added
+[2024-05-16 22:18:22.559528] UPDATE : ['D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes/rig/edit\\char_lucastest_rig_publish.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes/rig/edit\\char_lucastest_rig_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes/rig/publish\\char_lucastest_rig_publish.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes/rig/edit\\char_lucastest_rig_v002.ma']
+
+
+[2024-05-16 22:19:12.371478] New Pipo session opened on <built-in function gethostname>
+[2024-05-16 22:19:12.387002] UPDATE : Personnal settings opened
+[2024-05-16 22:19:13.832155] UPDATE : Project selected : testproject
+[2024-05-16 22:19:13.832155] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-05-16 22:19:13.832155] UPDATE : Project settings loaded!
+
+[2024-05-16 22:19:14.797688] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 22:19:14.797688] UPDATE : NO PROCESS TO END!
+[2024-05-16 22:19:14.797688] UPDATE : ['character']
+[2024-05-16 22:19:14.797688] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 22:19:14.797688] UPDATE : No name selected so no process launched!
+
+[2024-05-16 22:19:15.300394] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 22:19:15.300394] UPDATE : NO PROCESS TO END!
+[2024-05-16 22:19:15.300394] UPDATE : ['character']
+[2024-05-16 22:19:15.300394] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 22:19:15.305900] UPDATE : PROCESS <Process name='Process-2' pid=22360 parent=21996 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes]
+[2024-05-16 22:19:15.782140] UPDATE : element added
+[2024-05-16 22:19:15.782140] UPDATE : element added
+[2024-05-16 22:19:15.782140] UPDATE : element added
+[2024-05-16 22:19:15.782140] UPDATE : element added
+[2024-05-16 22:19:15.782140] UPDATE : element added
+[2024-05-16 22:19:15.782140] UPDATE : element added
+[2024-05-16 22:19:15.782140] UPDATE : ['D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\mod\\edit\\char_lucas_mod_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\mod\\edit\\char_lucas_mod_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_publish.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\publish\\char_lucastest_rig_publish.ma']
+
+[2024-05-16 22:19:16.118803] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 22:19:16.118803] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=22360 parent=21996 stopped exitcode=0>
+[2024-05-16 22:19:16.118803] UPDATE : ['character']
+[2024-05-16 22:19:16.118803] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 22:19:16.138929] UPDATE : PROCESS <Process name='Process-3' pid=5416 parent=21996 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes]
+[2024-05-16 22:19:16.138929] UPDATE : PROCESS <Process name='Process-4' pid=14772 parent=21996 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes]
+[2024-05-16 22:19:16.630616] UPDATE : element added
+[2024-05-16 22:19:16.630616] UPDATE : element added
+[2024-05-16 22:19:16.630616] UPDATE : element added
+[2024-05-16 22:19:16.630616] UPDATE : element added
+[2024-05-16 22:19:16.630616] UPDATE : element added
+[2024-05-16 22:19:16.630616] UPDATE : element added
+[2024-05-16 22:19:16.630616] UPDATE : element added
+[2024-05-16 22:19:16.630616] UPDATE : element added
+[2024-05-16 22:19:16.630616] UPDATE : element added
+[2024-05-16 22:19:16.630616] UPDATE : ['D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\mod\\edit\\char_lucas_mod_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\mod\\edit\\char_lucas_mod_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_publish.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\publish\\char_lucastest_rig_publish.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes\\lookdev\\edit\\char_matteotestlook_lookdev_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes\\lookdev\\edit\\char_matteo_lookdev_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes\\lookdev\\publish\\char_matteotestlook_lookdev_publish.ma']
+
+[2024-05-16 22:19:18.135682] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 22:19:18.135682] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=22360 parent=21996 stopped exitcode=0>
+[2024-05-16 22:19:18.135682] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=5416 parent=21996 stopped exitcode=0>
+[2024-05-16 22:19:18.135682] UPDATE : PROCESS TERMINATED : <Process name='Process-4' pid=14772 parent=21996 stopped exitcode=0>
+[2024-05-16 22:19:18.139188] UPDATE : ['character']
+[2024-05-16 22:19:18.139188] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 22:19:18.139188] UPDATE : PROCESS <Process name='Process-5' pid=2896 parent=21996 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes]
+[2024-05-16 22:19:18.609624] UPDATE : element added
+[2024-05-16 22:19:18.609624] UPDATE : element added
+[2024-05-16 22:19:18.609624] UPDATE : element added
+[2024-05-16 22:19:18.619627] UPDATE : element added
+[2024-05-16 22:19:18.619627] UPDATE : element added
+[2024-05-16 22:19:18.619627] UPDATE : element added
+[2024-05-16 22:19:18.619627] UPDATE : ['D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\mod\\edit\\char_lucas_mod_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\mod\\edit\\char_lucas_mod_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_publish.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\publish\\char_lucastest_rig_publish.ma']
+
+[2024-05-16 22:19:18.915356] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 22:19:18.915356] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=22360 parent=21996 stopped exitcode=0>
+[2024-05-16 22:19:18.915356] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=5416 parent=21996 stopped exitcode=0>
+[2024-05-16 22:19:18.915356] UPDATE : PROCESS TERMINATED : <Process name='Process-4' pid=14772 parent=21996 stopped exitcode=0>
+[2024-05-16 22:19:18.915356] UPDATE : PROCESS TERMINATED : <Process name='Process-5' pid=2896 parent=21996 stopped exitcode=0>
+[2024-05-16 22:19:18.915356] UPDATE : ['character']
+[2024-05-16 22:19:18.915356] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 22:19:18.915356] UPDATE : No name selected so no process launched!
+
+[2024-05-16 22:19:27.719799] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 22:19:27.722310] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=22360 parent=21996 stopped exitcode=0>
+[2024-05-16 22:19:27.722310] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=5416 parent=21996 stopped exitcode=0>
+[2024-05-16 22:19:27.722310] UPDATE : PROCESS TERMINATED : <Process name='Process-4' pid=14772 parent=21996 stopped exitcode=0>
+[2024-05-16 22:19:27.722310] UPDATE : PROCESS TERMINATED : <Process name='Process-5' pid=2896 parent=21996 stopped exitcode=0>
+[2024-05-16 22:19:27.722310] UPDATE : ['character']
+[2024-05-16 22:19:27.722310] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 22:19:27.722310] UPDATE : No name selected so no process launched!
+
+[2024-05-16 22:19:28.797615] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 22:19:28.797615] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=22360 parent=21996 stopped exitcode=0>
+[2024-05-16 22:19:28.797615] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=5416 parent=21996 stopped exitcode=0>
+[2024-05-16 22:19:28.797615] UPDATE : PROCESS TERMINATED : <Process name='Process-4' pid=14772 parent=21996 stopped exitcode=0>
+[2024-05-16 22:19:28.797615] UPDATE : PROCESS TERMINATED : <Process name='Process-5' pid=2896 parent=21996 stopped exitcode=0>
+[2024-05-16 22:19:28.797615] UPDATE : ['character']
+[2024-05-16 22:19:28.813237] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 22:19:28.823751] UPDATE : PROCESS <Process name='Process-6' pid=16208 parent=21996 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes/lookdev/edit]
+[2024-05-16 22:19:28.823751] UPDATE : PROCESS <Process name='Process-7' pid=18224 parent=21996 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes/lookdev/publish]
+[2024-05-16 22:19:29.318325] UPDATE : element added
+[2024-05-16 22:19:29.318325] UPDATE : element added
+[2024-05-16 22:19:29.318325] UPDATE : element added
+[2024-05-16 22:19:29.318325] UPDATE : ['D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes/lookdev/edit\\char_matteotestlook_lookdev_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes/lookdev/edit\\char_matteo_lookdev_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes/lookdev/publish\\char_matteotestlook_lookdev_publish.ma']
+
+
+[2024-05-16 22:19:57.056916] New Pipo session opened on <built-in function gethostname>
+[2024-05-16 22:19:57.066919] UPDATE : Personnal settings opened
+[2024-05-16 22:19:58.758123] UPDATE : Project selected : testproject
+[2024-05-16 22:19:58.758123] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-05-16 22:19:58.758123] UPDATE : Project settings loaded!
+
+[2024-05-16 22:19:59.977690] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 22:19:59.977690] UPDATE : NO PROCESS TO END!
+[2024-05-16 22:19:59.977690] UPDATE : ['character']
+[2024-05-16 22:19:59.977690] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 22:19:59.977690] UPDATE : No name selected so no process launched!
+
+[2024-05-16 22:20:01.098644] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 22:20:01.098644] UPDATE : NO PROCESS TO END!
+[2024-05-16 22:20:01.098644] UPDATE : ['character']
+[2024-05-16 22:20:01.098644] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 22:20:01.098644] UPDATE : No name selected so no process launched!
+
+[2024-05-16 22:20:03.227348] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 22:20:03.227348] UPDATE : NO PROCESS TO END!
+[2024-05-16 22:20:03.227348] UPDATE : ['character']
+[2024-05-16 22:20:03.227348] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 22:20:03.232882] UPDATE : PROCESS <Process name='Process-2' pid=22204 parent=13172 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes/lookdev/edit]
+[2024-05-16 22:20:03.248507] UPDATE : PROCESS <Process name='Process-3' pid=21100 parent=13172 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes/lookdev/publish]
+[2024-05-16 22:20:03.746340] UPDATE : element added
+[2024-05-16 22:20:03.746340] UPDATE : element added
+[2024-05-16 22:20:03.746340] UPDATE : element added
+[2024-05-16 22:20:03.746340] UPDATE : ['D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes/lookdev/edit\\char_matteotestlook_lookdev_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes/lookdev/edit\\char_matteo_lookdev_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes/lookdev/publish\\char_matteotestlook_lookdev_publish.ma']
+
+[2024-05-16 22:20:06.210702] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 22:20:06.210702] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=22204 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:06.210702] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=21100 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:06.210702] UPDATE : []
+[2024-05-16 22:20:06.210702] UPDATE : NO FILES FOUND!
+
+[2024-05-16 22:20:07.728868] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 22:20:07.728868] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=22204 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:07.728868] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=21100 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:07.728868] UPDATE : ['prop']
+[2024-05-16 22:20:07.728868] UPDATE : Default folder for prop : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 22:20:07.728868] ERROR : Impossible to get name folder for that kind : prop
+[2024-05-16 22:20:07.744401] UPDATE : NO FILES FOUND!
+
+[2024-05-16 22:20:08.261013] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 22:20:08.261013] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=22204 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:08.261013] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=21100 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:08.261013] UPDATE : []
+[2024-05-16 22:20:08.261013] UPDATE : NO FILES FOUND!
+
+[2024-05-16 22:20:08.673985] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 22:20:08.673985] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=22204 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:08.673985] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=21100 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:08.673985] UPDATE : ['character']
+[2024-05-16 22:20:08.673985] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 22:20:08.682990] UPDATE : PROCESS <Process name='Process-4' pid=21676 parent=13172 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes]
+[2024-05-16 22:20:09.161221] UPDATE : element added
+[2024-05-16 22:20:09.161221] UPDATE : element added
+[2024-05-16 22:20:09.161221] UPDATE : element added
+[2024-05-16 22:20:09.161221] UPDATE : ['D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes\\lookdev\\edit\\char_matteotestlook_lookdev_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes\\lookdev\\edit\\char_matteo_lookdev_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes\\lookdev\\publish\\char_matteotestlook_lookdev_publish.ma']
+
+[2024-05-16 22:20:10.246486] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 22:20:10.246486] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=22204 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:10.246486] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=21100 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:10.246486] UPDATE : PROCESS TERMINATED : <Process name='Process-4' pid=21676 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:10.246486] UPDATE : ['character']
+[2024-05-16 22:20:10.246486] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 22:20:10.249993] UPDATE : PROCESS <Process name='Process-5' pid=3360 parent=13172 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes/lookdev/edit]
+[2024-05-16 22:20:10.265700] UPDATE : PROCESS <Process name='Process-6' pid=17824 parent=13172 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes/lookdev/publish]
+[2024-05-16 22:20:10.744767] UPDATE : element added
+[2024-05-16 22:20:10.744767] UPDATE : element added
+[2024-05-16 22:20:10.744767] UPDATE : element added
+[2024-05-16 22:20:10.744767] UPDATE : ['D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes/lookdev/edit\\char_matteotestlook_lookdev_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes/lookdev/edit\\char_matteo_lookdev_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes/lookdev/publish\\char_matteotestlook_lookdev_publish.ma']
+
+[2024-05-16 22:20:11.383464] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 22:20:11.383464] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=22204 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:11.383464] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=21100 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:11.383464] UPDATE : PROCESS TERMINATED : <Process name='Process-4' pid=21676 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:11.383464] UPDATE : PROCESS TERMINATED : <Process name='Process-5' pid=3360 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:11.383464] UPDATE : PROCESS TERMINATED : <Process name='Process-6' pid=17824 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:11.383464] UPDATE : []
+[2024-05-16 22:20:11.383464] UPDATE : NO FILES FOUND!
+
+[2024-05-16 22:20:12.077007] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 22:20:12.077007] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=22204 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:12.077007] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=21100 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:12.083032] UPDATE : PROCESS TERMINATED : <Process name='Process-4' pid=21676 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:12.083032] UPDATE : PROCESS TERMINATED : <Process name='Process-5' pid=3360 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:12.083032] UPDATE : PROCESS TERMINATED : <Process name='Process-6' pid=17824 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:12.083032] UPDATE : ['character']
+[2024-05-16 22:20:12.083032] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 22:20:12.083032] UPDATE : PROCESS <Process name='Process-7' pid=20396 parent=13172 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes]
+[2024-05-16 22:20:12.560975] UPDATE : element added
+[2024-05-16 22:20:12.560975] UPDATE : element added
+[2024-05-16 22:20:12.560975] UPDATE : element added
+[2024-05-16 22:20:12.560975] UPDATE : ['D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes\\lookdev\\edit\\char_matteotestlook_lookdev_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes\\lookdev\\edit\\char_matteo_lookdev_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes\\lookdev\\publish\\char_matteotestlook_lookdev_publish.ma']
+
+[2024-05-16 22:20:15.509295] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 22:20:15.509295] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=22204 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:15.509295] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=21100 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:15.509295] UPDATE : PROCESS TERMINATED : <Process name='Process-4' pid=21676 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:15.509295] UPDATE : PROCESS TERMINATED : <Process name='Process-5' pid=3360 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:15.509295] UPDATE : PROCESS TERMINATED : <Process name='Process-6' pid=17824 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:15.509295] UPDATE : PROCESS TERMINATED : <Process name='Process-7' pid=20396 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:15.509295] UPDATE : ['character']
+[2024-05-16 22:20:15.509295] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 22:20:15.517336] UPDATE : PROCESS <Process name='Process-8' pid=15484 parent=13172 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes]
+[2024-05-16 22:20:15.983961] UPDATE : element added
+[2024-05-16 22:20:15.983961] UPDATE : element added
+[2024-05-16 22:20:15.983961] UPDATE : element added
+[2024-05-16 22:20:15.983961] UPDATE : element added
+[2024-05-16 22:20:15.983961] UPDATE : element added
+[2024-05-16 22:20:15.983961] UPDATE : element added
+[2024-05-16 22:20:15.983961] UPDATE : ['D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\mod\\edit\\char_lucas_mod_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\mod\\edit\\char_lucas_mod_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_publish.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\publish\\char_lucastest_rig_publish.ma']
+
+[2024-05-16 22:20:17.677081] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 22:20:17.677081] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=22204 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:17.677081] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=21100 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:17.677081] UPDATE : PROCESS TERMINATED : <Process name='Process-4' pid=21676 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:17.677081] UPDATE : PROCESS TERMINATED : <Process name='Process-5' pid=3360 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:17.677081] UPDATE : PROCESS TERMINATED : <Process name='Process-6' pid=17824 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:17.677081] UPDATE : PROCESS TERMINATED : <Process name='Process-7' pid=20396 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:17.677081] UPDATE : PROCESS TERMINATED : <Process name='Process-8' pid=15484 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:17.677081] UPDATE : ['character']
+[2024-05-16 22:20:17.677081] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 22:20:17.683109] UPDATE : No name selected so no process launched!
+
+[2024-05-16 22:20:18.382848] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 22:20:18.382848] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=22204 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:18.382848] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=21100 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:18.382848] UPDATE : PROCESS TERMINATED : <Process name='Process-4' pid=21676 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:18.382848] UPDATE : PROCESS TERMINATED : <Process name='Process-5' pid=3360 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:18.382848] UPDATE : PROCESS TERMINATED : <Process name='Process-6' pid=17824 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:18.382848] UPDATE : PROCESS TERMINATED : <Process name='Process-7' pid=20396 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:18.382848] UPDATE : PROCESS TERMINATED : <Process name='Process-8' pid=15484 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:18.382848] UPDATE : ['character']
+[2024-05-16 22:20:18.382848] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 22:20:18.382848] UPDATE : PROCESS <Process name='Process-9' pid=20500 parent=13172 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/max/maya/scenes]
+[2024-05-16 22:20:18.854927] UPDATE : element added
+[2024-05-16 22:20:18.854927] UPDATE : ['D:/WORK/TESTPROJECT/ASSETS/char/max/maya/scenes\\rig\\char_max_rig_v003.ma']
+
+[2024-05-16 22:20:21.338520] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 22:20:21.338520] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=22204 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:21.338520] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=21100 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:21.338520] UPDATE : PROCESS TERMINATED : <Process name='Process-4' pid=21676 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:21.338520] UPDATE : PROCESS TERMINATED : <Process name='Process-5' pid=3360 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:21.338520] UPDATE : PROCESS TERMINATED : <Process name='Process-6' pid=17824 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:21.338520] UPDATE : PROCESS TERMINATED : <Process name='Process-7' pid=20396 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:21.338520] UPDATE : PROCESS TERMINATED : <Process name='Process-8' pid=15484 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:21.338520] UPDATE : PROCESS TERMINATED : <Process name='Process-9' pid=20500 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:21.338520] UPDATE : ['character']
+[2024-05-16 22:20:21.338520] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 22:20:21.338520] UPDATE : No name selected so no process launched!
+
+[2024-05-16 22:20:22.417024] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 22:20:22.417024] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=22204 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:22.417024] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=21100 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:22.417024] UPDATE : PROCESS TERMINATED : <Process name='Process-4' pid=21676 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:22.417024] UPDATE : PROCESS TERMINATED : <Process name='Process-5' pid=3360 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:22.417024] UPDATE : PROCESS TERMINATED : <Process name='Process-6' pid=17824 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:22.417024] UPDATE : PROCESS TERMINATED : <Process name='Process-7' pid=20396 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:22.417024] UPDATE : PROCESS TERMINATED : <Process name='Process-8' pid=15484 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:22.417024] UPDATE : PROCESS TERMINATED : <Process name='Process-9' pid=20500 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:22.417024] UPDATE : ['character']
+[2024-05-16 22:20:22.417024] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 22:20:22.417024] UPDATE : No name selected so no process launched!
+
+[2024-05-16 22:20:24.355015] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 22:20:24.355015] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=22204 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:24.355015] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=21100 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:24.355015] UPDATE : PROCESS TERMINATED : <Process name='Process-4' pid=21676 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:24.355015] UPDATE : PROCESS TERMINATED : <Process name='Process-5' pid=3360 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:24.365021] UPDATE : PROCESS TERMINATED : <Process name='Process-6' pid=17824 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:24.365021] UPDATE : PROCESS TERMINATED : <Process name='Process-7' pid=20396 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:24.365021] UPDATE : PROCESS TERMINATED : <Process name='Process-8' pid=15484 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:24.365021] UPDATE : PROCESS TERMINATED : <Process name='Process-9' pid=20500 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:24.365021] UPDATE : ['character']
+[2024-05-16 22:20:24.366552] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 22:20:24.366552] UPDATE : NO FILES FOUND!
+
+[2024-05-16 22:20:26.127918] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 22:20:26.127918] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=22204 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:26.127918] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=21100 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:26.127918] UPDATE : PROCESS TERMINATED : <Process name='Process-4' pid=21676 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:26.127918] UPDATE : PROCESS TERMINATED : <Process name='Process-5' pid=3360 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:26.127918] UPDATE : PROCESS TERMINATED : <Process name='Process-6' pid=17824 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:26.127918] UPDATE : PROCESS TERMINATED : <Process name='Process-7' pid=20396 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:26.127918] UPDATE : PROCESS TERMINATED : <Process name='Process-8' pid=15484 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:26.132923] UPDATE : PROCESS TERMINATED : <Process name='Process-9' pid=20500 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:26.132923] UPDATE : ['character']
+[2024-05-16 22:20:26.132923] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 22:20:26.132923] UPDATE : No name selected so no process launched!
+
+[2024-05-16 22:20:27.475670] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 22:20:27.475670] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=22204 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:27.475670] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=21100 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:27.475670] UPDATE : PROCESS TERMINATED : <Process name='Process-4' pid=21676 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:27.475670] UPDATE : PROCESS TERMINATED : <Process name='Process-5' pid=3360 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:27.475670] UPDATE : PROCESS TERMINATED : <Process name='Process-6' pid=17824 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:27.475670] UPDATE : PROCESS TERMINATED : <Process name='Process-7' pid=20396 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:27.475670] UPDATE : PROCESS TERMINATED : <Process name='Process-8' pid=15484 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:27.475670] UPDATE : PROCESS TERMINATED : <Process name='Process-9' pid=20500 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:27.475670] UPDATE : ['character']
+[2024-05-16 22:20:27.475670] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 22:20:27.491297] UPDATE : No name selected so no process launched!
+
+[2024-05-16 22:20:27.894821] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 22:20:27.894821] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=22204 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:27.894821] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=21100 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:27.894821] UPDATE : PROCESS TERMINATED : <Process name='Process-4' pid=21676 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:27.894821] UPDATE : PROCESS TERMINATED : <Process name='Process-5' pid=3360 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:27.894821] UPDATE : PROCESS TERMINATED : <Process name='Process-6' pid=17824 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:27.894821] UPDATE : PROCESS TERMINATED : <Process name='Process-7' pid=20396 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:27.894821] UPDATE : PROCESS TERMINATED : <Process name='Process-8' pid=15484 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:27.894821] UPDATE : PROCESS TERMINATED : <Process name='Process-9' pid=20500 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:27.894821] UPDATE : ['character']
+[2024-05-16 22:20:27.894821] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 22:20:27.899852] UPDATE : No name selected so no process launched!
+
+[2024-05-16 22:20:28.532839] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 22:20:28.532839] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=22204 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:28.532839] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=21100 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:28.532839] UPDATE : PROCESS TERMINATED : <Process name='Process-4' pid=21676 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:28.532839] UPDATE : PROCESS TERMINATED : <Process name='Process-5' pid=3360 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:28.532839] UPDATE : PROCESS TERMINATED : <Process name='Process-6' pid=17824 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:28.532839] UPDATE : PROCESS TERMINATED : <Process name='Process-7' pid=20396 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:28.532839] UPDATE : PROCESS TERMINATED : <Process name='Process-8' pid=15484 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:28.532839] UPDATE : PROCESS TERMINATED : <Process name='Process-9' pid=20500 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:28.532839] UPDATE : ['character']
+[2024-05-16 22:20:28.532839] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 22:20:28.532839] UPDATE : NO FILES FOUND!
+
+[2024-05-16 22:20:35.541499] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 22:20:35.541499] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=22204 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:35.541499] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=21100 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:35.541499] UPDATE : PROCESS TERMINATED : <Process name='Process-4' pid=21676 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:35.541499] UPDATE : PROCESS TERMINATED : <Process name='Process-5' pid=3360 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:35.541499] UPDATE : PROCESS TERMINATED : <Process name='Process-6' pid=17824 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:35.557099] UPDATE : PROCESS TERMINATED : <Process name='Process-7' pid=20396 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:35.557099] UPDATE : PROCESS TERMINATED : <Process name='Process-8' pid=15484 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:35.557099] UPDATE : PROCESS TERMINATED : <Process name='Process-9' pid=20500 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:35.557099] UPDATE : ['character']
+[2024-05-16 22:20:35.557099] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 22:20:35.567641] UPDATE : PROCESS <Process name='Process-10' pid=1720 parent=13172 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes]
+[2024-05-16 22:20:36.030188] UPDATE : element added
+[2024-05-16 22:20:36.030188] UPDATE : element added
+[2024-05-16 22:20:36.030188] UPDATE : element added
+[2024-05-16 22:20:36.030188] UPDATE : element added
+[2024-05-16 22:20:36.030188] UPDATE : element added
+[2024-05-16 22:20:36.030188] UPDATE : element added
+[2024-05-16 22:20:36.030188] UPDATE : ['D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\mod\\edit\\char_lucas_mod_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\mod\\edit\\char_lucas_mod_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_publish.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\edit\\char_lucastest_rig_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes\\rig\\publish\\char_lucastest_rig_publish.ma']
+
+[2024-05-16 22:20:37.577560] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 22:20:37.577560] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=22204 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:37.577560] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=21100 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:37.577560] UPDATE : PROCESS TERMINATED : <Process name='Process-4' pid=21676 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:37.577560] UPDATE : PROCESS TERMINATED : <Process name='Process-5' pid=3360 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:37.577560] UPDATE : PROCESS TERMINATED : <Process name='Process-6' pid=17824 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:37.577560] UPDATE : PROCESS TERMINATED : <Process name='Process-7' pid=20396 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:37.577560] UPDATE : PROCESS TERMINATED : <Process name='Process-8' pid=15484 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:37.577560] UPDATE : PROCESS TERMINATED : <Process name='Process-9' pid=20500 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:37.577560] UPDATE : PROCESS TERMINATED : <Process name='Process-10' pid=1720 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:37.577560] UPDATE : ['character']
+[2024-05-16 22:20:37.577560] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 22:20:37.593181] UPDATE : PROCESS <Process name='Process-11' pid=19476 parent=13172 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes/mod/edit]
+[2024-05-16 22:20:38.061420] UPDATE : element added
+[2024-05-16 22:20:38.061420] UPDATE : element added
+[2024-05-16 22:20:38.061420] UPDATE : ['D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes/mod/edit\\char_lucas_mod_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes/mod/edit\\char_lucas_mod_v002.ma']
+
+[2024-05-16 22:20:39.791544] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 22:20:39.791544] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=22204 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:39.791544] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=21100 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:39.791544] UPDATE : PROCESS TERMINATED : <Process name='Process-4' pid=21676 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:39.791544] UPDATE : PROCESS TERMINATED : <Process name='Process-5' pid=3360 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:39.791544] UPDATE : PROCESS TERMINATED : <Process name='Process-6' pid=17824 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:39.791544] UPDATE : PROCESS TERMINATED : <Process name='Process-7' pid=20396 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:39.791544] UPDATE : PROCESS TERMINATED : <Process name='Process-8' pid=15484 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:39.791544] UPDATE : PROCESS TERMINATED : <Process name='Process-9' pid=20500 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:39.791544] UPDATE : PROCESS TERMINATED : <Process name='Process-10' pid=1720 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:39.791544] UPDATE : PROCESS TERMINATED : <Process name='Process-11' pid=19476 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:39.791544] UPDATE : ['character']
+[2024-05-16 22:20:39.791544] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 22:20:39.807158] UPDATE : No name selected so no process launched!
+
+[2024-05-16 22:20:41.011078] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 22:20:41.011078] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=22204 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:41.011078] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=21100 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:41.011078] UPDATE : PROCESS TERMINATED : <Process name='Process-4' pid=21676 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:41.011078] UPDATE : PROCESS TERMINATED : <Process name='Process-5' pid=3360 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:41.011078] UPDATE : PROCESS TERMINATED : <Process name='Process-6' pid=17824 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:41.011078] UPDATE : PROCESS TERMINATED : <Process name='Process-7' pid=20396 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:41.011078] UPDATE : PROCESS TERMINATED : <Process name='Process-8' pid=15484 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:41.011078] UPDATE : PROCESS TERMINATED : <Process name='Process-9' pid=20500 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:41.026728] UPDATE : PROCESS TERMINATED : <Process name='Process-10' pid=1720 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:41.026728] UPDATE : PROCESS TERMINATED : <Process name='Process-11' pid=19476 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:41.026728] UPDATE : ['character']
+[2024-05-16 22:20:41.026728] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 22:20:41.033231] UPDATE : PROCESS <Process name='Process-12' pid=20736 parent=13172 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/mod/edit]
+[2024-05-16 22:20:41.048855] UPDATE : PROCESS <Process name='Process-13' pid=22524 parent=13172 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/mod/publish]
+[2024-05-16 22:20:41.525006] UPDATE : element added
+[2024-05-16 22:20:41.525006] UPDATE : ['D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/mod/edit\\char_Robin_mod_v001.ma']
+
+[2024-05-16 22:20:45.410326] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 22:20:45.410326] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=22204 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:45.410326] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=21100 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:45.410326] UPDATE : PROCESS TERMINATED : <Process name='Process-4' pid=21676 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:45.410326] UPDATE : PROCESS TERMINATED : <Process name='Process-5' pid=3360 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:45.410326] UPDATE : PROCESS TERMINATED : <Process name='Process-6' pid=17824 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:45.410326] UPDATE : PROCESS TERMINATED : <Process name='Process-7' pid=20396 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:45.410326] UPDATE : PROCESS TERMINATED : <Process name='Process-8' pid=15484 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:45.410326] UPDATE : PROCESS TERMINATED : <Process name='Process-9' pid=20500 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:45.410326] UPDATE : PROCESS TERMINATED : <Process name='Process-10' pid=1720 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:45.410326] UPDATE : PROCESS TERMINATED : <Process name='Process-11' pid=19476 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:45.410326] UPDATE : PROCESS TERMINATED : <Process name='Process-12' pid=20736 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:45.416334] UPDATE : PROCESS TERMINATED : <Process name='Process-13' pid=22524 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:45.416334] UPDATE : ['character']
+[2024-05-16 22:20:45.416334] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 22:20:45.416334] UPDATE : No name selected so no process launched!
+
+[2024-05-16 22:20:46.016522] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 22:20:46.016522] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=22204 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:46.016522] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=21100 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:46.016522] UPDATE : PROCESS TERMINATED : <Process name='Process-4' pid=21676 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:46.016522] UPDATE : PROCESS TERMINATED : <Process name='Process-5' pid=3360 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:46.016522] UPDATE : PROCESS TERMINATED : <Process name='Process-6' pid=17824 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:46.016522] UPDATE : PROCESS TERMINATED : <Process name='Process-7' pid=20396 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:46.016522] UPDATE : PROCESS TERMINATED : <Process name='Process-8' pid=15484 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:46.016522] UPDATE : PROCESS TERMINATED : <Process name='Process-9' pid=20500 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:46.016522] UPDATE : PROCESS TERMINATED : <Process name='Process-10' pid=1720 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:46.016522] UPDATE : PROCESS TERMINATED : <Process name='Process-11' pid=19476 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:46.016522] UPDATE : PROCESS TERMINATED : <Process name='Process-12' pid=20736 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:46.016522] UPDATE : PROCESS TERMINATED : <Process name='Process-13' pid=22524 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:46.016522] UPDATE : ['character']
+[2024-05-16 22:20:46.016522] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 22:20:46.016522] UPDATE : NO FILES FOUND!
+
+[2024-05-16 22:20:50.066637] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 22:20:50.066637] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=22204 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:50.066637] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=21100 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:50.066637] UPDATE : PROCESS TERMINATED : <Process name='Process-4' pid=21676 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:50.066637] UPDATE : PROCESS TERMINATED : <Process name='Process-5' pid=3360 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:50.066637] UPDATE : PROCESS TERMINATED : <Process name='Process-6' pid=17824 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:50.066637] UPDATE : PROCESS TERMINATED : <Process name='Process-7' pid=20396 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:50.066637] UPDATE : PROCESS TERMINATED : <Process name='Process-8' pid=15484 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:50.066637] UPDATE : PROCESS TERMINATED : <Process name='Process-9' pid=20500 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:50.066637] UPDATE : PROCESS TERMINATED : <Process name='Process-10' pid=1720 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:50.066637] UPDATE : PROCESS TERMINATED : <Process name='Process-11' pid=19476 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:50.066637] UPDATE : PROCESS TERMINATED : <Process name='Process-12' pid=20736 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:50.066637] UPDATE : PROCESS TERMINATED : <Process name='Process-13' pid=22524 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:50.066637] UPDATE : ['character']
+[2024-05-16 22:20:50.066637] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 22:20:50.066637] UPDATE : PROCESS <Process name='Process-14' pid=20804 parent=13172 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes]
+[2024-05-16 22:20:50.538762] UPDATE : element added
+[2024-05-16 22:20:50.538762] UPDATE : element added
+[2024-05-16 22:20:50.538762] UPDATE : element added
+[2024-05-16 22:20:50.538762] UPDATE : ['D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes\\lookdev\\edit\\char_matteotestlook_lookdev_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes\\lookdev\\edit\\char_matteo_lookdev_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes\\lookdev\\publish\\char_matteotestlook_lookdev_publish.ma']
+
+[2024-05-16 22:20:50.566486] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 22:20:50.566486] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=22204 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:50.566486] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=21100 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:50.566486] UPDATE : PROCESS TERMINATED : <Process name='Process-4' pid=21676 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:50.566486] UPDATE : PROCESS TERMINATED : <Process name='Process-5' pid=3360 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:50.566486] UPDATE : PROCESS TERMINATED : <Process name='Process-6' pid=17824 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:50.566486] UPDATE : PROCESS TERMINATED : <Process name='Process-7' pid=20396 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:50.566486] UPDATE : PROCESS TERMINATED : <Process name='Process-8' pid=15484 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:50.566486] UPDATE : PROCESS TERMINATED : <Process name='Process-9' pid=20500 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:50.566486] UPDATE : PROCESS TERMINATED : <Process name='Process-10' pid=1720 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:50.566486] UPDATE : PROCESS TERMINATED : <Process name='Process-11' pid=19476 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:50.566486] UPDATE : PROCESS TERMINATED : <Process name='Process-12' pid=20736 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:50.566486] UPDATE : PROCESS TERMINATED : <Process name='Process-13' pid=22524 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:50.566486] UPDATE : PROCESS TERMINATED : <Process name='Process-14' pid=20804 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:50.566486] UPDATE : ['character']
+[2024-05-16 22:20:50.566486] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 22:20:50.566486] UPDATE : NO FILES FOUND!
+
+[2024-05-16 22:20:53.657244] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 22:20:53.657244] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=22204 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:53.657244] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=21100 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:53.657244] UPDATE : PROCESS TERMINATED : <Process name='Process-4' pid=21676 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:53.657244] UPDATE : PROCESS TERMINATED : <Process name='Process-5' pid=3360 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:53.657244] UPDATE : PROCESS TERMINATED : <Process name='Process-6' pid=17824 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:53.657244] UPDATE : PROCESS TERMINATED : <Process name='Process-7' pid=20396 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:53.657244] UPDATE : PROCESS TERMINATED : <Process name='Process-8' pid=15484 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:53.657244] UPDATE : PROCESS TERMINATED : <Process name='Process-9' pid=20500 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:53.657244] UPDATE : PROCESS TERMINATED : <Process name='Process-10' pid=1720 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:53.657244] UPDATE : PROCESS TERMINATED : <Process name='Process-11' pid=19476 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:53.657244] UPDATE : PROCESS TERMINATED : <Process name='Process-12' pid=20736 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:53.657244] UPDATE : PROCESS TERMINATED : <Process name='Process-13' pid=22524 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:53.657244] UPDATE : PROCESS TERMINATED : <Process name='Process-14' pid=20804 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:53.657244] UPDATE : ['character']
+[2024-05-16 22:20:53.657244] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 22:20:53.667760] UPDATE : PROCESS <Process name='Process-15' pid=17356 parent=13172 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/mod/edit]
+[2024-05-16 22:20:53.683384] UPDATE : PROCESS <Process name='Process-16' pid=22224 parent=13172 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/mod/publish]
+[2024-05-16 22:20:54.160503] UPDATE : element added
+[2024-05-16 22:20:54.160503] UPDATE : ['D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/mod/edit\\char_Robin_mod_v001.ma']
+
+[2024-05-16 22:20:54.182999] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 22:20:54.182999] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=22204 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:54.182999] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=21100 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:54.182999] UPDATE : PROCESS TERMINATED : <Process name='Process-4' pid=21676 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:54.182999] UPDATE : PROCESS TERMINATED : <Process name='Process-5' pid=3360 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:54.182999] UPDATE : PROCESS TERMINATED : <Process name='Process-6' pid=17824 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:54.182999] UPDATE : PROCESS TERMINATED : <Process name='Process-7' pid=20396 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:54.182999] UPDATE : PROCESS TERMINATED : <Process name='Process-8' pid=15484 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:54.182999] UPDATE : PROCESS TERMINATED : <Process name='Process-9' pid=20500 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:54.182999] UPDATE : PROCESS TERMINATED : <Process name='Process-10' pid=1720 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:54.182999] UPDATE : PROCESS TERMINATED : <Process name='Process-11' pid=19476 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:54.182999] UPDATE : PROCESS TERMINATED : <Process name='Process-12' pid=20736 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:54.182999] UPDATE : PROCESS TERMINATED : <Process name='Process-13' pid=22524 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:54.182999] UPDATE : PROCESS TERMINATED : <Process name='Process-14' pid=20804 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:54.182999] UPDATE : PROCESS TERMINATED : <Process name='Process-15' pid=17356 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:54.182999] UPDATE : PROCESS TERMINATED : <Process name='Process-16' pid=22224 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:54.182999] UPDATE : ['character']
+[2024-05-16 22:20:54.182999] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 22:20:54.198651] UPDATE : PROCESS <Process name='Process-17' pid=17756 parent=13172 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/mod/edit]
+[2024-05-16 22:20:54.198651] UPDATE : PROCESS <Process name='Process-18' pid=7132 parent=13172 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/mod/publish]
+[2024-05-16 22:20:54.214281] UPDATE : PROCESS <Process name='Process-19' pid=10944 parent=13172 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes/mod/edit]
+[2024-05-16 22:20:54.707703] UPDATE : element added
+[2024-05-16 22:20:54.707703] UPDATE : element added
+[2024-05-16 22:20:54.707703] UPDATE : element added
+[2024-05-16 22:20:54.707703] UPDATE : ['D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/mod/edit\\char_Robin_mod_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes/mod/edit\\char_lucas_mod_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/lucas/maya/scenes/mod/edit\\char_lucas_mod_v002.ma']
+
+[2024-05-16 22:20:54.907134] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-16 22:20:54.907134] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=22204 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:54.907134] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=21100 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:54.907134] UPDATE : PROCESS TERMINATED : <Process name='Process-4' pid=21676 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:54.907134] UPDATE : PROCESS TERMINATED : <Process name='Process-5' pid=3360 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:54.907134] UPDATE : PROCESS TERMINATED : <Process name='Process-6' pid=17824 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:54.907134] UPDATE : PROCESS TERMINATED : <Process name='Process-7' pid=20396 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:54.907134] UPDATE : PROCESS TERMINATED : <Process name='Process-8' pid=15484 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:54.907134] UPDATE : PROCESS TERMINATED : <Process name='Process-9' pid=20500 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:54.907134] UPDATE : PROCESS TERMINATED : <Process name='Process-10' pid=1720 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:54.907134] UPDATE : PROCESS TERMINATED : <Process name='Process-11' pid=19476 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:54.907134] UPDATE : PROCESS TERMINATED : <Process name='Process-12' pid=20736 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:54.907134] UPDATE : PROCESS TERMINATED : <Process name='Process-13' pid=22524 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:54.907134] UPDATE : PROCESS TERMINATED : <Process name='Process-14' pid=20804 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:54.907134] UPDATE : PROCESS TERMINATED : <Process name='Process-15' pid=17356 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:54.907134] UPDATE : PROCESS TERMINATED : <Process name='Process-16' pid=22224 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:54.907134] UPDATE : PROCESS TERMINATED : <Process name='Process-17' pid=17756 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:54.907134] UPDATE : PROCESS TERMINATED : <Process name='Process-18' pid=7132 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:54.907134] UPDATE : PROCESS TERMINATED : <Process name='Process-19' pid=10944 parent=13172 stopped exitcode=0>
+[2024-05-16 22:20:54.907134] UPDATE : ['character']
+[2024-05-16 22:20:54.907134] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-16 22:20:54.917196] UPDATE : PROCESS <Process name='Process-20' pid=16512 parent=13172 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/mod/edit]
+[2024-05-16 22:20:54.932820] UPDATE : PROCESS <Process name='Process-21' pid=412 parent=13172 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/mod/publish]
+[2024-05-16 22:20:55.409888] UPDATE : element added
+[2024-05-16 22:20:55.409888] UPDATE : ['D:/WORK/TESTPROJECT/ASSETS/char/robin/maya/scenes/mod/edit\\char_Robin_mod_v001.ma']
