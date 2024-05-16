@@ -181,8 +181,11 @@ class PipoCommonApplication():
 		#current_option = project_selection.get_option_at_index(project_selection.highlighted)
 		current_option_index = project_list.highlighted
 		#current_content = project_selection.get_option_at_index(current_option_index)
-		project_name = list(self.personnal_data["ProjectList"].keys())[current_option_index]
-		
+		try:
+			project_name = list(self.personnal_data["ProjectList"].keys())[current_option_index]
+		except TypeError:
+			self.display_error_function("You have to select a project first!")
+			return
 
 		self.display_message_function(str("Project selected : %s"%project_name))
 		#check if project exists (path)

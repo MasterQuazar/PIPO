@@ -408,12 +408,20 @@ class PipoLoginApplication(App, PipoCommonApplication, PipoLogApplication):
 	SCREENS = {
 		"LOBBY": PipoLobbyApplication(),
 	}
-	CSS_PATH = "Data/Style/styleLogin.tcss"
+	CSS_PATH = ["Data/Style/StyleGlobal.tcss","Data/Style/styleLogin.tcss"]
 
 
 
 
 	def __init__(self):
+
+
+		self.program_informations = {
+			"author":"MasterQuazar",
+			"github":"https://MasterQuazar/PIPO",
+			"version":"v.02",
+			"title":"PIPO",
+		}
 
 		self.personnal_data = {}
 
@@ -437,8 +445,8 @@ class PipoLoginApplication(App, PipoCommonApplication, PipoLogApplication):
 
 		
 		
-
 		self.font_title = Figlet(font="bloody")
+		self.font_big = Figlet(font="dos_rebel")
 		self.font_subtitle = Figlet(font="digital")
 		#self.content_list = ["bonjour", "bonsoir", "matin", "midi", "soir"]
 
@@ -466,18 +474,21 @@ class PipoLoginApplication(App, PipoCommonApplication, PipoLogApplication):
 		self.title = "Pipo Pipeline Manager"
 		self.sub_title = "created by Quazar"
 
-		yield VerticalScroll()
+		with Horizontal(classes="main_login_page_container"):
+			yield VerticalScroll()
 
-		with VerticalScroll(classes = "login_container"):
-			with Horizontal(classes = "container_t2"):
-				with Vertical(classes="container_t3"):	
-					self.login_welcomelabel = Label(self.font_title.renderText("PIPO\npipeline manager"), classes="title_t1")
-					yield self.login_welcomelabel
+			with VerticalScroll(classes = "login_container"):
+				with Horizontal(classes = "container_t2"):
+					with Vertical(classes="login_title_container"):	
+						self.login_welcomelabel = Label(self.font_title.renderText(self.program_informations["title"]), classes="login_main_title")
+						self.login_versionlabel = Label(self.font_big.renderText(self.program_informations["version"]), classes="login_main_subtitle")
+						yield self.login_welcomelabel
+						yield self.login_versionlabel
 
+						
+
+					with Vertical(classes="login_project_settings_column"):
 					
-
-				with Vertical(classes="container_t3"):
-					with Vertical(classes="container_t4"):
 						#yield Label(self.font_subtitle.renderText("PROJECT LIST"), classes="label_t1")
 
 						self.login_project_list = OptionList(classes="login_projectlist", id="login_projectlist")
@@ -485,27 +496,31 @@ class PipoLoginApplication(App, PipoCommonApplication, PipoLogApplication):
 						#self.login_project_list = ListView(classes="login_projectlist", id="login_projectlist")
 						yield self.login_project_list
 
-					self.login_openproject_button = Button("Open existing Project", id="login_open_button", classes="button_t1")
-					self.login_loadproject_button = Button("Load an other Project", id="login_load_button", classes="button_t1")
-
-					yield self.login_loadproject_button
-					yield self.login_openproject_button
-
-					with Vertical(classes="container_t5"):
-						self.login_newproject_input = Input(placeholder="New project name", classes="login_input_field")
-						self.login_newprojectpath_input = Input(placeholder="New project path", classes="login_input_field")
-						self.login_createproject_button = Button("Create a new Project", id="login_create_button", classes="button_t1")
-
 						
-						yield self.login_newproject_input
-						yield self.login_newprojectpath_input
-						yield self.login_createproject_button
 
-					#self.login_alert_label = Label()
-					#yield self.login_alert_label
+						with Vertical(classes="login_project_options_container"):
 
-		
-		yield VerticalScroll()
+							self.login_openproject_button = Button("Open existing Project", id="login_open_button", classes="button_t1")
+							self.login_loadproject_button = Button("Load an other Project", id="login_load_button", classes="button_t1")
+
+							yield self.login_loadproject_button
+							yield self.login_openproject_button
+
+							self.login_newproject_input = Input(placeholder="New project name", classes="login_input_field")
+							self.login_newprojectpath_input = Input(placeholder="New project path", classes="login_input_field")
+							self.login_createproject_button = Button("Create a new Project", id="login_create_button", classes="button_t1")
+
+							
+							yield self.login_newproject_input
+							yield self.login_newprojectpath_input
+							yield self.login_createproject_button
+
+						#self.login_alert_label = Label()
+						#yield self.login_alert_label
+
+			
+			yield VerticalScroll()
+		yield Horizontal()
 
 		self.load_personnal_settings_function()
 		#put the differents projects inside the project list

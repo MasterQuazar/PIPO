@@ -1,93 +1,71 @@
-/*
-.box {
-	width:50;
-}
-*/
+
 
 
 /*'ascii', 'blank', 'dashed', 'double', 'heavy', 'hidden', 'hkey', 'inner', 'none', 'outer', 'panel', 'round', 'solid', 'tall', 'thick', 'vkey', or 'wide'*/
 
-Screen {
-	background: $panel-darken-2;
-	layout: horizontal;
+
+.main_login_page_container {
+	background: $background;
+	height: 100%;
 }
-
-.login_input_field {
-	background: $panel-darken-3;
-	color: white;
-	border: thick #94478A;
-	width:65%;
-}
-
-OptionList {
-	border:none;
-}
-
-
-
-.title_t1 {
-	text-style: bold;
-	color: #A126FB;
-}
-
-.container_t1 {
-	width: 100%;
-	height: 95%;
-}
-
-
-.container_t3 {
-	border: double #6C0AE1;
-	height:100%;
-}
-
-
-
-
-
-.container_t5 {
-	margin-top:5;
-	height:40%;
-	/*border: dashed #FFA364;*/
-}
-
 .login_container {
-	width:60%;
-	height:100%;
+	background: $background;
+
+	min-width: 45%;
+
+	padding-right: 5;
+	padding-left: 5;
 }
+.login_project_settings_column {
+	padding-top: 2;
+	padding-right: 5;
+	padding-left: 5;
+}
+.login_title_container {
+	padding-right: 3;
+	padding-left: 3;
+}
+.container_t2 {
+	border: heavy $primary;
+}
+.login_project_options_container {
+	margin-top: 5;
+}
+
+
+.login_main_title {
+	padding-top: 15;
+	padding-right: 2;
+	padding-left: 2;
+	color: $primary;
+}
+.login_main_subtitle {
+	color: $primary;
+}
+
 
 
 .login_projectlist {
-	height: 50%;
-	border: heavy white;
+	border: round $primary-lighten-3;
+	border-title-color: $primary-lighten-3;
+	border-title-style: italic;
 
+	background: $background;
+	min-height: 45%;
 }
 
-
-
-
-.list_label {
-	color: white;
+Button {
+	width: 100%;
+	background: $primary;
+	color: $background;
 }
-.list_label:hover {
-	color: orange;
-}
-.list_label:focus {
-	color: green;
+Button:hover {
+	background: $primary-lighten-1;
 }
 
-.error_message {
-	color: red;
-}
-
-.login_project_explorer {
-	border: orange double;
-}
-
-.optionlist_t1 {
-	min-height:100%;
-}
-
-.lobby_bottom_container {
-	height:35;
+Input {
+	width: 100%;
+	background: $background-darken-1;
+	color: $primary;
+	border: outer $primary;
 }

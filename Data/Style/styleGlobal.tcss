@@ -1,0 +1,15 @@
+/* DEFINE ALL COLORS FOR THE CSS THEME */
+
+
+
+$background: #0D0D0D;
+$background-darken-1: #080808;
+
+$primary: #FF3318;
+$primary-lighten-1: #FF5039;
+$primary-lighten-2: #FF7765;
+$primary-lighten-3: #FFD5CB;
+
+$accent: #FF5039;
+
+
