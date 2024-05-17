@@ -101,6 +101,16 @@ class PipoSearchingApplication:
 									elif splited_nomenclature[i] == "[name]":
 										pass
 
+									elif splited_nomenclature[i] == "[shversion]":
+										splited_shot = splited_nomenclature[i].split("sh")
+										if (len(splited_shot) != 2) or (splited_shot[0] != "") or (splited_shot[1].isdigit()==False):
+											file_parsing_error=True
+
+									elif splited_nomenclature[i] == "[sqversion]":
+										splited_shot = splited_nomenclature[i].split("sq")
+										if (len(splited_shot) != 2) or (splited_shot[0] != "") or (splited_shot[1].isdigit()==False):
+											file_parsing_error=True
+
 									#CHECKING LOD
 									elif splited_nomenclature[i] == "[lod]":
 										filename_lod = splited_filename[i].split("LOD")

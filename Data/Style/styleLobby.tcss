@@ -3,3 +3,31 @@
 /*'ascii', 'blank', 'dashed', 'double', 'heavy', 'hidden', 'hkey', 'inner', 'none', 'outer', 'panel', 'round', 'solid', 'tall', 'thick', 'vkey', or 'wide'*/
 
 
+/* CONTAINER STYLE */
+.lobby_main_container {
+	background: $background;
+}
+.lobby_left_column {
+	width: 15%;
+	background: $background-darken-1;
+}
+.lobby_center_column {
+	width: 45%;
+}
+.container_t2 {
+	border: none;
+}
+
+
+/* LIST STYLE */
+#lobby_kind_list, #lobby_file_list, #lobby_name_list, #lobby_shot_list, #lobby_sequence_list, #lobby_type_list {
+	border: round $primary-lighten-1;
+	border-title-color: $primary-lighten-1;
+	border-title-style: italic;
+
+	background: $background;
+	height:100%;
+}
+
+
+

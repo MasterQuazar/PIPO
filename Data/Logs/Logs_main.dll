@@ -2530,3 +2530,127 @@
 [2024-05-17 00:39:16.220711] UPDATE : Project selected : testproject
 [2024-05-17 00:39:16.221708] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
 [2024-05-17 00:39:16.221708] UPDATE : Project settings loaded!
+
+
+[2024-05-17 13:47:25.684976] New Pipo session opened on <built-in function gethostname>
+[2024-05-17 13:47:25.702903] UPDATE : Personnal settings opened
+[2024-05-17 13:47:55.114010] UPDATE : Project selected : TestProjectSchool
+[2024-05-17 13:47:55.157885] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-05-17 13:47:55.159855] UPDATE : Project settings loaded!
+
+
+[2024-05-17 13:50:40.026671] New Pipo session opened on <built-in function gethostname>
+[2024-05-17 13:50:40.052649] UPDATE : Personnal settings opened
+[2024-05-17 13:50:42.191986] UPDATE : Project selected : TestProjectSchool
+[2024-05-17 13:50:42.194622] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-05-17 13:50:42.196654] UPDATE : Project settings loaded!
+
+
+[2024-05-17 13:51:29.888496] New Pipo session opened on <built-in function gethostname>
+[2024-05-17 13:51:29.909440] UPDATE : Personnal settings opened
+[2024-05-17 13:51:32.417258] UPDATE : Project selected : TestProjectSchool
+[2024-05-17 13:51:32.419252] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-05-17 13:51:32.421273] UPDATE : Project settings loaded!
+
+
+[2024-05-17 13:52:17.719017] New Pipo session opened on <built-in function gethostname>
+[2024-05-17 13:52:17.735277] UPDATE : Personnal settings opened
+[2024-05-17 13:52:19.424286] UPDATE : Project selected : TestProjectSchool
+[2024-05-17 13:52:19.426283] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-05-17 13:52:19.428275] UPDATE : Project settings loaded!
+
+
+[2024-05-17 13:54:17.919283] New Pipo session opened on <built-in function gethostname>
+[2024-05-17 13:54:17.935202] UPDATE : Personnal settings opened
+[2024-05-17 13:54:19.709055] UPDATE : Project selected : TestProjectSchool
+[2024-05-17 13:54:19.711050] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-05-17 13:54:19.713078] UPDATE : Project settings loaded!
+
+
+[2024-05-17 13:55:05.841180] New Pipo session opened on <built-in function gethostname>
+[2024-05-17 13:55:05.857137] UPDATE : Personnal settings opened
+[2024-05-17 13:55:07.316986] UPDATE : Project selected : TestProjectSchool
+[2024-05-17 13:55:07.318904] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-05-17 13:55:07.320898] UPDATE : Project settings loaded!
+
+
+[2024-05-17 13:55:32.623100] New Pipo session opened on <built-in function gethostname>
+[2024-05-17 13:55:32.639058] UPDATE : Personnal settings opened
+[2024-05-17 13:55:34.329671] UPDATE : Project selected : TestProjectSchool
+[2024-05-17 13:55:34.331667] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-05-17 13:55:34.333689] UPDATE : Project settings loaded!
+
+[2024-05-17 13:55:38.584838] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-17 13:55:38.586808] UPDATE : NO PROCESS TO END!
+[2024-05-17 13:55:38.589800] UPDATE : ['character']
+[2024-05-17 13:55:38.590822] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-17 13:55:38.618723] UPDATE : No name selected so no process launched!
+
+[2024-05-17 13:55:41.826831] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-17 13:55:41.828807] UPDATE : NO PROCESS TO END!
+[2024-05-17 13:55:41.829792] UPDATE : ['character']
+[2024-05-17 13:55:41.831813] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-17 13:55:41.840787] UPDATE : PROCESS <Process name='Process-2' pid=24952 parent=23740 started> ADDED TO LIST : [D:/TestProjectSchool/ASSETS/char/cubetest/maya/scenes]
+[2024-05-17 13:55:42.308803] UPDATE : element added
+[2024-05-17 13:55:42.310822] UPDATE : element added
+[2024-05-17 13:55:42.312793] UPDATE : element added
+[2024-05-17 13:55:42.314787] UPDATE : ['D:/TestProjectSchool/ASSETS/char/cubetest/maya/scenes\\mod\\edit\\char_cubeTest_mod_v001.ma', 'D:/TestProjectSchool/ASSETS/char/cubetest/maya/scenes\\mod\\edit\\char_cubeTest_mod_v002.ma', 'D:/TestProjectSchool/ASSETS/char/cubetest/maya/scenes\\mod\\edit\\char_cube_mod_v002.ma']
+
+[2024-05-17 13:55:47.824707] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-17 13:55:47.826701] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=24952 parent=23740 stopped exitcode=0>
+[2024-05-17 13:55:47.828697] UPDATE : ['character']
+[2024-05-17 13:55:47.830690] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-17 13:55:47.839668] UPDATE : PROCESS <Process name='Process-3' pid=6212 parent=23740 started> ADDED TO LIST : [D:/TestProjectSchool/ASSETS/char/cubetest/maya/scenes/mod/edit]
+[2024-05-17 13:55:48.275785] UPDATE : element added
+[2024-05-17 13:55:48.277778] UPDATE : element added
+[2024-05-17 13:55:48.279770] UPDATE : element added
+[2024-05-17 13:55:48.281737] UPDATE : ['D:/TestProjectSchool/ASSETS/char/cubetest/maya/scenes/mod/edit\\char_cubeTest_mod_v001.ma', 'D:/TestProjectSchool/ASSETS/char/cubetest/maya/scenes/mod/edit\\char_cubeTest_mod_v002.ma', 'D:/TestProjectSchool/ASSETS/char/cubetest/maya/scenes/mod/edit\\char_cube_mod_v002.ma']
+
+[2024-05-17 13:55:49.388886] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-17 13:55:49.390876] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=24952 parent=23740 stopped exitcode=0>
+[2024-05-17 13:55:49.392870] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=6212 parent=23740 stopped exitcode=0>
+[2024-05-17 13:55:49.393866] UPDATE : ['character']
+[2024-05-17 13:55:49.395862] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-17 13:55:49.404810] UPDATE : PROCESS <Process name='Process-4' pid=21936 parent=23740 started> ADDED TO LIST : [D:/TestProjectSchool/ASSETS/char/cubetest/maya/scenes]
+[2024-05-17 13:55:49.849825] UPDATE : element added
+[2024-05-17 13:55:49.851784] UPDATE : element added
+[2024-05-17 13:55:49.853778] UPDATE : element added
+[2024-05-17 13:55:49.855804] UPDATE : ['D:/TestProjectSchool/ASSETS/char/cubetest/maya/scenes\\mod\\edit\\char_cubeTest_mod_v001.ma', 'D:/TestProjectSchool/ASSETS/char/cubetest/maya/scenes\\mod\\edit\\char_cubeTest_mod_v002.ma', 'D:/TestProjectSchool/ASSETS/char/cubetest/maya/scenes\\mod\\edit\\char_cube_mod_v002.ma']
+
+
+[2024-05-17 13:56:08.263899] New Pipo session opened on <built-in function gethostname>
+[2024-05-17 13:56:08.283958] UPDATE : Personnal settings opened
+[2024-05-17 13:56:09.935794] UPDATE : Project selected : TestProjectSchool
+[2024-05-17 13:56:09.938756] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-05-17 13:56:09.939785] UPDATE : Project settings loaded!
+
+[2024-05-17 13:56:15.332411] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-17 13:56:15.334377] UPDATE : NO PROCESS TO END!
+[2024-05-17 13:56:15.338367] UPDATE : ['shots']
+[2024-05-17 13:56:15.339406] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[sqversion]_[shversion]/[type]/[state]
+[2024-05-17 13:56:15.341358] UPDATE : No name selected so no process launched!
+
+[2024-05-17 13:56:18.148271] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-17 13:56:18.150263] UPDATE : NO PROCESS TO END!
+[2024-05-17 13:56:18.152234] UPDATE : ['shots', 'character']
+[2024-05-17 13:56:18.153258] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[sqversion]_[shversion]/[type]/[state]
+[2024-05-17 13:56:18.155255] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-17 13:56:18.157247] UPDATE : No name selected so no process launched!
+
+[2024-05-17 13:56:18.596844] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-17 13:56:18.598868] UPDATE : NO PROCESS TO END!
+[2024-05-17 13:56:18.599870] UPDATE : ['character']
+[2024-05-17 13:56:18.601858] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-17 13:56:18.603824] UPDATE : No name selected so no process launched!
+
+
+[2024-05-17 14:10:38.853553] New Pipo session opened on <built-in function gethostname>
+[2024-05-17 14:10:38.869492] UPDATE : Personnal settings opened
+[2024-05-17 14:10:41.298958] UPDATE : Project selected : TestProjectSchool
+[2024-05-17 14:10:41.301988] UPDATE : Project settings loaded - D:/TestProjectSchool
+[2024-05-17 14:10:41.302948] UPDATE : Project settings loaded!
+
+[2024-05-17 14:10:43.365517] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-17 14:10:43.367706] UPDATE : NO PROCESS TO END!
+[2024-05-17 14:10:43.369733] UPDATE : ['shots']
+[2024-05-17 14:10:43.371727] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[sqversion]_[shversion]/[type]/[state]

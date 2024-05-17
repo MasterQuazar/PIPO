@@ -454,6 +454,10 @@ class PipoCommonApplication():
 				path[i] = (lod)
 			elif path[i] == "[name]":
 				path[i] = (name_selection)
+			elif "[sqversion]" in path[i]:
+				path[i].replace("[sqversion]", sequence_selection)
+			elif "[shversion]" in path[i]:
+				path[i].replace("[shversion]", shot_selection)
 
 			else:
 				pass

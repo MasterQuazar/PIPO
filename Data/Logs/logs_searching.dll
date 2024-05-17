@@ -772,3 +772,36 @@ NAME : robin
 TYPE : mod
 LOD : 1
 STATE : publish
+
+
+SEARCHING DATA : 
+KIND : character
+NAME : cubetest
+TYPE : None
+LOD : 1
+STATE : edit
+CHECKING FILE : char_cubeTest_mod_v001.ma
+CHECKING FILE : char_cubeTest_mod_v002.ma
+CHECKING FILE : char_cube_mod_v002.ma
+
+
+SEARCHING DATA : 
+KIND : character
+NAME : cubetest
+TYPE : mod
+LOD : 1
+STATE : edit
+CHECKING FILE : char_cubeTest_mod_v001.ma
+CHECKING FILE : char_cubeTest_mod_v002.ma
+CHECKING FILE : char_cube_mod_v002.ma
+
+
+SEARCHING DATA : 
+KIND : character
+NAME : cubetest
+TYPE : None
+LOD : 1
+STATE : edit
+CHECKING FILE : char_cubeTest_mod_v001.ma
+CHECKING FILE : char_cubeTest_mod_v002.ma
+CHECKING FILE : char_cube_mod_v002.ma

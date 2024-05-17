@@ -41,7 +41,8 @@ from Modules.PipoLog import PipoLogApplication
 
 
 class PipoLobbyApplication(Screen, PipoCommonApplication, PipoLogApplication):
-	CSS_PATH = "Data/Style/styleLobby.tcss"
+	CSS_PATH = ["Data/Style/styleGlobal.tcss", "Data/Style/styleLobby.tcss"]
+
 
 
 
