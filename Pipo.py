@@ -1,5 +1,5 @@
 from textual.app import App, ComposeResult
-from textual.widgets import Label, Button, Static, Log, ListView, ListItem, OptionList, Header, SelectionList, Footer, Markdown, TabbedContent, TabPane, Input, DirectoryTree, Select, Tabs
+from textual.widgets import Tabs, Tab, Label, Button, Static, Log, ListView, ListItem, OptionList, Header, SelectionList, Footer, Markdown, TabbedContent, TabPane, Input, DirectoryTree, Select, Tabs
 from textual.widgets.option_list import Option, Separator
 from textual.widgets.selection_list import Selection
 from textual.screen import Screen 
@@ -132,6 +132,12 @@ class PipoLobbyApplication(Screen, PipoCommonApplication, PipoLogApplication):
 
 					with Vertical(classes="container_t2"):
 
+						yield Tabs(
+							Tab("First tab", id="one"),
+							Tab("Second tab", id="two"),
+							)
+
+						"""
 						with TabbedContent(classes="tabbedcontent_t1"):
 							with TabPane("Name"):
 								with Vertical(classes="container_t2"):
@@ -148,6 +154,7 @@ class PipoLobbyApplication(Screen, PipoCommonApplication, PipoLogApplication):
 										self.lobby_shot_list = SelectionList(id="lobby_shot_list", classes="optionlist_t1")
 										self.lobby_shot_list.border_title = "Shot list"
 										yield self.lobby_shot_list
+						"""
 
 					with Vertical(classes="container_t2"):
 						

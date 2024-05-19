@@ -492,11 +492,15 @@ class PipoCommonApplication():
 		#return
 		#check if the name list is different than the previous one
 		#if yes replace the name list in lists
+
+
+		
 		if self.name_sequence_list != new_sequence_list_content:
 			self.name_sequence_list = new_sequence_list_content
-			self.lobby_sequence_list.clear_options()
+			
 
 			try:
+				self.lobby_sequence_list.clear_options()
 				for i in range(len(self.name_sequence_list)):
 					if self.name_sequence_list[i] != None:
 						self.lobby_sequence_list.add_option(Selection(str(self.name_sequence_list[i]), i))
@@ -505,9 +509,9 @@ class PipoCommonApplication():
 
 		if self.name_shots_list != new_shot_list_content:
 			self.name_shots_list = new_shot_list_content
-			self.lobby_shot_list.clear_options()
 
 			try:
+				self.lobby_shot_list.clear_options()
 				for i in range(len(self.name_shots_list)):
 					if self.name_shots_list[i] != None:
 						self.lobby_shot_list.add_option(Selection(str(self.name_shots_list[i]), i))	
@@ -519,11 +523,14 @@ class PipoCommonApplication():
 			self.lobby_name_list.clear_options()
 
 			try:
+				self.lobby_name_list.clear_options()
 				for i in range(len(self.name_name_list)):
 					if self.name_name_list[i] != None:
 						self.lobby_name_list.add_option(Selection(str(self.name_name_list[i]), i))
 			except:
 				self.display_error_function("Impossible to update name list in lobby")
+
+		
 		#self.display_message_function(new_name_list_content)
 
 
