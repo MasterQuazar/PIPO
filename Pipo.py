@@ -242,9 +242,24 @@ class PipoLobbyApplication(Screen, PipoCommonApplication, PipoLogApplication):
 			for name in name_selection:
 				self.name_name_selection.append(self.name_name_list[name])
 
+		if event.selection_list.id == "lobby_sequence_list":
+			sequence_selection = self.query_one("#lobby_sequence_list").selected 
+			self.name_sequence_selection = []
+
+			for sequence in sequence_selection:
+				#self.display_message_function(self.name_sequence_list[sequence])
+				self.name_sequence_selection.append(self.name_sequence_list[sequence])
+
+		if event.selection_list.id == "lobby_shot_list":
+			shot_selection = self.query_one("#lobby_shot_list").selected 
+			self.name_shots_selection = []
+
+			for shot in shot_selection:
+				self.name_shots_selection.append(self.name_shots_list[shot])
+
 
 		
-		if event.selection_list.id in ["lobby_name_list", "lobby_type_list", "lobby_sequence_list", "lobby_shots_list", "lobby_kind_list"]:
+		if event.selection_list.id in ["lobby_name_list", "lobby_type_list", "lobby_sequence_list", "lobby_shot_list", "lobby_kind_list"]:
 			#get value of the selection
 			#for each list
 			self.kind_selection = self.query_one("#lobby_kind_list").selected

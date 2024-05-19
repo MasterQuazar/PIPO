@@ -2654,3 +2654,2071 @@
 [2024-05-17 14:10:43.367706] UPDATE : NO PROCESS TO END!
 [2024-05-17 14:10:43.369733] UPDATE : ['shots']
 [2024-05-17 14:10:43.371727] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[sqversion]_[shversion]/[type]/[state]
+
+
+[2024-05-18 15:13:36.166787] New Pipo session opened on <built-in function gethostname>
+[2024-05-18 15:13:36.184745] UPDATE : Personnal settings opened
+[2024-05-18 15:13:44.408853] UPDATE : Project selected : testproject
+[2024-05-18 15:13:44.457339] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-05-18 15:13:44.457339] UPDATE : Project settings loaded!
+
+[2024-05-18 15:13:49.399920] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-18 15:13:49.401329] UPDATE : NO PROCESS TO END!
+[2024-05-18 15:13:49.402325] UPDATE : ['character']
+[2024-05-18 15:13:49.402325] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-18 15:13:49.403323] UPDATE : No name selected so no process launched!
+
+[2024-05-18 15:13:49.792243] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-18 15:13:49.792243] UPDATE : NO PROCESS TO END!
+[2024-05-18 15:13:49.793241] UPDATE : ['character', 'prop']
+[2024-05-18 15:13:49.793241] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-18 15:13:49.794238] UPDATE : Default folder for prop : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-18 15:13:49.794238] ERROR : Impossible to get name folder for that kind : prop
+[2024-05-18 15:13:49.795236] UPDATE : No name selected so no process launched!
+
+[2024-05-18 15:13:51.568743] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-18 15:13:51.569740] UPDATE : NO PROCESS TO END!
+[2024-05-18 15:13:51.569740] UPDATE : ['character', 'prop']
+[2024-05-18 15:13:51.569740] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-18 15:13:51.571735] UPDATE : Default folder for prop : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-18 15:13:51.571735] ERROR : Impossible to get name folder for that kind : prop
+[2024-05-18 15:13:51.582214] UPDATE : PROCESS <Process name='Process-2' pid=25368 parent=24036 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes]
+[2024-05-18 15:13:52.078101] UPDATE : element added
+[2024-05-18 15:13:52.078101] UPDATE : element added
+[2024-05-18 15:13:52.079130] UPDATE : element added
+[2024-05-18 15:13:52.079130] UPDATE : ['D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes\\lookdev\\edit\\char_matteotestlook_lookdev_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes\\lookdev\\edit\\char_matteo_lookdev_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes\\lookdev\\publish\\char_matteotestlook_lookdev_publish.ma']
+
+[2024-05-18 15:13:54.388464] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-18 15:13:54.389462] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=25368 parent=24036 stopped exitcode=0>
+[2024-05-18 15:13:54.389462] UPDATE : ['character', 'prop', 'item']
+[2024-05-18 15:13:54.389462] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-18 15:13:54.391456] UPDATE : Default folder for prop : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-18 15:13:54.391456] ERROR : Impossible to get name folder for that kind : prop
+[2024-05-18 15:13:54.392453] UPDATE : Default folder for item : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-18 15:13:54.402429] UPDATE : PROCESS <Process name='Process-3' pid=16876 parent=24036 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes]
+[2024-05-18 15:13:54.901274] UPDATE : element added
+[2024-05-18 15:13:54.901274] UPDATE : element added
+[2024-05-18 15:13:54.902272] UPDATE : element added
+[2024-05-18 15:13:54.902272] UPDATE : ['D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes\\lookdev\\edit\\char_matteotestlook_lookdev_v002.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes\\lookdev\\edit\\char_matteo_lookdev_v001.ma', 'D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes\\lookdev\\publish\\char_matteotestlook_lookdev_publish.ma']
+
+[2024-05-18 15:13:56.171958] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-18 15:13:56.171958] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=25368 parent=24036 stopped exitcode=0>
+[2024-05-18 15:13:56.172956] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=16876 parent=24036 stopped exitcode=0>
+[2024-05-18 15:13:56.172956] UPDATE : ['character', 'prop', 'item', 'shots']
+[2024-05-18 15:13:56.172956] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-18 15:13:56.174951] UPDATE : Default folder for prop : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-18 15:13:56.174951] ERROR : Impossible to get name folder for that kind : prop
+[2024-05-18 15:13:56.175948] UPDATE : Default folder for item : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-18 15:13:56.175948] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[sqversion]_[shversion]/[type]/[state]
+
+
+[2024-05-18 17:21:13.249192] New Pipo session opened on <built-in function gethostname>
+[2024-05-18 17:21:13.274238] UPDATE : Personnal settings opened
+[2024-05-18 17:21:17.937033] UPDATE : Project selected : testproject
+[2024-05-18 17:21:17.937033] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-05-18 17:21:17.938030] UPDATE : Project settings loaded!
+
+[2024-05-18 17:21:19.783342] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-18 17:21:19.783342] UPDATE : NO PROCESS TO END!
+[2024-05-18 17:21:19.784340] UPDATE : ['shots']
+[2024-05-18 17:21:19.784340] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[sqversion]_[shversion]/[type]/[state]
+
+
+[2024-05-18 17:23:30.375556] New Pipo session opened on <built-in function gethostname>
+[2024-05-18 17:23:30.392036] UPDATE : Personnal settings opened
+[2024-05-18 17:23:33.149301] UPDATE : Project selected : testproject
+[2024-05-18 17:23:33.149301] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-05-18 17:23:33.149301] UPDATE : Project settings loaded!
+
+[2024-05-18 17:23:34.248772] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-18 17:23:34.250774] UPDATE : NO PROCESS TO END!
+[2024-05-18 17:23:34.250774] UPDATE : ['shots']
+[2024-05-18 17:23:34.250774] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[sqversion]_[shversion]/[type]/[state]
+
+
+[2024-05-18 17:24:53.736590] New Pipo session opened on <built-in function gethostname>
+[2024-05-18 17:24:53.749744] UPDATE : Personnal settings opened
+[2024-05-18 17:24:56.232196] UPDATE : Project selected : testproject
+[2024-05-18 17:24:56.233194] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-05-18 17:24:56.233194] UPDATE : Project settings loaded!
+
+[2024-05-18 17:24:57.578020] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-18 17:24:57.578020] UPDATE : NO PROCESS TO END!
+[2024-05-18 17:24:57.579018] UPDATE : ['shots']
+[2024-05-18 17:24:57.579018] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[sqversion]_[shversion]/[type]/[state]
+
+
+[2024-05-18 17:27:42.949412] New Pipo session opened on <built-in function gethostname>
+[2024-05-18 17:27:42.980077] UPDATE : Personnal settings opened
+[2024-05-18 17:27:44.748371] UPDATE : Project selected : testproject
+[2024-05-18 17:27:44.748371] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-05-18 17:27:44.748371] UPDATE : Project settings loaded!
+
+[2024-05-18 17:27:45.947990] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-18 17:27:45.947990] UPDATE : NO PROCESS TO END!
+[2024-05-18 17:27:45.947990] UPDATE : ['shots']
+[2024-05-18 17:27:45.947990] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[sqversion]_[shversion]/[type]/[state]
+
+
+[2024-05-18 17:40:29.423781] New Pipo session opened on <built-in function gethostname>
+[2024-05-18 17:40:29.440794] UPDATE : Personnal settings opened
+[2024-05-18 17:40:31.012875] UPDATE : Project selected : testproject
+[2024-05-18 17:40:31.012875] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-05-18 17:40:31.013873] UPDATE : Project settings loaded!
+
+[2024-05-18 17:40:32.447238] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-18 17:40:32.448236] UPDATE : NO PROCESS TO END!
+[2024-05-18 17:40:32.449269] UPDATE : ['shots']
+[2024-05-18 17:40:32.449269] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+
+
+[2024-05-18 17:41:48.780670] New Pipo session opened on <built-in function gethostname>
+[2024-05-18 17:41:48.796641] UPDATE : Personnal settings opened
+[2024-05-18 17:41:50.551811] UPDATE : Project selected : testproject
+[2024-05-18 17:41:50.551811] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-05-18 17:41:50.551811] UPDATE : Project settings loaded!
+
+[2024-05-18 17:41:51.449282] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-18 17:41:51.449282] UPDATE : NO PROCESS TO END!
+[2024-05-18 17:41:51.449282] UPDATE : ['shots']
+[2024-05-18 17:41:51.449282] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-18 17:41:51.449282] ERROR : Impossible to get the sequence folder!
+[2024-05-18 17:41:51.449282] ERROR : Impossible to get the shot folder!
+
+
+[2024-05-18 17:42:17.566044] New Pipo session opened on <built-in function gethostname>
+[2024-05-18 17:42:17.581707] UPDATE : Personnal settings opened
+[2024-05-18 17:42:20.394351] UPDATE : Project selected : testproject
+[2024-05-18 17:42:20.395416] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-05-18 17:42:20.395416] UPDATE : Project settings loaded!
+
+[2024-05-18 17:42:21.606262] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-18 17:42:21.607260] UPDATE : NO PROCESS TO END!
+[2024-05-18 17:42:21.608352] UPDATE : ['shots']
+[2024-05-18 17:42:21.608352] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-18 17:42:21.608352] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-18 17:42:21.609378] ERROR : Impossible to get the sequence folder!
+[2024-05-18 17:42:21.609378] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-18 17:42:21.609378] ERROR : Impossible to get the shot folder!
+
+
+[2024-05-18 17:46:45.688828] New Pipo session opened on <built-in function gethostname>
+[2024-05-18 17:46:45.698922] UPDATE : Personnal settings opened
+[2024-05-18 17:46:47.992833] UPDATE : Project selected : testproject
+[2024-05-18 17:46:47.993830] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-05-18 17:46:47.993830] UPDATE : Project settings loaded!
+
+[2024-05-18 17:46:49.837574] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-18 17:46:49.838571] UPDATE : NO PROCESS TO END!
+[2024-05-18 17:46:49.839543] UPDATE : ['shots']
+[2024-05-18 17:46:49.839543] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-18 17:46:49.839543] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-18 17:46:49.840540] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-18 17:46:49.841563] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+
+
+[2024-05-18 17:48:31.649413] New Pipo session opened on <built-in function gethostname>
+[2024-05-18 17:48:31.672239] UPDATE : Personnal settings opened
+[2024-05-18 17:48:33.588716] UPDATE : Project selected : testproject
+[2024-05-18 17:48:33.589363] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-05-18 17:48:33.589363] UPDATE : Project settings loaded!
+
+[2024-05-18 17:48:34.703689] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-18 17:48:34.703689] UPDATE : NO PROCESS TO END!
+[2024-05-18 17:48:34.705085] UPDATE : ['shots']
+[2024-05-18 17:48:34.705085] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-18 17:48:34.706111] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-18 17:48:34.706111] UPDATE : sequence folder : sq0010
+[2024-05-18 17:48:34.706111] UPDATE : sequence folder : sq0015
+[2024-05-18 17:48:34.707107] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-18 17:48:34.707107] UPDATE : shot folder : sq0010
+[2024-05-18 17:48:34.708102] UPDATE : shot folder : sq0015
+
+
+[2024-05-18 17:51:56.900777] New Pipo session opened on <built-in function gethostname>
+[2024-05-18 17:51:56.917536] UPDATE : Personnal settings opened
+[2024-05-18 17:51:58.719961] UPDATE : Project selected : testproject
+[2024-05-18 17:51:58.720835] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-05-18 17:51:58.720835] UPDATE : Project settings loaded!
+
+[2024-05-18 17:51:59.775658] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-18 17:51:59.775658] UPDATE : NO PROCESS TO END!
+[2024-05-18 17:51:59.777037] UPDATE : ['shots']
+[2024-05-18 17:51:59.777037] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-18 17:51:59.778037] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-18 17:51:59.778037] UPDATE : sequence folder : sq0010
+[2024-05-18 17:51:59.778037] UPDATE : sequence folder : sq0015
+[2024-05-18 17:51:59.779034] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-18 17:51:59.779034] UPDATE : shot folder : sq0010
+[2024-05-18 17:51:59.780031] UPDATE : shot folder : sq0015
+
+[2024-05-18 17:52:03.864454] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-18 17:52:03.864454] UPDATE : NO PROCESS TO END!
+[2024-05-18 17:52:03.865478] UPDATE : ['shots']
+[2024-05-18 17:52:03.865478] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-18 17:52:03.865478] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-18 17:52:03.866449] UPDATE : sequence folder : sq0010
+[2024-05-18 17:52:03.866449] UPDATE : sequence folder : sq0015
+[2024-05-18 17:52:03.867446] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-18 17:52:03.867446] UPDATE : shot folder : sq0010
+[2024-05-18 17:52:03.867446] UPDATE : shot folder : sq0015
+
+[2024-05-18 17:52:05.189728] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-18 17:52:05.189728] UPDATE : NO PROCESS TO END!
+[2024-05-18 17:52:05.190738] UPDATE : ['shots']
+[2024-05-18 17:52:05.190738] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-18 17:52:05.190738] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-18 17:52:05.191724] UPDATE : sequence folder : sq0010
+[2024-05-18 17:52:05.191724] UPDATE : sequence folder : sq0015
+[2024-05-18 17:52:05.192723] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-18 17:52:05.192723] UPDATE : shot folder : sq0010
+[2024-05-18 17:52:05.192723] UPDATE : shot folder : sq0015
+
+
+[2024-05-18 17:52:32.375440] New Pipo session opened on <built-in function gethostname>
+[2024-05-18 17:52:32.392111] UPDATE : Personnal settings opened
+[2024-05-18 17:52:34.070449] UPDATE : Project selected : testproject
+[2024-05-18 17:52:34.071447] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-05-18 17:52:34.071447] UPDATE : Project settings loaded!
+
+[2024-05-18 17:52:34.912680] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-18 17:52:34.913677] UPDATE : NO PROCESS TO END!
+[2024-05-18 17:52:34.914291] UPDATE : ['shots']
+[2024-05-18 17:52:34.914291] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-18 17:52:34.915317] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-18 17:52:34.915317] UPDATE : sequence folder : sq0010
+[2024-05-18 17:52:34.916314] UPDATE : sequence folder : sq0015
+[2024-05-18 17:52:34.916314] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-18 17:52:34.916314] UPDATE : shot folder : sq0010
+[2024-05-18 17:52:34.917311] UPDATE : shot folder : sq0015
+
+
+[2024-05-18 18:20:01.511477] New Pipo session opened on <built-in function gethostname>
+[2024-05-18 18:20:01.528483] UPDATE : Personnal settings opened
+[2024-05-18 18:20:04.730124] UPDATE : Project selected : testproject
+[2024-05-18 18:20:04.731121] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-05-18 18:20:04.731121] UPDATE : Project settings loaded!
+
+[2024-05-18 18:20:05.798219] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-18 18:20:05.798219] UPDATE : NO PROCESS TO END!
+[2024-05-18 18:20:05.798219] UPDATE : ['shots']
+[2024-05-18 18:20:05.798219] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-18 18:20:05.801724] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-18 18:20:05.801724] UPDATE : sequence folder : sq0010
+[2024-05-18 18:20:05.801724] UPDATE : sequence folder : sq0015
+
+
+[2024-05-18 18:20:29.315261] New Pipo session opened on <built-in function gethostname>
+[2024-05-18 18:20:29.331787] UPDATE : Personnal settings opened
+[2024-05-18 18:20:30.977883] UPDATE : Project selected : testproject
+[2024-05-18 18:20:30.977883] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-05-18 18:20:30.978856] UPDATE : Project settings loaded!
+
+[2024-05-18 18:20:32.336117] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-18 18:20:32.336117] UPDATE : NO PROCESS TO END!
+[2024-05-18 18:20:32.337555] UPDATE : ['set']
+[2024-05-18 18:20:32.337555] UPDATE : Default folder for set : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-18 18:20:32.338581] ERROR : Impossible to get name folder for that kind : set
+
+[2024-05-18 18:20:32.823206] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-18 18:20:32.823206] UPDATE : NO PROCESS TO END!
+[2024-05-18 18:20:32.823206] UPDATE : ['set', 'shots']
+[2024-05-18 18:20:32.823206] UPDATE : Default folder for set : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-18 18:20:32.823206] ERROR : Impossible to get name folder for that kind : set
+[2024-05-18 18:20:32.823206] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-18 18:20:32.823206] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-18 18:20:32.823206] UPDATE : sequence folder : sq0010
+[2024-05-18 18:20:32.823206] UPDATE : sequence folder : sq0015
+[2024-05-18 18:20:32.823206] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+
+[2024-05-18 18:20:33.652014] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-18 18:20:33.652014] UPDATE : NO PROCESS TO END!
+[2024-05-18 18:20:33.652014] UPDATE : ['shots']
+[2024-05-18 18:20:33.652014] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-18 18:20:33.652014] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-18 18:20:33.652014] UPDATE : sequence folder : sq0010
+[2024-05-18 18:20:33.652014] UPDATE : sequence folder : sq0015
+[2024-05-18 18:20:33.652014] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+
+[2024-05-18 18:20:35.035554] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-18 18:20:35.035554] UPDATE : NO PROCESS TO END!
+[2024-05-18 18:20:35.035554] UPDATE : []
+
+[2024-05-18 18:20:35.651925] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-18 18:20:35.651925] UPDATE : NO PROCESS TO END!
+[2024-05-18 18:20:35.651925] UPDATE : ['shots']
+[2024-05-18 18:20:35.651925] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-18 18:20:35.651925] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-18 18:20:35.651925] UPDATE : sequence folder : sq0010
+[2024-05-18 18:20:35.651925] UPDATE : sequence folder : sq0015
+[2024-05-18 18:20:35.651925] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+
+[2024-05-18 18:20:45.203235] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-18 18:20:45.204206] UPDATE : NO PROCESS TO END!
+[2024-05-18 18:20:45.205149] UPDATE : ['shots']
+[2024-05-18 18:20:45.205149] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-18 18:20:45.205149] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-18 18:20:45.206148] UPDATE : sequence folder : sq0010
+[2024-05-18 18:20:45.206148] UPDATE : sequence folder : sq0015
+[2024-05-18 18:20:45.206148] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+
+
+[2024-05-18 18:23:48.927867] New Pipo session opened on <built-in function gethostname>
+[2024-05-18 18:23:48.945383] UPDATE : Personnal settings opened
+
+
+[2024-05-18 18:25:28.203808] New Pipo session opened on <built-in function gethostname>
+[2024-05-18 18:25:28.220844] UPDATE : Personnal settings opened
+[2024-05-18 18:25:30.311149] UPDATE : Project selected : testproject
+[2024-05-18 18:25:30.312147] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-05-18 18:25:30.312147] UPDATE : Project settings loaded!
+
+[2024-05-18 18:25:31.270134] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-18 18:25:31.270134] UPDATE : NO PROCESS TO END!
+[2024-05-18 18:25:31.271460] UPDATE : ['shots']
+[2024-05-18 18:25:31.271460] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-18 18:25:31.271460] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-18 18:25:31.272485] UPDATE : sequence folder : sq0010
+[2024-05-18 18:25:31.272485] UPDATE : sequence folder : sq0015
+[2024-05-18 18:25:31.273482] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+
+[2024-05-18 18:25:37.002751] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-18 18:25:37.003749] UPDATE : NO PROCESS TO END!
+[2024-05-18 18:25:37.004294] UPDATE : ['shots']
+[2024-05-18 18:25:37.004294] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-18 18:25:37.004294] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-18 18:25:37.005293] UPDATE : sequence folder : sq0010
+[2024-05-18 18:25:37.005293] UPDATE : sequence folder : sq0015
+
+
+[2024-05-18 18:26:00.779073] New Pipo session opened on <built-in function gethostname>
+[2024-05-18 18:26:00.794595] UPDATE : Personnal settings opened
+[2024-05-18 18:26:02.330485] UPDATE : Project selected : testproject
+[2024-05-18 18:26:02.331394] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-05-18 18:26:02.331394] UPDATE : Project settings loaded!
+
+[2024-05-18 18:26:03.218685] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-18 18:26:03.219682] UPDATE : NO PROCESS TO END!
+[2024-05-18 18:26:03.220812] UPDATE : ['shots']
+[2024-05-18 18:26:03.220812] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-18 18:26:03.220812] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-18 18:26:03.221836] UPDATE : sequence folder : sq0010
+[2024-05-18 18:26:03.221836] UPDATE : sequence folder : sq0015
+[2024-05-18 18:26:03.221836] UPDATE : searching sequence : None
+[2024-05-18 18:26:03.222836] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+
+[2024-05-18 18:26:04.818058] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-18 18:26:04.819055] UPDATE : NO PROCESS TO END!
+[2024-05-18 18:26:04.819055] UPDATE : ['shots']
+[2024-05-18 18:26:04.820129] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-18 18:26:04.820129] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-18 18:26:04.820129] UPDATE : sequence folder : sq0010
+[2024-05-18 18:26:04.821127] UPDATE : sequence folder : sq0015
+
+
+[2024-05-18 18:26:45.648678] New Pipo session opened on <built-in function gethostname>
+[2024-05-18 18:26:45.669524] UPDATE : Personnal settings opened
+[2024-05-18 18:26:47.348359] UPDATE : Project selected : testproject
+[2024-05-18 18:26:47.348359] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-05-18 18:26:47.364112] UPDATE : Project settings loaded!
+
+[2024-05-18 18:26:48.372254] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-18 18:26:48.372254] UPDATE : NO PROCESS TO END!
+[2024-05-18 18:26:48.373252] UPDATE : ['shots']
+[2024-05-18 18:26:48.373252] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-18 18:26:48.374299] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-18 18:26:48.374806] UPDATE : sequence folder : sq0010
+[2024-05-18 18:26:48.374806] UPDATE : sequence folder : sq0015
+
+[2024-05-18 18:26:50.108112] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-18 18:26:50.109110] UPDATE : NO PROCESS TO END!
+[2024-05-18 18:26:50.109110] UPDATE : ['shots']
+[2024-05-18 18:26:50.110107] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-18 18:26:50.110107] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-18 18:26:50.111104] UPDATE : sequence folder : sq0010
+[2024-05-18 18:26:50.111104] UPDATE : sequence folder : sq0015
+
+
+[2024-05-19 14:36:29.665872] New Pipo session opened on <built-in function gethostname>
+[2024-05-19 14:36:29.697153] UPDATE : Personnal settings opened
+[2024-05-19 14:36:31.433436] UPDATE : Project selected : testproject
+[2024-05-19 14:36:31.433436] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-05-19 14:36:31.433436] UPDATE : Project settings loaded!
+
+[2024-05-19 14:36:32.837063] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 14:36:32.837063] UPDATE : NO PROCESS TO END!
+[2024-05-19 14:36:32.837063] UPDATE : ['shots']
+[2024-05-19 14:36:32.837063] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 14:36:32.837063] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 14:36:32.837063] UPDATE : sequence folder : sq0010
+[2024-05-19 14:36:32.837063] UPDATE : sequence folder : sq0015
+
+[2024-05-19 14:36:35.847368] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 14:36:35.847368] UPDATE : NO PROCESS TO END!
+[2024-05-19 14:36:35.847368] UPDATE : ['shots']
+[2024-05-19 14:36:35.847368] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 14:36:35.847368] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 14:36:35.847368] UPDATE : sequence folder : sq0010
+[2024-05-19 14:36:35.847368] UPDATE : sequence folder : sq0015
+
+
+[2024-05-19 14:37:08.732559] New Pipo session opened on <built-in function gethostname>
+[2024-05-19 14:37:08.748195] UPDATE : Personnal settings opened
+[2024-05-19 14:37:10.674149] UPDATE : Project selected : testproject
+[2024-05-19 14:37:10.674149] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-05-19 14:37:10.674149] UPDATE : Project settings loaded!
+
+[2024-05-19 14:37:11.889590] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 14:37:11.889590] UPDATE : NO PROCESS TO END!
+[2024-05-19 14:37:11.889590] UPDATE : ['shots']
+[2024-05-19 14:37:11.889590] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 14:37:11.889590] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 14:37:11.889590] UPDATE : sequence folder : sq0010
+[2024-05-19 14:37:11.889590] UPDATE : sequence folder : sq0015
+[2024-05-19 14:37:11.889590] UPDATE : []
+
+[2024-05-19 14:37:13.631370] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 14:37:13.631370] UPDATE : NO PROCESS TO END!
+[2024-05-19 14:37:13.631370] UPDATE : ['shots']
+[2024-05-19 14:37:13.631370] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 14:37:13.631370] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 14:37:13.631370] UPDATE : sequence folder : sq0010
+[2024-05-19 14:37:13.631370] UPDATE : sequence folder : sq0015
+[2024-05-19 14:37:13.631370] UPDATE : []
+
+
+[2024-05-19 14:40:24.094933] New Pipo session opened on <built-in function gethostname>
+[2024-05-19 14:40:24.104957] UPDATE : Personnal settings opened
+[2024-05-19 14:40:25.767216] UPDATE : Project selected : testproject
+[2024-05-19 14:40:25.767216] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-05-19 14:40:25.767216] UPDATE : Project settings loaded!
+
+[2024-05-19 14:40:26.715480] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 14:40:26.715480] UPDATE : NO PROCESS TO END!
+[2024-05-19 14:40:26.715480] UPDATE : ['shots']
+[2024-05-19 14:40:26.715480] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 14:40:26.715480] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 14:40:26.715480] UPDATE : sequence folder : sq0010
+[2024-05-19 14:40:26.715480] UPDATE : sequence folder : sq0015
+[2024-05-19 14:40:26.715480] UPDATE : []
+
+[2024-05-19 14:40:30.305479] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 14:40:30.305479] UPDATE : NO PROCESS TO END!
+[2024-05-19 14:40:30.305479] UPDATE : ['shots', 'set']
+[2024-05-19 14:40:30.305479] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 14:40:30.305479] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 14:40:30.305479] UPDATE : sequence folder : sq0010
+[2024-05-19 14:40:30.305479] UPDATE : sequence folder : sq0015
+[2024-05-19 14:40:30.305479] UPDATE : []
+[2024-05-19 14:40:30.305479] UPDATE : Default folder for set : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-19 14:40:30.305479] ERROR : Impossible to get name folder for that kind : set
+[2024-05-19 14:40:30.305479] UPDATE : []
+
+[2024-05-19 14:40:32.942612] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 14:40:32.942612] UPDATE : NO PROCESS TO END!
+[2024-05-19 14:40:32.942612] UPDATE : ['shots']
+[2024-05-19 14:40:32.942612] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 14:40:32.942612] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 14:40:32.942612] UPDATE : sequence folder : sq0010
+[2024-05-19 14:40:32.942612] UPDATE : sequence folder : sq0015
+[2024-05-19 14:40:32.947127] UPDATE : []
+
+[2024-05-19 14:40:33.602319] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 14:40:33.602319] UPDATE : NO PROCESS TO END!
+[2024-05-19 14:40:33.602319] UPDATE : []
+
+[2024-05-19 14:40:34.033830] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 14:40:34.033830] UPDATE : NO PROCESS TO END!
+[2024-05-19 14:40:34.033830] UPDATE : ['shots']
+[2024-05-19 14:40:34.033830] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 14:40:34.033830] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 14:40:34.033830] UPDATE : sequence folder : sq0010
+[2024-05-19 14:40:34.033830] UPDATE : sequence folder : sq0015
+[2024-05-19 14:40:34.042855] UPDATE : []
+
+
+[2024-05-19 14:41:18.043621] New Pipo session opened on <built-in function gethostname>
+[2024-05-19 14:41:18.053649] UPDATE : Personnal settings opened
+[2024-05-19 14:41:20.381778] UPDATE : Project selected : TestProjectSchool
+[2024-05-19 14:41:20.381778] ERROR : Impossible to access that project!
+Unexisting path!
+[2024-05-19 14:41:22.495508] UPDATE : Project selected : testproject
+[2024-05-19 14:41:22.495508] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-05-19 14:41:22.495508] UPDATE : Project settings loaded!
+
+[2024-05-19 14:41:23.366313] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 14:41:23.366313] UPDATE : NO PROCESS TO END!
+[2024-05-19 14:41:23.366313] UPDATE : ['shots']
+[2024-05-19 14:41:23.366313] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 14:41:23.366313] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 14:41:23.366313] UPDATE : sequence folder : sq0010
+[2024-05-19 14:41:23.366313] UPDATE : sequence folder : sq0015
+[2024-05-19 14:41:23.366313] UPDATE : []
+
+[2024-05-19 14:41:27.654825] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 14:41:27.654825] UPDATE : NO PROCESS TO END!
+[2024-05-19 14:41:27.654825] UPDATE : []
+
+[2024-05-19 14:41:27.922691] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 14:41:27.922691] UPDATE : NO PROCESS TO END!
+[2024-05-19 14:41:27.922691] UPDATE : ['shots']
+[2024-05-19 14:41:27.922691] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 14:41:27.922691] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 14:41:27.922691] UPDATE : sequence folder : sq0010
+[2024-05-19 14:41:27.922691] UPDATE : sequence folder : sq0015
+[2024-05-19 14:41:27.922691] UPDATE : []
+
+
+[2024-05-19 14:42:07.912912] New Pipo session opened on <built-in function gethostname>
+[2024-05-19 14:42:07.928533] UPDATE : Personnal settings opened
+[2024-05-19 14:42:09.871189] UPDATE : Project selected : testproject
+[2024-05-19 14:42:09.871189] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-05-19 14:42:09.871189] UPDATE : Project settings loaded!
+[2024-05-19 14:42:10.715342] UPDATE : lobby_kind_list
+
+[2024-05-19 14:42:10.720848] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 14:42:10.720848] UPDATE : NO PROCESS TO END!
+[2024-05-19 14:42:10.720848] UPDATE : ['character']
+[2024-05-19 14:42:10.720848] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-19 14:42:10.720848] UPDATE : []
+[2024-05-19 14:42:12.753098] UPDATE : lobby_kind_list
+
+[2024-05-19 14:42:12.755609] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 14:42:12.755609] UPDATE : NO PROCESS TO END!
+[2024-05-19 14:42:12.755609] UPDATE : []
+[2024-05-19 14:42:13.351062] UPDATE : lobby_kind_list
+
+[2024-05-19 14:42:13.354066] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 14:42:13.354066] UPDATE : NO PROCESS TO END!
+[2024-05-19 14:42:13.354066] UPDATE : ['shots']
+[2024-05-19 14:42:13.354066] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 14:42:13.354066] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 14:42:13.354066] UPDATE : sequence folder : sq0010
+[2024-05-19 14:42:13.354066] UPDATE : sequence folder : sq0015
+[2024-05-19 14:42:13.354066] UPDATE : []
+[2024-05-19 14:42:15.887556] UPDATE : lobby_kind_list
+
+[2024-05-19 14:42:15.897561] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 14:42:15.897561] UPDATE : NO PROCESS TO END!
+[2024-05-19 14:42:15.897561] UPDATE : []
+[2024-05-19 14:42:16.602215] UPDATE : lobby_kind_list
+
+[2024-05-19 14:42:16.602215] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 14:42:16.602215] UPDATE : NO PROCESS TO END!
+[2024-05-19 14:42:16.602215] UPDATE : ['shots']
+[2024-05-19 14:42:16.602215] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 14:42:16.602215] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 14:42:16.602215] UPDATE : sequence folder : sq0010
+[2024-05-19 14:42:16.602215] UPDATE : sequence folder : sq0015
+[2024-05-19 14:42:16.602215] UPDATE : []
+[2024-05-19 14:42:18.619170] UPDATE : lobby_kind_list
+
+[2024-05-19 14:42:18.621172] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 14:42:18.621172] UPDATE : NO PROCESS TO END!
+[2024-05-19 14:42:18.621172] UPDATE : ['shots', 'set']
+[2024-05-19 14:42:18.621172] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 14:42:18.621172] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 14:42:18.621172] UPDATE : sequence folder : sq0010
+[2024-05-19 14:42:18.621172] UPDATE : sequence folder : sq0015
+[2024-05-19 14:42:18.621172] UPDATE : []
+[2024-05-19 14:42:18.621172] UPDATE : Default folder for set : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-19 14:42:18.621172] ERROR : Impossible to get name folder for that kind : set
+[2024-05-19 14:42:18.621172] UPDATE : []
+[2024-05-19 14:42:22.574777] UPDATE : lobby_kind_list
+
+[2024-05-19 14:42:22.590421] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 14:42:22.590421] UPDATE : NO PROCESS TO END!
+[2024-05-19 14:42:22.590421] UPDATE : ['shots']
+[2024-05-19 14:42:22.590421] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 14:42:22.590421] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 14:42:22.590421] UPDATE : sequence folder : sq0010
+[2024-05-19 14:42:22.590421] UPDATE : sequence folder : sq0015
+[2024-05-19 14:42:22.590421] UPDATE : []
+[2024-05-19 14:42:25.527849] UPDATE : lobby_sequence_list
+[2024-05-19 14:42:25.527849] UPDATE : hello world!
+
+[2024-05-19 14:42:25.554416] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 14:42:25.554416] UPDATE : NO PROCESS TO END!
+[2024-05-19 14:42:25.554416] UPDATE : ['shots']
+[2024-05-19 14:42:25.554416] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 14:42:25.554416] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 14:42:25.554416] UPDATE : sequence folder : sq0010
+[2024-05-19 14:42:25.554416] UPDATE : sequence folder : sq0015
+[2024-05-19 14:42:25.554416] UPDATE : []
+[2024-05-19 14:42:33.597002] UPDATE : lobby_sequence_list
+[2024-05-19 14:42:33.597002] UPDATE : hello world!
+
+[2024-05-19 14:42:33.597002] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 14:42:33.597002] UPDATE : NO PROCESS TO END!
+[2024-05-19 14:42:33.597002] UPDATE : ['shots']
+[2024-05-19 14:42:33.597002] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 14:42:33.597002] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 14:42:33.597002] UPDATE : sequence folder : sq0010
+[2024-05-19 14:42:33.597002] UPDATE : sequence folder : sq0015
+[2024-05-19 14:42:33.597002] UPDATE : []
+[2024-05-19 14:42:34.267659] UPDATE : lobby_sequence_list
+[2024-05-19 14:42:34.267659] UPDATE : hello world!
+
+[2024-05-19 14:42:34.283158] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 14:42:34.283158] UPDATE : NO PROCESS TO END!
+[2024-05-19 14:42:34.283158] UPDATE : ['shots']
+[2024-05-19 14:42:34.283158] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 14:42:34.283158] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 14:42:34.283158] UPDATE : sequence folder : sq0010
+[2024-05-19 14:42:34.283158] UPDATE : sequence folder : sq0015
+[2024-05-19 14:42:34.283158] UPDATE : []
+[2024-05-19 14:42:34.667628] UPDATE : lobby_sequence_list
+[2024-05-19 14:42:34.667628] UPDATE : hello world!
+
+[2024-05-19 14:42:34.670633] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 14:42:34.670633] UPDATE : NO PROCESS TO END!
+[2024-05-19 14:42:34.670633] UPDATE : ['shots']
+[2024-05-19 14:42:34.670633] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 14:42:34.670633] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 14:42:34.670633] UPDATE : sequence folder : sq0010
+[2024-05-19 14:42:34.670633] UPDATE : sequence folder : sq0015
+[2024-05-19 14:42:34.670633] UPDATE : []
+[2024-05-19 14:42:34.819087] UPDATE : lobby_sequence_list
+[2024-05-19 14:42:34.821089] UPDATE : hello world!
+
+[2024-05-19 14:42:34.821089] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 14:42:34.821089] UPDATE : NO PROCESS TO END!
+[2024-05-19 14:42:34.821089] UPDATE : ['shots']
+[2024-05-19 14:42:34.821089] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 14:42:34.821089] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 14:42:34.821089] UPDATE : sequence folder : sq0010
+[2024-05-19 14:42:34.821089] UPDATE : sequence folder : sq0015
+[2024-05-19 14:42:34.821089] UPDATE : []
+[2024-05-19 14:42:34.970427] UPDATE : lobby_sequence_list
+[2024-05-19 14:42:34.970427] UPDATE : hello world!
+
+[2024-05-19 14:42:34.970427] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 14:42:34.970427] UPDATE : NO PROCESS TO END!
+[2024-05-19 14:42:34.970427] UPDATE : ['shots']
+[2024-05-19 14:42:34.985939] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 14:42:34.985939] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 14:42:34.985939] UPDATE : sequence folder : sq0010
+[2024-05-19 14:42:34.985939] UPDATE : sequence folder : sq0015
+[2024-05-19 14:42:34.987449] UPDATE : []
+[2024-05-19 14:42:35.119343] UPDATE : lobby_sequence_list
+[2024-05-19 14:42:35.119343] UPDATE : hello world!
+
+[2024-05-19 14:42:35.134852] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 14:42:35.134852] UPDATE : NO PROCESS TO END!
+[2024-05-19 14:42:35.134852] UPDATE : ['shots']
+[2024-05-19 14:42:35.137358] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 14:42:35.137358] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 14:42:35.137358] UPDATE : sequence folder : sq0010
+[2024-05-19 14:42:35.137358] UPDATE : sequence folder : sq0015
+[2024-05-19 14:42:35.137358] UPDATE : []
+[2024-05-19 14:42:35.285148] UPDATE : lobby_sequence_list
+[2024-05-19 14:42:35.285148] UPDATE : hello world!
+
+[2024-05-19 14:42:35.285148] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 14:42:35.285148] UPDATE : NO PROCESS TO END!
+[2024-05-19 14:42:35.285148] UPDATE : ['shots']
+[2024-05-19 14:42:35.285148] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 14:42:35.285148] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 14:42:35.285148] UPDATE : sequence folder : sq0010
+[2024-05-19 14:42:35.285148] UPDATE : sequence folder : sq0015
+[2024-05-19 14:42:35.285148] UPDATE : []
+
+
+[2024-05-19 14:42:53.917792] New Pipo session opened on <built-in function gethostname>
+[2024-05-19 14:42:53.933485] UPDATE : Personnal settings opened
+[2024-05-19 14:42:56.056150] UPDATE : Project selected : testproject
+[2024-05-19 14:42:56.056150] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-05-19 14:42:56.056150] UPDATE : Project settings loaded!
+
+[2024-05-19 14:42:57.100653] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 14:42:57.100653] UPDATE : NO PROCESS TO END!
+[2024-05-19 14:42:57.100653] UPDATE : ['shots']
+[2024-05-19 14:42:57.116276] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 14:42:57.116276] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 14:42:57.116276] UPDATE : sequence folder : sq0010
+[2024-05-19 14:42:57.116276] UPDATE : sequence folder : sq0015
+[2024-05-19 14:42:57.116276] UPDATE : []
+[2024-05-19 14:42:58.523674] UPDATE : hello world!
+[2024-05-19 14:43:00.089372] UPDATE : hello world!
+[2024-05-19 14:43:00.603888] UPDATE : hello world!
+[2024-05-19 14:43:01.261791] UPDATE : hello world!
+
+
+[2024-05-19 14:45:53.913189] New Pipo session opened on <built-in function gethostname>
+[2024-05-19 14:45:53.928811] UPDATE : Personnal settings opened
+[2024-05-19 14:45:55.791348] UPDATE : Project selected : testproject
+[2024-05-19 14:45:55.791348] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-05-19 14:45:55.791348] UPDATE : Project settings loaded!
+
+[2024-05-19 14:45:56.868522] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 14:45:56.868522] UPDATE : NO PROCESS TO END!
+[2024-05-19 14:45:56.868522] UPDATE : ['shots']
+[2024-05-19 14:45:56.868522] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 14:45:56.868522] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 14:45:56.868522] UPDATE : sequence folder : sq0010
+[2024-05-19 14:45:56.868522] UPDATE : sequence folder : sq0015
+[2024-05-19 14:45:56.868522] UPDATE : []
+[2024-05-19 14:45:58.197220] UPDATE : sq0015
+
+[2024-05-19 14:45:58.197220] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 14:45:58.197220] UPDATE : NO PROCESS TO END!
+[2024-05-19 14:45:58.197220] UPDATE : ['shots']
+[2024-05-19 14:45:58.197220] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 14:45:58.197220] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 14:45:58.197220] UPDATE : sequence folder : sq0010
+[2024-05-19 14:45:58.207248] UPDATE : sequence folder : sq0015
+[2024-05-19 14:45:58.207248] UPDATE : ['sq0015']
+[2024-05-19 14:45:58.207248] UPDATE : searching sequence : sq0015
+[2024-05-19 14:45:58.207248] UPDATE : D:/WORK/TESTPROJECT/SHOTS/sq0015
+
+
+[2024-05-19 14:47:46.643913] New Pipo session opened on <built-in function gethostname>
+[2024-05-19 14:47:46.659563] UPDATE : Personnal settings opened
+[2024-05-19 14:47:48.287731] UPDATE : Project selected : testproject
+[2024-05-19 14:47:48.288731] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-05-19 14:47:48.288731] UPDATE : Project settings loaded!
+
+[2024-05-19 14:47:50.198114] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 14:47:50.198114] UPDATE : NO PROCESS TO END!
+[2024-05-19 14:47:50.198114] UPDATE : ['shots']
+[2024-05-19 14:47:50.198114] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 14:47:50.198114] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 14:47:50.198114] UPDATE : sequence folder : sq0010
+[2024-05-19 14:47:50.198114] UPDATE : sequence folder : sq0015
+[2024-05-19 14:47:50.198114] UPDATE : []
+
+[2024-05-19 14:47:52.064107] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 14:47:52.064107] UPDATE : NO PROCESS TO END!
+[2024-05-19 14:47:52.065078] UPDATE : ['shots']
+[2024-05-19 14:47:52.065078] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 14:47:52.065078] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 14:47:52.066130] UPDATE : sequence folder : sq0010
+[2024-05-19 14:47:52.066130] UPDATE : sequence folder : sq0015
+[2024-05-19 14:47:52.066130] UPDATE : ['sq0010']
+[2024-05-19 14:47:52.067128] UPDATE : searching sequence : sq0010
+[2024-05-19 14:47:52.067128] UPDATE : D:/WORK/TESTPROJECT/SHOTS/sq0010
+
+
+[2024-05-19 14:53:35.398215] New Pipo session opened on <built-in function gethostname>
+[2024-05-19 14:53:35.408243] UPDATE : Personnal settings opened
+[2024-05-19 14:53:37.487181] UPDATE : Project selected : testproject
+[2024-05-19 14:53:37.487181] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-05-19 14:53:37.487181] UPDATE : Project settings loaded!
+
+[2024-05-19 14:53:38.459945] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 14:53:38.459945] UPDATE : NO PROCESS TO END!
+[2024-05-19 14:53:38.459945] UPDATE : ['shots']
+[2024-05-19 14:53:38.459945] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 14:53:38.459945] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 14:53:38.459945] UPDATE : sequence folder : sq0010
+[2024-05-19 14:53:38.459945] UPDATE : sequence folder : sq0015
+[2024-05-19 14:53:38.459945] UPDATE : []
+
+[2024-05-19 14:53:39.643825] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 14:53:39.643825] UPDATE : NO PROCESS TO END!
+[2024-05-19 14:53:39.643825] UPDATE : ['shots']
+[2024-05-19 14:53:39.643825] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 14:53:39.643825] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 14:53:39.643825] UPDATE : sequence folder : sq0010
+[2024-05-19 14:53:39.643825] UPDATE : sequence folder : sq0015
+[2024-05-19 14:53:39.643825] UPDATE : ['sq0015']
+[2024-05-19 14:53:39.643825] UPDATE : NOT EMPTY!
+
+
+[2024-05-19 14:57:20.102002] New Pipo session opened on <built-in function gethostname>
+[2024-05-19 14:57:20.119207] UPDATE : Personnal settings opened
+[2024-05-19 14:57:22.086526] UPDATE : Project selected : testproject
+[2024-05-19 14:57:22.096540] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-05-19 14:57:22.096540] UPDATE : Project settings loaded!
+
+[2024-05-19 14:57:23.080736] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 14:57:23.080736] UPDATE : NO PROCESS TO END!
+[2024-05-19 14:57:23.080736] UPDATE : ['shots']
+[2024-05-19 14:57:23.080736] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 14:57:23.080736] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 14:57:23.080736] UPDATE : sequence folder : sq0010
+[2024-05-19 14:57:23.080736] UPDATE : sequence folder : sq0015
+[2024-05-19 14:57:23.080736] UPDATE : []
+
+[2024-05-19 14:57:27.092324] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 14:57:27.093321] UPDATE : NO PROCESS TO END!
+[2024-05-19 14:57:27.093321] UPDATE : ['shots']
+[2024-05-19 14:57:27.093321] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 14:57:27.094318] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 14:57:27.094318] UPDATE : sequence folder : sq0010
+[2024-05-19 14:57:27.095316] UPDATE : sequence folder : sq0015
+[2024-05-19 14:57:27.095316] UPDATE : ['sq0015']
+
+
+[2024-05-19 14:57:38.712465] New Pipo session opened on <built-in function gethostname>
+[2024-05-19 14:57:38.721144] UPDATE : Personnal settings opened
+[2024-05-19 14:57:40.226103] UPDATE : Project selected : testproject
+[2024-05-19 14:57:40.226782] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-05-19 14:57:40.226782] UPDATE : Project settings loaded!
+
+[2024-05-19 14:57:40.924923] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 14:57:40.925355] UPDATE : NO PROCESS TO END!
+[2024-05-19 14:57:40.926100] UPDATE : ['shots']
+[2024-05-19 14:57:40.926100] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 14:57:40.927101] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 14:57:40.927101] UPDATE : sequence folder : sq0010
+[2024-05-19 14:57:40.927101] UPDATE : sequence folder : sq0015
+[2024-05-19 14:57:40.928098] UPDATE : []
+
+[2024-05-19 14:57:41.976534] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 14:57:41.976534] UPDATE : NO PROCESS TO END!
+[2024-05-19 14:57:41.976534] UPDATE : ['shots']
+[2024-05-19 14:57:41.976534] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 14:57:41.976534] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 14:57:41.976534] UPDATE : sequence folder : sq0010
+[2024-05-19 14:57:41.976534] UPDATE : sequence folder : sq0015
+[2024-05-19 14:57:41.976534] UPDATE : ['sq0015']
+[2024-05-19 14:57:41.976534] UPDATE : D:/WORK/TESTPROJECT/SHOTS/sq0015
+
+
+[2024-05-19 15:04:58.007667] New Pipo session opened on <built-in function gethostname>
+[2024-05-19 15:04:58.023316] UPDATE : Personnal settings opened
+[2024-05-19 15:04:59.635761] UPDATE : Project selected : testproject
+[2024-05-19 15:04:59.635761] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-05-19 15:04:59.635761] UPDATE : Project settings loaded!
+
+[2024-05-19 15:05:01.364120] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:05:01.365682] UPDATE : NO PROCESS TO END!
+[2024-05-19 15:05:01.366529] UPDATE : ['shots']
+[2024-05-19 15:05:01.366529] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:05:01.366529] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:05:01.367556] UPDATE : []
+
+[2024-05-19 15:05:02.766267] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:05:02.766267] UPDATE : NO PROCESS TO END!
+[2024-05-19 15:05:02.767264] UPDATE : ['shots']
+[2024-05-19 15:05:02.767264] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:05:02.767264] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:05:02.768367] UPDATE : ['sq0015']
+
+[2024-05-19 15:05:05.175394] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:05:05.175394] UPDATE : NO PROCESS TO END!
+[2024-05-19 15:05:05.175394] UPDATE : ['shots']
+[2024-05-19 15:05:05.175394] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:05:05.175394] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:05:05.175394] UPDATE : ['sq0015', 'sq0010']
+
+[2024-05-19 15:05:06.583978] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:05:06.585252] UPDATE : NO PROCESS TO END!
+[2024-05-19 15:05:06.585252] UPDATE : ['shots']
+[2024-05-19 15:05:06.586019] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:05:06.586019] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:05:06.586019] UPDATE : ['sq0010']
+
+[2024-05-19 15:05:08.105703] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:05:08.105703] UPDATE : NO PROCESS TO END!
+[2024-05-19 15:05:08.105703] UPDATE : ['shots']
+[2024-05-19 15:05:08.105703] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:05:08.105703] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:05:08.110729] UPDATE : ['sq0010', 'sq0015']
+
+[2024-05-19 15:05:38.651447] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:05:38.651447] UPDATE : NO PROCESS TO END!
+[2024-05-19 15:05:38.651447] UPDATE : ['shots']
+[2024-05-19 15:05:38.651447] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:05:38.651447] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:05:38.651447] UPDATE : ['sq0010', 'sq0015']
+
+[2024-05-19 15:05:39.260614] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:05:39.260614] UPDATE : NO PROCESS TO END!
+[2024-05-19 15:05:39.260614] UPDATE : ['shots']
+[2024-05-19 15:05:39.260614] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:05:39.260614] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:05:39.260614] UPDATE : ['sq0010', 'sq0015']
+
+
+[2024-05-19 15:05:59.159613] New Pipo session opened on <built-in function gethostname>
+[2024-05-19 15:05:59.166035] UPDATE : Personnal settings opened
+[2024-05-19 15:06:00.957742] UPDATE : Project selected : testproject
+[2024-05-19 15:06:00.957742] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-05-19 15:06:00.957742] UPDATE : Project settings loaded!
+
+[2024-05-19 15:06:02.050838] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:06:02.050838] UPDATE : NO PROCESS TO END!
+[2024-05-19 15:06:02.050838] UPDATE : ['shots']
+[2024-05-19 15:06:02.050838] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:06:02.050838] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:06:02.050838] UPDATE : []
+[2024-05-19 15:06:02.050838] UPDATE : No name selected so no process launched!
+
+[2024-05-19 15:06:03.358304] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:06:03.358304] UPDATE : NO PROCESS TO END!
+[2024-05-19 15:06:03.359172] UPDATE : ['shots']
+[2024-05-19 15:06:03.359172] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:06:03.359172] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:06:03.360171] UPDATE : ['sq0010']
+[2024-05-19 15:06:03.360171] UPDATE : No name selected so no process launched!
+
+[2024-05-19 15:06:05.409219] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:06:05.410221] UPDATE : NO PROCESS TO END!
+[2024-05-19 15:06:05.410221] UPDATE : ['shots']
+[2024-05-19 15:06:05.410221] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:06:05.411190] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:06:05.411190] UPDATE : ['sq0010']
+[2024-05-19 15:06:05.412186] UPDATE : No name selected so no process launched!
+
+[2024-05-19 15:06:06.111393] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:06:06.111393] UPDATE : NO PROCESS TO END!
+[2024-05-19 15:06:06.112390] UPDATE : ['shots']
+[2024-05-19 15:06:06.112390] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:06:06.112390] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:06:06.113388] UPDATE : ['sq0010']
+[2024-05-19 15:06:06.114385] UPDATE : No name selected so no process launched!
+
+[2024-05-19 15:06:07.203799] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:06:07.203799] UPDATE : NO PROCESS TO END!
+[2024-05-19 15:06:07.204931] UPDATE : ['shots']
+[2024-05-19 15:06:07.204931] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:06:07.204931] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:06:07.205930] UPDATE : []
+[2024-05-19 15:06:07.205930] UPDATE : No name selected so no process launched!
+
+[2024-05-19 15:06:07.681122] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:06:07.681122] UPDATE : NO PROCESS TO END!
+[2024-05-19 15:06:07.681122] UPDATE : ['shots']
+[2024-05-19 15:06:07.681122] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:06:07.681122] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:06:07.681122] UPDATE : ['sq0015']
+[2024-05-19 15:06:07.681122] UPDATE : No name selected so no process launched!
+
+[2024-05-19 15:06:10.951172] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:06:10.951172] UPDATE : NO PROCESS TO END!
+[2024-05-19 15:06:10.951172] UPDATE : ['shots']
+[2024-05-19 15:06:10.951172] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:06:10.951172] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:06:10.951172] UPDATE : ['sq0015']
+[2024-05-19 15:06:10.951172] UPDATE : No name selected so no process launched!
+
+
+[2024-05-19 15:10:25.012393] New Pipo session opened on <built-in function gethostname>
+[2024-05-19 15:10:25.043708] UPDATE : Personnal settings opened
+[2024-05-19 15:10:27.047757] UPDATE : Project selected : testproject
+[2024-05-19 15:10:27.047757] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-05-19 15:10:27.047757] UPDATE : Project settings loaded!
+
+[2024-05-19 15:10:28.421530] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:10:28.421530] UPDATE : NO PROCESS TO END!
+[2024-05-19 15:10:28.421530] UPDATE : ['shots']
+[2024-05-19 15:10:28.421530] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:10:28.421530] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:10:28.421530] UPDATE : []
+[2024-05-19 15:10:28.421530] UPDATE : {}
+[2024-05-19 15:10:28.421530] UPDATE : No name selected so no process launched!
+
+[2024-05-19 15:10:29.894840] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:10:29.894840] UPDATE : NO PROCESS TO END!
+[2024-05-19 15:10:29.894840] UPDATE : ['shots']
+[2024-05-19 15:10:29.894840] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:10:29.894840] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:10:29.894840] UPDATE : ['sq0010']
+[2024-05-19 15:10:29.894840] UPDATE : {'D:/WORK/TESTPROJECT/SHOTS': {'KIND': 'shots', 'NAME': None, 'SEQUENCE': 'sq0010', 'SHOT': None, 'TYPE': None, 'LOD': '1', 'STATE': 'edit'}}
+[2024-05-19 15:10:29.905350] UPDATE : PROCESS <Process name='Process-2' pid=2260 parent=22376 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/SHOTS]
+[2024-05-19 15:10:30.365052] UPDATE : NO FILES FOUND!
+
+
+[2024-05-19 15:22:02.010908] New Pipo session opened on <built-in function gethostname>
+[2024-05-19 15:22:02.027317] UPDATE : Personnal settings opened
+[2024-05-19 15:22:03.511251] UPDATE : Project selected : testproject
+[2024-05-19 15:22:03.511251] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-05-19 15:22:03.511251] UPDATE : Project settings loaded!
+
+[2024-05-19 15:22:04.649250] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:22:04.650247] UPDATE : NO PROCESS TO END!
+[2024-05-19 15:22:04.651245] UPDATE : ['shots']
+[2024-05-19 15:22:04.651245] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:22:04.651245] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:22:04.652242] UPDATE : []
+[2024-05-19 15:22:04.652242] UPDATE : {}
+[2024-05-19 15:22:04.653239] UPDATE : No name selected so no process launched!
+
+[2024-05-19 15:22:05.863013] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:22:05.864010] UPDATE : NO PROCESS TO END!
+[2024-05-19 15:22:05.864691] UPDATE : ['shots']
+[2024-05-19 15:22:05.864691] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:22:05.864691] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:22:05.865690] UPDATE : ['sq0015']
+[2024-05-19 15:22:05.866687] UPDATE : {'D:/WORK/TESTPROJECT/SHOTS': {'KIND': 'shots', 'NAME': None, 'SEQUENCE': 'sq0015', 'SHOT': None, 'TYPE': None, 'LOD': '1', 'STATE': 'edit'}}
+[2024-05-19 15:22:05.875688] UPDATE : PROCESS <Process name='Process-2' pid=21964 parent=3472 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/SHOTS]
+[2024-05-19 15:22:06.354919] UPDATE : NO FILES FOUND!
+
+
+[2024-05-19 15:23:15.426799] New Pipo session opened on <built-in function gethostname>
+[2024-05-19 15:23:15.443728] UPDATE : Personnal settings opened
+[2024-05-19 15:23:16.928431] UPDATE : Project selected : testproject
+[2024-05-19 15:23:16.929429] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-05-19 15:23:16.929429] UPDATE : Project settings loaded!
+
+[2024-05-19 15:23:18.251867] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:23:18.251867] UPDATE : NO PROCESS TO END!
+[2024-05-19 15:23:18.252865] UPDATE : ['shots']
+[2024-05-19 15:23:18.253862] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:23:18.253862] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:23:18.254860] UPDATE : []
+[2024-05-19 15:23:18.254860] UPDATE : {}
+[2024-05-19 15:23:18.254860] UPDATE : No name selected so no process launched!
+
+[2024-05-19 15:23:19.427430] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:23:19.427430] UPDATE : NO PROCESS TO END!
+[2024-05-19 15:23:19.428426] UPDATE : ['shots']
+[2024-05-19 15:23:19.428426] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:23:19.428426] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:23:19.429424] UPDATE : ['sq0015']
+[2024-05-19 15:23:19.430422] UPDATE : {'D:/WORK/TESTPROJECT/SHOTS': {'KIND': 'shots', 'NAME': None, 'SEQUENCE': 'sq0015', 'SHOT': None, 'TYPE': None, 'LOD': '1', 'STATE': 'edit'}}
+[2024-05-19 15:23:19.439560] UPDATE : PROCESS <Process name='Process-2' pid=14972 parent=14256 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/SHOTS]
+[2024-05-19 15:23:19.943900] UPDATE : NO FILES FOUND!
+
+
+[2024-05-19 15:23:36.861798] New Pipo session opened on <built-in function gethostname>
+[2024-05-19 15:23:36.878081] UPDATE : Personnal settings opened
+[2024-05-19 15:23:38.278617] UPDATE : Project selected : testproject
+[2024-05-19 15:23:38.279614] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-05-19 15:23:38.279614] UPDATE : Project settings loaded!
+
+[2024-05-19 15:23:39.411661] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:23:39.411661] UPDATE : NO PROCESS TO END!
+[2024-05-19 15:23:39.413607] UPDATE : ['shots']
+[2024-05-19 15:23:39.413607] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:23:39.413607] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:23:39.414607] UPDATE : []
+[2024-05-19 15:23:39.414607] UPDATE : {}
+[2024-05-19 15:23:39.414607] UPDATE : No name selected so no process launched!
+
+[2024-05-19 15:23:40.722737] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:23:40.723701] UPDATE : NO PROCESS TO END!
+[2024-05-19 15:23:40.723701] UPDATE : ['shots']
+[2024-05-19 15:23:40.723701] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:23:40.724725] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:23:40.724725] UPDATE : ['sq0010']
+[2024-05-19 15:23:40.725722] UPDATE : {'D:/WORK/TESTPROJECT/SHOTS': {'KIND': 'shots', 'NAME': None, 'SEQUENCE': 'sq0010', 'SHOT': None, 'TYPE': None, 'LOD': '1', 'STATE': 'edit'}}
+[2024-05-19 15:23:40.735732] UPDATE : PROCESS <Process name='Process-2' pid=8480 parent=22264 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/SHOTS]
+[2024-05-19 15:23:41.241091] UPDATE : NO FILES FOUND!
+
+
+[2024-05-19 15:26:06.108535] New Pipo session opened on <built-in function gethostname>
+[2024-05-19 15:26:06.124492] UPDATE : Personnal settings opened
+[2024-05-19 15:26:07.513745] UPDATE : Project selected : testproject
+[2024-05-19 15:26:07.513745] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-05-19 15:26:07.514742] UPDATE : Project settings loaded!
+
+[2024-05-19 15:26:08.599508] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:26:08.600506] UPDATE : NO PROCESS TO END!
+[2024-05-19 15:26:08.601431] UPDATE : ['shots']
+[2024-05-19 15:26:08.601431] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:26:08.601431] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:26:08.602431] UPDATE : []
+[2024-05-19 15:26:08.602431] UPDATE : {}
+[2024-05-19 15:26:08.602431] UPDATE : No name selected so no process launched!
+
+[2024-05-19 15:26:10.120749] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:26:10.121720] UPDATE : NO PROCESS TO END!
+[2024-05-19 15:26:10.121720] UPDATE : ['shots']
+[2024-05-19 15:26:10.121720] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:26:10.122717] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:26:10.122717] UPDATE : ['sq0015']
+[2024-05-19 15:26:10.123715] UPDATE : {'D:/WORK/TESTPROJECT/SHOTS': {'KIND': 'shots', 'NAME': None, 'SEQUENCE': 'sq0015', 'SHOT': None, 'TYPE': None, 'LOD': '1', 'STATE': 'edit'}}
+[2024-05-19 15:26:10.133415] UPDATE : PROCESS <Process name='Process-2' pid=24904 parent=15312 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/SHOTS]
+[2024-05-19 15:26:10.613045] UPDATE : NO FILES FOUND!
+
+
+[2024-05-19 15:26:37.391118] New Pipo session opened on <built-in function gethostname>
+[2024-05-19 15:26:37.407077] UPDATE : Personnal settings opened
+[2024-05-19 15:26:43.586933] UPDATE : Project selected : testproject
+[2024-05-19 15:26:43.587930] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-05-19 15:26:43.587930] UPDATE : Project settings loaded!
+
+[2024-05-19 15:26:44.440162] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:26:44.440162] UPDATE : NO PROCESS TO END!
+[2024-05-19 15:26:44.441539] UPDATE : ['shots']
+[2024-05-19 15:26:44.441539] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:26:44.441539] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:26:44.442539] UPDATE : []
+[2024-05-19 15:26:44.442539] UPDATE : {}
+[2024-05-19 15:26:44.443536] UPDATE : No name selected so no process launched!
+
+[2024-05-19 15:26:45.746767] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:26:45.746767] UPDATE : NO PROCESS TO END!
+[2024-05-19 15:26:45.748230] UPDATE : ['shots']
+[2024-05-19 15:26:45.748230] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:26:45.748230] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:26:45.749252] UPDATE : ['sq0015']
+[2024-05-19 15:26:45.750246] UPDATE : {'D:/WORK/TESTPROJECT/SHOTS': {'KIND': 'shots', 'NAME': None, 'SEQUENCE': 'sq0015', 'SHOT': None, 'TYPE': None, 'LOD': '1', 'STATE': 'edit'}}
+[2024-05-19 15:26:45.760194] UPDATE : PROCESS <Process name='Process-2' pid=15096 parent=4148 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/SHOTS]
+[2024-05-19 15:26:46.261891] UPDATE : NO FILES FOUND!
+
+
+[2024-05-19 15:28:09.570658] New Pipo session opened on <built-in function gethostname>
+[2024-05-19 15:28:09.587601] UPDATE : Personnal settings opened
+[2024-05-19 15:28:10.994859] UPDATE : Project selected : testproject
+[2024-05-19 15:28:10.995821] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-05-19 15:28:10.995821] UPDATE : Project settings loaded!
+
+[2024-05-19 15:28:11.772009] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:28:11.772009] UPDATE : NO PROCESS TO END!
+[2024-05-19 15:28:11.773007] UPDATE : ['shots']
+[2024-05-19 15:28:11.773007] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:28:11.774004] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:28:11.774004] UPDATE : []
+[2024-05-19 15:28:11.775001] UPDATE : {}
+[2024-05-19 15:28:11.775001] UPDATE : No name selected so no process launched!
+
+[2024-05-19 15:28:13.249664] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:28:13.250001] UPDATE : NO PROCESS TO END!
+[2024-05-19 15:28:13.250662] UPDATE : ['shots']
+[2024-05-19 15:28:13.250662] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:28:13.250662] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:28:13.251659] UPDATE : ['sq0015']
+[2024-05-19 15:28:13.252656] UPDATE : {'D:/WORK/TESTPROJECT/SHOTS': {'KIND': 'shots', 'NAME': None, 'SEQUENCE': 'sq0015', 'SHOT': None, 'TYPE': None, 'LOD': '1', 'STATE': 'edit'}}
+[2024-05-19 15:28:13.263345] UPDATE : PROCESS <Process name='Process-2' pid=4060 parent=14212 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/SHOTS]
+[2024-05-19 15:28:13.782369] UPDATE : NO FILES FOUND!
+
+
+[2024-05-19 15:30:59.260971] New Pipo session opened on <built-in function gethostname>
+[2024-05-19 15:30:59.277749] UPDATE : Personnal settings opened
+[2024-05-19 15:31:01.274296] UPDATE : Project selected : testproject
+[2024-05-19 15:31:01.275304] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-05-19 15:31:01.275304] UPDATE : Project settings loaded!
+
+[2024-05-19 15:31:02.361790] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:31:02.361790] UPDATE : NO PROCESS TO END!
+[2024-05-19 15:31:02.363312] UPDATE : ['shots']
+[2024-05-19 15:31:02.363312] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:31:02.363312] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:31:02.364338] UPDATE : []
+[2024-05-19 15:31:02.364338] UPDATE : {}
+[2024-05-19 15:31:02.364338] UPDATE : No name selected so no process launched!
+
+[2024-05-19 15:31:03.329672] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:31:03.329672] UPDATE : NO PROCESS TO END!
+[2024-05-19 15:31:03.330676] UPDATE : ['shots']
+[2024-05-19 15:31:03.330676] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:31:03.331667] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:31:03.331667] UPDATE : ['sq0015']
+[2024-05-19 15:31:03.332664] UPDATE : {'D:/WORK/TESTPROJECT/SHOTS': {'KIND': 'shots', 'NAME': None, 'SEQUENCE': 'sq0015', 'SHOT': None, 'TYPE': None, 'LOD': '1', 'STATE': 'edit'}}
+[2024-05-19 15:31:03.342637] UPDATE : PROCESS <Process name='Process-2' pid=21932 parent=13580 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/SHOTS]
+[2024-05-19 15:31:03.839366] UPDATE : NO FILES FOUND!
+
+
+[2024-05-19 15:31:34.897628] New Pipo session opened on <built-in function gethostname>
+[2024-05-19 15:31:34.913585] UPDATE : Personnal settings opened
+[2024-05-19 15:31:36.628616] UPDATE : Project selected : testproject
+[2024-05-19 15:31:36.629697] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-05-19 15:31:36.629697] UPDATE : Project settings loaded!
+
+[2024-05-19 15:31:37.585224] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:31:37.586222] UPDATE : NO PROCESS TO END!
+[2024-05-19 15:31:37.587219] UPDATE : ['shots']
+[2024-05-19 15:31:37.587219] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:31:37.587757] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:31:37.587757] UPDATE : []
+[2024-05-19 15:31:37.588752] UPDATE : {}
+[2024-05-19 15:31:37.588752] UPDATE : No name selected so no process launched!
+
+[2024-05-19 15:31:38.454903] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:31:38.455900] UPDATE : NO PROCESS TO END!
+[2024-05-19 15:31:38.455900] UPDATE : ['shots']
+[2024-05-19 15:31:38.456898] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:31:38.456898] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:31:38.456898] UPDATE : ['sq0015']
+[2024-05-19 15:31:38.457894] UPDATE : {'D:/WORK/TESTPROJECT/SHOTS': {'KIND': 'shots', 'NAME': None, 'SEQUENCE': 'sq0015', 'SHOT': None, 'TYPE': None, 'LOD': '1', 'STATE': 'edit'}}
+[2024-05-19 15:31:38.467925] UPDATE : PROCESS <Process name='Process-2' pid=22536 parent=10896 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/SHOTS]
+[2024-05-19 15:31:38.989543] UPDATE : NO FILES FOUND!
+
+
+[2024-05-19 15:32:00.335772] New Pipo session opened on <built-in function gethostname>
+[2024-05-19 15:32:00.352173] UPDATE : Personnal settings opened
+[2024-05-19 15:32:01.580751] UPDATE : Project selected : testproject
+[2024-05-19 15:32:01.580751] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-05-19 15:32:01.581748] UPDATE : Project settings loaded!
+
+[2024-05-19 15:32:02.693722] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:32:02.693722] UPDATE : NO PROCESS TO END!
+[2024-05-19 15:32:02.694719] UPDATE : ['shots']
+[2024-05-19 15:32:02.695716] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:32:02.695716] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:32:02.696714] UPDATE : []
+[2024-05-19 15:32:02.696714] UPDATE : {}
+[2024-05-19 15:32:02.696714] UPDATE : No name selected so no process launched!
+
+[2024-05-19 15:32:03.726858] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:32:03.726858] UPDATE : NO PROCESS TO END!
+[2024-05-19 15:32:03.727856] UPDATE : ['shots']
+[2024-05-19 15:32:03.727856] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:32:03.727856] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:32:03.728854] UPDATE : ['sq0015']
+[2024-05-19 15:32:03.729850] UPDATE : {'D:/WORK/TESTPROJECT/SHOTS': {'KIND': 'shots', 'NAME': None, 'SEQUENCE': 'sq0015', 'SHOT': None, 'TYPE': None, 'LOD': '1', 'STATE': 'edit'}}
+[2024-05-19 15:32:03.739823] UPDATE : PROCESS <Process name='Process-2' pid=13740 parent=3936 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/SHOTS]
+[2024-05-19 15:32:04.226770] UPDATE : NO FILES FOUND!
+
+[2024-05-19 15:32:20.047937] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:32:20.048935] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=13740 parent=3936 stopped exitcode=0>
+[2024-05-19 15:32:20.048935] UPDATE : ['shots']
+[2024-05-19 15:32:20.049933] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:32:20.049933] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:32:20.049933] UPDATE : ['sq0015']
+[2024-05-19 15:32:20.050955] UPDATE : {'D:/WORK/TESTPROJECT/SHOTS': {'KIND': 'shots', 'NAME': None, 'SEQUENCE': 'sq0015', 'SHOT': None, 'TYPE': 'groom', 'LOD': '1', 'STATE': 'edit'}}
+[2024-05-19 15:32:20.061463] UPDATE : PROCESS <Process name='Process-3' pid=19952 parent=3936 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/SHOTS]
+[2024-05-19 15:32:20.568050] UPDATE : NO FILES FOUND!
+
+
+[2024-05-19 15:33:37.063510] New Pipo session opened on <built-in function gethostname>
+[2024-05-19 15:33:37.080439] UPDATE : Personnal settings opened
+[2024-05-19 15:33:38.976970] UPDATE : Project selected : testproject
+[2024-05-19 15:33:38.976970] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-05-19 15:33:38.976970] UPDATE : Project settings loaded!
+
+[2024-05-19 15:33:40.330241] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:33:40.330241] UPDATE : NO PROCESS TO END!
+[2024-05-19 15:33:40.331496] UPDATE : ['shots']
+[2024-05-19 15:33:40.331496] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:33:40.332522] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:33:40.332522] UPDATE : []
+[2024-05-19 15:33:40.333494] UPDATE : {}
+[2024-05-19 15:33:40.333494] UPDATE : No name selected so no process launched!
+
+[2024-05-19 15:33:41.399908] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:33:41.400906] UPDATE : NO PROCESS TO END!
+[2024-05-19 15:33:41.400906] UPDATE : ['shots']
+[2024-05-19 15:33:41.400906] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:33:41.401903] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:33:41.401903] UPDATE : ['sq0010']
+[2024-05-19 15:33:41.402900] UPDATE : {'D:/WORK/TESTPROJECT/SHOTS': {'KIND': 'shots', 'NAME': None, 'SEQUENCE': 'sq0010', 'SHOT': None, 'TYPE': None, 'LOD': '1', 'STATE': 'edit'}}
+[2024-05-19 15:33:41.412873] UPDATE : PROCESS <Process name='Process-2' pid=16900 parent=3328 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/SHOTS]
+[2024-05-19 15:33:41.907899] UPDATE : NO FILES FOUND!
+
+
+[2024-05-19 15:33:56.722965] New Pipo session opened on <built-in function gethostname>
+[2024-05-19 15:33:56.739197] UPDATE : Personnal settings opened
+[2024-05-19 15:33:58.334779] UPDATE : Project selected : testproject
+[2024-05-19 15:33:58.334779] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-05-19 15:33:58.335776] UPDATE : Project settings loaded!
+
+[2024-05-19 15:33:59.264051] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:33:59.264051] UPDATE : NO PROCESS TO END!
+[2024-05-19 15:33:59.265450] UPDATE : ['shots']
+[2024-05-19 15:33:59.265450] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:33:59.265450] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:33:59.266451] UPDATE : []
+[2024-05-19 15:33:59.266451] UPDATE : {}
+[2024-05-19 15:33:59.267447] UPDATE : No name selected so no process launched!
+
+[2024-05-19 15:34:00.312850] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:34:00.313847] UPDATE : NO PROCESS TO END!
+[2024-05-19 15:34:00.314335] UPDATE : ['shots']
+[2024-05-19 15:34:00.314335] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:34:00.314335] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:34:00.315362] UPDATE : ['sq0015']
+[2024-05-19 15:34:00.316355] UPDATE : {'D:/WORK/TESTPROJECT/SHOTS': {'KIND': 'shots', 'NAME': None, 'SEQUENCE': 'sq0015', 'SHOT': None, 'TYPE': None, 'LOD': '1', 'STATE': 'edit'}}
+[2024-05-19 15:34:00.325888] UPDATE : PROCESS <Process name='Process-2' pid=2352 parent=9580 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/SHOTS]
+[2024-05-19 15:34:00.826330] UPDATE : element added
+[2024-05-19 15:34:00.827328] UPDATE : element added
+[2024-05-19 15:34:00.827328] UPDATE : element added
+[2024-05-19 15:34:00.827328] UPDATE : element added
+[2024-05-19 15:34:00.828574] UPDATE : element added
+[2024-05-19 15:34:00.828574] UPDATE : ['D:/WORK/TESTPROJECT/SHOTS\\sq0010\\sh0010\\camera\\edit\\sq0010_sh0010_camera_v001.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0010\\sh0010\\camera\\edit\\sq0010_sh0010_camera_v002.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0010\\sh0010\\camera\\publish\\sq0010_sh0010_camera_publish.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0015\\sh0010\\camera\\edit\\sq0015_sh0010_camera_v001.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0015\\sh0010\\camera\\edit\\sq0015_sh0010_camera_v002.ma']
+
+[2024-05-19 15:34:11.596978] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:34:11.597491] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=2352 parent=9580 stopped exitcode=0>
+[2024-05-19 15:34:11.597491] UPDATE : ['shots']
+[2024-05-19 15:34:11.598484] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:34:11.598484] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:34:11.598484] UPDATE : []
+[2024-05-19 15:34:11.599481] UPDATE : {}
+[2024-05-19 15:34:11.599481] UPDATE : No name selected so no process launched!
+
+[2024-05-19 15:34:13.482766] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:34:13.483763] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=2352 parent=9580 stopped exitcode=0>
+[2024-05-19 15:34:13.483763] UPDATE : ['shots']
+[2024-05-19 15:34:13.483763] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:34:13.484761] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:34:13.484761] UPDATE : ['sq0010']
+[2024-05-19 15:34:13.485758] UPDATE : {'D:/WORK/TESTPROJECT/SHOTS': {'KIND': 'shots', 'NAME': None, 'SEQUENCE': 'sq0010', 'SHOT': None, 'TYPE': None, 'LOD': '1', 'STATE': 'edit'}}
+[2024-05-19 15:34:13.495559] UPDATE : PROCESS <Process name='Process-3' pid=19968 parent=9580 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/SHOTS]
+[2024-05-19 15:34:13.980228] UPDATE : element added
+[2024-05-19 15:34:13.981524] UPDATE : element added
+[2024-05-19 15:34:13.981524] UPDATE : element added
+[2024-05-19 15:34:13.981524] UPDATE : element added
+[2024-05-19 15:34:13.982524] UPDATE : element added
+[2024-05-19 15:34:13.982524] UPDATE : ['D:/WORK/TESTPROJECT/SHOTS\\sq0010\\sh0010\\camera\\edit\\sq0010_sh0010_camera_v001.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0010\\sh0010\\camera\\edit\\sq0010_sh0010_camera_v002.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0010\\sh0010\\camera\\publish\\sq0010_sh0010_camera_publish.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0015\\sh0010\\camera\\edit\\sq0015_sh0010_camera_v001.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0015\\sh0010\\camera\\edit\\sq0015_sh0010_camera_v002.ma']
+
+[2024-05-19 15:34:19.918851] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:34:19.918851] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=2352 parent=9580 stopped exitcode=0>
+[2024-05-19 15:34:19.919848] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=19968 parent=9580 stopped exitcode=0>
+[2024-05-19 15:34:19.919848] UPDATE : ['shots']
+[2024-05-19 15:34:19.919848] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:34:19.920845] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:34:19.920845] UPDATE : ['sq0010']
+[2024-05-19 15:34:19.921843] UPDATE : {'D:/WORK/TESTPROJECT/SHOTS': {'KIND': 'shots', 'NAME': None, 'SEQUENCE': 'sq0010', 'SHOT': None, 'TYPE': 'mod', 'LOD': '1', 'STATE': 'edit'}}
+[2024-05-19 15:34:19.931539] UPDATE : PROCESS <Process name='Process-4' pid=4272 parent=9580 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/SHOTS]
+[2024-05-19 15:34:20.431499] UPDATE : NO FILES FOUND!
+
+[2024-05-19 15:34:23.763954] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:34:23.764952] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=2352 parent=9580 stopped exitcode=0>
+[2024-05-19 15:34:23.764952] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=19968 parent=9580 stopped exitcode=0>
+[2024-05-19 15:34:23.764952] UPDATE : PROCESS TERMINATED : <Process name='Process-4' pid=4272 parent=9580 stopped exitcode=0>
+[2024-05-19 15:34:23.766271] UPDATE : ['shots']
+[2024-05-19 15:34:23.766271] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:34:23.766271] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:34:23.767270] UPDATE : ['sq0010']
+[2024-05-19 15:34:23.767270] UPDATE : {'D:/WORK/TESTPROJECT/SHOTS': {'KIND': 'shots', 'NAME': None, 'SEQUENCE': 'sq0010', 'SHOT': None, 'TYPE': None, 'LOD': '1', 'STATE': 'edit'}}
+[2024-05-19 15:34:23.778254] UPDATE : PROCESS <Process name='Process-5' pid=11988 parent=9580 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/SHOTS]
+[2024-05-19 15:34:24.263045] UPDATE : element added
+[2024-05-19 15:34:24.263045] UPDATE : element added
+[2024-05-19 15:34:24.264017] UPDATE : element added
+[2024-05-19 15:34:24.264017] UPDATE : element added
+[2024-05-19 15:34:24.265039] UPDATE : element added
+[2024-05-19 15:34:24.265039] UPDATE : ['D:/WORK/TESTPROJECT/SHOTS\\sq0010\\sh0010\\camera\\edit\\sq0010_sh0010_camera_v001.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0010\\sh0010\\camera\\edit\\sq0010_sh0010_camera_v002.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0010\\sh0010\\camera\\publish\\sq0010_sh0010_camera_publish.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0015\\sh0010\\camera\\edit\\sq0015_sh0010_camera_v001.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0015\\sh0010\\camera\\edit\\sq0015_sh0010_camera_v002.ma']
+
+[2024-05-19 15:34:24.292847] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:34:24.293844] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=2352 parent=9580 stopped exitcode=0>
+[2024-05-19 15:34:24.293844] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=19968 parent=9580 stopped exitcode=0>
+[2024-05-19 15:34:24.294841] UPDATE : PROCESS TERMINATED : <Process name='Process-4' pid=4272 parent=9580 stopped exitcode=0>
+[2024-05-19 15:34:24.294841] UPDATE : PROCESS TERMINATED : <Process name='Process-5' pid=11988 parent=9580 stopped exitcode=0>
+[2024-05-19 15:34:24.294841] UPDATE : ['shots']
+[2024-05-19 15:34:24.295838] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:34:24.295838] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:34:24.295838] UPDATE : ['sq0010']
+[2024-05-19 15:34:24.296836] UPDATE : {'D:/WORK/TESTPROJECT/SHOTS': {'KIND': 'shots', 'NAME': None, 'SEQUENCE': 'sq0010', 'SHOT': None, 'TYPE': 'rig', 'LOD': '1', 'STATE': 'edit'}}
+[2024-05-19 15:34:24.306810] UPDATE : PROCESS <Process name='Process-6' pid=11640 parent=9580 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/SHOTS]
+[2024-05-19 15:34:24.788006] UPDATE : NO FILES FOUND!
+
+[2024-05-19 15:34:25.366059] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:34:25.367030] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=2352 parent=9580 stopped exitcode=0>
+[2024-05-19 15:34:25.367030] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=19968 parent=9580 stopped exitcode=0>
+[2024-05-19 15:34:25.367030] UPDATE : PROCESS TERMINATED : <Process name='Process-4' pid=4272 parent=9580 stopped exitcode=0>
+[2024-05-19 15:34:25.368054] UPDATE : PROCESS TERMINATED : <Process name='Process-5' pid=11988 parent=9580 stopped exitcode=0>
+[2024-05-19 15:34:25.368054] UPDATE : PROCESS TERMINATED : <Process name='Process-6' pid=11640 parent=9580 stopped exitcode=0>
+[2024-05-19 15:34:25.368054] UPDATE : ['shots']
+[2024-05-19 15:34:25.369050] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:34:25.369050] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:34:25.369050] UPDATE : ['sq0010']
+[2024-05-19 15:34:25.371020] UPDATE : {'D:/WORK/TESTPROJECT/SHOTS': {'KIND': 'shots', 'NAME': None, 'SEQUENCE': 'sq0010', 'SHOT': None, 'TYPE': 'rig', 'LOD': '1', 'STATE': 'edit'}}
+[2024-05-19 15:34:25.380218] UPDATE : PROCESS <Process name='Process-7' pid=20612 parent=9580 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/SHOTS]
+[2024-05-19 15:34:25.861472] UPDATE : NO FILES FOUND!
+
+
+[2024-05-19 15:35:22.692712] New Pipo session opened on <built-in function gethostname>
+[2024-05-19 15:35:22.709668] UPDATE : Personnal settings opened
+[2024-05-19 15:35:24.149186] UPDATE : Project selected : testproject
+[2024-05-19 15:35:24.149186] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-05-19 15:35:24.150183] UPDATE : Project settings loaded!
+
+[2024-05-19 15:35:25.553463] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:35:25.553463] UPDATE : NO PROCESS TO END!
+[2024-05-19 15:35:25.554460] UPDATE : ['shots']
+[2024-05-19 15:35:25.555458] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:35:25.555458] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:35:25.556455] UPDATE : []
+[2024-05-19 15:35:25.556455] UPDATE : {}
+[2024-05-19 15:35:25.556455] UPDATE : No name selected so no process launched!
+
+[2024-05-19 15:35:27.212781] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:35:27.212781] UPDATE : NO PROCESS TO END!
+[2024-05-19 15:35:27.214083] UPDATE : ['shots']
+[2024-05-19 15:35:27.214083] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:35:27.214083] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:35:27.215082] UPDATE : ['sq0015']
+[2024-05-19 15:35:27.216080] UPDATE : {'D:/WORK/TESTPROJECT/SHOTS': {'KIND': 'shots', 'NAME': None, 'SEQUENCE': 'sq0015', 'SHOT': None, 'TYPE': None, 'LOD': '1', 'STATE': 'edit'}}
+[2024-05-19 15:35:27.226053] UPDATE : PROCESS <Process name='Process-2' pid=25528 parent=18704 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/SHOTS]
+[2024-05-19 15:35:27.714105] UPDATE : element added
+[2024-05-19 15:35:27.714682] UPDATE : element added
+[2024-05-19 15:35:27.715215] UPDATE : element added
+[2024-05-19 15:35:27.715844] UPDATE : element added
+[2024-05-19 15:35:27.716304] UPDATE : element added
+[2024-05-19 15:35:27.716304] UPDATE : element added
+[2024-05-19 15:35:27.716304] UPDATE : ['D:/WORK/TESTPROJECT/SHOTS\\sq0010\\sh0010\\camera\\edit\\sq0010_sh0010_camera_v001.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0010\\sh0010\\camera\\edit\\sq0010_sh0010_camera_v002.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0010\\sh0010\\camera\\publish\\sq0010_sh0010_camera_publish.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0015\\sh0010\\camera\\edit\\sq0015_sh0010_camera_v001.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0015\\sh0010\\camera\\edit\\sq0015_sh0010_camera_v002.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0015\\sh0010\\render\\edit\\sq0015_sh0010_render_v001.ma']
+
+[2024-05-19 15:35:31.123669] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:35:31.124665] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=25528 parent=18704 stopped exitcode=0>
+[2024-05-19 15:35:31.124665] UPDATE : ['shots']
+[2024-05-19 15:35:31.125663] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:35:31.125663] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:35:31.126660] UPDATE : ['sq0015']
+[2024-05-19 15:35:31.127658] UPDATE : {'D:/WORK/TESTPROJECT/SHOTS': {'KIND': 'shots', 'NAME': None, 'SEQUENCE': 'sq0015', 'SHOT': None, 'TYPE': 'camera', 'LOD': '1', 'STATE': 'edit'}}
+[2024-05-19 15:35:31.136940] UPDATE : PROCESS <Process name='Process-3' pid=16032 parent=18704 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/SHOTS]
+[2024-05-19 15:35:31.640717] UPDATE : element added
+[2024-05-19 15:35:31.640717] UPDATE : element added
+[2024-05-19 15:35:31.641742] UPDATE : element added
+[2024-05-19 15:35:31.641742] UPDATE : element added
+[2024-05-19 15:35:31.641742] UPDATE : element added
+[2024-05-19 15:35:31.642743] UPDATE : ['D:/WORK/TESTPROJECT/SHOTS\\sq0010\\sh0010\\camera\\edit\\sq0010_sh0010_camera_v001.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0010\\sh0010\\camera\\edit\\sq0010_sh0010_camera_v002.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0010\\sh0010\\camera\\publish\\sq0010_sh0010_camera_publish.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0015\\sh0010\\camera\\edit\\sq0015_sh0010_camera_v001.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0015\\sh0010\\camera\\edit\\sq0015_sh0010_camera_v002.ma']
+
+
+[2024-05-19 15:38:33.623126] New Pipo session opened on <built-in function gethostname>
+[2024-05-19 15:38:33.642075] UPDATE : Personnal settings opened
+[2024-05-19 15:38:35.326428] UPDATE : Project selected : testproject
+[2024-05-19 15:38:35.327425] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-05-19 15:38:35.327425] UPDATE : Project settings loaded!
+
+[2024-05-19 15:38:36.388623] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:38:36.389620] UPDATE : NO PROCESS TO END!
+[2024-05-19 15:38:36.390617] UPDATE : ['shots']
+[2024-05-19 15:38:36.390617] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:38:36.390617] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:38:36.391615] UPDATE : []
+[2024-05-19 15:38:36.391615] UPDATE : {}
+[2024-05-19 15:38:36.391615] UPDATE : No name selected so no process launched!
+
+[2024-05-19 15:38:37.853412] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:38:37.854411] UPDATE : NO PROCESS TO END!
+[2024-05-19 15:38:37.854411] UPDATE : ['shots']
+[2024-05-19 15:38:37.854411] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:38:37.855407] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:38:37.855407] UPDATE : ['sq0010']
+[2024-05-19 15:38:37.856404] UPDATE : {'D:/WORK/TESTPROJECT/SHOTS': {'KIND': 'shots', 'NAME': None, 'SEQUENCE': 'sq0010', 'SHOT': None, 'TYPE': None, 'LOD': '1', 'STATE': 'edit'}}
+[2024-05-19 15:38:37.866210] UPDATE : PROCESS <Process name='Process-2' pid=6072 parent=8040 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/SHOTS]
+[2024-05-19 15:38:38.352303] UPDATE : element added
+[2024-05-19 15:38:38.352303] UPDATE : element added
+[2024-05-19 15:38:38.353328] UPDATE : element added
+[2024-05-19 15:38:38.353328] UPDATE : element added
+[2024-05-19 15:38:38.355295] UPDATE : element added
+[2024-05-19 15:38:38.357290] UPDATE : element added
+[2024-05-19 15:38:38.357290] UPDATE : ['D:/WORK/TESTPROJECT/SHOTS\\sq0010\\sh0010\\camera\\edit\\sq0010_sh0010_camera_v001.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0010\\sh0010\\camera\\edit\\sq0010_sh0010_camera_v002.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0010\\sh0010\\camera\\publish\\sq0010_sh0010_camera_publish.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0015\\sh0010\\camera\\edit\\sq0015_sh0010_camera_v001.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0015\\sh0010\\camera\\edit\\sq0015_sh0010_camera_v002.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0015\\sh0010\\render\\edit\\sq0015_sh0010_render_v001.ma']
+
+[2024-05-19 15:38:41.685278] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:38:41.686275] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=6072 parent=8040 stopped exitcode=0>
+[2024-05-19 15:38:41.686275] UPDATE : ['shots']
+[2024-05-19 15:38:41.687272] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:38:41.687272] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:38:41.688269] UPDATE : []
+[2024-05-19 15:38:41.688269] UPDATE : {}
+[2024-05-19 15:38:41.688269] UPDATE : No name selected so no process launched!
+
+[2024-05-19 15:38:42.213308] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:38:42.214305] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=6072 parent=8040 stopped exitcode=0>
+[2024-05-19 15:38:42.214305] UPDATE : ['shots']
+[2024-05-19 15:38:42.214305] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:38:42.215303] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:38:42.215303] UPDATE : ['sq0015']
+[2024-05-19 15:38:42.216301] UPDATE : {'D:/WORK/TESTPROJECT/SHOTS': {'KIND': 'shots', 'NAME': None, 'SEQUENCE': 'sq0015', 'SHOT': None, 'TYPE': None, 'LOD': '1', 'STATE': 'edit'}}
+[2024-05-19 15:38:42.226527] UPDATE : PROCESS <Process name='Process-3' pid=908 parent=8040 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/SHOTS]
+[2024-05-19 15:38:42.723570] UPDATE : element added
+[2024-05-19 15:38:42.723570] UPDATE : element added
+[2024-05-19 15:38:42.723570] UPDATE : element added
+[2024-05-19 15:38:42.724568] UPDATE : element added
+[2024-05-19 15:38:42.724568] UPDATE : element added
+[2024-05-19 15:38:42.725565] UPDATE : element added
+[2024-05-19 15:38:42.725565] UPDATE : ['D:/WORK/TESTPROJECT/SHOTS\\sq0010\\sh0010\\camera\\edit\\sq0010_sh0010_camera_v001.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0010\\sh0010\\camera\\edit\\sq0010_sh0010_camera_v002.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0010\\sh0010\\camera\\publish\\sq0010_sh0010_camera_publish.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0015\\sh0010\\camera\\edit\\sq0015_sh0010_camera_v001.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0015\\sh0010\\camera\\edit\\sq0015_sh0010_camera_v002.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0015\\sh0010\\render\\edit\\sq0015_sh0010_render_v001.ma']
+
+[2024-05-19 15:38:46.506047] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:38:46.507045] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=6072 parent=8040 stopped exitcode=0>
+[2024-05-19 15:38:46.507045] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=908 parent=8040 stopped exitcode=0>
+[2024-05-19 15:38:46.508042] UPDATE : ['shots']
+[2024-05-19 15:38:46.508042] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:38:46.508042] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:38:46.509065] UPDATE : ['sq0015']
+[2024-05-19 15:38:46.510063] UPDATE : {'D:/WORK/TESTPROJECT/SHOTS': {'KIND': 'shots', 'NAME': None, 'SEQUENCE': 'sq0015', 'SHOT': None, 'TYPE': 'camera', 'LOD': '1', 'STATE': 'edit'}}
+[2024-05-19 15:38:46.520010] UPDATE : PROCESS <Process name='Process-4' pid=16008 parent=8040 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/SHOTS]
+[2024-05-19 15:38:47.022942] UPDATE : element added
+[2024-05-19 15:38:47.023939] UPDATE : element added
+[2024-05-19 15:38:47.023939] UPDATE : element added
+[2024-05-19 15:38:47.024937] UPDATE : element added
+[2024-05-19 15:38:47.024937] UPDATE : element added
+[2024-05-19 15:38:47.025908] UPDATE : ['D:/WORK/TESTPROJECT/SHOTS\\sq0010\\sh0010\\camera\\edit\\sq0010_sh0010_camera_v001.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0010\\sh0010\\camera\\edit\\sq0010_sh0010_camera_v002.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0010\\sh0010\\camera\\publish\\sq0010_sh0010_camera_publish.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0015\\sh0010\\camera\\edit\\sq0015_sh0010_camera_v001.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0015\\sh0010\\camera\\edit\\sq0015_sh0010_camera_v002.ma']
+
+
+[2024-05-19 15:41:26.696998] New Pipo session opened on <built-in function gethostname>
+[2024-05-19 15:41:26.715457] UPDATE : Personnal settings opened
+[2024-05-19 15:41:29.392442] UPDATE : Project selected : testproject
+[2024-05-19 15:41:29.393439] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-05-19 15:41:29.393439] UPDATE : Project settings loaded!
+
+[2024-05-19 15:41:30.556186] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:41:30.557183] UPDATE : NO PROCESS TO END!
+[2024-05-19 15:41:30.558181] UPDATE : ['shots']
+[2024-05-19 15:41:30.558181] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:41:30.559178] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:41:30.559178] UPDATE : []
+[2024-05-19 15:41:30.560176] UPDATE : {}
+[2024-05-19 15:41:30.560176] UPDATE : No name selected so no process launched!
+
+[2024-05-19 15:41:33.811335] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:41:33.812333] UPDATE : NO PROCESS TO END!
+[2024-05-19 15:41:33.812333] UPDATE : ['shots']
+[2024-05-19 15:41:33.812333] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:41:33.813330] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:41:33.813330] UPDATE : ['sq0015']
+[2024-05-19 15:41:33.814327] UPDATE : {'D:/WORK/TESTPROJECT/SHOTS': {'KIND': 'shots', 'NAME': None, 'SEQUENCE': 'sq0015', 'SHOT': None, 'TYPE': None, 'LOD': '1', 'STATE': 'edit'}}
+[2024-05-19 15:41:33.824564] UPDATE : PROCESS <Process name='Process-2' pid=20340 parent=22672 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/SHOTS]
+[2024-05-19 15:41:34.309024] UPDATE : file list cleaned
+[2024-05-19 15:41:34.310021] UPDATE : element added
+[2024-05-19 15:41:34.310021] UPDATE : element added
+[2024-05-19 15:41:34.310021] UPDATE : element added
+[2024-05-19 15:41:34.311018] UPDATE : element added
+[2024-05-19 15:41:34.311018] UPDATE : element added
+[2024-05-19 15:41:34.312015] UPDATE : element added
+[2024-05-19 15:41:34.312015] UPDATE : ['D:/WORK/TESTPROJECT/SHOTS\\sq0010\\sh0010\\camera\\edit\\sq0010_sh0010_camera_v001.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0010\\sh0010\\camera\\edit\\sq0010_sh0010_camera_v002.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0010\\sh0010\\camera\\publish\\sq0010_sh0010_camera_publish.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0015\\sh0010\\camera\\edit\\sq0015_sh0010_camera_v001.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0015\\sh0010\\camera\\edit\\sq0015_sh0010_camera_v002.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0015\\sh0010\\render\\edit\\sq0015_sh0010_render_v001.ma']
+
+[2024-05-19 15:41:45.578010] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:41:45.578982] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=20340 parent=22672 stopped exitcode=0>
+[2024-05-19 15:41:45.578982] UPDATE : ['shots']
+[2024-05-19 15:41:45.578982] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:41:45.580005] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:41:45.580005] UPDATE : ['sq0015']
+[2024-05-19 15:41:45.580976] UPDATE : {'D:/WORK/TESTPROJECT/SHOTS': {'KIND': 'shots', 'NAME': None, 'SEQUENCE': 'sq0015', 'SHOT': None, 'TYPE': 'mod', 'LOD': '1', 'STATE': 'edit'}}
+[2024-05-19 15:41:45.591103] UPDATE : PROCESS <Process name='Process-3' pid=15772 parent=22672 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/SHOTS]
+[2024-05-19 15:41:46.091493] UPDATE : NO FILES FOUND!
+
+[2024-05-19 15:41:46.273979] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:41:46.274977] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=20340 parent=22672 stopped exitcode=0>
+[2024-05-19 15:41:46.274977] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=15772 parent=22672 stopped exitcode=0>
+[2024-05-19 15:41:46.274977] UPDATE : ['shots']
+[2024-05-19 15:41:46.275975] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:41:46.275975] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:41:46.275975] UPDATE : ['sq0015']
+[2024-05-19 15:41:46.276972] UPDATE : {'D:/WORK/TESTPROJECT/SHOTS': {'KIND': 'shots', 'NAME': None, 'SEQUENCE': 'sq0015', 'SHOT': None, 'TYPE': None, 'LOD': '1', 'STATE': 'edit'}}
+[2024-05-19 15:41:46.286971] UPDATE : PROCESS <Process name='Process-4' pid=25476 parent=22672 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/SHOTS]
+[2024-05-19 15:41:46.787015] UPDATE : file list cleaned
+[2024-05-19 15:41:46.787015] UPDATE : element added
+[2024-05-19 15:41:46.788013] UPDATE : element added
+[2024-05-19 15:41:46.788013] UPDATE : element added
+[2024-05-19 15:41:46.789010] UPDATE : element added
+[2024-05-19 15:41:46.789010] UPDATE : element added
+[2024-05-19 15:41:46.790007] UPDATE : element added
+[2024-05-19 15:41:46.790007] UPDATE : ['D:/WORK/TESTPROJECT/SHOTS\\sq0010\\sh0010\\camera\\edit\\sq0010_sh0010_camera_v001.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0010\\sh0010\\camera\\edit\\sq0010_sh0010_camera_v002.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0010\\sh0010\\camera\\publish\\sq0010_sh0010_camera_publish.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0015\\sh0010\\camera\\edit\\sq0015_sh0010_camera_v001.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0015\\sh0010\\camera\\edit\\sq0015_sh0010_camera_v002.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0015\\sh0010\\render\\edit\\sq0015_sh0010_render_v001.ma']
+
+[2024-05-19 15:41:52.349077] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:41:52.349077] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=20340 parent=22672 stopped exitcode=0>
+[2024-05-19 15:41:52.350053] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=15772 parent=22672 stopped exitcode=0>
+[2024-05-19 15:41:52.350053] UPDATE : PROCESS TERMINATED : <Process name='Process-4' pid=25476 parent=22672 stopped exitcode=0>
+[2024-05-19 15:41:52.350897] UPDATE : ['shots']
+[2024-05-19 15:41:52.350897] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:41:52.350897] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:41:52.351896] UPDATE : ['sq0015']
+[2024-05-19 15:41:52.352894] UPDATE : {'D:/WORK/TESTPROJECT/SHOTS': {'KIND': 'shots', 'NAME': None, 'SEQUENCE': 'sq0015', 'SHOT': None, 'TYPE': 'render', 'LOD': '1', 'STATE': 'edit'}}
+[2024-05-19 15:41:52.362400] UPDATE : PROCESS <Process name='Process-5' pid=22252 parent=22672 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/SHOTS]
+[2024-05-19 15:41:52.844163] UPDATE : file list cleaned
+[2024-05-19 15:41:52.844163] UPDATE : element added
+[2024-05-19 15:41:52.845161] UPDATE : ['D:/WORK/TESTPROJECT/SHOTS\\sq0015\\sh0010\\render\\edit\\sq0015_sh0010_render_v001.ma']
+
+
+[2024-05-19 15:42:31.044883] New Pipo session opened on <built-in function gethostname>
+[2024-05-19 15:42:31.060516] UPDATE : Personnal settings opened
+[2024-05-19 15:42:32.515622] UPDATE : Project selected : testproject
+[2024-05-19 15:42:32.515622] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
+[2024-05-19 15:42:32.516620] UPDATE : Project settings loaded!
+
+[2024-05-19 15:42:33.739948] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:42:33.740944] UPDATE : NO PROCESS TO END!
+[2024-05-19 15:42:33.741941] UPDATE : ['shots']
+[2024-05-19 15:42:33.741941] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:42:33.742962] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:42:33.742962] UPDATE : []
+[2024-05-19 15:42:33.742962] UPDATE : {}
+[2024-05-19 15:42:33.743962] UPDATE : No name selected so no process launched!
+
+[2024-05-19 15:42:35.455494] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:42:35.455494] UPDATE : NO PROCESS TO END!
+[2024-05-19 15:42:35.456492] UPDATE : ['shots']
+[2024-05-19 15:42:35.456492] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:42:35.456492] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:42:35.457489] UPDATE : ['sq0010']
+[2024-05-19 15:42:35.458486] UPDATE : {'D:/WORK/TESTPROJECT/SHOTS': {'KIND': 'shots', 'NAME': None, 'SEQUENCE': 'sq0010', 'SHOT': None, 'TYPE': None, 'LOD': '1', 'STATE': 'edit'}}
+[2024-05-19 15:42:35.468492] UPDATE : PROCESS <Process name='Process-2' pid=11456 parent=24896 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/SHOTS]
+[2024-05-19 15:42:35.950825] UPDATE : file list cleaned
+[2024-05-19 15:42:35.950825] UPDATE : element added
+[2024-05-19 15:42:35.951823] UPDATE : element added
+[2024-05-19 15:42:35.951823] UPDATE : element added
+[2024-05-19 15:42:35.952820] UPDATE : element added
+[2024-05-19 15:42:35.952820] UPDATE : element added
+[2024-05-19 15:42:35.953817] UPDATE : element added
+[2024-05-19 15:42:35.953817] UPDATE : ['D:/WORK/TESTPROJECT/SHOTS\\sq0010\\sh0010\\camera\\edit\\sq0010_sh0010_camera_v001.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0010\\sh0010\\camera\\edit\\sq0010_sh0010_camera_v002.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0010\\sh0010\\camera\\publish\\sq0010_sh0010_camera_publish.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0015\\sh0010\\camera\\edit\\sq0015_sh0010_camera_v001.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0015\\sh0010\\camera\\edit\\sq0015_sh0010_camera_v002.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0015\\sh0010\\render\\edit\\sq0015_sh0010_render_v001.ma']
+
+[2024-05-19 15:42:37.473669] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:42:37.473669] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=11456 parent=24896 stopped exitcode=0>
+[2024-05-19 15:42:37.474667] UPDATE : ['shots']
+[2024-05-19 15:42:37.474667] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:42:37.474667] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:42:37.475664] UPDATE : ['sq0010', 'sq0015']
+[2024-05-19 15:42:37.476661] UPDATE : {'D:/WORK/TESTPROJECT/SHOTS': {'KIND': 'shots', 'NAME': None, 'SEQUENCE': 'sq0010', 'SHOT': None, 'TYPE': None, 'LOD': '1', 'STATE': 'edit'}}
+[2024-05-19 15:42:37.486642] UPDATE : PROCESS <Process name='Process-3' pid=8684 parent=24896 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/SHOTS]
+[2024-05-19 15:42:37.987197] UPDATE : file list cleaned
+[2024-05-19 15:42:37.988203] UPDATE : element added
+[2024-05-19 15:42:37.988203] UPDATE : element added
+[2024-05-19 15:42:37.988203] UPDATE : element added
+[2024-05-19 15:42:37.989195] UPDATE : element added
+[2024-05-19 15:42:37.989195] UPDATE : element added
+[2024-05-19 15:42:37.990218] UPDATE : element added
+[2024-05-19 15:42:37.990218] UPDATE : ['D:/WORK/TESTPROJECT/SHOTS\\sq0010\\sh0010\\camera\\edit\\sq0010_sh0010_camera_v001.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0010\\sh0010\\camera\\edit\\sq0010_sh0010_camera_v002.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0010\\sh0010\\camera\\publish\\sq0010_sh0010_camera_publish.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0015\\sh0010\\camera\\edit\\sq0015_sh0010_camera_v001.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0015\\sh0010\\camera\\edit\\sq0015_sh0010_camera_v002.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0015\\sh0010\\render\\edit\\sq0015_sh0010_render_v001.ma']
+
+[2024-05-19 15:42:39.140709] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:42:39.141708] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=11456 parent=24896 stopped exitcode=0>
+[2024-05-19 15:42:39.141708] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=8684 parent=24896 stopped exitcode=0>
+[2024-05-19 15:42:39.142897] UPDATE : ['shots']
+[2024-05-19 15:42:39.142897] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:42:39.142897] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:42:39.143924] UPDATE : ['sq0010', 'sq0015']
+[2024-05-19 15:42:39.144921] UPDATE : {}
+[2024-05-19 15:42:39.144921] UPDATE : No name selected so no process launched!
+
+[2024-05-19 15:42:44.476600] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:42:44.477597] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=11456 parent=24896 stopped exitcode=0>
+[2024-05-19 15:42:44.477597] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=8684 parent=24896 stopped exitcode=0>
+[2024-05-19 15:42:44.477597] UPDATE : ['shots']
+[2024-05-19 15:42:44.478594] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:42:44.478594] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:42:44.478594] UPDATE : ['sq0010', 'sq0015']
+[2024-05-19 15:42:44.480590] UPDATE : {'D:/WORK/TESTPROJECT/SHOTS': {'KIND': 'shots', 'NAME': None, 'SEQUENCE': 'sq0010', 'SHOT': None, 'TYPE': None, 'LOD': '1', 'STATE': 'edit'}}
+[2024-05-19 15:42:44.490430] UPDATE : PROCESS <Process name='Process-4' pid=9632 parent=24896 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/SHOTS]
+[2024-05-19 15:42:44.973531] UPDATE : file list cleaned
+[2024-05-19 15:42:44.973531] UPDATE : element added
+[2024-05-19 15:42:44.974528] UPDATE : element added
+[2024-05-19 15:42:44.974528] UPDATE : element added
+[2024-05-19 15:42:44.975532] UPDATE : element added
+[2024-05-19 15:42:44.975532] UPDATE : element added
+[2024-05-19 15:42:44.975532] UPDATE : element added
+[2024-05-19 15:42:44.976531] UPDATE : ['D:/WORK/TESTPROJECT/SHOTS\\sq0010\\sh0010\\camera\\edit\\sq0010_sh0010_camera_v001.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0010\\sh0010\\camera\\edit\\sq0010_sh0010_camera_v002.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0010\\sh0010\\camera\\publish\\sq0010_sh0010_camera_publish.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0015\\sh0010\\camera\\edit\\sq0015_sh0010_camera_v001.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0015\\sh0010\\camera\\edit\\sq0015_sh0010_camera_v002.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0015\\sh0010\\render\\edit\\sq0015_sh0010_render_v001.ma']
+
+[2024-05-19 15:42:45.371883] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:42:45.371883] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=11456 parent=24896 stopped exitcode=0>
+[2024-05-19 15:42:45.371883] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=8684 parent=24896 stopped exitcode=0>
+[2024-05-19 15:42:45.372907] UPDATE : PROCESS TERMINATED : <Process name='Process-4' pid=9632 parent=24896 stopped exitcode=0>
+[2024-05-19 15:42:45.372907] UPDATE : ['shots']
+[2024-05-19 15:42:45.372907] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:42:45.373907] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:42:45.373907] UPDATE : ['sq0010', 'sq0015']
+[2024-05-19 15:42:45.374901] UPDATE : {}
+[2024-05-19 15:42:45.375900] UPDATE : No name selected so no process launched!
+
+[2024-05-19 15:42:52.658598] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:42:52.659595] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=11456 parent=24896 stopped exitcode=0>
+[2024-05-19 15:42:52.659595] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=8684 parent=24896 stopped exitcode=0>
+[2024-05-19 15:42:52.660593] UPDATE : PROCESS TERMINATED : <Process name='Process-4' pid=9632 parent=24896 stopped exitcode=0>
+[2024-05-19 15:42:52.660593] UPDATE : ['shots']
+[2024-05-19 15:42:52.660593] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:42:52.661590] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:42:52.661590] UPDATE : ['sq0010', 'sq0015']
+[2024-05-19 15:42:52.663585] UPDATE : {'D:/WORK/TESTPROJECT/SHOTS': {'KIND': 'shots', 'NAME': None, 'SEQUENCE': 'sq0010', 'SHOT': None, 'TYPE': None, 'LOD': '1', 'STATE': 'edit'}}
+[2024-05-19 15:42:52.672603] UPDATE : PROCESS <Process name='Process-5' pid=2632 parent=24896 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/SHOTS]
+[2024-05-19 15:42:53.157525] UPDATE : file list cleaned
+[2024-05-19 15:42:53.157525] UPDATE : element added
+[2024-05-19 15:42:53.158498] UPDATE : element added
+[2024-05-19 15:42:53.158498] UPDATE : element added
+[2024-05-19 15:42:53.159523] UPDATE : element added
+[2024-05-19 15:42:53.159523] UPDATE : element added
+[2024-05-19 15:42:53.160520] UPDATE : element added
+[2024-05-19 15:42:53.160520] UPDATE : ['D:/WORK/TESTPROJECT/SHOTS\\sq0010\\sh0010\\camera\\edit\\sq0010_sh0010_camera_v001.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0010\\sh0010\\camera\\edit\\sq0010_sh0010_camera_v002.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0010\\sh0010\\camera\\publish\\sq0010_sh0010_camera_publish.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0015\\sh0010\\camera\\edit\\sq0015_sh0010_camera_v001.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0015\\sh0010\\camera\\edit\\sq0015_sh0010_camera_v002.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0015\\sh0010\\render\\edit\\sq0015_sh0010_render_v001.ma']
+
+[2024-05-19 15:42:53.440556] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:42:53.440556] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=11456 parent=24896 stopped exitcode=0>
+[2024-05-19 15:42:53.441552] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=8684 parent=24896 stopped exitcode=0>
+[2024-05-19 15:42:53.441552] UPDATE : PROCESS TERMINATED : <Process name='Process-4' pid=9632 parent=24896 stopped exitcode=0>
+[2024-05-19 15:42:53.441552] UPDATE : PROCESS TERMINATED : <Process name='Process-5' pid=2632 parent=24896 stopped exitcode=0>
+[2024-05-19 15:42:53.442549] UPDATE : ['shots']
+[2024-05-19 15:42:53.442549] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:42:53.442549] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:42:53.443547] UPDATE : ['sq0010', 'sq0015']
+[2024-05-19 15:42:53.444545] UPDATE : {}
+[2024-05-19 15:42:53.444545] UPDATE : No name selected so no process launched!
+
+[2024-05-19 15:42:54.048670] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:42:54.049645] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=11456 parent=24896 stopped exitcode=0>
+[2024-05-19 15:42:54.049645] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=8684 parent=24896 stopped exitcode=0>
+[2024-05-19 15:42:54.050642] UPDATE : PROCESS TERMINATED : <Process name='Process-4' pid=9632 parent=24896 stopped exitcode=0>
+[2024-05-19 15:42:54.050642] UPDATE : PROCESS TERMINATED : <Process name='Process-5' pid=2632 parent=24896 stopped exitcode=0>
+[2024-05-19 15:42:54.050642] UPDATE : ['shots']
+[2024-05-19 15:42:54.051640] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:42:54.051640] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:42:54.052637] UPDATE : ['sq0010', 'sq0015']
+[2024-05-19 15:42:54.053635] UPDATE : {}
+[2024-05-19 15:42:54.053635] UPDATE : No name selected so no process launched!
+
+[2024-05-19 15:42:56.805514] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:42:56.805514] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=11456 parent=24896 stopped exitcode=0>
+[2024-05-19 15:42:56.806511] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=8684 parent=24896 stopped exitcode=0>
+[2024-05-19 15:42:56.806511] UPDATE : PROCESS TERMINATED : <Process name='Process-4' pid=9632 parent=24896 stopped exitcode=0>
+[2024-05-19 15:42:56.806511] UPDATE : PROCESS TERMINATED : <Process name='Process-5' pid=2632 parent=24896 stopped exitcode=0>
+[2024-05-19 15:42:56.807508] UPDATE : ['shots']
+[2024-05-19 15:42:56.807508] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:42:56.807508] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:42:56.808506] UPDATE : ['sq0010', 'sq0015']
+[2024-05-19 15:42:56.809503] UPDATE : {}
+[2024-05-19 15:42:56.809503] UPDATE : No name selected so no process launched!
+
+[2024-05-19 15:42:57.201636] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:42:57.201636] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=11456 parent=24896 stopped exitcode=0>
+[2024-05-19 15:42:57.202634] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=8684 parent=24896 stopped exitcode=0>
+[2024-05-19 15:42:57.202634] UPDATE : PROCESS TERMINATED : <Process name='Process-4' pid=9632 parent=24896 stopped exitcode=0>
+[2024-05-19 15:42:57.202634] UPDATE : PROCESS TERMINATED : <Process name='Process-5' pid=2632 parent=24896 stopped exitcode=0>
+[2024-05-19 15:42:57.203661] UPDATE : ['shots']
+[2024-05-19 15:42:57.203661] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:42:57.203661] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:42:57.204660] UPDATE : ['sq0010', 'sq0015']
+[2024-05-19 15:42:57.206212] UPDATE : {'D:/WORK/TESTPROJECT/SHOTS': {'KIND': 'shots', 'NAME': None, 'SEQUENCE': 'sq0010', 'SHOT': None, 'TYPE': None, 'LOD': '1', 'STATE': 'edit'}}
+[2024-05-19 15:42:57.216212] UPDATE : PROCESS <Process name='Process-6' pid=12068 parent=24896 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/SHOTS]
+[2024-05-19 15:42:57.716573] UPDATE : file list cleaned
+[2024-05-19 15:42:57.717570] UPDATE : element added
+[2024-05-19 15:42:57.717570] UPDATE : element added
+[2024-05-19 15:42:57.718954] UPDATE : element added
+[2024-05-19 15:42:57.718954] UPDATE : element added
+[2024-05-19 15:42:57.718954] UPDATE : element added
+[2024-05-19 15:42:57.719954] UPDATE : element added
+[2024-05-19 15:42:57.719954] UPDATE : ['D:/WORK/TESTPROJECT/SHOTS\\sq0010\\sh0010\\camera\\edit\\sq0010_sh0010_camera_v001.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0010\\sh0010\\camera\\edit\\sq0010_sh0010_camera_v002.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0010\\sh0010\\camera\\publish\\sq0010_sh0010_camera_publish.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0015\\sh0010\\camera\\edit\\sq0015_sh0010_camera_v001.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0015\\sh0010\\camera\\edit\\sq0015_sh0010_camera_v002.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0015\\sh0010\\render\\edit\\sq0015_sh0010_render_v001.ma']
+
+[2024-05-19 15:42:57.812890] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:42:57.813888] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=11456 parent=24896 stopped exitcode=0>
+[2024-05-19 15:42:57.813888] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=8684 parent=24896 stopped exitcode=0>
+[2024-05-19 15:42:57.813888] UPDATE : PROCESS TERMINATED : <Process name='Process-4' pid=9632 parent=24896 stopped exitcode=0>
+[2024-05-19 15:42:57.814884] UPDATE : PROCESS TERMINATED : <Process name='Process-5' pid=2632 parent=24896 stopped exitcode=0>
+[2024-05-19 15:42:57.814884] UPDATE : PROCESS TERMINATED : <Process name='Process-6' pid=12068 parent=24896 stopped exitcode=0>
+[2024-05-19 15:42:57.814884] UPDATE : ['shots']
+[2024-05-19 15:42:57.814884] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:42:57.815882] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:42:57.815882] UPDATE : ['sq0015']
+[2024-05-19 15:42:57.816879] UPDATE : {'D:/WORK/TESTPROJECT/SHOTS': {'KIND': 'shots', 'NAME': None, 'SEQUENCE': 'sq0015', 'SHOT': None, 'TYPE': None, 'LOD': '1', 'STATE': 'edit'}}
+[2024-05-19 15:42:57.826852] UPDATE : PROCESS <Process name='Process-7' pid=2488 parent=24896 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/SHOTS]
+[2024-05-19 15:42:58.327070] UPDATE : file list cleaned
+[2024-05-19 15:42:58.327070] UPDATE : element added
+[2024-05-19 15:42:58.328067] UPDATE : element added
+[2024-05-19 15:42:58.328067] UPDATE : element added
+[2024-05-19 15:42:58.329065] UPDATE : element added
+[2024-05-19 15:42:58.329065] UPDATE : element added
+[2024-05-19 15:42:58.329065] UPDATE : element added
+[2024-05-19 15:42:58.330094] UPDATE : ['D:/WORK/TESTPROJECT/SHOTS\\sq0010\\sh0010\\camera\\edit\\sq0010_sh0010_camera_v001.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0010\\sh0010\\camera\\edit\\sq0010_sh0010_camera_v002.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0010\\sh0010\\camera\\publish\\sq0010_sh0010_camera_publish.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0015\\sh0010\\camera\\edit\\sq0015_sh0010_camera_v001.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0015\\sh0010\\camera\\edit\\sq0015_sh0010_camera_v002.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0015\\sh0010\\render\\edit\\sq0015_sh0010_render_v001.ma']
+
+[2024-05-19 15:42:58.376231] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:42:58.377228] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=11456 parent=24896 stopped exitcode=0>
+[2024-05-19 15:42:58.377228] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=8684 parent=24896 stopped exitcode=0>
+[2024-05-19 15:42:58.378225] UPDATE : PROCESS TERMINATED : <Process name='Process-4' pid=9632 parent=24896 stopped exitcode=0>
+[2024-05-19 15:42:58.378225] UPDATE : PROCESS TERMINATED : <Process name='Process-5' pid=2632 parent=24896 stopped exitcode=0>
+[2024-05-19 15:42:58.378225] UPDATE : PROCESS TERMINATED : <Process name='Process-6' pid=12068 parent=24896 stopped exitcode=0>
+[2024-05-19 15:42:58.378225] UPDATE : PROCESS TERMINATED : <Process name='Process-7' pid=2488 parent=24896 stopped exitcode=0>
+[2024-05-19 15:42:58.379223] UPDATE : ['shots']
+[2024-05-19 15:42:58.379223] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:42:58.379223] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:42:58.380219] UPDATE : []
+[2024-05-19 15:42:58.380219] UPDATE : {}
+[2024-05-19 15:42:58.380219] UPDATE : No name selected so no process launched!
+
+[2024-05-19 15:43:01.702679] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:43:01.703652] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=11456 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:01.703652] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=8684 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:01.703652] UPDATE : PROCESS TERMINATED : <Process name='Process-4' pid=9632 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:01.704650] UPDATE : PROCESS TERMINATED : <Process name='Process-5' pid=2632 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:01.704650] UPDATE : PROCESS TERMINATED : <Process name='Process-6' pid=12068 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:01.704650] UPDATE : PROCESS TERMINATED : <Process name='Process-7' pid=2488 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:01.706074] UPDATE : ['shots']
+[2024-05-19 15:43:01.706074] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:43:01.706074] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:43:01.707073] UPDATE : ['sq0015']
+[2024-05-19 15:43:01.708070] UPDATE : {'D:/WORK/TESTPROJECT/SHOTS': {'KIND': 'shots', 'NAME': None, 'SEQUENCE': 'sq0015', 'SHOT': None, 'TYPE': None, 'LOD': '1', 'STATE': 'edit'}}
+[2024-05-19 15:43:01.717204] UPDATE : PROCESS <Process name='Process-8' pid=16916 parent=24896 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/SHOTS]
+[2024-05-19 15:43:02.201207] UPDATE : file list cleaned
+[2024-05-19 15:43:02.201207] UPDATE : element added
+[2024-05-19 15:43:02.202230] UPDATE : element added
+[2024-05-19 15:43:02.202230] UPDATE : element added
+[2024-05-19 15:43:02.203231] UPDATE : element added
+[2024-05-19 15:43:02.203231] UPDATE : element added
+[2024-05-19 15:43:02.203231] UPDATE : element added
+[2024-05-19 15:43:02.204200] UPDATE : ['D:/WORK/TESTPROJECT/SHOTS\\sq0010\\sh0010\\camera\\edit\\sq0010_sh0010_camera_v001.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0010\\sh0010\\camera\\edit\\sq0010_sh0010_camera_v002.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0010\\sh0010\\camera\\publish\\sq0010_sh0010_camera_publish.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0015\\sh0010\\camera\\edit\\sq0015_sh0010_camera_v001.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0015\\sh0010\\camera\\edit\\sq0015_sh0010_camera_v002.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0015\\sh0010\\render\\edit\\sq0015_sh0010_render_v001.ma']
+
+[2024-05-19 15:43:07.477769] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:43:07.478766] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=11456 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:07.478766] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=8684 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:07.479764] UPDATE : PROCESS TERMINATED : <Process name='Process-4' pid=9632 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:07.479764] UPDATE : PROCESS TERMINATED : <Process name='Process-5' pid=2632 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:07.479764] UPDATE : PROCESS TERMINATED : <Process name='Process-6' pid=12068 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:07.479764] UPDATE : PROCESS TERMINATED : <Process name='Process-7' pid=2488 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:07.480761] UPDATE : PROCESS TERMINATED : <Process name='Process-8' pid=16916 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:07.480761] UPDATE : ['shots']
+[2024-05-19 15:43:07.480761] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:43:07.481758] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:43:07.481758] UPDATE : ['sq0015']
+[2024-05-19 15:43:07.482755] UPDATE : {'D:/WORK/TESTPROJECT/SHOTS': {'KIND': 'shots', 'NAME': None, 'SEQUENCE': 'sq0015', 'SHOT': None, 'TYPE': 'camera', 'LOD': '1', 'STATE': 'edit'}}
+[2024-05-19 15:43:07.492518] UPDATE : PROCESS <Process name='Process-9' pid=14444 parent=24896 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/SHOTS]
+[2024-05-19 15:43:07.995812] UPDATE : file list cleaned
+[2024-05-19 15:43:07.995812] UPDATE : element added
+[2024-05-19 15:43:07.996810] UPDATE : element added
+[2024-05-19 15:43:07.996810] UPDATE : element added
+[2024-05-19 15:43:07.997807] UPDATE : element added
+[2024-05-19 15:43:07.997807] UPDATE : element added
+[2024-05-19 15:43:07.998804] UPDATE : ['D:/WORK/TESTPROJECT/SHOTS\\sq0010\\sh0010\\camera\\edit\\sq0010_sh0010_camera_v001.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0010\\sh0010\\camera\\edit\\sq0010_sh0010_camera_v002.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0010\\sh0010\\camera\\publish\\sq0010_sh0010_camera_publish.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0015\\sh0010\\camera\\edit\\sq0015_sh0010_camera_v001.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0015\\sh0010\\camera\\edit\\sq0015_sh0010_camera_v002.ma']
+
+[2024-05-19 15:43:09.778077] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:43:09.778077] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=11456 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:09.779074] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=8684 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:09.779074] UPDATE : PROCESS TERMINATED : <Process name='Process-4' pid=9632 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:09.779074] UPDATE : PROCESS TERMINATED : <Process name='Process-5' pid=2632 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:09.780073] UPDATE : PROCESS TERMINATED : <Process name='Process-6' pid=12068 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:09.780073] UPDATE : PROCESS TERMINATED : <Process name='Process-7' pid=2488 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:09.780073] UPDATE : PROCESS TERMINATED : <Process name='Process-8' pid=16916 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:09.780073] UPDATE : PROCESS TERMINATED : <Process name='Process-9' pid=14444 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:09.781069] UPDATE : ['shots']
+[2024-05-19 15:43:09.781069] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:43:09.781069] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:43:09.782067] UPDATE : ['sq0015']
+[2024-05-19 15:43:09.783064] UPDATE : {'D:/WORK/TESTPROJECT/SHOTS': {'KIND': 'shots', 'NAME': None, 'SEQUENCE': 'sq0015', 'SHOT': None, 'TYPE': None, 'LOD': '1', 'STATE': 'edit'}}
+[2024-05-19 15:43:09.793161] UPDATE : PROCESS <Process name='Process-10' pid=13204 parent=24896 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/SHOTS]
+[2024-05-19 15:43:10.294732] UPDATE : file list cleaned
+[2024-05-19 15:43:10.295722] UPDATE : element added
+[2024-05-19 15:43:10.295722] UPDATE : element added
+[2024-05-19 15:43:10.295722] UPDATE : element added
+[2024-05-19 15:43:10.296701] UPDATE : element added
+[2024-05-19 15:43:10.296701] UPDATE : element added
+[2024-05-19 15:43:10.296701] UPDATE : element added
+[2024-05-19 15:43:10.297699] UPDATE : ['D:/WORK/TESTPROJECT/SHOTS\\sq0010\\sh0010\\camera\\edit\\sq0010_sh0010_camera_v001.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0010\\sh0010\\camera\\edit\\sq0010_sh0010_camera_v002.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0010\\sh0010\\camera\\publish\\sq0010_sh0010_camera_publish.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0015\\sh0010\\camera\\edit\\sq0015_sh0010_camera_v001.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0015\\sh0010\\camera\\edit\\sq0015_sh0010_camera_v002.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0015\\sh0010\\render\\edit\\sq0015_sh0010_render_v001.ma']
+
+[2024-05-19 15:43:10.402526] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:43:10.402526] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=11456 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:10.402526] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=8684 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:10.403523] UPDATE : PROCESS TERMINATED : <Process name='Process-4' pid=9632 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:10.403523] UPDATE : PROCESS TERMINATED : <Process name='Process-5' pid=2632 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:10.403523] UPDATE : PROCESS TERMINATED : <Process name='Process-6' pid=12068 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:10.404520] UPDATE : PROCESS TERMINATED : <Process name='Process-7' pid=2488 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:10.404520] UPDATE : PROCESS TERMINATED : <Process name='Process-8' pid=16916 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:10.404520] UPDATE : PROCESS TERMINATED : <Process name='Process-9' pid=14444 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:10.404520] UPDATE : PROCESS TERMINATED : <Process name='Process-10' pid=13204 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:10.405517] UPDATE : ['shots']
+[2024-05-19 15:43:10.406149] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:43:10.406149] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:43:10.406149] UPDATE : ['sq0015']
+[2024-05-19 15:43:10.407143] UPDATE : {'D:/WORK/TESTPROJECT/SHOTS': {'KIND': 'shots', 'NAME': None, 'SEQUENCE': 'sq0015', 'SHOT': None, 'TYPE': 'mod', 'LOD': '1', 'STATE': 'edit'}}
+[2024-05-19 15:43:10.418115] UPDATE : PROCESS <Process name='Process-11' pid=3372 parent=24896 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/SHOTS]
+[2024-05-19 15:43:10.918064] UPDATE : NO FILES FOUND!
+
+[2024-05-19 15:43:16.019813] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:43:16.020785] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=11456 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:16.020785] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=8684 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:16.020785] UPDATE : PROCESS TERMINATED : <Process name='Process-4' pid=9632 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:16.021782] UPDATE : PROCESS TERMINATED : <Process name='Process-5' pid=2632 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:16.021782] UPDATE : PROCESS TERMINATED : <Process name='Process-6' pid=12068 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:16.021782] UPDATE : PROCESS TERMINATED : <Process name='Process-7' pid=2488 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:16.021782] UPDATE : PROCESS TERMINATED : <Process name='Process-8' pid=16916 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:16.022779] UPDATE : PROCESS TERMINATED : <Process name='Process-9' pid=14444 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:16.022779] UPDATE : PROCESS TERMINATED : <Process name='Process-10' pid=13204 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:16.022779] UPDATE : PROCESS TERMINATED : <Process name='Process-11' pid=3372 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:16.023777] UPDATE : ['shots']
+[2024-05-19 15:43:16.023777] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:43:16.023777] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:43:16.024774] UPDATE : ['sq0015']
+[2024-05-19 15:43:16.025772] UPDATE : {'D:/WORK/TESTPROJECT/SHOTS': {'KIND': 'shots', 'NAME': None, 'SEQUENCE': 'sq0015', 'SHOT': None, 'TYPE': None, 'LOD': '1', 'STATE': 'edit'}}
+[2024-05-19 15:43:16.034747] UPDATE : PROCESS <Process name='Process-12' pid=9520 parent=24896 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/SHOTS]
+[2024-05-19 15:43:16.520561] UPDATE : file list cleaned
+[2024-05-19 15:43:16.520561] UPDATE : element added
+[2024-05-19 15:43:16.521735] UPDATE : element added
+[2024-05-19 15:43:16.522194] UPDATE : element added
+[2024-05-19 15:43:16.522645] UPDATE : element added
+[2024-05-19 15:43:16.523103] UPDATE : element added
+[2024-05-19 15:43:16.523553] UPDATE : element added
+[2024-05-19 15:43:16.523553] UPDATE : ['D:/WORK/TESTPROJECT/SHOTS\\sq0010\\sh0010\\camera\\edit\\sq0010_sh0010_camera_v001.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0010\\sh0010\\camera\\edit\\sq0010_sh0010_camera_v002.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0010\\sh0010\\camera\\publish\\sq0010_sh0010_camera_publish.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0015\\sh0010\\camera\\edit\\sq0015_sh0010_camera_v001.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0015\\sh0010\\camera\\edit\\sq0015_sh0010_camera_v002.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0015\\sh0010\\render\\edit\\sq0015_sh0010_render_v001.ma']
+
+[2024-05-19 15:43:17.523401] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:43:17.524399] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=11456 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:17.524399] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=8684 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:17.524399] UPDATE : PROCESS TERMINATED : <Process name='Process-4' pid=9632 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:17.525396] UPDATE : PROCESS TERMINATED : <Process name='Process-5' pid=2632 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:17.525396] UPDATE : PROCESS TERMINATED : <Process name='Process-6' pid=12068 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:17.525396] UPDATE : PROCESS TERMINATED : <Process name='Process-7' pid=2488 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:17.526394] UPDATE : PROCESS TERMINATED : <Process name='Process-8' pid=16916 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:17.526394] UPDATE : PROCESS TERMINATED : <Process name='Process-9' pid=14444 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:17.526394] UPDATE : PROCESS TERMINATED : <Process name='Process-10' pid=13204 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:17.527393] UPDATE : PROCESS TERMINATED : <Process name='Process-11' pid=3372 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:17.527393] UPDATE : PROCESS TERMINATED : <Process name='Process-12' pid=9520 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:17.527393] UPDATE : ['shots', 'character']
+[2024-05-19 15:43:17.528389] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:43:17.528389] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:43:17.529386] UPDATE : ['sq0015']
+[2024-05-19 15:43:17.530383] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-19 15:43:17.531380] UPDATE : ['sq0015']
+[2024-05-19 15:43:17.531380] UPDATE : {'D:/WORK/TESTPROJECT/SHOTS': {'KIND': 'shots', 'NAME': None, 'SEQUENCE': 'sq0015', 'SHOT': None, 'TYPE': None, 'LOD': '1', 'STATE': 'edit'}, 'D:/WORK/TESTPROJECT/ASSETS/char': {'KIND': 'character', 'NAME': None, 'SEQUENCE': 'sq0015', 'SHOT': None, 'TYPE': None, 'LOD': '1', 'STATE': 'edit'}}
+[2024-05-19 15:43:17.542351] UPDATE : PROCESS <Process name='Process-13' pid=18004 parent=24896 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/SHOTS]
+[2024-05-19 15:43:17.553044] UPDATE : PROCESS <Process name='Process-14' pid=23836 parent=24896 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char]
+[2024-05-19 15:43:18.072120] UPDATE : file list cleaned
+[2024-05-19 15:43:18.073116] UPDATE : element added
+[2024-05-19 15:43:18.073116] UPDATE : element added
+[2024-05-19 15:43:18.074114] UPDATE : element added
+[2024-05-19 15:43:18.074114] UPDATE : element added
+[2024-05-19 15:43:18.074114] UPDATE : element added
+[2024-05-19 15:43:18.075111] UPDATE : element added
+[2024-05-19 15:43:18.075111] UPDATE : ['D:/WORK/TESTPROJECT/SHOTS\\sq0010\\sh0010\\camera\\edit\\sq0010_sh0010_camera_v001.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0010\\sh0010\\camera\\edit\\sq0010_sh0010_camera_v002.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0010\\sh0010\\camera\\publish\\sq0010_sh0010_camera_publish.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0015\\sh0010\\camera\\edit\\sq0015_sh0010_camera_v001.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0015\\sh0010\\camera\\edit\\sq0015_sh0010_camera_v002.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0015\\sh0010\\render\\edit\\sq0015_sh0010_render_v001.ma']
+
+[2024-05-19 15:43:20.480838] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:43:20.481836] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=11456 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:20.481836] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=8684 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:20.481836] UPDATE : PROCESS TERMINATED : <Process name='Process-4' pid=9632 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:20.482832] UPDATE : PROCESS TERMINATED : <Process name='Process-5' pid=2632 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:20.482832] UPDATE : PROCESS TERMINATED : <Process name='Process-6' pid=12068 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:20.482832] UPDATE : PROCESS TERMINATED : <Process name='Process-7' pid=2488 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:20.482832] UPDATE : PROCESS TERMINATED : <Process name='Process-8' pid=16916 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:20.483830] UPDATE : PROCESS TERMINATED : <Process name='Process-9' pid=14444 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:20.483830] UPDATE : PROCESS TERMINATED : <Process name='Process-10' pid=13204 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:20.483830] UPDATE : PROCESS TERMINATED : <Process name='Process-11' pid=3372 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:20.484827] UPDATE : PROCESS TERMINATED : <Process name='Process-12' pid=9520 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:20.484827] UPDATE : PROCESS TERMINATED : <Process name='Process-13' pid=18004 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:20.484827] UPDATE : PROCESS TERMINATED : <Process name='Process-14' pid=23836 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:20.485778] UPDATE : ['shots', 'character']
+[2024-05-19 15:43:20.485778] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:43:20.485778] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:43:20.486805] UPDATE : ['sq0015']
+[2024-05-19 15:43:20.487789] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-19 15:43:20.487789] UPDATE : ['sq0015']
+[2024-05-19 15:43:20.488807] UPDATE : {'D:/WORK/TESTPROJECT/SHOTS': {'KIND': 'shots', 'NAME': 'matteo', 'SEQUENCE': 'sq0015', 'SHOT': None, 'TYPE': None, 'LOD': '1', 'STATE': 'edit'}, 'D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes': {'KIND': 'character', 'NAME': 'matteo', 'SEQUENCE': 'sq0015', 'SHOT': None, 'TYPE': None, 'LOD': '1', 'STATE': 'edit'}}
+[2024-05-19 15:43:20.498662] UPDATE : PROCESS <Process name='Process-15' pid=15288 parent=24896 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/SHOTS]
+[2024-05-19 15:43:20.508452] UPDATE : PROCESS <Process name='Process-16' pid=18952 parent=24896 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes]
+[2024-05-19 15:43:21.018171] UPDATE : file list cleaned
+[2024-05-19 15:43:21.018900] UPDATE : element added
+[2024-05-19 15:43:21.019313] UPDATE : element added
+[2024-05-19 15:43:21.019313] UPDATE : element added
+[2024-05-19 15:43:21.019313] UPDATE : element added
+[2024-05-19 15:43:21.020313] UPDATE : element added
+[2024-05-19 15:43:21.020313] UPDATE : element added
+[2024-05-19 15:43:21.020313] UPDATE : ['D:/WORK/TESTPROJECT/SHOTS\\sq0010\\sh0010\\camera\\edit\\sq0010_sh0010_camera_v001.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0010\\sh0010\\camera\\edit\\sq0010_sh0010_camera_v002.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0010\\sh0010\\camera\\publish\\sq0010_sh0010_camera_publish.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0015\\sh0010\\camera\\edit\\sq0015_sh0010_camera_v001.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0015\\sh0010\\camera\\edit\\sq0015_sh0010_camera_v002.ma', 'D:/WORK/TESTPROJECT/SHOTS\\sq0015\\sh0010\\render\\edit\\sq0015_sh0010_render_v001.ma']
+
+[2024-05-19 15:43:21.850062] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:43:21.851060] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=11456 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:21.851060] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=8684 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:21.851060] UPDATE : PROCESS TERMINATED : <Process name='Process-4' pid=9632 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:21.852087] UPDATE : PROCESS TERMINATED : <Process name='Process-5' pid=2632 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:21.852087] UPDATE : PROCESS TERMINATED : <Process name='Process-6' pid=12068 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:21.852087] UPDATE : PROCESS TERMINATED : <Process name='Process-7' pid=2488 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:21.853080] UPDATE : PROCESS TERMINATED : <Process name='Process-8' pid=16916 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:21.853080] UPDATE : PROCESS TERMINATED : <Process name='Process-9' pid=14444 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:21.853080] UPDATE : PROCESS TERMINATED : <Process name='Process-10' pid=13204 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:21.853080] UPDATE : PROCESS TERMINATED : <Process name='Process-11' pid=3372 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:21.854078] UPDATE : PROCESS TERMINATED : <Process name='Process-12' pid=9520 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:21.854078] UPDATE : PROCESS TERMINATED : <Process name='Process-13' pid=18004 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:21.854078] UPDATE : PROCESS TERMINATED : <Process name='Process-14' pid=23836 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:21.855075] UPDATE : PROCESS TERMINATED : <Process name='Process-15' pid=15288 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:21.855075] UPDATE : PROCESS TERMINATED : <Process name='Process-16' pid=18952 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:21.855075] UPDATE : ['shots', 'character']
+[2024-05-19 15:43:21.856073] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[shversion]/[type]/[state]
+[2024-05-19 15:43:21.856073] UPDATE : D:/WORK/TESTPROJECT/SHOTS
+[2024-05-19 15:43:21.856073] UPDATE : ['sq0015']
+[2024-05-19 15:43:21.857071] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-19 15:43:21.858040] UPDATE : ['sq0015']
+[2024-05-19 15:43:21.859063] UPDATE : {'D:/WORK/TESTPROJECT/SHOTS': {'KIND': 'shots', 'NAME': 'matteo', 'SEQUENCE': 'sq0015', 'SHOT': None, 'TYPE': 'groom', 'LOD': '1', 'STATE': 'edit'}}
+[2024-05-19 15:43:21.868500] UPDATE : PROCESS <Process name='Process-17' pid=8436 parent=24896 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/SHOTS]
+[2024-05-19 15:43:22.357585] UPDATE : NO FILES FOUND!
+
+[2024-05-19 15:43:22.880893] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:43:22.881890] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=11456 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:22.881890] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=8684 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:22.882888] UPDATE : PROCESS TERMINATED : <Process name='Process-4' pid=9632 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:22.882888] UPDATE : PROCESS TERMINATED : <Process name='Process-5' pid=2632 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:22.882888] UPDATE : PROCESS TERMINATED : <Process name='Process-6' pid=12068 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:22.882888] UPDATE : PROCESS TERMINATED : <Process name='Process-7' pid=2488 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:22.883885] UPDATE : PROCESS TERMINATED : <Process name='Process-8' pid=16916 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:22.883885] UPDATE : PROCESS TERMINATED : <Process name='Process-9' pid=14444 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:22.883885] UPDATE : PROCESS TERMINATED : <Process name='Process-10' pid=13204 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:22.883885] UPDATE : PROCESS TERMINATED : <Process name='Process-11' pid=3372 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:22.884882] UPDATE : PROCESS TERMINATED : <Process name='Process-12' pid=9520 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:22.884882] UPDATE : PROCESS TERMINATED : <Process name='Process-13' pid=18004 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:22.884882] UPDATE : PROCESS TERMINATED : <Process name='Process-14' pid=23836 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:22.885880] UPDATE : PROCESS TERMINATED : <Process name='Process-15' pid=15288 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:22.885880] UPDATE : PROCESS TERMINATED : <Process name='Process-16' pid=18952 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:22.885880] UPDATE : PROCESS TERMINATED : <Process name='Process-17' pid=8436 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:22.886877] UPDATE : ['character']
+[2024-05-19 15:43:22.886877] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-19 15:43:22.887874] UPDATE : ['sq0015']
+[2024-05-19 15:43:22.887874] UPDATE : {'D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes': {'KIND': 'character', 'NAME': 'matteo', 'SEQUENCE': 'sq0015', 'SHOT': None, 'TYPE': None, 'LOD': '1', 'STATE': 'edit'}}
+[2024-05-19 15:43:22.897977] UPDATE : PROCESS <Process name='Process-18' pid=11508 parent=24896 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes]
+[2024-05-19 15:43:23.379467] UPDATE : NO FILES FOUND!
+
+[2024-05-19 15:43:24.142713] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:43:24.143710] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=11456 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:24.143710] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=8684 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:24.143710] UPDATE : PROCESS TERMINATED : <Process name='Process-4' pid=9632 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:24.144708] UPDATE : PROCESS TERMINATED : <Process name='Process-5' pid=2632 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:24.144708] UPDATE : PROCESS TERMINATED : <Process name='Process-6' pid=12068 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:24.144708] UPDATE : PROCESS TERMINATED : <Process name='Process-7' pid=2488 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:24.145705] UPDATE : PROCESS TERMINATED : <Process name='Process-8' pid=16916 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:24.145705] UPDATE : PROCESS TERMINATED : <Process name='Process-9' pid=14444 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:24.145705] UPDATE : PROCESS TERMINATED : <Process name='Process-10' pid=13204 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:24.145705] UPDATE : PROCESS TERMINATED : <Process name='Process-11' pid=3372 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:24.146702] UPDATE : PROCESS TERMINATED : <Process name='Process-12' pid=9520 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:24.146702] UPDATE : PROCESS TERMINATED : <Process name='Process-13' pid=18004 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:24.146702] UPDATE : PROCESS TERMINATED : <Process name='Process-14' pid=23836 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:24.147699] UPDATE : PROCESS TERMINATED : <Process name='Process-15' pid=15288 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:24.147699] UPDATE : PROCESS TERMINATED : <Process name='Process-16' pid=18952 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:24.147699] UPDATE : PROCESS TERMINATED : <Process name='Process-17' pid=8436 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:24.147699] UPDATE : PROCESS TERMINATED : <Process name='Process-18' pid=11508 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:24.148702] UPDATE : ['character', 'prop']
+[2024-05-19 15:43:24.148702] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-19 15:43:24.149696] UPDATE : ['sq0015']
+[2024-05-19 15:43:24.150694] UPDATE : Default folder for prop : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-19 15:43:24.150694] ERROR : Impossible to get name folder for that kind : prop
+[2024-05-19 15:43:24.150694] UPDATE : ['sq0015']
+[2024-05-19 15:43:24.151691] UPDATE : {'D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes': {'KIND': 'character', 'NAME': 'matteo', 'SEQUENCE': 'sq0015', 'SHOT': None, 'TYPE': None, 'LOD': '1', 'STATE': 'edit'}}
+[2024-05-19 15:43:24.161664] UPDATE : PROCESS <Process name='Process-19' pid=21932 parent=24896 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes]
+[2024-05-19 15:43:24.640560] UPDATE : NO FILES FOUND!
+
+[2024-05-19 15:43:28.915928] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:43:28.915928] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=11456 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:28.916928] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=8684 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:28.916928] UPDATE : PROCESS TERMINATED : <Process name='Process-4' pid=9632 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:28.916928] UPDATE : PROCESS TERMINATED : <Process name='Process-5' pid=2632 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:28.916928] UPDATE : PROCESS TERMINATED : <Process name='Process-6' pid=12068 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:28.917925] UPDATE : PROCESS TERMINATED : <Process name='Process-7' pid=2488 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:28.917925] UPDATE : PROCESS TERMINATED : <Process name='Process-8' pid=16916 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:28.917925] UPDATE : PROCESS TERMINATED : <Process name='Process-9' pid=14444 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:28.918922] UPDATE : PROCESS TERMINATED : <Process name='Process-10' pid=13204 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:28.918922] UPDATE : PROCESS TERMINATED : <Process name='Process-11' pid=3372 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:28.918922] UPDATE : PROCESS TERMINATED : <Process name='Process-12' pid=9520 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:28.918922] UPDATE : PROCESS TERMINATED : <Process name='Process-13' pid=18004 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:28.919920] UPDATE : PROCESS TERMINATED : <Process name='Process-14' pid=23836 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:28.919920] UPDATE : PROCESS TERMINATED : <Process name='Process-15' pid=15288 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:28.919920] UPDATE : PROCESS TERMINATED : <Process name='Process-16' pid=18952 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:28.920917] UPDATE : PROCESS TERMINATED : <Process name='Process-17' pid=8436 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:28.920917] UPDATE : PROCESS TERMINATED : <Process name='Process-18' pid=11508 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:28.920917] UPDATE : PROCESS TERMINATED : <Process name='Process-19' pid=21932 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:28.921874] UPDATE : ['character']
+[2024-05-19 15:43:28.921874] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-19 15:43:28.922900] UPDATE : ['sq0015']
+[2024-05-19 15:43:28.922900] UPDATE : {'D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes': {'KIND': 'character', 'NAME': 'matteo', 'SEQUENCE': 'sq0015', 'SHOT': None, 'TYPE': None, 'LOD': '1', 'STATE': 'edit'}}
+[2024-05-19 15:43:28.933128] UPDATE : PROCESS <Process name='Process-20' pid=18604 parent=24896 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes]
+[2024-05-19 15:43:29.434936] UPDATE : NO FILES FOUND!
+
+[2024-05-19 15:43:29.499827] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:43:29.499827] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=11456 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:29.500824] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=8684 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:29.500824] UPDATE : PROCESS TERMINATED : <Process name='Process-4' pid=9632 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:29.500824] UPDATE : PROCESS TERMINATED : <Process name='Process-5' pid=2632 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:29.501851] UPDATE : PROCESS TERMINATED : <Process name='Process-6' pid=12068 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:29.501851] UPDATE : PROCESS TERMINATED : <Process name='Process-7' pid=2488 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:29.501851] UPDATE : PROCESS TERMINATED : <Process name='Process-8' pid=16916 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:29.502846] UPDATE : PROCESS TERMINATED : <Process name='Process-9' pid=14444 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:29.502846] UPDATE : PROCESS TERMINATED : <Process name='Process-10' pid=13204 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:29.502846] UPDATE : PROCESS TERMINATED : <Process name='Process-11' pid=3372 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:29.503816] UPDATE : PROCESS TERMINATED : <Process name='Process-12' pid=9520 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:29.503816] UPDATE : PROCESS TERMINATED : <Process name='Process-13' pid=18004 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:29.503816] UPDATE : PROCESS TERMINATED : <Process name='Process-14' pid=23836 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:29.503816] UPDATE : PROCESS TERMINATED : <Process name='Process-15' pid=15288 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:29.504814] UPDATE : PROCESS TERMINATED : <Process name='Process-16' pid=18952 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:29.504814] UPDATE : PROCESS TERMINATED : <Process name='Process-17' pid=8436 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:29.504814] UPDATE : PROCESS TERMINATED : <Process name='Process-18' pid=11508 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:29.505837] UPDATE : PROCESS TERMINATED : <Process name='Process-19' pid=21932 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:29.505837] UPDATE : PROCESS TERMINATED : <Process name='Process-20' pid=18604 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:29.505837] UPDATE : []
+[2024-05-19 15:43:29.506835] UPDATE : {}
+[2024-05-19 15:43:29.506835] UPDATE : No name selected so no process launched!
+
+[2024-05-19 15:43:29.994685] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-19 15:43:29.995682] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=11456 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:29.995682] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=8684 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:29.995682] UPDATE : PROCESS TERMINATED : <Process name='Process-4' pid=9632 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:29.995682] UPDATE : PROCESS TERMINATED : <Process name='Process-5' pid=2632 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:29.996679] UPDATE : PROCESS TERMINATED : <Process name='Process-6' pid=12068 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:29.996679] UPDATE : PROCESS TERMINATED : <Process name='Process-7' pid=2488 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:29.996679] UPDATE : PROCESS TERMINATED : <Process name='Process-8' pid=16916 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:29.997677] UPDATE : PROCESS TERMINATED : <Process name='Process-9' pid=14444 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:29.997677] UPDATE : PROCESS TERMINATED : <Process name='Process-10' pid=13204 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:29.997677] UPDATE : PROCESS TERMINATED : <Process name='Process-11' pid=3372 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:29.997677] UPDATE : PROCESS TERMINATED : <Process name='Process-12' pid=9520 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:29.998795] UPDATE : PROCESS TERMINATED : <Process name='Process-13' pid=18004 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:29.999057] UPDATE : PROCESS TERMINATED : <Process name='Process-14' pid=23836 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:29.999057] UPDATE : PROCESS TERMINATED : <Process name='Process-15' pid=15288 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:29.999057] UPDATE : PROCESS TERMINATED : <Process name='Process-16' pid=18952 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:29.999790] UPDATE : PROCESS TERMINATED : <Process name='Process-17' pid=8436 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:29.999790] UPDATE : PROCESS TERMINATED : <Process name='Process-18' pid=11508 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:29.999790] UPDATE : PROCESS TERMINATED : <Process name='Process-19' pid=21932 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:30.000788] UPDATE : PROCESS TERMINATED : <Process name='Process-20' pid=18604 parent=24896 stopped exitcode=0>
+[2024-05-19 15:43:30.000788] UPDATE : ['character']
+[2024-05-19 15:43:30.000788] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-19 15:43:30.001785] UPDATE : ['sq0015']
+[2024-05-19 15:43:30.002782] UPDATE : {'D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes': {'KIND': 'character', 'NAME': 'matteo', 'SEQUENCE': 'sq0015', 'SHOT': None, 'TYPE': None, 'LOD': '1', 'STATE': 'edit'}}
+[2024-05-19 15:43:30.012758] UPDATE : PROCESS <Process name='Process-21' pid=2260 parent=24896 started> ADDED TO LIST : [D:/WORK/TESTPROJECT/ASSETS/char/matteo/maya/scenes]
+[2024-05-19 15:43:30.509896] UPDATE : NO FILES FOUND!

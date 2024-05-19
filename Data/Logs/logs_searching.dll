@@ -1,712 +1,1230 @@
 
 
 SEARCHING DATA : 
-KIND : character
-NAME : lucas
+KIND : shots
+NAME : None
+SEQUENCE : sq0015
+SHOT : None
 TYPE : None
 LOD : 1
 STATE : edit
-CHECKING FILE : char_lucas_mod_v001.ma
-CHECKING FILE : char_lucas_mod_v002.ma
-CHECKING FILE : char_lucastest_rig_publish.ma
-CHECKING FILE : char_lucastest_rig_v001.ma
-CHECKING FILE : char_lucastest_rig_v002.ma
-CHECKING FILE : char_lucastest_rig_publish.ma
+CHECKING FILE : sq0010_sh0010_camera_v001.ma
+No keyword in filename syntax!
+nomenclature item
+shot
+CHECKING FILE : sq0010_sh0010_camera_v002.ma
+No keyword in filename syntax!
+nomenclature item
+shot
+nomenclature item
+shot
+CHECKING FILE : sq0010_sh0010_camera_publish.ma
+No keyword in filename syntax!
+nomenclature item
+shot
+nomenclature item
+shot
+nomenclature item
+shot
+CHECKING FILE : sq0015_sh0010_camera_v001.ma
+No keyword in filename syntax!
+nomenclature item
+shot
+nomenclature item
+shot
+nomenclature item
+shot
+nomenclature item
+shot
+CHECKING FILE : sq0015_sh0010_camera_v002.ma
+No keyword in filename syntax!
+nomenclature item
+shot
+nomenclature item
+shot
+nomenclature item
+shot
+nomenclature item
+shot
+nomenclature item
+shot
+CHECKING FILE : sq0015_sh0010_render_v001.ma
+No keyword in filename syntax!
+nomenclature item
+shot
+nomenclature item
+shot
+nomenclature item
+shot
+nomenclature item
+shot
+nomenclature item
+shot
+nomenclature item
+shot
+type
 
 
 SEARCHING DATA : 
-KIND : character
-NAME : lucas
+KIND : shots
+NAME : None
+SEQUENCE : sq0015
+SHOT : None
 TYPE : None
 LOD : 1
 STATE : edit
-CHECKING FILE : char_lucas_mod_v001.ma
-CHECKING FILE : char_lucas_mod_v002.ma
-CHECKING FILE : char_lucastest_rig_publish.ma
-CHECKING FILE : char_lucastest_rig_v001.ma
-CHECKING FILE : char_lucastest_rig_v002.ma
-CHECKING FILE : char_lucastest_rig_publish.ma
+CHECKING FILE : sq0010_sh0010_camera_v001.ma
+No keyword in filename syntax!
+['[', 'version]']
+nomenclature item
+shot
+CHECKING FILE : sq0010_sh0010_camera_v002.ma
+No keyword in filename syntax!
+['[', 'version]']
+nomenclature item
+shot
+nomenclature item
+shot
+CHECKING FILE : sq0010_sh0010_camera_publish.ma
+No keyword in filename syntax!
+['[', 'version]']
+nomenclature item
+shot
+nomenclature item
+shot
+nomenclature item
+shot
+CHECKING FILE : sq0015_sh0010_camera_v001.ma
+No keyword in filename syntax!
+['[', 'version]']
+nomenclature item
+shot
+nomenclature item
+shot
+nomenclature item
+shot
+nomenclature item
+shot
+CHECKING FILE : sq0015_sh0010_camera_v002.ma
+No keyword in filename syntax!
+['[', 'version]']
+nomenclature item
+shot
+nomenclature item
+shot
+nomenclature item
+shot
+nomenclature item
+shot
+nomenclature item
+shot
+CHECKING FILE : sq0015_sh0010_render_v001.ma
+No keyword in filename syntax!
+['[', 'version]']
+nomenclature item
+shot
+nomenclature item
+shot
+nomenclature item
+shot
+nomenclature item
+shot
+nomenclature item
+shot
+nomenclature item
+shot
+type
 
 
 SEARCHING DATA : 
-KIND : character
-NAME : lucas
+KIND : shots
+NAME : None
+SEQUENCE : sq0015
+SHOT : None
 TYPE : None
 LOD : 1
 STATE : edit
-CHECKING FILE : char_lucas_mod_v001.ma
-CHECKING FILE : char_lucas_mod_v002.ma
-CHECKING FILE : char_lucastest_rig_publish.ma
-CHECKING FILE : char_lucastest_rig_v001.ma
-CHECKING FILE : char_lucastest_rig_v002.ma
-CHECKING FILE : char_lucastest_rig_publish.ma
+CHECKING FILE : sq0010_sh0010_camera_v001.ma
+No keyword in filename syntax!
+['', '0010']
+nomenclature item
+CHECKING FILE : sq0010_sh0010_camera_v002.ma
+No keyword in filename syntax!
+['', '0010']
+nomenclature item
+nomenclature item
+CHECKING FILE : sq0010_sh0010_camera_publish.ma
+No keyword in filename syntax!
+['', '0010']
+nomenclature item
+nomenclature item
+nomenclature item
+CHECKING FILE : sq0015_sh0010_camera_v001.ma
+No keyword in filename syntax!
+['', '0010']
+nomenclature item
+nomenclature item
+nomenclature item
+nomenclature item
+CHECKING FILE : sq0015_sh0010_camera_v002.ma
+No keyword in filename syntax!
+['', '0010']
+nomenclature item
+nomenclature item
+nomenclature item
+nomenclature item
+nomenclature item
+CHECKING FILE : sq0015_sh0010_render_v001.ma
+No keyword in filename syntax!
+['', '0010']
+nomenclature item
+nomenclature item
+nomenclature item
+nomenclature item
+nomenclature item
+nomenclature item
+type
 
 
 SEARCHING DATA : 
-KIND : character
-NAME : lucas
+KIND : shots
+NAME : None
+SEQUENCE : sq0015
+SHOT : None
+TYPE : groom
+LOD : 1
+STATE : edit
+CHECKING FILE : sq0010_sh0010_camera_v001.ma
+No keyword in filename syntax!
+['', '0010']
+nomenclature item
+type
+CHECKING FILE : sq0010_sh0010_camera_v002.ma
+No keyword in filename syntax!
+['', '0010']
+nomenclature item
+type
+nomenclature item
+type
+CHECKING FILE : sq0010_sh0010_camera_publish.ma
+No keyword in filename syntax!
+['', '0010']
+nomenclature item
+type
+nomenclature item
+type
+nomenclature item
+type
+CHECKING FILE : sq0015_sh0010_camera_v001.ma
+No keyword in filename syntax!
+['', '0010']
+nomenclature item
+type
+nomenclature item
+type
+nomenclature item
+type
+nomenclature item
+type
+CHECKING FILE : sq0015_sh0010_camera_v002.ma
+No keyword in filename syntax!
+['', '0010']
+nomenclature item
+type
+nomenclature item
+type
+nomenclature item
+type
+nomenclature item
+type
+nomenclature item
+type
+CHECKING FILE : sq0015_sh0010_render_v001.ma
+No keyword in filename syntax!
+['', '0010']
+nomenclature item
+type
+nomenclature item
+type
+nomenclature item
+type
+nomenclature item
+type
+nomenclature item
+type
+nomenclature item
+type
+
+
+SEARCHING DATA : 
+KIND : shots
+NAME : None
+SEQUENCE : sq0010
+SHOT : None
 TYPE : None
 LOD : 1
 STATE : edit
-CHECKING FILE : char_lucas_mod_v001.ma
-CHECKING FILE : char_lucas_mod_v002.ma
-CHECKING FILE : char_lucastest_rig_publish.ma
-CHECKING FILE : char_lucastest_rig_v001.ma
-CHECKING FILE : char_lucastest_rig_v002.ma
-CHECKING FILE : char_lucastest_rig_publish.ma
+CHECKING FILE : sq0010_sh0010_camera_v001.ma
+No keyword in filename syntax!
 
 
 SEARCHING DATA : 
-KIND : character
-NAME : lucas
+KIND : shots
+NAME : None
+SEQUENCE : sq0015
+SHOT : None
 TYPE : None
 LOD : 1
 STATE : edit
-CHECKING FILE : char_lucas_mod_v001.ma
-CHECKING FILE : char_lucas_mod_v002.ma
-CHECKING FILE : char_lucastest_rig_publish.ma
-CHECKING FILE : char_lucastest_rig_v001.ma
-CHECKING FILE : char_lucastest_rig_v002.ma
-CHECKING FILE : char_lucastest_rig_publish.ma
+CHECKING FILE : sq0010_sh0010_camera_v001.ma
+No keyword in filename syntax!
+file returned : sq0010_sh0010_camera_v001.ma
+CHECKING FILE : sq0010_sh0010_camera_v002.ma
+No keyword in filename syntax!
+file returned : sq0010_sh0010_camera_v002.ma
+CHECKING FILE : sq0010_sh0010_camera_publish.ma
+No keyword in filename syntax!
+file returned : sq0010_sh0010_camera_publish.ma
+CHECKING FILE : sq0015_sh0010_camera_v001.ma
+No keyword in filename syntax!
+file returned : sq0015_sh0010_camera_v001.ma
+CHECKING FILE : sq0015_sh0010_camera_v002.ma
+No keyword in filename syntax!
+file returned : sq0015_sh0010_camera_v002.ma
+CHECKING FILE : sq0015_sh0010_render_v001.ma
+No keyword in filename syntax!
+type
 
 
 SEARCHING DATA : 
-KIND : character
-NAME : matteo
+KIND : shots
+NAME : None
+SEQUENCE : sq0010
+SHOT : None
 TYPE : None
 LOD : 1
 STATE : edit
-CHECKING FILE : char_matteotestlook_lookdev_v002.ma
-CHECKING FILE : char_matteo_lookdev_v001.ma
-CHECKING FILE : char_matteotestlook_lookdev_publish.ma
+CHECKING FILE : sq0010_sh0010_camera_v001.ma
+No keyword in filename syntax!
+file returned : sq0010_sh0010_camera_v001.ma
+CHECKING FILE : sq0010_sh0010_camera_v002.ma
+No keyword in filename syntax!
+file returned : sq0010_sh0010_camera_v002.ma
+CHECKING FILE : sq0010_sh0010_camera_publish.ma
+No keyword in filename syntax!
+file returned : sq0010_sh0010_camera_publish.ma
+CHECKING FILE : sq0015_sh0010_camera_v001.ma
+No keyword in filename syntax!
+file returned : sq0015_sh0010_camera_v001.ma
+CHECKING FILE : sq0015_sh0010_camera_v002.ma
+No keyword in filename syntax!
+file returned : sq0015_sh0010_camera_v002.ma
+CHECKING FILE : sq0015_sh0010_render_v001.ma
+No keyword in filename syntax!
+type
 
 
 SEARCHING DATA : 
-KIND : character
-NAME : lucas
+KIND : shots
+NAME : None
+SEQUENCE : sq0010
+SHOT : None
+TYPE : mod
+LOD : 1
+STATE : edit
+CHECKING FILE : sq0010_sh0010_camera_v001.ma
+No keyword in filename syntax!
+type
+CHECKING FILE : sq0010_sh0010_camera_v002.ma
+No keyword in filename syntax!
+type
+type
+CHECKING FILE : sq0010_sh0010_camera_publish.ma
+No keyword in filename syntax!
+type
+type
+type
+CHECKING FILE : sq0015_sh0010_camera_v001.ma
+No keyword in filename syntax!
+type
+type
+type
+type
+CHECKING FILE : sq0015_sh0010_camera_v002.ma
+No keyword in filename syntax!
+type
+type
+type
+type
+type
+CHECKING FILE : sq0015_sh0010_render_v001.ma
+No keyword in filename syntax!
+type
+type
+type
+type
+type
+type
+
+
+SEARCHING DATA : 
+KIND : shots
+NAME : None
+SEQUENCE : sq0010
+SHOT : None
 TYPE : None
 LOD : 1
 STATE : edit
-CHECKING FILE : char_lucas_mod_v001.ma
-CHECKING FILE : char_lucas_mod_v002.ma
-CHECKING FILE : char_lucastest_rig_publish.ma
-CHECKING FILE : char_lucastest_rig_v001.ma
-CHECKING FILE : char_lucastest_rig_v002.ma
-CHECKING FILE : char_lucastest_rig_publish.ma
+CHECKING FILE : sq0010_sh0010_camera_v001.ma
+No keyword in filename syntax!
+file returned : sq0010_sh0010_camera_v001.ma
+CHECKING FILE : sq0010_sh0010_camera_v002.ma
+No keyword in filename syntax!
+file returned : sq0010_sh0010_camera_v002.ma
+CHECKING FILE : sq0010_sh0010_camera_publish.ma
+No keyword in filename syntax!
+file returned : sq0010_sh0010_camera_publish.ma
+CHECKING FILE : sq0015_sh0010_camera_v001.ma
+No keyword in filename syntax!
+file returned : sq0015_sh0010_camera_v001.ma
+CHECKING FILE : sq0015_sh0010_camera_v002.ma
+No keyword in filename syntax!
+file returned : sq0015_sh0010_camera_v002.ma
+CHECKING FILE : sq0015_sh0010_render_v001.ma
+No keyword in filename syntax!
+type
 
 
 SEARCHING DATA : 
-KIND : character
-NAME : lucas
-TYPE : None
-LOD : 1
-STATE : edit
-CHECKING FILE : char_lucas_mod_v001.ma
-CHECKING FILE : char_lucas_mod_v002.ma
-CHECKING FILE : char_lucastest_rig_publish.ma
-CHECKING FILE : char_lucastest_rig_v001.ma
-CHECKING FILE : char_lucastest_rig_v002.ma
-CHECKING FILE : char_lucastest_rig_publish.ma
-
-
-SEARCHING DATA : 
-KIND : character
-NAME : lucas
-TYPE : None
-LOD : 1
-STATE : edit
-CHECKING FILE : char_lucas_mod_v001.ma
-
-
-CHECKING FILE : char_lucas_mod_v002.ma
-SEARCHING DATA : 
-KIND : character
-NAME : matteo
-TYPE : None
-CHECKING FILE : char_lucastest_rig_publish.ma
-LOD : 1
-STATE : edit
-CHECKING FILE : char_lucastest_rig_v001.ma
-CHECKING FILE : char_lucastest_rig_v002.ma
-CHECKING FILE : char_matteotestlook_lookdev_v002.ma
-CHECKING FILE : char_lucastest_rig_publish.ma
-CHECKING FILE : char_matteo_lookdev_v001.ma
-CHECKING FILE : char_matteotestlook_lookdev_publish.ma
-
-
-SEARCHING DATA : 
-KIND : character
-NAME : lucas
-TYPE : None
-LOD : 1
-STATE : edit
-CHECKING FILE : char_lucas_mod_v001.ma
-CHECKING FILE : char_lucas_mod_v002.ma
-CHECKING FILE : char_lucastest_rig_publish.ma
-CHECKING FILE : char_lucastest_rig_v001.ma
-CHECKING FILE : char_lucastest_rig_v002.ma
-CHECKING FILE : char_lucastest_rig_publish.ma
-
-
-SEARCHING DATA : 
-KIND : character
-NAME : lucas
-TYPE : None
-LOD : 1
-STATE : edit
-CHECKING FILE : char_lucas_mod_v001.ma
-CHECKING FILE : char_lucas_mod_v002.ma
-CHECKING FILE : char_lucastest_rig_publish.ma
-CHECKING FILE : char_lucastest_rig_v001.ma
-CHECKING FILE : char_lucastest_rig_v002.ma
-CHECKING FILE : char_lucastest_rig_publish.ma
-
-
-SEARCHING DATA : 
-KIND : character
-NAME : lucas
-TYPE : None
-LOD : 1
-STATE : edit
-CHECKING FILE : char_lucas_mod_v001.ma
-CHECKING FILE : char_lucas_mod_v002.ma
-CHECKING FILE : char_lucastest_rig_publish.ma
-CHECKING FILE : char_lucastest_rig_v001.ma
-CHECKING FILE : char_lucastest_rig_v002.ma
-CHECKING FILE : char_lucastest_rig_publish.ma
-
-
-SEARCHING DATA : 
-KIND : character
-NAME : lucas
-TYPE : None
-LOD : 1
-STATE : edit
-CHECKING FILE : char_lucas_mod_v001.ma
-CHECKING FILE : char_lucas_mod_v002.ma
-CHECKING FILE : char_lucastest_rig_publish.ma
-CHECKING FILE : char_lucastest_rig_v001.ma
-CHECKING FILE : char_lucastest_rig_v002.ma
-CHECKING FILE : char_lucastest_rig_publish.ma
-
-
-SEARCHING DATA : 
-KIND : character
-NAME : lucas
-TYPE : None
-LOD : 1
-STATE : edit
-CHECKING FILE : char_lucas_mod_v001.ma
-CHECKING FILE : char_lucas_mod_v002.ma
-CHECKING FILE : char_lucastest_rig_publish.ma
-CHECKING FILE : char_lucastest_rig_v001.ma
-CHECKING FILE : char_lucastest_rig_v002.ma
-CHECKING FILE : char_lucastest_rig_publish.ma
-
-
-SEARCHING DATA : 
-KIND : character
-NAME : matteo
-TYPE : None
-LOD : 1
-STATE : edit
-CHECKING FILE : char_matteotestlook_lookdev_v002.ma
-CHECKING FILE : char_matteo_lookdev_v001.ma
-CHECKING FILE : char_matteotestlook_lookdev_publish.ma
-
-
-SEARCHING DATA : 
-KIND : character
-NAME : lucas
-TYPE : None
-LOD : 1
-STATE : edit
-CHECKING FILE : char_lucas_mod_v001.ma
-CHECKING FILE : char_lucas_mod_v002.ma
-CHECKING FILE : char_lucastest_rig_publish.ma
-CHECKING FILE : char_lucastest_rig_v001.ma
-CHECKING FILE : char_lucastest_rig_v002.ma
-CHECKING FILE : char_lucastest_rig_publish.ma
-
-
-SEARCHING DATA : 
-KIND : character
-NAME : lucas
-TYPE : None
-LOD : 1
-STATE : edit
-CHECKING FILE : char_lucas_mod_v001.ma
-CHECKING FILE : char_lucas_mod_v002.ma
-CHECKING FILE : char_lucastest_rig_publish.ma
-CHECKING FILE : char_lucastest_rig_v001.ma
-CHECKING FILE : char_lucastest_rig_v002.ma
-CHECKING FILE : char_lucastest_rig_publish.ma
-
-
-SEARCHING DATA : 
-KIND : character
-NAME : lucas
-TYPE : None
-LOD : 1
-STATE : edit
-CHECKING FILE : char_lucas_mod_v001.ma
-CHECKING FILE : char_lucas_mod_v002.ma
-CHECKING FILE : char_lucastest_rig_publish.ma
-CHECKING FILE : char_lucastest_rig_v001.ma
-CHECKING FILE : char_lucastest_rig_v002.ma
-CHECKING FILE : char_lucastest_rig_publish.ma
-
-
-SEARCHING DATA : 
-KIND : character
-NAME : lucas
-TYPE : None
-LOD : 1
-STATE : edit
-CHECKING FILE : char_lucas_mod_v001.ma
-CHECKING FILE : char_lucas_mod_v002.ma
-CHECKING FILE : char_lucastest_rig_publish.ma
-CHECKING FILE : char_lucastest_rig_v001.ma
-CHECKING FILE : char_lucastest_rig_v002.ma
-CHECKING FILE : char_lucastest_rig_publish.ma
-
-
-SEARCHING DATA : 
-KIND : character
-NAME : lucas
-TYPE : None
-LOD : 1
-STATE : edit
-CHECKING FILE : char_lucas_mod_v001.ma
-CHECKING FILE : char_lucas_mod_v002.ma
-CHECKING FILE : char_lucastest_rig_publish.ma
-CHECKING FILE : char_lucastest_rig_v001.ma
-CHECKING FILE : char_lucastest_rig_v002.ma
-CHECKING FILE : char_lucastest_rig_publish.ma
-
-
-SEARCHING DATA : 
-KIND : character
-NAME : matteo
-TYPE : None
-LOD : 1
-STATE : edit
-CHECKING FILE : char_matteotestlook_lookdev_v002.ma
-CHECKING FILE : char_matteo_lookdev_v001.ma
-CHECKING FILE : char_matteotestlook_lookdev_publish.ma
-
-
-SEARCHING DATA : 
-KIND : character
-NAME : matteo
-TYPE : None
-LOD : 1
-STATE : edit
-CHECKING FILE : char_matteotestlook_lookdev_v002.ma
-CHECKING FILE : char_matteo_lookdev_v001.ma
-CHECKING FILE : char_matteotestlook_lookdev_publish.ma
-
-
-SEARCHING DATA : 
-KIND : character
-NAME : matteo
-TYPE : None
-LOD : 1
-STATE : edit
-CHECKING FILE : char_matteotestlook_lookdev_v002.ma
-CHECKING FILE : char_matteo_lookdev_v001.ma
-CHECKING FILE : char_matteotestlook_lookdev_publish.ma
-
-
-SEARCHING DATA : 
-KIND : character
-NAME : lucas
-TYPE : None
-LOD : 1
-STATE : edit
-CHECKING FILE : char_lucas_mod_v001.ma
-CHECKING FILE : char_lucas_mod_v002.ma
-CHECKING FILE : char_lucastest_rig_publish.ma
-CHECKING FILE : char_lucastest_rig_v001.ma
-CHECKING FILE : char_lucastest_rig_v002.ma
-CHECKING FILE : char_lucastest_rig_publish.ma
-
-
-SEARCHING DATA : 
-KIND : character
-NAME : lucas
-TYPE : None
-LOD : 1
-STATE : edit
-CHECKING FILE : char_lucas_mod_v001.ma
-CHECKING FILE : char_lucas_mod_v002.ma
-CHECKING FILE : char_lucastest_rig_publish.ma
-CHECKING FILE : char_lucastest_rig_v001.ma
-CHECKING FILE : char_lucastest_rig_v002.ma
-CHECKING FILE : char_lucastest_rig_publish.ma
-
-
-SEARCHING DATA : 
-KIND : character
-NAME : lucas
-TYPE : None
-LOD : 1
-STATE : edit
-CHECKING FILE : char_lucas_mod_v001.ma
-CHECKING FILE : char_lucas_mod_v002.ma
-CHECKING FILE : char_lucastest_rig_publish.ma
-CHECKING FILE : char_lucastest_rig_v001.ma
-CHECKING FILE : char_lucastest_rig_v002.ma
-CHECKING FILE : char_lucastest_rig_publish.ma
-
-
-SEARCHING DATA : 
-KIND : character
-NAME : matteo
-TYPE : None
-LOD : 1
-STATE : edit
-CHECKING FILE : char_matteotestlook_lookdev_v002.ma
-CHECKING FILE : char_matteo_lookdev_v001.ma
-CHECKING FILE : char_matteotestlook_lookdev_publish.ma
-
-
-SEARCHING DATA : 
-KIND : character
-NAME : matteo
-TYPE : None
-LOD : 1
-STATE : edit
-CHECKING FILE : char_matteotestlook_lookdev_v002.ma
-CHECKING FILE : char_matteo_lookdev_v001.ma
-CHECKING FILE : char_matteotestlook_lookdev_publish.ma
-
-
-SEARCHING DATA : 
-KIND : character
-NAME : matteo
-TYPE : None
-LOD : 1
-STATE : edit
-CHECKING FILE : char_matteotestlook_lookdev_v002.ma
-CHECKING FILE : char_matteo_lookdev_v001.ma
-CHECKING FILE : char_matteotestlook_lookdev_publish.ma
-
-
-SEARCHING DATA : 
-KIND : character
-NAME : lucas
-TYPE : None
-LOD : 1
-STATE : edit
-CHECKING FILE : char_lucas_mod_v001.ma
-CHECKING FILE : char_lucas_mod_v002.ma
-CHECKING FILE : char_lucastest_rig_publish.ma
-CHECKING FILE : char_lucastest_rig_v001.ma
-CHECKING FILE : char_lucastest_rig_v002.ma
-CHECKING FILE : char_lucastest_rig_publish.ma
-
-
-SEARCHING DATA : 
-KIND : character
-NAME : matteo
-TYPE : None
-LOD : 1
-STATE : edit
-CHECKING FILE : char_matteotestlook_lookdev_v002.ma
-CHECKING FILE : char_matteo_lookdev_v001.ma
-CHECKING FILE : char_matteotestlook_lookdev_publish.ma
-
-
-SEARCHING DATA : 
-KIND : character
-NAME : lucas
-TYPE : None
-LOD : 1
-STATE : edit
-CHECKING FILE : char_lucas_mod_v001.ma
-CHECKING FILE : char_lucas_mod_v002.ma
-CHECKING FILE : char_lucastest_rig_publish.ma
-CHECKING FILE : char_lucastest_rig_v001.ma
-CHECKING FILE : char_lucastest_rig_v002.ma
-CHECKING FILE : char_lucastest_rig_publish.ma
-
-
-SEARCHING DATA : 
-KIND : character
-NAME : robin
-TYPE : None
-LOD : 1
-STATE : edit
-CHECKING FILE : char_Robin_mod_v001.ma
-
-
-SEARCHING DATA : 
-KIND : character
-NAME : lucas
-TYPE : None
-LOD : 1
-STATE : edit
-CHECKING FILE : char_lucas_mod_v001.ma
-CHECKING FILE : char_lucas_mod_v002.ma
-CHECKING FILE : char_lucastest_rig_publish.ma
-CHECKING FILE : char_lucastest_rig_v001.ma
-CHECKING FILE : char_lucastest_rig_v002.ma
-CHECKING FILE : char_lucastest_rig_publish.ma
-
-
-SEARCHING DATA : 
-KIND : character
-NAME : robin
-TYPE : None
-LOD : 1
-STATE : edit
-CHECKING FILE : char_Robin_mod_v001.ma
-
-
-SEARCHING DATA : 
-KIND : character
-NAME : robin
-TYPE : None
-LOD : 1
-STATE : edit
-CHECKING FILE : char_Robin_mod_v001.ma
-
-
-SEARCHING DATA : 
-KIND : character
-NAME : lucas
-TYPE : None
-LOD : 1
-STATE : edit
-CHECKING FILE : char_lucas_mod_v001.ma
-CHECKING FILE : char_lucas_mod_v002.ma
-CHECKING FILE : char_lucastest_rig_publish.ma
-CHECKING FILE : char_lucastest_rig_v001.ma
-CHECKING FILE : char_lucastest_rig_v002.ma
-CHECKING FILE : char_lucastest_rig_publish.ma
-
-
-SEARCHING DATA : 
-KIND : character
-NAME : lucas
+KIND : shots
+NAME : None
+SEQUENCE : sq0010
+SHOT : None
 TYPE : rig
 LOD : 1
-
-
 STATE : edit
+CHECKING FILE : sq0010_sh0010_camera_v001.ma
+No keyword in filename syntax!
+type
+CHECKING FILE : sq0010_sh0010_camera_v002.ma
+No keyword in filename syntax!
+type
+type
+CHECKING FILE : sq0010_sh0010_camera_publish.ma
+No keyword in filename syntax!
+type
+type
+type
+CHECKING FILE : sq0015_sh0010_camera_v001.ma
+No keyword in filename syntax!
+type
+type
+type
+type
+CHECKING FILE : sq0015_sh0010_camera_v002.ma
+No keyword in filename syntax!
+type
+type
+type
+type
+type
+CHECKING FILE : sq0015_sh0010_render_v001.ma
+No keyword in filename syntax!
+type
+type
+type
+type
+type
+type
+
+
 SEARCHING DATA : 
-KIND : character
-CHECKING FILE : char_lucastest_rig_publish.ma
-NAME : lucas
+KIND : shots
+NAME : None
+SEQUENCE : sq0010
+SHOT : None
 TYPE : rig
 LOD : 1
-STATE : publish
-CHECKING FILE : char_lucastest_rig_publish.ma
-CHECKING FILE : char_lucastest_rig_v001.ma
-CHECKING FILE : char_lucastest_rig_v002.ma
+STATE : edit
+CHECKING FILE : sq0010_sh0010_camera_v001.ma
+No keyword in filename syntax!
+type
+CHECKING FILE : sq0010_sh0010_camera_v002.ma
+No keyword in filename syntax!
+type
+type
+CHECKING FILE : sq0010_sh0010_camera_publish.ma
+No keyword in filename syntax!
+type
+type
+type
+CHECKING FILE : sq0015_sh0010_camera_v001.ma
+No keyword in filename syntax!
+type
+type
+type
+type
+CHECKING FILE : sq0015_sh0010_camera_v002.ma
+No keyword in filename syntax!
+type
+type
+type
+type
+type
+CHECKING FILE : sq0015_sh0010_render_v001.ma
+No keyword in filename syntax!
+type
+type
+type
+type
+type
+type
 
 
 SEARCHING DATA : 
-KIND : character
-NAME : lucas
+KIND : shots
+NAME : None
+SEQUENCE : sq0015
+SHOT : None
 TYPE : None
 LOD : 1
 STATE : edit
+CHECKING FILE : sq0010_sh0010_camera_v001.ma
+No keyword in filename syntax!
+file returned : sq0010_sh0010_camera_v001.ma
+CHECKING FILE : sq0010_sh0010_camera_v002.ma
+No keyword in filename syntax!
+file returned : sq0010_sh0010_camera_v002.ma
+CHECKING FILE : sq0010_sh0010_camera_publish.ma
+No keyword in filename syntax!
+file returned : sq0010_sh0010_camera_publish.ma
+CHECKING FILE : sq0015_sh0010_camera_v001.ma
+No keyword in filename syntax!
+file returned : sq0015_sh0010_camera_v001.ma
+CHECKING FILE : sq0015_sh0010_camera_v002.ma
+No keyword in filename syntax!
+file returned : sq0015_sh0010_camera_v002.ma
+CHECKING FILE : sq0015_sh0010_render_v001.ma
+No keyword in filename syntax!
+file returned : sq0015_sh0010_render_v001.ma
+
+
+SEARCHING DATA : 
+KIND : shots
+NAME : None
+SEQUENCE : sq0015
+SHOT : None
+TYPE : camera
+LOD : 1
+STATE : edit
+CHECKING FILE : sq0010_sh0010_camera_v001.ma
+No keyword in filename syntax!
+file returned : sq0010_sh0010_camera_v001.ma
+CHECKING FILE : sq0010_sh0010_camera_v002.ma
+No keyword in filename syntax!
+file returned : sq0010_sh0010_camera_v002.ma
+CHECKING FILE : sq0010_sh0010_camera_publish.ma
+No keyword in filename syntax!
+file returned : sq0010_sh0010_camera_publish.ma
+CHECKING FILE : sq0015_sh0010_camera_v001.ma
+No keyword in filename syntax!
+file returned : sq0015_sh0010_camera_v001.ma
+CHECKING FILE : sq0015_sh0010_camera_v002.ma
+No keyword in filename syntax!
+file returned : sq0015_sh0010_camera_v002.ma
+CHECKING FILE : sq0015_sh0010_render_v001.ma
+No keyword in filename syntax!
+type
+
+
+SEARCHING DATA : 
+KIND : shots
+NAME : None
+SEQUENCE : sq0010
+SHOT : None
+TYPE : None
+LOD : 1
+STATE : edit
+CHECKING FILE : sq0010_sh0010_camera_v001.ma
+No keyword in filename syntax!
+file returned : sq0010_sh0010_camera_v001.ma
+CHECKING FILE : sq0010_sh0010_camera_v002.ma
+No keyword in filename syntax!
+file returned : sq0010_sh0010_camera_v002.ma
+CHECKING FILE : sq0010_sh0010_camera_publish.ma
+No keyword in filename syntax!
+file returned : sq0010_sh0010_camera_publish.ma
+CHECKING FILE : sq0015_sh0010_camera_v001.ma
+No keyword in filename syntax!
+file returned : sq0015_sh0010_camera_v001.ma
+CHECKING FILE : sq0015_sh0010_camera_v002.ma
+No keyword in filename syntax!
+file returned : sq0015_sh0010_camera_v002.ma
+CHECKING FILE : sq0015_sh0010_render_v001.ma
+No keyword in filename syntax!
+file returned : sq0015_sh0010_render_v001.ma
+
+
+SEARCHING DATA : 
+KIND : shots
+NAME : None
+SEQUENCE : sq0015
+SHOT : None
+TYPE : None
+LOD : 1
+STATE : edit
+CHECKING FILE : sq0010_sh0010_camera_v001.ma
+No keyword in filename syntax!
+file returned : sq0010_sh0010_camera_v001.ma
+CHECKING FILE : sq0010_sh0010_camera_v002.ma
+No keyword in filename syntax!
+file returned : sq0010_sh0010_camera_v002.ma
+CHECKING FILE : sq0010_sh0010_camera_publish.ma
+No keyword in filename syntax!
+file returned : sq0010_sh0010_camera_publish.ma
+CHECKING FILE : sq0015_sh0010_camera_v001.ma
+No keyword in filename syntax!
+file returned : sq0015_sh0010_camera_v001.ma
+CHECKING FILE : sq0015_sh0010_camera_v002.ma
+No keyword in filename syntax!
+file returned : sq0015_sh0010_camera_v002.ma
+CHECKING FILE : sq0015_sh0010_render_v001.ma
+No keyword in filename syntax!
+file returned : sq0015_sh0010_render_v001.ma
+
+
+SEARCHING DATA : 
+KIND : shots
+NAME : None
+SEQUENCE : sq0015
+SHOT : None
+TYPE : camera
+LOD : 1
+STATE : edit
+CHECKING FILE : sq0010_sh0010_camera_v001.ma
+No keyword in filename syntax!
+file returned : sq0010_sh0010_camera_v001.ma
+CHECKING FILE : sq0010_sh0010_camera_v002.ma
+No keyword in filename syntax!
+file returned : sq0010_sh0010_camera_v002.ma
+CHECKING FILE : sq0010_sh0010_camera_publish.ma
+No keyword in filename syntax!
+file returned : sq0010_sh0010_camera_publish.ma
+CHECKING FILE : sq0015_sh0010_camera_v001.ma
+No keyword in filename syntax!
+file returned : sq0015_sh0010_camera_v001.ma
+CHECKING FILE : sq0015_sh0010_camera_v002.ma
+No keyword in filename syntax!
+file returned : sq0015_sh0010_camera_v002.ma
+CHECKING FILE : sq0015_sh0010_render_v001.ma
+No keyword in filename syntax!
+type
+
+
+SEARCHING DATA : 
+KIND : shots
+NAME : None
+SEQUENCE : sq0015
+SHOT : None
+TYPE : None
+LOD : 1
+STATE : edit
+CHECKING FILE : sq0010_sh0010_camera_v001.ma
+No keyword in filename syntax!
+file returned : sq0010_sh0010_camera_v001.ma
+CHECKING FILE : sq0010_sh0010_camera_v002.ma
+No keyword in filename syntax!
+file returned : sq0010_sh0010_camera_v002.ma
+CHECKING FILE : sq0010_sh0010_camera_publish.ma
+No keyword in filename syntax!
+file returned : sq0010_sh0010_camera_publish.ma
+CHECKING FILE : sq0015_sh0010_camera_v001.ma
+No keyword in filename syntax!
+file returned : sq0015_sh0010_camera_v001.ma
+CHECKING FILE : sq0015_sh0010_camera_v002.ma
+No keyword in filename syntax!
+file returned : sq0015_sh0010_camera_v002.ma
+CHECKING FILE : sq0015_sh0010_render_v001.ma
+No keyword in filename syntax!
+file returned : sq0015_sh0010_render_v001.ma
+
+
+SEARCHING DATA : 
+KIND : shots
+NAME : None
+SEQUENCE : sq0015
+SHOT : None
+TYPE : mod
+LOD : 1
+STATE : edit
+CHECKING FILE : sq0010_sh0010_camera_v001.ma
+No keyword in filename syntax!
+type
+CHECKING FILE : sq0010_sh0010_camera_v002.ma
+No keyword in filename syntax!
+type
+type
+CHECKING FILE : sq0010_sh0010_camera_publish.ma
+No keyword in filename syntax!
+type
+type
+type
+CHECKING FILE : sq0015_sh0010_camera_v001.ma
+No keyword in filename syntax!
+type
+type
+type
+type
+CHECKING FILE : sq0015_sh0010_camera_v002.ma
+No keyword in filename syntax!
+type
+type
+type
+type
+type
+CHECKING FILE : sq0015_sh0010_render_v001.ma
+No keyword in filename syntax!
+type
+type
+type
+type
+type
+type
+
+
+SEARCHING DATA : 
+KIND : shots
+NAME : None
+SEQUENCE : sq0015
+SHOT : None
+TYPE : None
+LOD : 1
+STATE : edit
+CHECKING FILE : sq0010_sh0010_camera_v001.ma
+No keyword in filename syntax!
+file returned : sq0010_sh0010_camera_v001.ma
+CHECKING FILE : sq0010_sh0010_camera_v002.ma
+No keyword in filename syntax!
+file returned : sq0010_sh0010_camera_v002.ma
+CHECKING FILE : sq0010_sh0010_camera_publish.ma
+No keyword in filename syntax!
+file returned : sq0010_sh0010_camera_publish.ma
+CHECKING FILE : sq0015_sh0010_camera_v001.ma
+No keyword in filename syntax!
+file returned : sq0015_sh0010_camera_v001.ma
+CHECKING FILE : sq0015_sh0010_camera_v002.ma
+No keyword in filename syntax!
+file returned : sq0015_sh0010_camera_v002.ma
+CHECKING FILE : sq0015_sh0010_render_v001.ma
+No keyword in filename syntax!
+file returned : sq0015_sh0010_render_v001.ma
+
+
+SEARCHING DATA : 
+KIND : shots
+NAME : None
+SEQUENCE : sq0015
+SHOT : None
+TYPE : render
+LOD : 1
+STATE : edit
+CHECKING FILE : sq0010_sh0010_camera_v001.ma
+No keyword in filename syntax!
+type
+CHECKING FILE : sq0010_sh0010_camera_v002.ma
+No keyword in filename syntax!
+type
+type
+CHECKING FILE : sq0010_sh0010_camera_publish.ma
+No keyword in filename syntax!
+type
+type
+type
+CHECKING FILE : sq0015_sh0010_camera_v001.ma
+No keyword in filename syntax!
+type
+type
+type
+type
+CHECKING FILE : sq0015_sh0010_camera_v002.ma
+No keyword in filename syntax!
+type
+type
+type
+type
+type
+CHECKING FILE : sq0015_sh0010_render_v001.ma
+No keyword in filename syntax!
+type
+type
+type
+type
+type
+file returned : sq0015_sh0010_render_v001.ma
+
+
+SEARCHING DATA : 
+KIND : shots
+NAME : None
+SEQUENCE : sq0010
+SHOT : None
+TYPE : None
+LOD : 1
+STATE : edit
+CHECKING FILE : sq0010_sh0010_camera_v001.ma
+No keyword in filename syntax!
+file returned : sq0010_sh0010_camera_v001.ma
+CHECKING FILE : sq0010_sh0010_camera_v002.ma
+No keyword in filename syntax!
+file returned : sq0010_sh0010_camera_v002.ma
+CHECKING FILE : sq0010_sh0010_camera_publish.ma
+No keyword in filename syntax!
+file returned : sq0010_sh0010_camera_publish.ma
+CHECKING FILE : sq0015_sh0010_camera_v001.ma
+No keyword in filename syntax!
+file returned : sq0015_sh0010_camera_v001.ma
+CHECKING FILE : sq0015_sh0010_camera_v002.ma
+No keyword in filename syntax!
+file returned : sq0015_sh0010_camera_v002.ma
+CHECKING FILE : sq0015_sh0010_render_v001.ma
+No keyword in filename syntax!
+file returned : sq0015_sh0010_render_v001.ma
+
+
+SEARCHING DATA : 
+KIND : shots
+NAME : None
+SEQUENCE : sq0010
+SHOT : None
+TYPE : None
+LOD : 1
+STATE : edit
+CHECKING FILE : sq0010_sh0010_camera_v001.ma
+No keyword in filename syntax!
+file returned : sq0010_sh0010_camera_v001.ma
+CHECKING FILE : sq0010_sh0010_camera_v002.ma
+No keyword in filename syntax!
+file returned : sq0010_sh0010_camera_v002.ma
+CHECKING FILE : sq0010_sh0010_camera_publish.ma
+No keyword in filename syntax!
+file returned : sq0010_sh0010_camera_publish.ma
+CHECKING FILE : sq0015_sh0010_camera_v001.ma
+No keyword in filename syntax!
+file returned : sq0015_sh0010_camera_v001.ma
+CHECKING FILE : sq0015_sh0010_camera_v002.ma
+No keyword in filename syntax!
+file returned : sq0015_sh0010_camera_v002.ma
+CHECKING FILE : sq0015_sh0010_render_v001.ma
+No keyword in filename syntax!
+file returned : sq0015_sh0010_render_v001.ma
+
+
+SEARCHING DATA : 
+KIND : shots
+NAME : None
+SEQUENCE : sq0010
+SHOT : None
+TYPE : None
+LOD : 1
+STATE : edit
+CHECKING FILE : sq0010_sh0010_camera_v001.ma
+No keyword in filename syntax!
+file returned : sq0010_sh0010_camera_v001.ma
+CHECKING FILE : sq0010_sh0010_camera_v002.ma
+No keyword in filename syntax!
+file returned : sq0010_sh0010_camera_v002.ma
+CHECKING FILE : sq0010_sh0010_camera_publish.ma
+No keyword in filename syntax!
+file returned : sq0010_sh0010_camera_publish.ma
+CHECKING FILE : sq0015_sh0010_camera_v001.ma
+No keyword in filename syntax!
+file returned : sq0015_sh0010_camera_v001.ma
+CHECKING FILE : sq0015_sh0010_camera_v002.ma
+No keyword in filename syntax!
+file returned : sq0015_sh0010_camera_v002.ma
+CHECKING FILE : sq0015_sh0010_render_v001.ma
+No keyword in filename syntax!
+file returned : sq0015_sh0010_render_v001.ma
+
+
+SEARCHING DATA : 
+KIND : shots
+NAME : None
+SEQUENCE : sq0010
+SHOT : None
+TYPE : None
+LOD : 1
+STATE : edit
+CHECKING FILE : sq0010_sh0010_camera_v001.ma
+No keyword in filename syntax!
+file returned : sq0010_sh0010_camera_v001.ma
+CHECKING FILE : sq0010_sh0010_camera_v002.ma
+No keyword in filename syntax!
+file returned : sq0010_sh0010_camera_v002.ma
+CHECKING FILE : sq0010_sh0010_camera_publish.ma
+No keyword in filename syntax!
+file returned : sq0010_sh0010_camera_publish.ma
+CHECKING FILE : sq0015_sh0010_camera_v001.ma
+No keyword in filename syntax!
+file returned : sq0015_sh0010_camera_v001.ma
+CHECKING FILE : sq0015_sh0010_camera_v002.ma
+No keyword in filename syntax!
+file returned : sq0015_sh0010_camera_v002.ma
+CHECKING FILE : sq0015_sh0010_render_v001.ma
+No keyword in filename syntax!
+file returned : sq0015_sh0010_render_v001.ma
+
+
+SEARCHING DATA : 
+KIND : shots
+NAME : None
+SEQUENCE : sq0010
+SHOT : None
+TYPE : None
+LOD : 1
+STATE : edit
+CHECKING FILE : sq0010_sh0010_camera_v001.ma
+No keyword in filename syntax!
+file returned : sq0010_sh0010_camera_v001.ma
+CHECKING FILE : sq0010_sh0010_camera_v002.ma
+No keyword in filename syntax!
+file returned : sq0010_sh0010_camera_v002.ma
+CHECKING FILE : sq0010_sh0010_camera_publish.ma
+No keyword in filename syntax!
+file returned : sq0010_sh0010_camera_publish.ma
+CHECKING FILE : sq0015_sh0010_camera_v001.ma
+No keyword in filename syntax!
+file returned : sq0015_sh0010_camera_v001.ma
+CHECKING FILE : sq0015_sh0010_camera_v002.ma
+No keyword in filename syntax!
+file returned : sq0015_sh0010_camera_v002.ma
+CHECKING FILE : sq0015_sh0010_render_v001.ma
+No keyword in filename syntax!
+file returned : sq0015_sh0010_render_v001.ma
+
+
+SEARCHING DATA : 
+KIND : shots
+NAME : None
+SEQUENCE : sq0015
+SHOT : None
+TYPE : None
+LOD : 1
+STATE : edit
+CHECKING FILE : sq0010_sh0010_camera_v001.ma
+No keyword in filename syntax!
+file returned : sq0010_sh0010_camera_v001.ma
+CHECKING FILE : sq0010_sh0010_camera_v002.ma
+No keyword in filename syntax!
+file returned : sq0010_sh0010_camera_v002.ma
+CHECKING FILE : sq0010_sh0010_camera_publish.ma
+No keyword in filename syntax!
+file returned : sq0010_sh0010_camera_publish.ma
+CHECKING FILE : sq0015_sh0010_camera_v001.ma
+No keyword in filename syntax!
+file returned : sq0015_sh0010_camera_v001.ma
+CHECKING FILE : sq0015_sh0010_camera_v002.ma
+No keyword in filename syntax!
+file returned : sq0015_sh0010_camera_v002.ma
+CHECKING FILE : sq0015_sh0010_render_v001.ma
+No keyword in filename syntax!
+file returned : sq0015_sh0010_render_v001.ma
+
+
+SEARCHING DATA : 
+KIND : shots
+NAME : None
+SEQUENCE : sq0015
+SHOT : None
+TYPE : None
+LOD : 1
+STATE : edit
+CHECKING FILE : sq0010_sh0010_camera_v001.ma
+No keyword in filename syntax!
+file returned : sq0010_sh0010_camera_v001.ma
+CHECKING FILE : sq0010_sh0010_camera_v002.ma
+No keyword in filename syntax!
+file returned : sq0010_sh0010_camera_v002.ma
+CHECKING FILE : sq0010_sh0010_camera_publish.ma
+No keyword in filename syntax!
+file returned : sq0010_sh0010_camera_publish.ma
+CHECKING FILE : sq0015_sh0010_camera_v001.ma
+No keyword in filename syntax!
+file returned : sq0015_sh0010_camera_v001.ma
+CHECKING FILE : sq0015_sh0010_camera_v002.ma
+No keyword in filename syntax!
+file returned : sq0015_sh0010_camera_v002.ma
+CHECKING FILE : sq0015_sh0010_render_v001.ma
+No keyword in filename syntax!
+file returned : sq0015_sh0010_render_v001.ma
+
+
+SEARCHING DATA : 
+KIND : shots
+NAME : None
+SEQUENCE : sq0015
+SHOT : None
+TYPE : camera
+LOD : 1
+STATE : edit
+CHECKING FILE : sq0010_sh0010_camera_v001.ma
+No keyword in filename syntax!
+file returned : sq0010_sh0010_camera_v001.ma
+CHECKING FILE : sq0010_sh0010_camera_v002.ma
+No keyword in filename syntax!
+file returned : sq0010_sh0010_camera_v002.ma
+CHECKING FILE : sq0010_sh0010_camera_publish.ma
+No keyword in filename syntax!
+file returned : sq0010_sh0010_camera_publish.ma
+CHECKING FILE : sq0015_sh0010_camera_v001.ma
+No keyword in filename syntax!
+file returned : sq0015_sh0010_camera_v001.ma
+CHECKING FILE : sq0015_sh0010_camera_v002.ma
+No keyword in filename syntax!
+file returned : sq0015_sh0010_camera_v002.ma
+CHECKING FILE : sq0015_sh0010_render_v001.ma
+No keyword in filename syntax!
+type
+
+
+SEARCHING DATA : 
+KIND : shots
+NAME : None
+SEQUENCE : sq0015
+SHOT : None
+TYPE : None
+LOD : 1
+STATE : edit
+CHECKING FILE : sq0010_sh0010_camera_v001.ma
+No keyword in filename syntax!
+file returned : sq0010_sh0010_camera_v001.ma
+CHECKING FILE : sq0010_sh0010_camera_v002.ma
+No keyword in filename syntax!
+file returned : sq0010_sh0010_camera_v002.ma
+CHECKING FILE : sq0010_sh0010_camera_publish.ma
+No keyword in filename syntax!
+file returned : sq0010_sh0010_camera_publish.ma
+CHECKING FILE : sq0015_sh0010_camera_v001.ma
+No keyword in filename syntax!
+file returned : sq0015_sh0010_camera_v001.ma
+CHECKING FILE : sq0015_sh0010_camera_v002.ma
+No keyword in filename syntax!
+file returned : sq0015_sh0010_camera_v002.ma
+CHECKING FILE : sq0015_sh0010_render_v001.ma
+No keyword in filename syntax!
+file returned : sq0015_sh0010_render_v001.ma
+
+
+SEARCHING DATA : 
+KIND : shots
+NAME : None
+SEQUENCE : sq0015
+SHOT : None
+TYPE : mod
+LOD : 1
+STATE : edit
+CHECKING FILE : sq0010_sh0010_camera_v001.ma
+No keyword in filename syntax!
+type
+CHECKING FILE : sq0010_sh0010_camera_v002.ma
+No keyword in filename syntax!
+type
+type
+CHECKING FILE : sq0010_sh0010_camera_publish.ma
+No keyword in filename syntax!
+type
+type
+type
+CHECKING FILE : sq0015_sh0010_camera_v001.ma
+No keyword in filename syntax!
+type
+type
+type
+type
+CHECKING FILE : sq0015_sh0010_camera_v002.ma
+No keyword in filename syntax!
+type
+type
+type
+type
+type
+CHECKING FILE : sq0015_sh0010_render_v001.ma
+No keyword in filename syntax!
+type
+type
+type
+type
+type
+type
+
+
+SEARCHING DATA : 
+KIND : shots
+NAME : None
+SEQUENCE : sq0015
+SHOT : None
+TYPE : None
+LOD : 1
+STATE : edit
+CHECKING FILE : sq0010_sh0010_camera_v001.ma
+No keyword in filename syntax!
+file returned : sq0010_sh0010_camera_v001.ma
+CHECKING FILE : sq0010_sh0010_camera_v002.ma
+No keyword in filename syntax!
+file returned : sq0010_sh0010_camera_v002.ma
+CHECKING FILE : sq0010_sh0010_camera_publish.ma
+No keyword in filename syntax!
+file returned : sq0010_sh0010_camera_publish.ma
+CHECKING FILE : sq0015_sh0010_camera_v001.ma
+No keyword in filename syntax!
+file returned : sq0015_sh0010_camera_v001.ma
+CHECKING FILE : sq0015_sh0010_camera_v002.ma
+No keyword in filename syntax!
+file returned : sq0015_sh0010_camera_v002.ma
+CHECKING FILE : sq0015_sh0010_render_v001.ma
+No keyword in filename syntax!
+file returned : sq0015_sh0010_render_v001.ma
+
+
+SEARCHING DATA : 
+KIND : shots
+NAME : None
+SEQUENCE : sq0015
+SHOT : None
+TYPE : None
+LOD : 1
+STATE : edit
+
+
+CHECKING FILE : sq0010_sh0010_camera_v001.ma
+SEARCHING DATA : 
+No keyword in filename syntax!
+KIND : character
+file returned : sq0010_sh0010_camera_v001.ma
+NAME : None
+SEQUENCE : sq0015
+SHOT : None
+TYPE : None
+LOD : 1
+CHECKING FILE : sq0010_sh0010_camera_v002.ma
+STATE : edit
+No keyword in filename syntax!
+file returned : sq0010_sh0010_camera_v002.ma
+CHECKING FILE : sq0010_sh0010_camera_publish.ma
+No keyword in filename syntax!
+file returned : sq0010_sh0010_camera_publish.ma
 CHECKING FILE : char_lucas_mod_v001.ma
 CHECKING FILE : char_lucas_mod_v002.ma
 CHECKING FILE : char_lucastest_rig_publish.ma
+CHECKING FILE : sq0015_sh0010_camera_v001.ma
 CHECKING FILE : char_lucastest_rig_v001.ma
+No keyword in filename syntax!
 CHECKING FILE : char_lucastest_rig_v002.ma
+file returned : sq0015_sh0010_camera_v001.ma
 CHECKING FILE : char_lucastest_rig_publish.ma
-
-
-SEARCHING DATA : 
-KIND : character
-NAME : lucas
-TYPE : None
-LOD : 1
-STATE : edit
-CHECKING FILE : char_lucas_mod_v001.ma
-CHECKING FILE : char_lucas_mod_v002.ma
-CHECKING FILE : char_lucastest_rig_publish.ma
-CHECKING FILE : char_lucastest_rig_v001.ma
-CHECKING FILE : char_lucastest_rig_v002.ma
-CHECKING FILE : char_lucastest_rig_publish.ma
-
-
-SEARCHING DATA : 
-KIND : character
-NAME : matteo
-TYPE : None
-LOD : 1
-STATE : edit
+CHECKING FILE : sq0015_sh0010_camera_v002.ma
+No keyword in filename syntax!
+file returned : sq0015_sh0010_camera_v002.ma
+CHECKING FILE : sq0015_sh0010_render_v001.ma
+No keyword in filename syntax!
 CHECKING FILE : char_matteotestlook_lookdev_v002.ma
+file returned : sq0015_sh0010_render_v001.ma
 CHECKING FILE : char_matteo_lookdev_v001.ma
 CHECKING FILE : char_matteotestlook_lookdev_publish.ma
-
-
-SEARCHING DATA : 
-KIND : character
-NAME : lucas
-TYPE : None
-LOD : 1
-STATE : edit
-CHECKING FILE : char_lucas_mod_v001.ma
-CHECKING FILE : char_lucas_mod_v002.ma
-CHECKING FILE : char_lucastest_rig_publish.ma
-CHECKING FILE : char_lucastest_rig_v001.ma
-CHECKING FILE : char_lucastest_rig_v002.ma
-CHECKING FILE : char_lucastest_rig_publish.ma
-
-
-SEARCHING DATA : 
-KIND : character
-NAME : matteo
-TYPE : lookdev
-LOD : 1
-STATE : edit
-CHECKING FILE : char_matteotestlook_lookdev_v002.ma
-CHECKING FILE : char_matteo_lookdev_v001.ma
-
-
-SEARCHING DATA : 
-KIND : character
-NAME : matteo
-TYPE : lookdev
-LOD : 1
-STATE : publish
-CHECKING FILE : char_matteotestlook_lookdev_publish.ma
-
-
-SEARCHING DATA : 
-KIND : character
-NAME : matteo
-TYPE : lookdev
-LOD : 1
-STATE : edit
-CHECKING FILE : char_matteotestlook_lookdev_v002.ma
-CHECKING FILE : char_matteo_lookdev_v001.ma
-
-
-SEARCHING DATA : 
-KIND : character
-NAME : matteo
-TYPE : lookdev
-LOD : 1
-STATE : publish
-CHECKING FILE : char_matteotestlook_lookdev_publish.ma
-
-
-SEARCHING DATA : 
-KIND : character
-NAME : matteo
-TYPE : None
-LOD : 1
-STATE : edit
-CHECKING FILE : char_matteotestlook_lookdev_v002.ma
-CHECKING FILE : char_matteo_lookdev_v001.ma
-CHECKING FILE : char_matteotestlook_lookdev_publish.ma
-
-
-SEARCHING DATA : 
-KIND : character
-NAME : matteo
-TYPE : lookdev
-LOD : 1
-STATE : edit
-CHECKING FILE : char_matteotestlook_lookdev_v002.ma
-CHECKING FILE : char_matteo_lookdev_v001.ma
-
-
-SEARCHING DATA : 
-KIND : character
-NAME : matteo
-TYPE : lookdev
-LOD : 1
-STATE : publish
-CHECKING FILE : char_matteotestlook_lookdev_publish.ma
-
-
-SEARCHING DATA : 
-KIND : character
-NAME : matteo
-TYPE : None
-LOD : 1
-STATE : edit
-CHECKING FILE : char_matteotestlook_lookdev_v002.ma
-CHECKING FILE : char_matteo_lookdev_v001.ma
-CHECKING FILE : char_matteotestlook_lookdev_publish.ma
-
-
-SEARCHING DATA : 
-KIND : character
-NAME : lucas
-TYPE : None
-LOD : 1
-STATE : edit
-CHECKING FILE : char_lucas_mod_v001.ma
-CHECKING FILE : char_lucas_mod_v002.ma
-CHECKING FILE : char_lucastest_rig_publish.ma
-CHECKING FILE : char_lucastest_rig_v001.ma
-CHECKING FILE : char_lucastest_rig_v002.ma
-CHECKING FILE : char_lucastest_rig_publish.ma
-
-
-SEARCHING DATA : 
-KIND : character
-NAME : max
-TYPE : None
-LOD : 1
-STATE : edit
 CHECKING FILE : char_max_bonjour_v004.ma
 CHECKING FILE : char_max_rig_v003.ma
-
-
-SEARCHING DATA : 
-KIND : character
-NAME : lucas
-TYPE : None
-LOD : 1
-STATE : edit
-CHECKING FILE : char_lucas_mod_v001.ma
-CHECKING FILE : char_lucas_mod_v002.ma
-CHECKING FILE : char_lucastest_rig_publish.ma
-CHECKING FILE : char_lucastest_rig_v001.ma
-CHECKING FILE : char_lucastest_rig_v002.ma
-CHECKING FILE : char_lucastest_rig_publish.ma
-
-
-SEARCHING DATA : 
-KIND : character
-NAME : lucas
-TYPE : mod
-LOD : 1
-STATE : edit
-CHECKING FILE : char_lucas_mod_v001.ma
-CHECKING FILE : char_lucas_mod_v002.ma
-
-
-SEARCHING DATA : 
-KIND : character
-NAME : robin
-TYPE : mod
-LOD : 1
-STATE : edit
 CHECKING FILE : char_Robin_mod_v001.ma
 
 
 SEARCHING DATA : 
-KIND : character
-NAME : robin
-TYPE : mod
+KIND : shots
+NAME : matteo
+SEQUENCE : sq0015
+SHOT : None
+TYPE : None
 LOD : 1
-STATE : publish
+STATE : edit
+CHECKING FILE : sq0010_sh0010_camera_v001.ma
+No keyword in filename syntax!
+file returned : sq0010_sh0010_camera_v001.ma
+CHECKING FILE : sq0010_sh0010_camera_v002.ma
+No keyword in filename syntax!
+file returned : sq0010_sh0010_camera_v002.ma
+CHECKING FILE : sq0010_sh0010_camera_publish.ma
+No keyword in filename syntax!
+file returned : sq0010_sh0010_camera_publish.ma
+CHECKING FILE : sq0015_sh0010_camera_v001.ma
+No keyword in filename syntax!
+file returned : sq0015_sh0010_camera_v001.ma
+CHECKING FILE : sq0015_sh0010_camera_v002.ma
+No keyword in filename syntax!
+file returned : sq0015_sh0010_camera_v002.ma
+CHECKING FILE : sq0015_sh0010_render_v001.ma
+No keyword in filename syntax!
+file returned : sq0015_sh0010_render_v001.ma
 
 
 SEARCHING DATA : 
 KIND : character
 NAME : matteo
+SEQUENCE : sq0015
+SHOT : None
+TYPE : None
+LOD : 1
+STATE : edit
+CHECKING FILE : char_matteotestlook_lookdev_v002.ma
+CHECKING FILE : char_matteo_lookdev_v001.ma
+CHECKING FILE : char_matteotestlook_lookdev_publish.ma
+
+
+SEARCHING DATA : 
+KIND : shots
+NAME : matteo
+SEQUENCE : sq0015
+SHOT : None
+TYPE : groom
+LOD : 1
+STATE : edit
+CHECKING FILE : sq0010_sh0010_camera_v001.ma
+No keyword in filename syntax!
+type
+CHECKING FILE : sq0010_sh0010_camera_v002.ma
+No keyword in filename syntax!
+type
+type
+CHECKING FILE : sq0010_sh0010_camera_publish.ma
+No keyword in filename syntax!
+type
+type
+type
+CHECKING FILE : sq0015_sh0010_camera_v001.ma
+No keyword in filename syntax!
+type
+type
+type
+type
+CHECKING FILE : sq0015_sh0010_camera_v002.ma
+No keyword in filename syntax!
+type
+type
+type
+type
+type
+CHECKING FILE : sq0015_sh0010_render_v001.ma
+No keyword in filename syntax!
+type
+type
+type
+type
+type
+type
+
+
+SEARCHING DATA : 
+KIND : character
+NAME : matteo
+SEQUENCE : sq0015
+SHOT : None
 TYPE : None
 LOD : 1
 STATE : edit
@@ -717,91 +1235,38 @@ CHECKING FILE : char_matteotestlook_lookdev_publish.ma
 
 SEARCHING DATA : 
 KIND : character
-NAME : robin
-TYPE : mod
-LOD : 1
-STATE : edit
-CHECKING FILE : char_Robin_mod_v001.ma
-
-
-SEARCHING DATA : 
-KIND : character
-NAME : robin
-TYPE : mod
-LOD : 1
-STATE : publish
-
-
-SEARCHING DATA : 
-KIND : character
-NAME : robin
-TYPE : mod
-LOD : 1
-SEARCHING DATA : 
-STATE : edit
-KIND : character
-NAME : robin
-: char_Robin_mod_v001.ma
-TYPE : mod
-LOD : 1
-STATE : publish
-
-
-SEARCHING DATA : 
-KIND : character
-NAME : lucas
-TYPE : mod
-LOD : 1
-STATE : edit
-CHECKING FILE : char_lucas_mod_v001.ma
-CHECKING FILE : char_lucas_mod_v002.ma
-
-
-SEARCHING DATA : 
-KIND : character
-NAME : robin
-TYPE : mod
-LOD : 1
-STATE : edit
-CHECKING FILE : char_Robin_mod_v001.ma
-
-
-SEARCHING DATA : 
-KIND : character
-NAME : robin
-TYPE : mod
-LOD : 1
-STATE : publish
-
-
-SEARCHING DATA : 
-KIND : character
-NAME : cubetest
+NAME : matteo
+SEQUENCE : sq0015
+SHOT : None
 TYPE : None
 LOD : 1
 STATE : edit
-CHECKING FILE : char_cubeTest_mod_v001.ma
-CHECKING FILE : char_cubeTest_mod_v002.ma
-CHECKING FILE : char_cube_mod_v002.ma
+CHECKING FILE : char_matteotestlook_lookdev_v002.ma
+CHECKING FILE : char_matteo_lookdev_v001.ma
+CHECKING FILE : char_matteotestlook_lookdev_publish.ma
 
 
 SEARCHING DATA : 
 KIND : character
-NAME : cubetest
-TYPE : mod
-LOD : 1
-STATE : edit
-CHECKING FILE : char_cubeTest_mod_v001.ma
-CHECKING FILE : char_cubeTest_mod_v002.ma
-CHECKING FILE : char_cube_mod_v002.ma
-
-
-SEARCHING DATA : 
-KIND : character
-NAME : cubetest
+NAME : matteo
+SEQUENCE : sq0015
+SHOT : None
 TYPE : None
 LOD : 1
 STATE : edit
-CHECKING FILE : char_cubeTest_mod_v001.ma
-CHECKING FILE : char_cubeTest_mod_v002.ma
-CHECKING FILE : char_cube_mod_v002.ma
+CHECKING FILE : char_matteotestlook_lookdev_v002.ma
+CHECKING FILE : char_matteo_lookdev_v001.ma
+CHECKING FILE : char_matteotestlook_lookdev_publish.ma
+
+
+SEARCHING DATA : 
+KIND : character
+NAME : matteo
+SEQUENCE : sq0015
+SHOT : None
+TYPE : None
+LOD : 1
+STATE : edit
+CHECKING FILE : char_matteotestlook_lookdev_v002.ma
+CHECKING FILE : char_matteo_lookdev_v001.ma
+CHECKING FILE : char_matteotestlook_lookdev_publish.ma

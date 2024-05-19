@@ -282,7 +282,10 @@ class PipoCommonApplication():
 		for the kind selected get data in current project settings
 		"""
 		default_folder_list = []
+
 		new_name_list_content = []
+		new_sequence_list_content = []
+		new_shot_list_content = []
 
 		searching_folder_data = {}
 
@@ -317,12 +320,82 @@ class PipoCommonApplication():
 									new_name_list_content.append(name_folder)
 						else:
 							self.display_error_function("Impossible to get name folder for that kind : %s"%kind)
-
 					else:
 						new_name_list_content = [None]
-					
 
+
+
+					if "[sqversion]" in kind_default_folder.split("/"):
+						sequence_index = kind_default_folder.split("/").index("[sqversion]")
+						sequence_folder = kind_default_folder.split("/")[:sequence_index]
+
+						sequence_folder_path = self.get_path_from_default_folder_function(kind, "/".join(sequence_folder))
+
+						self.display_message_function(sequence_folder_path)
+						if os.path.isdir(sequence_folder_path)==True:
+							sequence_folder_list = os.listdir(sequence_folder_path)
+
+							for sequence_folder in sequence_folder_list:
+								if os.path.isdir(os.path.join(sequence_folder_path, sequence_folder))==True:
+									#self.display_message_function("sequence folder : %s"%sequence_folder)
+									new_sequence_list_content.append(sequence_folder)
+						else:
+							self.display_error_function("Impossible to get the sequence folder!")
+					else:
+						new_sequence_list_content = [None]
+
+
+				
+						
+
+
+
+					
+					self.display_message_function(self.name_sequence_selection)
+
+
+					"""
 					#if name, type, state, or lod list are empty fill values with str(None)
+					if len(self.name_sequence_selection) != 0:			
+						for sequence in self.name_sequence_selection:
+							self.display_message_function("searching sequence : %s"%sequence)
+							if "[shversion]" in kind_default_folder.split("/"):
+								shot_index = kind_default_folder.split("/").index("[shversion]")
+								shot_folder= kind_default_folder.split("/")[:shot_index]
+
+								shot_folder_path = self.get_path_from_default_folder_function(kind, "/".join(shot_folder), None, None, sequence)
+
+								self.display_message_function(shot_folder_path)
+					else:
+						self.name_sequence_selection = [None]
+					"""
+					if len(self.name_sequence_selection) != 0:
+						for sequence in self.name_sequence_selection:
+							if "[shversion]" in kind_default_folder.split("/"):
+								shot_index = kind_default_folder.split("/").index("[shversion]")
+								shot_folder = kind_default_folder.split("/")[:shot_index]
+
+								shot_folder_path = self.get_path_from_default_folder_function(kind, "/".join(shot_folder), None, None, sequence)
+								
+								if os.path.isdir(shot_folder_path) == True:
+									shot_folder_content = os.listdir(shot_folder_path)
+
+									for shot_content in shot_folder_content:
+										if os.path.isdir(os.path.join(shot_folder_path, shot_content))==True:
+											new_shot_list_content.append(shot_content)
+								else:
+									self.display_error_function("Impossible to get shots folder!")
+							else:
+								new_shot_list_content = [None]
+
+
+
+
+
+
+								
+					if len(self.name_shots_selection) == 0:
+						self.name_shots_selection = [None]
 					if len(self.name_name_selection) == 0:
 						self.name_name_selection = [None]
 					if len(self.name_type_selection) == 0:
@@ -331,27 +404,31 @@ class PipoCommonApplication():
 					#FOR EACH NAME TRY TO GET THE END OF THE PATH
 					for name_selected in self.name_name_selection:
 						#self.display_message_function("searching folder for %s"%name_selected)
-						
-						#FOR EACH TYPE TRY TO GET THE END OF THE PATH
-						for type_selected in self.name_type_selection:
-							state_list = self.app.current_project_settings["Global"]["stateList"] if self.app.current_project_settings["Global"]["stateList"] != [] else [None]
-							lod_list = self.app.current_project_settings["Global"]["lodList"] if self.app.current_project_settings["Global"]["lodList"] != [] else [None]
+						for sequence_selected in self.name_sequence_selection:
+							for shot_selected in self.name_shots_selection:
+								#FOR EACH TYPE TRY TO GET THE END OF THE PATH
+								for type_selected in self.name_type_selection:
+									state_list = self.app.current_project_settings["Global"]["stateList"] if self.app.current_project_settings["Global"]["stateList"] != [] else [None]
+									lod_list = self.app.current_project_settings["Global"]["lodList"] if self.app.current_project_settings["Global"]["lodList"] != [] else [None]
 
 
-							for lod in lod_list:
-								for state in state_list:
-									#self.display_message_function(name_selected)
-									searching_path = self.get_path_from_default_folder_function(kind, kind_default_folder, name_selected, None, None, type_selected, state, lod)
-									#self.display_message_function("Searching path %s : %s"%(os.path.isdir(searching_path), searching_path))
-									#if the folder exists add it to the searching queue data
-									if (os.path.isdir(searching_path) == True) and (searching_path not in searching_folder_data):
-											searching_folder_data[searching_path] = {
-												"KIND":kind,
-												"NAME":name_selected,
-												"TYPE":type_selected,
-												"LOD":lod,
-												"STATE":state
-											}
+									for lod in lod_list:
+										for state in state_list:
+											#self.display_message_function(name_selected)
+											searching_path = self.get_path_from_default_folder_function(kind, kind_default_folder, name_selected, sequence_selected, shot_selected, type_selected, state, lod)
+											#self.display_message_function("Searching path %s : %s"%(os.path.isdir(searching_path), searching_path))
+											#if the folder exists add it to the searching queue data
+											if (os.path.isdir(searching_path) == True) and (searching_path not in searching_folder_data):
+													#self.display_message_function(searching_path)
+													searching_folder_data[searching_path] = {
+														"KIND":kind,
+														"NAME":name_selected,
+														"SEQUENCE":sequence_selected,
+														"SHOT":shot_selected,
+														"TYPE":type_selected,
+														"LOD":lod,
+														"STATE":state
+													}
 
 		
 		#LAUNCH MULTIPROCESSING
@@ -362,9 +439,9 @@ class PipoCommonApplication():
 
 
 		
-
-
-		if ( len(self.name_name_selection) != 0) and (self.name_name_selection != [None]):
+		self.display_message_function(searching_folder_data)
+		if searching_folder_data != {}:
+		#if ( len(self.name_name_selection) != 0) and (self.name_name_selection != [None]):
 
 
 		
@@ -388,6 +465,7 @@ class PipoCommonApplication():
 
 			if self.app.final_file_queue.empty() == False:
 				self.app.final_file_list = []
+				self.display_message_function("file list cleaned")
 
 				#self.display_message_function("FINAL QUEUE CONTENT : ")
 				while not self.app.final_file_queue.empty():
@@ -401,21 +479,45 @@ class PipoCommonApplication():
 		else:
 			self.display_message_function("No name selected so no process launched!")
 
-
-
+		
 		
 
 		#self.display_message_function("%s : %s"%(self.name_name_list, new_name_list_content))
 		#return
 		#check if the name list is different than the previous one
 		#if yes replace the name list in lists
+		if self.name_sequence_list != new_sequence_list_content:
+			self.name_sequence_list = new_sequence_list_content
+			self.lobby_sequence_list.clear_options()
+
+			try:
+				for i in range(len(self.name_sequence_list)):
+					if self.name_sequence_list[i] != None:
+						self.lobby_sequence_list.add_option(Selection(str(self.name_sequence_list[i]), i))
+			except:
+				self.display_error_function("Impossible to update sequence list in lobby")
+
+		if self.name_shots_list != new_shot_list_content:
+			self.name_shots_list = new_shot_list_content
+			self.lobby_shot_list.clear_options()
+
+			try:
+				for i in range(len(self.name_shots_list)):
+					if self.name_shots_list[i] != None:
+						self.lobby_shot_list.add_option(Selection(str(self.name_shots_list[i]), i))	
+			except:
+				self.display_error_function("Impossible to update shot list in lobby")
+
 		if self.name_name_list != new_name_list_content:
 			self.name_name_list = new_name_list_content
 			self.lobby_name_list.clear_options()
 
-			for i in range(len(self.name_name_list)):
-				if self.name_name_list[i] != None:
-					self.lobby_name_list.add_option(Selection(str(self.name_name_list[i]), i))
+			try:
+				for i in range(len(self.name_name_list)):
+					if self.name_name_list[i] != None:
+						self.lobby_name_list.add_option(Selection(str(self.name_name_list[i]), i))
+			except:
+				self.display_error_function("Impossible to update name list in lobby")
 		#self.display_message_function(new_name_list_content)
 
 
@@ -439,6 +541,8 @@ class PipoCommonApplication():
 		path = default_path.split("/")
 
 		#self.display_message_function("GET FOLDER FOR %s / %s: %s"%(kind, name_selection, default_path))
+
+
 		for i in range(len(path)):
 			if path[i] == "[Origin]":
 				path[i] = self.app.project_path
@@ -454,10 +558,10 @@ class PipoCommonApplication():
 				path[i] = (lod)
 			elif path[i] == "[name]":
 				path[i] = (name_selection)
-			elif "[sqversion]" in path[i]:
-				path[i].replace("[sqversion]", sequence_selection)
-			elif "[shversion]" in path[i]:
-				path[i].replace("[shversion]", shot_selection)
+			elif path[i] == "[sqversion]": 
+				path[i] = sequence_selection
+			elif path[i] == "[shversion]":
+				path[i] = shot_selection
 
 			else:
 				pass
@@ -467,7 +571,7 @@ class PipoCommonApplication():
 
 		#try to find None values in the list
 		#if there is delete all values after the first None value
-		if None in path:
+		if (None in path):
 			none_index = path.index(None)
 			path = path[:none_index]
 			#self.display_message_function(path)
