@@ -375,7 +375,7 @@ class PipoCommonApplication():
 								shot_index = kind_default_folder.split("/").index("[shversion]")
 								shot_folder = kind_default_folder.split("/")[:shot_index]
 
-								shot_folder_path = self.get_path_from_default_folder_function(kind, "/".join(shot_folder), None, None, sequence)
+								shot_folder_path = self.get_path_from_default_folder_function(kind, "/".join(shot_folder), None, sequence)
 								
 								if os.path.isdir(shot_folder_path) == True:
 									shot_folder_content = os.listdir(shot_folder_path)
@@ -396,8 +396,14 @@ class PipoCommonApplication():
 								
 					if len(self.name_shots_selection) == 0:
 						self.name_shots_selection = [None]
+
+					if len(self.name_sequence_selection) == 0:
+						self.name_sequence_selection = [None]
+
+					#self.display_message_function("SHOTS : %s"%self.name_shots_selection)
 					if len(self.name_name_selection) == 0:
 						self.name_name_selection = [None]
+
 					if len(self.name_type_selection) == 0:
 						self.name_type_selection = [None]
 
@@ -537,7 +543,7 @@ class PipoCommonApplication():
 
 
 
-	def get_path_from_default_folder_function(self, kind=None, default_path=None, name_selection=None, shot_selection=None, sequence_selection=None, type_selection=None, state=None, lod=None):
+	def get_path_from_default_folder_function(self, kind=None, default_path=None, name_selection=None, sequence_selection=None, shot_selection=None, type_selection=None, state=None, lod=None):
 		path = default_path.split("/")
 
 		#self.display_message_function("GET FOLDER FOR %s / %s: %s"%(kind, name_selection, default_path))
