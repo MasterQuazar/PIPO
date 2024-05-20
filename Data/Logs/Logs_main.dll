@@ -8406,3 +8406,7 @@ Unexisting path!
 [2024-05-19 22:48:12.280120] UPDATE : Project selected : testproject
 [2024-05-19 22:48:12.281117] UPDATE : Project settings loaded - D:/WORK/TESTPROJECT
 [2024-05-19 22:48:12.281117] UPDATE : Project settings loaded!
+
+
+[2024-05-20 12:29:23.456009] New Pipo session opened on <built-in function gethostname>
+[2024-05-20 12:29:23.877755] UPDATE : Personnal settings opened
