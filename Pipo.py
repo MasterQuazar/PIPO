@@ -132,12 +132,7 @@ class PipoLobbyApplication(Screen, PipoCommonApplication, PipoLogApplication):
 
 					with Vertical(classes="container_t2"):
 
-						yield Tabs(
-							Tab("First tab", id="one"),
-							Tab("Second tab", id="two"),
-							)
-
-						"""
+						
 						with TabbedContent(classes="tabbedcontent_t1"):
 							with TabPane("Name"):
 								with Vertical(classes="container_t2"):
@@ -154,7 +149,7 @@ class PipoLobbyApplication(Screen, PipoCommonApplication, PipoLogApplication):
 										self.lobby_shot_list = SelectionList(id="lobby_shot_list", classes="optionlist_t1")
 										self.lobby_shot_list.border_title = "Shot list"
 										yield self.lobby_shot_list
-						"""
+						
 
 					with Vertical(classes="container_t2"):
 						
@@ -548,10 +543,16 @@ class PipoLoginApplication(App, PipoCommonApplication, PipoLogApplication):
 		yield Horizontal()
 
 		self.load_personnal_settings_function()
+
+		self.display_message_function(self.personnal_data)
+		
 		#put the differents projects inside the project list
-		for key, value in self.personnal_data["ProjectList"].items():
-			#self.login_project_list.append(ListItem(Label(key)))
-			self.login_project_list.add_option(Option(key))
+		try:
+			for key, value in self.personnal_data["ProjectList"].items():
+				#self.login_project_list.append(ListItem(Label(key)))
+				self.login_project_list.add_option(Option(key))
+		except:
+			self.display_error_function("Impossible to display project list!")
 
 
 	def on_button_pressed(self, event: Button.Pressed) -> None:

@@ -3,10 +3,12 @@ import json
 import socket 
 import copy
 
+#c:/users/metal/onedrive/bureau/testproject
 from textual.app import App, ComposeResult
 from textual.widgets import Label,Button, Static, ListView, ListItem, OptionList, Header, Footer
 from textual.screen import Screen 
 from textual.widgets.selection_list import Selection
+from textual.widgets.option_list import Option
 from textual import events
 from textual.containers import Horizontal, Vertical, Container, VerticalScroll
 from pyfiglet import Figlet 
@@ -50,13 +52,17 @@ class PipoCommonApplication():
 			self.display_error_function("Settings file doesn't exist")
 			#self.display_error_function("Settings file doesn't exists!")
 			self.personnal_data = self.create_personnal_settings_file_function()
+			self.display_message_function("Personnal settings created")
 		else:
+			self.display_message_function("trying to load settings")
 			try:
 				with open("Data/PipoPersonnalData.json", "r") as read_data:
 					self.personnal_data = json.load(read_data)
 			except:
 				#display error
 				self.display_error_function("Impossible to read personnal settings file")
+				self.personnal_data = self.create_personnal_settings_file_function()
+				self.display_message_function("Personnal settings created")
 			else:
 				self.display_message_function("Personnal settings opened")
 
@@ -164,7 +170,7 @@ class PipoCommonApplication():
 					self.personnal_data["ProjectList"] = project_list
 					self.save_personnal_data()
 					#update the project list
-					self.login_project_list.append(ListItem(Label(project_name)))
+					self.login_project_list.add_option(Option(project_name))
 					self.display_message_function("Project created successfully!")
 
 		#self.login_alert_label.update("%s ; %s"%(project_name, project_path))

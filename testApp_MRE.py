@@ -1,32 +1,10 @@
 from textual.app import App, ComposeResult
-from textual.widgets import Tabs, Tab, Label, Button, Static, Log, ListView, ListItem, OptionList, Header, SelectionList, Footer, Markdown, TabbedContent, TabPane, Input, DirectoryTree, Select, Tabs
-from textual.widgets.option_list import Option, Separator
+from textual.widgets import TabbedContent, SelectionList, TabPane
 from textual.widgets.selection_list import Selection
-from textual.screen import Screen 
 from textual import events
-from textual.containers import Horizontal, Vertical, Container, VerticalScroll
-from pyfiglet import Figlet 
-from time import sleep
-from multiprocessing import freeze_support
-from datetime import datetime
-from textual import on
+from textual.containers import Horizontal, Vertical, VerticalScroll
 
-import multiprocessing
-import threading 
-import socket
-import aioprocessing
-
-import psutil
-import os 
-import colorama
-import copy
-import pyfiglet
-import asyncio
-
-from termcolor import *
-
-
-
+import os
 
 
 
@@ -34,7 +12,6 @@ from termcolor import *
 
 
 class Example(App):
-	CSS_PATH = "test.tcss"
 	def __init__(self):
 		super().__init__()
 
@@ -66,8 +43,18 @@ class Example(App):
 
 	def on_selection_list_selection_toggled(self, event: SelectionList.SelectedChanged) -> None:
 
+		"""
+		when selecting something in the first selection list
+		add the number to the second one
+		"""
 		if event.selection_list.id == "test1_list":
-			self.notify("hello", timeout=2)
+			#get selection
+			selection = self.query_one("#test1_list").selected
+
+
+			self.test2_list.clear_options()
+			for i in range(len(selection)):
+				self.test2_list.add_option(Selection(str(selection[i]), i))
 
 
 	async def on_key(self, event: events.Key) -> None:

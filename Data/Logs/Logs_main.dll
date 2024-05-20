@@ -8410,3 +8410,187 @@ Unexisting path!
 
 [2024-05-20 12:29:23.456009] New Pipo session opened on <built-in function gethostname>
 [2024-05-20 12:29:23.877755] UPDATE : Personnal settings opened
+
+
+[2024-05-20 22:31:26.845287] New Pipo session opened on <built-in function gethostname>
+[2024-05-20 22:31:26.937261] UPDATE : Personnal settings opened
+[2024-05-20 22:31:38.082787] UPDATE : Project selected : testproject
+[2024-05-20 22:31:38.082787] ERROR : Impossible to access that project!
+Unexisting path!
+
+
+[2024-05-20 22:32:13.127585] New Pipo session opened on <built-in function gethostname>
+[2024-05-20 22:32:13.147642] UPDATE : Personnal settings opened
+
+
+[2024-05-20 22:35:50.630992] New Pipo session opened on <built-in function gethostname>
+[2024-05-20 22:35:50.654973] UPDATE : Personnal settings opened
+
+
+[2024-05-20 22:58:14.047701] New Pipo session opened on <built-in function gethostname>
+[2024-05-20 22:58:14.063678] UPDATE : Personnal settings opened
+
+
+[2024-05-20 22:58:51.572493] New Pipo session opened on <built-in function gethostname>
+[2024-05-20 22:58:51.588493] UPDATE : Personnal settings opened
+[2024-05-20 22:59:36.823607] UPDATE : Personnal settings updated!
+
+
+[2024-05-20 22:59:47.654537] New Pipo session opened on <built-in function gethostname>
+[2024-05-20 22:59:47.682541] UPDATE : Personnal settings opened
+
+
+[2024-05-20 23:03:44.031705] New Pipo session opened on <built-in function gethostname>
+[2024-05-20 23:03:44.051712] UPDATE : Personnal settings opened
+
+
+[2024-05-20 23:05:32.455799] New Pipo session opened on <built-in function gethostname>
+[2024-05-20 23:05:32.475763] ERROR : Impossible to read personnal settings file
+
+
+[2024-05-20 23:09:32.422317] New Pipo session opened on <built-in function gethostname>
+[2024-05-20 23:09:32.446319] ERROR : Impossible to read personnal settings file
+[2024-05-20 23:09:32.446319] UPDATE : {}
+
+
+[2024-05-20 23:21:31.249220] New Pipo session opened on <built-in function gethostname>
+[2024-05-20 23:21:31.269110] ERROR : Impossible to read personnal settings file
+[2024-05-20 23:21:31.269110] UPDATE : {}
+
+
+[2024-05-20 23:22:27.834506] New Pipo session opened on <built-in function gethostname>
+[2024-05-20 23:22:27.850550] ERROR : Impossible to read personnal settings file
+[2024-05-20 23:22:27.850550] UPDATE : Default personnal settings created
+[2024-05-20 23:22:27.850550] UPDATE : Personnal settings created
+[2024-05-20 23:22:27.854503] UPDATE : {'ComputerName': 'MSI', 'ProjectList': {}}
+
+
+[2024-05-20 23:22:45.105817] New Pipo session opened on <built-in function gethostname>
+[2024-05-20 23:22:45.125818] UPDATE : Personnal settings opened
+[2024-05-20 23:22:45.125818] UPDATE : {'ComputerName': 'MSI', 'ProjectList': {}}
+
+
+[2024-05-20 23:23:27.649168] New Pipo session opened on <built-in function gethostname>
+[2024-05-20 23:23:27.669172] ERROR : Settings file doesn't exist
+[2024-05-20 23:23:27.669172] UPDATE : Default personnal settings created
+[2024-05-20 23:23:27.669172] UPDATE : {'ComputerName': 'MSI', 'ProjectList': {}}
+
+
+[2024-05-20 23:24:22.870789] New Pipo session opened on <built-in function gethostname>
+[2024-05-20 23:24:22.890763] ERROR : Settings file doesn't exist
+[2024-05-20 23:24:22.894788] UPDATE : Default personnal settings created
+[2024-05-20 23:24:22.894788] UPDATE : Personnal settings created
+[2024-05-20 23:24:22.894788] UPDATE : {'ComputerName': 'MSI', 'ProjectList': {}}
+[2024-05-20 23:25:18.797551] UPDATE : Personnal settings updated!
+
+
+[2024-05-20 23:30:50.593577] New Pipo session opened on <built-in function gethostname>
+[2024-05-20 23:30:50.613551] UPDATE : Personnal settings opened
+[2024-05-20 23:30:50.613551] UPDATE : {'ComputerName': 'MSI', 'ProjectList': {'testProject_Portable': {'projectPath': 'c:/users/metal/onedrive/bureau/testproject', 'projectCreator': 'MSI', 'projectDate': '2024-05-20 23:25:18.793548'}}}
+[2024-05-20 23:31:10.220897] ERROR : A project is already defined here!
+[2024-05-20 23:32:27.798170] UPDATE : Personnal settings updated!
+
+
+[2024-05-20 23:33:41.045020] New Pipo session opened on <built-in function gethostname>
+[2024-05-20 23:33:41.068991] UPDATE : Personnal settings opened
+[2024-05-20 23:33:41.068991] UPDATE : {'ComputerName': 'MSI', 'ProjectList': {'testProject_Portable': {'projectPath': 'c:/users/metal/onedrive/bureau/testproject', 'projectCreator': 'MSI', 'projectDate': '2024-05-20 23:25:18.793548'}, 'testProject_portable': {'projectPath': 'c:/users/metal/onedrive/bureau/testproject', 'projectCreator': 'MSI', 'projectDate': '2024-05-20 23:32:27.795661'}}}
+[2024-05-20 23:34:06.249675] UPDATE : Personnal settings updated!
+
+
+[2024-05-20 23:34:58.508319] New Pipo session opened on <built-in function gethostname>
+[2024-05-20 23:34:58.532320] UPDATE : Personnal settings opened
+[2024-05-20 23:34:58.532320] UPDATE : {'ComputerName': 'MSI', 'ProjectList': {'testProject_Portable': {'projectPath': 'c:/users/metal/onedrive/bureau/testproject', 'projectCreator': 'MSI', 'projectDate': '2024-05-20 23:25:18.793548'}, 'testProject_portable': {'projectPath': 'c:/users/metal/onedrive/bureau/testproject', 'projectCreator': 'MSI', 'projectDate': '2024-05-20 23:32:27.795661'}, 'testproject_portable': {'projectPath': 'c:/users/metal/onedrive/bureau/testproject', 'projectCreator': 'MSI', 'projectDate': '2024-05-20 23:34:06.247666'}}}
+[2024-05-20 23:36:01.228297] UPDATE : Personnal settings updated!
+[2024-05-20 23:36:01.231256] UPDATE : Project created successfully!
+
+
+[2024-05-20 23:36:25.842387] New Pipo session opened on <built-in function gethostname>
+[2024-05-20 23:36:25.862354] UPDATE : Personnal settings opened
+[2024-05-20 23:36:25.862354] UPDATE : {'ComputerName': 'MSI', 'ProjectList': {'testProject_Portable': {'projectPath': 'c:/users/metal/onedrive/bureau/testproject', 'projectCreator': 'MSI', 'projectDate': '2024-05-20 23:25:18.793548'}, 'testProject_portable': {'projectPath': 'c:/users/metal/onedrive/bureau/testproject', 'projectCreator': 'MSI', 'projectDate': '2024-05-20 23:32:27.795661'}, 'testproject_portable': {'projectPath': 'c:/users/metal/onedrive/bureau/testproject', 'projectCreator': 'MSI', 'projectDate': '2024-05-20 23:34:06.247666'}, 'testproject': {'projectPath': 'c:/users/metal/onedrive/bureau/testproject', 'projectCreator': 'MSI', 'projectDate': '2024-05-20 23:36:01.228297'}}}
+
+
+[2024-05-20 23:37:16.806429] New Pipo session opened on <built-in function gethostname>
+[2024-05-20 23:37:16.826350] ERROR : Settings file doesn't exist
+[2024-05-20 23:37:16.826350] UPDATE : Default personnal settings created
+[2024-05-20 23:37:16.826350] UPDATE : Personnal settings created
+[2024-05-20 23:37:16.826350] UPDATE : {'ComputerName': 'MSI', 'ProjectList': {}}
+[2024-05-20 23:37:34.887156] UPDATE : Personnal settings updated!
+[2024-05-20 23:37:34.887156] UPDATE : Project created successfully!
+[2024-05-20 23:37:37.323742] UPDATE : Project selected : tesetproject_portable
+[2024-05-20 23:37:37.332819] UPDATE : Project settings loaded - c:/users/metal/onedrive/bureau/testproject
+[2024-05-20 23:37:37.336844] UPDATE : Project settings loaded!
+
+
+[2024-05-20 23:37:58.452508] New Pipo session opened on <built-in function gethostname>
+[2024-05-20 23:37:58.476506] UPDATE : Personnal settings opened
+[2024-05-20 23:37:58.476506] UPDATE : {'ComputerName': 'MSI', 'ProjectList': {'tesetproject_portable': {'projectPath': 'c:/users/metal/onedrive/bureau/testproject', 'projectCreator': 'MSI', 'projectDate': '2024-05-20 23:37:34.885320'}}}
+
+
+[2024-05-20 23:39:01.680856] New Pipo session opened on <built-in function gethostname>
+[2024-05-20 23:39:01.700877] UPDATE : Personnal settings opened
+[2024-05-20 23:39:01.700877] UPDATE : {'ComputerName': 'MSI', 'ProjectList': {'tesetproject_portable': {'projectPath': 'c:/users/metal/onedrive/bureau/testproject', 'projectCreator': 'MSI', 'projectDate': '2024-05-20 23:37:34.885320'}}}
+[2024-05-20 23:39:06.499861] ERROR : You have to select a project first!
+
+
+[2024-05-20 23:40:35.282852] New Pipo session opened on <built-in function gethostname>
+[2024-05-20 23:40:35.306855] UPDATE : trying to load settings
+[2024-05-20 23:40:35.306855] UPDATE : Personnal settings opened
+[2024-05-20 23:40:35.306855] UPDATE : {'ComputerName': 'MSI', 'ProjectList': {'tesetproject_portable': {'projectPath': 'c:/users/metal/onedrive/bureau/testproject', 'projectCreator': 'MSI', 'projectDate': '2024-05-20 23:37:34.885320'}}}
+
+
+[2024-05-20 23:42:21.790400] New Pipo session opened on <built-in function gethostname>
+[2024-05-20 23:42:21.810370] UPDATE : trying to load settings
+[2024-05-20 23:42:21.810370] UPDATE : Personnal settings opened
+[2024-05-20 23:42:21.810370] UPDATE : {'ComputerName': 'MSI', 'ProjectList': {'tesetproject_portable': {'projectPath': 'c:/users/metal/onedrive/bureau/testproject', 'projectCreator': 'MSI', 'projectDate': '2024-05-20 23:37:34.885320'}}}
+[2024-05-20 23:42:24.561263] UPDATE : Project selected : tesetproject_portable
+[2024-05-20 23:42:24.564302] UPDATE : Project settings loaded - c:/users/metal/onedrive/bureau/testproject
+[2024-05-20 23:42:24.564302] UPDATE : Project settings loaded!
+
+
+[2024-05-20 23:43:02.006479] New Pipo session opened on <built-in function gethostname>
+[2024-05-20 23:43:02.026447] UPDATE : trying to load settings
+[2024-05-20 23:43:02.026447] UPDATE : Personnal settings opened
+[2024-05-20 23:43:02.030447] UPDATE : {'ComputerName': 'MSI', 'ProjectList': {'tesetproject_portable': {'projectPath': 'c:/users/metal/onedrive/bureau/testproject', 'projectCreator': 'MSI', 'projectDate': '2024-05-20 23:37:34.885320'}}}
+[2024-05-20 23:43:03.992827] UPDATE : Project selected : tesetproject_portable
+[2024-05-20 23:43:03.992827] UPDATE : Project settings loaded - c:/users/metal/onedrive/bureau/testproject
+[2024-05-20 23:43:03.992827] UPDATE : Project settings loaded!
+
+
+[2024-05-20 23:43:21.616259] New Pipo session opened on <built-in function gethostname>
+[2024-05-20 23:43:21.632274] UPDATE : trying to load settings
+[2024-05-20 23:43:21.636225] UPDATE : Personnal settings opened
+[2024-05-20 23:43:21.636225] UPDATE : {'ComputerName': 'MSI', 'ProjectList': {'tesetproject_portable': {'projectPath': 'c:/users/metal/onedrive/bureau/testproject', 'projectCreator': 'MSI', 'projectDate': '2024-05-20 23:37:34.885320'}}}
+[2024-05-20 23:43:24.357470] UPDATE : Project selected : tesetproject_portable
+[2024-05-20 23:43:24.357470] UPDATE : Project settings loaded - c:/users/metal/onedrive/bureau/testproject
+[2024-05-20 23:43:24.357470] UPDATE : Project settings loaded!
+
+[2024-05-20 23:43:25.762638] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-20 23:43:25.762638] UPDATE : NO PROCESS TO END!
+[2024-05-20 23:43:25.762638] UPDATE : ['character']
+[2024-05-20 23:43:25.762638] UPDATE : Default folder for character : [Origin]/ASSETS/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-20 23:43:25.766657] ERROR : Impossible to get name folder for that kind : character
+[2024-05-20 23:43:25.766657] UPDATE : []
+[2024-05-20 23:43:25.766657] UPDATE : {}
+[2024-05-20 23:43:25.766657] UPDATE : No name selected so no process launched!
+
+[2024-05-20 23:43:26.784921] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-20 23:43:26.784921] UPDATE : NO PROCESS TO END!
+[2024-05-20 23:43:26.784921] UPDATE : ['character', 'shots']
+[2024-05-20 23:43:26.784921] UPDATE : Default folder for character : [Origin]/ASSETS/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-20 23:43:26.784921] ERROR : Impossible to get name folder for that kind : character
+[2024-05-20 23:43:26.784921] UPDATE : [None]
+[2024-05-20 23:43:26.784921] UPDATE : Default folder for shots : [Origin]/SHOTS/[sqversion]/[sqversion]_[shversion]/[type]/[state]
+[2024-05-20 23:43:26.788937] UPDATE : c:/users/metal/onedrive/bureau/testproject/SHOTS
+[2024-05-20 23:43:26.788937] ERROR : Impossible to get the sequence folder!
+[2024-05-20 23:43:26.788937] UPDATE : [None]
+[2024-05-20 23:43:26.788937] UPDATE : {}
+[2024-05-20 23:43:26.788937] UPDATE : No name selected so no process launched!
+
+
+[2024-05-20 23:43:48.614861] New Pipo session opened on <built-in function gethostname>
+[2024-05-20 23:43:48.630906] UPDATE : trying to load settings
+[2024-05-20 23:43:48.630906] UPDATE : Personnal settings opened
+[2024-05-20 23:43:48.630906] UPDATE : {'ComputerName': 'MSI', 'ProjectList': {'tesetproject_portable': {'projectPath': 'c:/users/metal/onedrive/bureau/testproject', 'projectCreator': 'MSI', 'projectDate': '2024-05-20 23:37:34.885320'}}}
+[2024-05-20 23:43:50.933101] UPDATE : Project selected : tesetproject_portable
+[2024-05-20 23:43:50.933101] UPDATE : Project settings loaded - c:/users/metal/onedrive/bureau/testproject
+[2024-05-20 23:43:50.933101] UPDATE : Project settings loaded!
