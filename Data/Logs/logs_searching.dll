@@ -4588,3 +4588,219 @@ file returned : char_cube_mod_v002.ma
 CHECKING FILE : char_sphereTest_mod_v001.ma
 error : False
 file returned : char_sphereTest_mod_v001.ma
+
+
+SEARCHING DATA : 
+KIND : character
+NAME : None
+SEQUENCE : None
+SHOT : None
+TYPE : None
+LOD : 1
+STATE : edit
+CHECKING FILE : char_cubeTest_mod_v001.ma
+error : False
+file returned : char_cubeTest_mod_v001.ma
+CHECKING FILE : char_cubeTest_mod_v002.ma
+error : False
+file returned : char_cubeTest_mod_v002.ma
+CHECKING FILE : char_cube_mod_v002.ma
+error : False
+file returned : char_cube_mod_v002.ma
+CHECKING FILE : char_sphereTest_mod_v001.ma
+error : False
+file returned : char_sphereTest_mod_v001.ma
+
+
+SEARCHING DATA : 
+KIND : character
+NAME : None
+SEQUENCE : None
+SHOT : None
+TYPE : None
+LOD : 1
+STATE : edit
+CHECKING FILE : char_cubeTest_mod_v001.ma
+error : False
+file returned : char_cubeTest_mod_v001.ma
+CHECKING FILE : char_cubeTest_mod_v002.ma
+error : False
+file returned : char_cubeTest_mod_v002.ma
+CHECKING FILE : char_cube_mod_v002.ma
+error : False
+file returned : char_cube_mod_v002.ma
+CHECKING FILE : char_sphereTest_mod_v001.ma
+error : False
+file returned : char_sphereTest_mod_v001.ma
+
+
+SEARCHING DATA : 
+KIND : character
+NAME : spheretest
+SEQUENCE : None
+SHOT : None
+TYPE : None
+LOD : 1
+STATE : edit
+CHECKING FILE : char_sphereTest_mod_v001.ma
+error : False
+file returned : char_sphereTest_mod_v001.ma
+
+
+SEARCHING DATA : 
+KIND : character
+
+
+NAME : spheretest
+SEARCHING DATA : 
+SEQUENCE : None
+KIND : character
+SHOT : None
+NAME : cubetest
+TYPE : None
+SEQUENCE : None
+LOD : 1
+SHOT : None
+STATE : edit
+TYPE : None
+CHECKING FILE : char_sphereTest_mod_v001.ma
+LOD : 1
+error : False
+STATE : edit
+file returned : char_sphereTest_mod_v001.ma
+CHECKING FILE : char_cubeTest_mod_v001.ma
+error : False
+file returned : char_cubeTest_mod_v001.ma
+CHECKING FILE : char_cubeTest_mod_v002.ma
+error : False
+file returned : char_cubeTest_mod_v002.ma
+CHECKING FILE : char_cube_mod_v002.ma
+error : False
+file returned : char_cube_mod_v002.ma
+
+
+SEARCHING DATA : 
+KIND : character
+NAME : cubetest
+SEQUENCE : None
+SHOT : None
+TYPE : None
+LOD : 1
+STATE : edit
+CHECKING FILE : char_cubeTest_mod_v001.ma
+error : False
+file returned : char_cubeTest_mod_v001.ma
+CHECKING FILE : char_cubeTest_mod_v002.ma
+error : False
+file returned : char_cubeTest_mod_v002.ma
+CHECKING FILE : char_cube_mod_v002.ma
+error : False
+file returned : char_cube_mod_v002.ma
+
+
+SEARCHING DATA : 
+
+
+KIND : character
+SEARCHING DATA : 
+NAME : cubetest
+KIND : character
+SEQUENCE : None
+NAME : spheretest
+SHOT : None
+SEQUENCE : None
+TYPE : None
+SHOT : None
+LOD : 1
+TYPE : None
+STATE : edit
+LOD : 1
+CHECKING FILE : char_cubeTest_mod_v001.ma
+STATE : edit
+error : False
+CHECKING FILE : char_sphereTest_mod_v001.ma
+file returned : char_cubeTest_mod_v001.ma
+error : False
+CHECKING FILE : char_cubeTest_mod_v002.ma
+file returned : char_sphereTest_mod_v001.ma
+error : False
+file returned : char_cubeTest_mod_v002.ma
+CHECKING FILE : char_cube_mod_v002.ma
+error : False
+file returned : char_cube_mod_v002.ma
+
+
+SEARCHING DATA : 
+KIND : character
+NAME : None
+SEQUENCE : None
+SHOT : None
+TYPE : None
+LOD : 1
+STATE : edit
+CHECKING FILE : char_cubeTest_mod_v001.ma
+error : False
+file returned : char_cubeTest_mod_v001.ma
+CHECKING FILE : char_cubeTest_mod_v002.ma
+error : False
+file returned : char_cubeTest_mod_v002.ma
+CHECKING FILE : char_cube_mod_v002.ma
+error : False
+file returned : char_cube_mod_v002.ma
+CHECKING FILE : char_sphereTest_mod_v001.ma
+error : False
+file returned : char_sphereTest_mod_v001.ma
+
+
+SEARCHING DATA : 
+
+
+KIND : character
+SEARCHING DATA : 
+NAME : None
+KIND : item
+SEQUENCE : None
+NAME : None
+SHOT : None
+SEQUENCE : None
+TYPE : None
+SHOT : None
+LOD : 1
+TYPE : None
+STATE : edit
+LOD : 1
+CHECKING FILE : char_cubeTest_mod_v001.ma
+STATE : edit
+error : False
+file returned : char_cubeTest_mod_v001.ma
+CHECKING FILE : char_cubeTest_mod_v002.ma
+error : False
+file returned : char_cubeTest_mod_v002.ma
+CHECKING FILE : char_cube_mod_v002.ma
+error : False
+file returned : char_cube_mod_v002.ma
+CHECKING FILE : char_sphereTest_mod_v001.ma
+error : False
+file returned : char_sphereTest_mod_v001.ma
+
+
+SEARCHING DATA : 
+KIND : character
+NAME : None
+SEQUENCE : None
+SHOT : None
+TYPE : None
+LOD : 1
+STATE : edit
+CHECKING FILE : char_cubeTest_mod_v001.ma
+error : False
+file returned : char_cubeTest_mod_v001.ma
+CHECKING FILE : char_cubeTest_mod_v002.ma
+error : False
+file returned : char_cubeTest_mod_v002.ma
+CHECKING FILE : char_cube_mod_v002.ma
+error : False
+file returned : char_cube_mod_v002.ma
+CHECKING FILE : char_sphereTest_mod_v001.ma
+error : False
+file returned : char_sphereTest_mod_v001.ma

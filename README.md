@@ -2,7 +2,7 @@
 
 ### Dev tasklist : 
 - [x]Create the searching system structure
-- [ ]Make the searching system work
+- [x]Make the searching system work
 - [ ]Create bridge setup with autodesk maya (automatic)
 - [ ]Create the bridge and launch command
 - [ ]Get commands output back in the PIPO Main Program

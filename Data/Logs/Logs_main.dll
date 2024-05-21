@@ -9076,3 +9076,192 @@ Unexisting path!
 [2024-05-21 13:45:32.249750] UPDATE : element added
 [2024-05-21 13:45:32.251746] UPDATE : element added
 [2024-05-21 13:45:32.252771] UPDATE : ['d:/testprojectschool/ASSETS\\char\\cubetest\\maya\\scenes\\mod\\edit\\char_cubeTest_mod_v001.ma', 'd:/testprojectschool/ASSETS\\char\\cubetest\\maya\\scenes\\mod\\edit\\char_cubeTest_mod_v002.ma', 'd:/testprojectschool/ASSETS\\char\\cubetest\\maya\\scenes\\mod\\edit\\char_cube_mod_v002.ma', 'd:/testprojectschool/ASSETS\\char\\spheretest\\maya\\scenes\\mod\\edit\\char_sphereTest_mod_v001.ma']
+
+
+[2024-05-21 13:48:02.097930] New Pipo session opened on <built-in function gethostname>
+[2024-05-21 13:48:02.113887] UPDATE : trying to load settings
+[2024-05-21 13:48:02.115881] UPDATE : Personnal settings opened
+[2024-05-21 13:48:02.120869] UPDATE : {'ComputerName': 'MSI', 'ProjectList': {'tesetproject_portable': {'projectPath': 'c:/users/metal/onedrive/bureau/testproject', 'projectCreator': 'MSI', 'projectDate': '2024-05-20 23:37:34.885320'}, 'testproject_school': {'projectPath': 'd:/testprojectschool', 'projectCreator': 'LNS-3D4-37', 'projectDate': '2024-05-21 12:18:13.484625'}}}
+[2024-05-21 13:48:04.571551] UPDATE : Project selected : testproject_school
+[2024-05-21 13:48:04.573526] UPDATE : Project settings loaded - d:/testprojectschool
+[2024-05-21 13:48:04.575526] UPDATE : Project settings loaded!
+
+[2024-05-21 13:48:07.792495] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-21 13:48:07.794489] UPDATE : NO PROCESS TO END!
+[2024-05-21 13:48:07.797482] UPDATE : ['prop']
+[2024-05-21 13:48:07.798508] UPDATE : Default folder for prop : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-21 13:48:07.800502] ERROR : Impossible to get name folder for that kind : prop
+[2024-05-21 13:48:07.802471] UPDATE : []
+[2024-05-21 13:48:07.804492] UPDATE : {}
+[2024-05-21 13:48:07.806486] UPDATE : No name selected so no process launched!
+
+[2024-05-21 13:48:08.482718] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-21 13:48:08.484713] UPDATE : NO PROCESS TO END!
+[2024-05-21 13:48:08.487671] UPDATE : ['prop', 'character']
+[2024-05-21 13:48:08.488698] UPDATE : Default folder for prop : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-21 13:48:08.490732] ERROR : Impossible to get name folder for that kind : prop
+[2024-05-21 13:48:08.491722] UPDATE : [None]
+[2024-05-21 13:48:08.493718] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-21 13:48:08.495682] UPDATE : [None]
+[2024-05-21 13:48:08.496707] UPDATE : {'d:/testprojectschool/ASSETS/char': {'KIND': 'character', 'NAME': None, 'SEQUENCE': None, 'SHOT': None, 'TYPE': None, 'LOD': '1', 'STATE': 'edit'}}
+[2024-05-21 13:48:08.505655] UPDATE : PROCESS <Process name='Process-2' pid=25328 parent=17752 started> ADDED TO LIST : [d:/testprojectschool/ASSETS/char]
+[2024-05-21 13:48:08.997605] UPDATE : file list cleaned
+[2024-05-21 13:48:08.999600] UPDATE : element added
+[2024-05-21 13:48:09.002592] UPDATE : element added
+[2024-05-21 13:48:09.004586] UPDATE : element added
+[2024-05-21 13:48:09.006581] UPDATE : element added
+[2024-05-21 13:48:09.008576] UPDATE : ['d:/testprojectschool/ASSETS/char\\cubetest\\maya\\scenes\\mod\\edit\\char_cubeTest_mod_v001.ma', 'd:/testprojectschool/ASSETS/char\\cubetest\\maya\\scenes\\mod\\edit\\char_cubeTest_mod_v002.ma', 'd:/testprojectschool/ASSETS/char\\cubetest\\maya\\scenes\\mod\\edit\\char_cube_mod_v002.ma', 'd:/testprojectschool/ASSETS/char\\spheretest\\maya\\scenes\\mod\\edit\\char_sphereTest_mod_v001.ma']
+
+[2024-05-21 13:48:09.043998] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-21 13:48:09.044995] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=25328 parent=17752 stopped exitcode=0>
+[2024-05-21 13:48:09.046990] UPDATE : ['character']
+[2024-05-21 13:48:09.048984] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-21 13:48:09.049982] UPDATE : [None]
+[2024-05-21 13:48:09.051976] UPDATE : {'d:/testprojectschool/ASSETS/char': {'KIND': 'character', 'NAME': None, 'SEQUENCE': None, 'SHOT': None, 'TYPE': None, 'LOD': '1', 'STATE': 'edit'}}
+[2024-05-21 13:48:09.060968] UPDATE : PROCESS <Process name='Process-3' pid=22480 parent=17752 started> ADDED TO LIST : [d:/testprojectschool/ASSETS/char]
+[2024-05-21 13:48:09.538790] UPDATE : file list cleaned
+[2024-05-21 13:48:09.541261] UPDATE : element added
+[2024-05-21 13:48:09.543254] UPDATE : element added
+[2024-05-21 13:48:09.544251] UPDATE : element added
+[2024-05-21 13:48:09.546273] UPDATE : element added
+[2024-05-21 13:48:09.548239] UPDATE : ['d:/testprojectschool/ASSETS/char\\cubetest\\maya\\scenes\\mod\\edit\\char_cubeTest_mod_v001.ma', 'd:/testprojectschool/ASSETS/char\\cubetest\\maya\\scenes\\mod\\edit\\char_cubeTest_mod_v002.ma', 'd:/testprojectschool/ASSETS/char\\cubetest\\maya\\scenes\\mod\\edit\\char_cube_mod_v002.ma', 'd:/testprojectschool/ASSETS/char\\spheretest\\maya\\scenes\\mod\\edit\\char_sphereTest_mod_v001.ma']
+
+[2024-05-21 13:48:11.062873] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-21 13:48:11.064868] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=25328 parent=17752 stopped exitcode=0>
+[2024-05-21 13:48:11.066428] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=22480 parent=17752 stopped exitcode=0>
+[2024-05-21 13:48:11.068394] UPDATE : ['character']
+[2024-05-21 13:48:11.069391] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-21 13:48:11.072411] UPDATE : [None]
+[2024-05-21 13:48:11.074407] UPDATE : {'d:/testprojectschool/ASSETS/char/spheretest/maya/scenes': {'KIND': 'character', 'NAME': 'spheretest', 'SEQUENCE': None, 'SHOT': None, 'TYPE': None, 'LOD': '1', 'STATE': 'edit'}}
+[2024-05-21 13:48:11.082386] UPDATE : PROCESS <Process name='Process-4' pid=25960 parent=17752 started> ADDED TO LIST : [d:/testprojectschool/ASSETS/char/spheretest/maya/scenes]
+[2024-05-21 13:48:11.550401] UPDATE : file list cleaned
+[2024-05-21 13:48:11.552395] UPDATE : element added
+[2024-05-21 13:48:11.555359] UPDATE : ['d:/testprojectschool/ASSETS/char/spheretest/maya/scenes\\mod\\edit\\char_sphereTest_mod_v001.ma']
+
+[2024-05-21 13:48:12.778509] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-21 13:48:12.780532] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=25328 parent=17752 stopped exitcode=0>
+[2024-05-21 13:48:12.782531] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=22480 parent=17752 stopped exitcode=0>
+[2024-05-21 13:48:12.783524] UPDATE : PROCESS TERMINATED : <Process name='Process-4' pid=25960 parent=17752 stopped exitcode=0>
+[2024-05-21 13:48:12.785521] UPDATE : ['character']
+[2024-05-21 13:48:12.788484] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-21 13:48:12.790509] UPDATE : [None]
+[2024-05-21 13:48:12.792504] UPDATE : {'d:/testprojectschool/ASSETS/char/spheretest/maya/scenes': {'KIND': 'character', 'NAME': 'spheretest', 'SEQUENCE': None, 'SHOT': None, 'TYPE': None, 'LOD': '1', 'STATE': 'edit'}, 'd:/testprojectschool/ASSETS/char/cubetest/maya/scenes': {'KIND': 'character', 'NAME': 'cubetest', 'SEQUENCE': None, 'SHOT': None, 'TYPE': None, 'LOD': '1', 'STATE': 'edit'}}
+[2024-05-21 13:48:12.801479] UPDATE : PROCESS <Process name='Process-5' pid=22112 parent=17752 started> ADDED TO LIST : [d:/testprojectschool/ASSETS/char/spheretest/maya/scenes]
+[2024-05-21 13:48:12.810424] UPDATE : PROCESS <Process name='Process-6' pid=23748 parent=17752 started> ADDED TO LIST : [d:/testprojectschool/ASSETS/char/cubetest/maya/scenes]
+[2024-05-21 13:48:13.306294] UPDATE : file list cleaned
+[2024-05-21 13:48:13.308288] UPDATE : element added
+[2024-05-21 13:48:13.310282] UPDATE : element added
+[2024-05-21 13:48:13.312281] UPDATE : element added
+[2024-05-21 13:48:13.313278] UPDATE : element added
+[2024-05-21 13:48:13.315273] UPDATE : ['d:/testprojectschool/ASSETS/char/spheretest/maya/scenes\\mod\\edit\\char_sphereTest_mod_v001.ma', 'd:/testprojectschool/ASSETS/char/cubetest/maya/scenes\\mod\\edit\\char_cubeTest_mod_v001.ma', 'd:/testprojectschool/ASSETS/char/cubetest/maya/scenes\\mod\\edit\\char_cubeTest_mod_v002.ma', 'd:/testprojectschool/ASSETS/char/cubetest/maya/scenes\\mod\\edit\\char_cube_mod_v002.ma']
+
+[2024-05-21 13:48:13.704651] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-21 13:48:13.706557] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=25328 parent=17752 stopped exitcode=0>
+[2024-05-21 13:48:13.707555] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=22480 parent=17752 stopped exitcode=0>
+[2024-05-21 13:48:13.709551] UPDATE : PROCESS TERMINATED : <Process name='Process-4' pid=25960 parent=17752 stopped exitcode=0>
+[2024-05-21 13:48:13.710723] UPDATE : PROCESS TERMINATED : <Process name='Process-5' pid=22112 parent=17752 stopped exitcode=0>
+[2024-05-21 13:48:13.712671] UPDATE : PROCESS TERMINATED : <Process name='Process-6' pid=23748 parent=17752 stopped exitcode=0>
+[2024-05-21 13:48:13.714636] UPDATE : ['character']
+[2024-05-21 13:48:13.715633] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-21 13:48:13.717627] UPDATE : [None]
+[2024-05-21 13:48:13.718653] UPDATE : {'d:/testprojectschool/ASSETS/char/cubetest/maya/scenes': {'KIND': 'character', 'NAME': 'cubetest', 'SEQUENCE': None, 'SHOT': None, 'TYPE': None, 'LOD': '1', 'STATE': 'edit'}}
+[2024-05-21 13:48:13.728631] UPDATE : PROCESS <Process name='Process-7' pid=26400 parent=17752 started> ADDED TO LIST : [d:/testprojectschool/ASSETS/char/cubetest/maya/scenes]
+[2024-05-21 13:48:14.201037] UPDATE : file list cleaned
+[2024-05-21 13:48:14.203032] UPDATE : element added
+[2024-05-21 13:48:14.205027] UPDATE : element added
+[2024-05-21 13:48:14.207021] UPDATE : element added
+[2024-05-21 13:48:14.209016] UPDATE : ['d:/testprojectschool/ASSETS/char/cubetest/maya/scenes\\mod\\edit\\char_cubeTest_mod_v001.ma', 'd:/testprojectschool/ASSETS/char/cubetest/maya/scenes\\mod\\edit\\char_cubeTest_mod_v002.ma', 'd:/testprojectschool/ASSETS/char/cubetest/maya/scenes\\mod\\edit\\char_cube_mod_v002.ma']
+
+[2024-05-21 13:48:17.989991] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-21 13:48:17.991943] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=25328 parent=17752 stopped exitcode=0>
+[2024-05-21 13:48:17.993938] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=22480 parent=17752 stopped exitcode=0>
+[2024-05-21 13:48:17.994933] UPDATE : PROCESS TERMINATED : <Process name='Process-4' pid=25960 parent=17752 stopped exitcode=0>
+[2024-05-21 13:48:17.996899] UPDATE : PROCESS TERMINATED : <Process name='Process-5' pid=22112 parent=17752 stopped exitcode=0>
+[2024-05-21 13:48:17.997925] UPDATE : PROCESS TERMINATED : <Process name='Process-6' pid=23748 parent=17752 stopped exitcode=0>
+[2024-05-21 13:48:17.999919] UPDATE : PROCESS TERMINATED : <Process name='Process-7' pid=26400 parent=17752 stopped exitcode=0>
+[2024-05-21 13:48:18.000917] UPDATE : ['character']
+[2024-05-21 13:48:18.002911] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-21 13:48:18.003909] UPDATE : [None]
+[2024-05-21 13:48:18.006873] UPDATE : {'d:/testprojectschool/ASSETS/char/cubetest/maya/scenes': {'KIND': 'character', 'NAME': 'cubetest', 'SEQUENCE': None, 'SHOT': None, 'TYPE': None, 'LOD': '1', 'STATE': 'edit'}, 'd:/testprojectschool/ASSETS/char/spheretest/maya/scenes': {'KIND': 'character', 'NAME': 'spheretest', 'SEQUENCE': None, 'SHOT': None, 'TYPE': None, 'LOD': '1', 'STATE': 'edit'}}
+[2024-05-21 13:48:18.015848] UPDATE : PROCESS <Process name='Process-8' pid=26032 parent=17752 started> ADDED TO LIST : [d:/testprojectschool/ASSETS/char/cubetest/maya/scenes]
+[2024-05-21 13:48:18.025822] UPDATE : PROCESS <Process name='Process-9' pid=17700 parent=17752 started> ADDED TO LIST : [d:/testprojectschool/ASSETS/char/spheretest/maya/scenes]
+[2024-05-21 13:48:18.522684] UPDATE : file list cleaned
+[2024-05-21 13:48:18.525684] UPDATE : element added
+[2024-05-21 13:48:18.527670] UPDATE : element added
+[2024-05-21 13:48:18.529664] UPDATE : element added
+[2024-05-21 13:48:18.530660] UPDATE : element added
+[2024-05-21 13:48:18.532686] UPDATE : ['d:/testprojectschool/ASSETS/char/cubetest/maya/scenes\\mod\\edit\\char_cubeTest_mod_v001.ma', 'd:/testprojectschool/ASSETS/char/spheretest/maya/scenes\\mod\\edit\\char_sphereTest_mod_v001.ma', 'd:/testprojectschool/ASSETS/char/cubetest/maya/scenes\\mod\\edit\\char_cubeTest_mod_v002.ma', 'd:/testprojectschool/ASSETS/char/cubetest/maya/scenes\\mod\\edit\\char_cube_mod_v002.ma']
+
+
+[2024-05-21 13:49:44.303864] New Pipo session opened on <built-in function gethostname>
+[2024-05-21 13:49:44.318824] UPDATE : trying to load settings
+[2024-05-21 13:49:44.320819] UPDATE : Personnal settings opened
+[2024-05-21 13:49:44.322813] UPDATE : {'ComputerName': 'MSI', 'ProjectList': {'tesetproject_portable': {'projectPath': 'c:/users/metal/onedrive/bureau/testproject', 'projectCreator': 'MSI', 'projectDate': '2024-05-20 23:37:34.885320'}, 'testproject_school': {'projectPath': 'd:/testprojectschool', 'projectCreator': 'LNS-3D4-37', 'projectDate': '2024-05-21 12:18:13.484625'}}}
+[2024-05-21 13:49:46.716925] UPDATE : Project selected : testproject_school
+[2024-05-21 13:49:46.718921] UPDATE : Project settings loaded - d:/testprojectschool
+[2024-05-21 13:49:46.719889] UPDATE : Project settings loaded!
+
+[2024-05-21 13:49:47.823020] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-21 13:49:47.825014] UPDATE : NO PROCESS TO END!
+[2024-05-21 13:49:47.827979] UPDATE : ['character']
+[2024-05-21 13:49:47.828976] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-21 13:49:47.830970] UPDATE : []
+[2024-05-21 13:49:47.832965] UPDATE : {'d:/testprojectschool/ASSETS/char': {'KIND': 'character', 'NAME': None, 'SEQUENCE': None, 'SHOT': None, 'TYPE': None, 'LOD': '1', 'STATE': 'edit'}}
+[2024-05-21 13:49:47.841969] UPDATE : PROCESS <Process name='Process-2' pid=25848 parent=26276 started> ADDED TO LIST : [d:/testprojectschool/ASSETS/char]
+[2024-05-21 13:49:48.295002] UPDATE : file list cleaned
+[2024-05-21 13:49:48.296968] UPDATE : element added
+[2024-05-21 13:49:48.298962] UPDATE : element added
+[2024-05-21 13:49:48.300987] UPDATE : element added
+[2024-05-21 13:49:48.302952] UPDATE : element added
+[2024-05-21 13:49:48.304975] UPDATE : ['d:/testprojectschool/ASSETS/char\\cubetest\\maya\\scenes\\mod\\edit\\char_cubeTest_mod_v001.ma', 'd:/testprojectschool/ASSETS/char\\cubetest\\maya\\scenes\\mod\\edit\\char_cubeTest_mod_v002.ma', 'd:/testprojectschool/ASSETS/char\\cubetest\\maya\\scenes\\mod\\edit\\char_cube_mod_v002.ma', 'd:/testprojectschool/ASSETS/char\\spheretest\\maya\\scenes\\mod\\edit\\char_sphereTest_mod_v001.ma']
+
+[2024-05-21 13:49:48.822651] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-21 13:49:48.823643] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=25848 parent=26276 stopped exitcode=0>
+[2024-05-21 13:49:48.825636] UPDATE : ['character', 'item']
+[2024-05-21 13:49:48.827604] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-21 13:49:48.828601] UPDATE : [None]
+[2024-05-21 13:49:48.830596] UPDATE : Default folder for item : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-21 13:49:48.831593] UPDATE : [None]
+[2024-05-21 13:49:48.833588] UPDATE : {'d:/testprojectschool/ASSETS/char': {'KIND': 'character', 'NAME': None, 'SEQUENCE': None, 'SHOT': None, 'TYPE': None, 'LOD': '1', 'STATE': 'edit'}, 'd:/testprojectschool/ASSETS/item': {'KIND': 'item', 'NAME': None, 'SEQUENCE': None, 'SHOT': None, 'TYPE': None, 'LOD': '1', 'STATE': 'edit'}}
+[2024-05-21 13:49:48.842593] UPDATE : PROCESS <Process name='Process-3' pid=23640 parent=26276 started> ADDED TO LIST : [d:/testprojectschool/ASSETS/char]
+[2024-05-21 13:49:48.851569] UPDATE : PROCESS <Process name='Process-4' pid=12472 parent=26276 started> ADDED TO LIST : [d:/testprojectschool/ASSETS/item]
+[2024-05-21 13:49:49.320206] UPDATE : file list cleaned
+[2024-05-21 13:49:49.322201] UPDATE : element added
+[2024-05-21 13:49:49.324196] UPDATE : element added
+[2024-05-21 13:49:49.326190] UPDATE : element added
+[2024-05-21 13:49:49.327187] UPDATE : element added
+[2024-05-21 13:49:49.329182] UPDATE : ['d:/testprojectschool/ASSETS/char\\cubetest\\maya\\scenes\\mod\\edit\\char_cubeTest_mod_v001.ma', 'd:/testprojectschool/ASSETS/char\\cubetest\\maya\\scenes\\mod\\edit\\char_cubeTest_mod_v002.ma', 'd:/testprojectschool/ASSETS/char\\cubetest\\maya\\scenes\\mod\\edit\\char_cube_mod_v002.ma', 'd:/testprojectschool/ASSETS/char\\spheretest\\maya\\scenes\\mod\\edit\\char_sphereTest_mod_v001.ma']
+
+[2024-05-21 13:49:51.958764] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-21 13:49:51.960789] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=25848 parent=26276 stopped exitcode=0>
+[2024-05-21 13:49:51.961756] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=23640 parent=26276 stopped exitcode=0>
+[2024-05-21 13:49:51.963751] UPDATE : PROCESS TERMINATED : <Process name='Process-4' pid=12472 parent=26276 stopped exitcode=0>
+[2024-05-21 13:49:51.964777] UPDATE : ['character']
+[2024-05-21 13:49:51.966772] UPDATE : Default folder for character : [Origin]/ASSETS/[key]/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-05-21 13:49:51.967768] UPDATE : [None]
+[2024-05-21 13:49:51.969763] UPDATE : {'d:/testprojectschool/ASSETS/char': {'KIND': 'character', 'NAME': None, 'SEQUENCE': None, 'SHOT': None, 'TYPE': None, 'LOD': '1', 'STATE': 'edit'}}
+[2024-05-21 13:49:51.978746] UPDATE : PROCESS <Process name='Process-5' pid=26212 parent=26276 started> ADDED TO LIST : [d:/testprojectschool/ASSETS/char]
+[2024-05-21 13:49:52.431837] UPDATE : file list cleaned
+[2024-05-21 13:49:52.433826] UPDATE : element added
+[2024-05-21 13:49:52.435818] UPDATE : element added
+[2024-05-21 13:49:52.437814] UPDATE : element added
+[2024-05-21 13:49:52.439781] UPDATE : element added
+[2024-05-21 13:49:52.440777] UPDATE : ['d:/testprojectschool/ASSETS/char\\cubetest\\maya\\scenes\\mod\\edit\\char_cubeTest_mod_v001.ma', 'd:/testprojectschool/ASSETS/char\\cubetest\\maya\\scenes\\mod\\edit\\char_cubeTest_mod_v002.ma', 'd:/testprojectschool/ASSETS/char\\cubetest\\maya\\scenes\\mod\\edit\\char_cube_mod_v002.ma', 'd:/testprojectschool/ASSETS/char\\spheretest\\maya\\scenes\\mod\\edit\\char_sphereTest_mod_v001.ma']
+
+[2024-05-21 13:49:52.865449] UPDATE : ============================================= SEARCHING =============================================
+[2024-05-21 13:49:52.867539] UPDATE : PROCESS TERMINATED : <Process name='Process-2' pid=25848 parent=26276 stopped exitcode=0>
+[2024-05-21 13:49:52.868512] UPDATE : PROCESS TERMINATED : <Process name='Process-3' pid=23640 parent=26276 stopped exitcode=0>
+[2024-05-21 13:49:52.870535] UPDATE : PROCESS TERMINATED : <Process name='Process-4' pid=12472 parent=26276 stopped exitcode=0>
+[2024-05-21 13:49:52.871532] UPDATE : PROCESS TERMINATED : <Process name='Process-5' pid=26212 parent=26276 stopped exitcode=0>
+[2024-05-21 13:49:52.873526] UPDATE : []
+[2024-05-21 13:49:52.875521] UPDATE : {}
+[2024-05-21 13:49:52.876524] UPDATE : No name selected so no process launched!
+
+
+[2024-05-21 13:50:05.416962] New Pipo session opened on <built-in function gethostname>
+[2024-05-21 13:50:05.432919] UPDATE : trying to load settings
+[2024-05-21 13:50:05.434886] UPDATE : Personnal settings opened
+[2024-05-21 13:50:05.435914] UPDATE : {'ComputerName': 'MSI', 'ProjectList': {'tesetproject_portable': {'projectPath': 'c:/users/metal/onedrive/bureau/testproject', 'projectCreator': 'MSI', 'projectDate': '2024-05-20 23:37:34.885320'}, 'testproject_school': {'projectPath': 'd:/testprojectschool', 'projectCreator': 'LNS-3D4-37', 'projectDate': '2024-05-21 12:18:13.484625'}}}
+[2024-05-21 13:50:08.319240] UPDATE : Project selected : testproject_school
+[2024-05-21 13:50:08.321235] UPDATE : Project settings loaded - d:/testprojectschool
+[2024-05-21 13:50:08.323229] UPDATE : Project settings loaded!
