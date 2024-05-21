@@ -114,7 +114,7 @@ class PipoLobbyApplication(Screen, PipoCommonApplication, PipoLogApplication):
 			with VerticalScroll(classes="lobby_center_column"):
 				#with Vertical(classes="container_t2"):
 				with Horizontal(classes="lobby_list_container"):
-					with Vertical(classes="container_t2"):
+					with Vertical(classes="lobby_kind_container"):
 						
 
 						#self.lobby_kind_list = OptionList(id="lobby_kind_list", classes="optionlist_t1")
@@ -127,7 +127,7 @@ class PipoLobbyApplication(Screen, PipoCommonApplication, PipoLogApplication):
 						for i in range(0, 10):
 							self.lobby_kind_list.add_option(Selection("Hello world %s"%i, i))
 						"""
-
+					
 
 
 					with Vertical(classes="container_t2"):
@@ -135,23 +135,24 @@ class PipoLobbyApplication(Screen, PipoCommonApplication, PipoLogApplication):
 						
 						with TabbedContent(classes="tabbedcontent_t1"):
 							with TabPane("Name"):
-								with Vertical(classes="container_t2"):
+								with Vertical(classes="lobby_name_container"):
 									self.lobby_name_list = SelectionList(id="lobby_name_list", classes="optionlist_t1")
+									self.lobby_name_list.border_title = "Name list"
 									yield self.lobby_name_list
 							with TabPane("Shots"):
 								with Horizontal(classes="container_t2"):
-									with Vertical(classes="container_t2"):
+									with Vertical(classes="lobby_sequence_container"):
 
 										self.lobby_sequence_list = SelectionList(id="lobby_sequence_list", classes="optionlist_t1")
 										self.lobby_sequence_list.border_title = "Sequence list"
 										yield self.lobby_sequence_list
-									with Vertical(classes="container_t2"):
+									with Vertical(classes="lobby_shot_container"):
 										self.lobby_shot_list = SelectionList(id="lobby_shot_list", classes="optionlist_t1")
 										self.lobby_shot_list.border_title = "Shot list"
 										yield self.lobby_shot_list
 						
 
-					with Vertical(classes="container_t2"):
+					with Vertical(classes="lobby_type_container"):
 						
 
 						self.lobby_type_list = SelectionList(id="lobby_type_list", classes="optionlist_t1")
@@ -159,7 +160,7 @@ class PipoLobbyApplication(Screen, PipoCommonApplication, PipoLogApplication):
 						yield self.lobby_type_list
 
 
-				with Vertical(classes="lobby_bottom_container"):
+				with Vertical(classes="lobby_file_container"):
 					
 					self.lobby_file_list = SelectionList(classes="selectionlist_t1", id="lobby_file_list")
 					self.lobby_file_list.border_title = "Found files"
@@ -169,7 +170,7 @@ class PipoLobbyApplication(Screen, PipoCommonApplication, PipoLogApplication):
 			with VerticalScroll(classes="lobby_right_column"):
 				self.lobby_log = Log(classes="lobby_log")
 				yield self.lobby_log
-		
+
 
 
 		#self.display_message_function("hello")

@@ -4180,3 +4180,411 @@ CHECKING FILE : sq0015_sh0020_mod_v001.ma
 No keyword in filename syntax!
 error : False
 file returned : sq0015_sh0020_mod_v001.ma
+
+
+SEARCHING DATA : 
+KIND : character
+NAME : None
+SEQUENCE : None
+SHOT : None
+TYPE : None
+LOD : 1
+STATE : edit
+CHECKING FILE : char_cubeTest_mod_v001.ma
+error : False
+file returned : char_cubeTest_mod_v001.ma
+CHECKING FILE : char_cubeTest_mod_v002.ma
+error : False
+file returned : char_cubeTest_mod_v002.ma
+CHECKING FILE : char_cube_mod_v002.ma
+error : False
+file returned : char_cube_mod_v002.ma
+CHECKING FILE : char_sphereTest_mod_v001.ma
+error : False
+file returned : char_sphereTest_mod_v001.ma
+
+
+SEARCHING DATA : 
+KIND : character
+NAME : None
+SEQUENCE : None
+SHOT : None
+TYPE : None
+LOD : 1
+STATE : edit
+CHECKING FILE : char_cubeTest_mod_v001.ma
+error : False
+file returned : char_cubeTest_mod_v001.ma
+CHECKING FILE : char_cubeTest_mod_v002.ma
+error : False
+file returned : char_cubeTest_mod_v002.ma
+CHECKING FILE : char_cube_mod_v002.ma
+error : False
+file returned : char_cube_mod_v002.ma
+CHECKING FILE : char_sphereTest_mod_v001.ma
+error : False
+file returned : char_sphereTest_mod_v001.ma
+
+
+SEARCHING DATA : 
+KIND : character
+NAME : None
+SEQUENCE : None
+SHOT : None
+TYPE : None
+LOD : 1
+STATE : edit
+CHECKING FILE : char_cubeTest_mod_v001.ma
+error : False
+file returned : char_cubeTest_mod_v001.ma
+CHECKING FILE : char_cubeTest_mod_v002.ma
+error : False
+file returned : char_cubeTest_mod_v002.ma
+CHECKING FILE : char_cube_mod_v002.ma
+error : False
+file returned : char_cube_mod_v002.ma
+CHECKING FILE : char_sphereTest_mod_v001.ma
+error : False
+file returned : char_sphereTest_mod_v001.ma
+
+
+SEARCHING DATA : 
+KIND : character
+NAME : None
+SEQUENCE : None
+SHOT : None
+TYPE : None
+LOD : 1
+STATE : edit
+CHECKING FILE : char_cubeTest_mod_v001.ma
+error : False
+file returned : char_cubeTest_mod_v001.ma
+CHECKING FILE : char_cubeTest_mod_v002.ma
+error : False
+file returned : char_cubeTest_mod_v002.ma
+
+
+CHECKING FILE : char_cube_mod_v002.ma
+SEARCHING DATA : 
+error : False
+KIND : shots
+file returned : char_cube_mod_v002.ma
+NAME : None
+CHECKING FILE : char_sphereTest_mod_v001.ma
+SEQUENCE : None
+error : False
+SHOT : None
+file returned : char_sphereTest_mod_v001.ma
+TYPE : None
+LOD : 1
+STATE : edit
+CHECKING FILE : sq001_sh001_camera_v001.ma
+No keyword in filename syntax!
+type
+error : True
+CHECKING FILE : sq001_sh001_camera_v002.ma
+No keyword in filename syntax!
+type
+type
+error : True
+CHECKING FILE : sq001_sh001_render_v002.ma
+No keyword in filename syntax!
+type
+type
+type
+error : True
+CHECKING FILE : sq001_sh001_render_publish.ma
+No keyword in filename syntax!
+type
+type
+type
+type
+error : True
+CHECKING FILE : sq015_sh002_camera_v001.mb
+No keyword in filename syntax!
+type
+type
+type
+type
+type
+error : True
+CHECKING FILE : sq015_sh015_camera_v001.ma
+No keyword in filename syntax!
+type
+type
+type
+type
+type
+type
+error : True
+
+
+SEARCHING DATA : 
+KIND : character
+NAME : None
+SEQUENCE : sq015
+SHOT : None
+TYPE : None
+LOD : 1
+STATE : edit
+CHECKING FILE : char_cubeTest_mod_v001.ma
+error : False
+file returned : char_cubeTest_mod_v001.ma
+CHECKING FILE : char_cubeTest_mod_v002.ma
+error : False
+file returned : char_cubeTest_mod_v002.ma
+CHECKING FILE : char_cube_mod_v002.ma
+error : False
+file returned : char_cube_mod_v002.ma
+CHECKING FILE : char_sphereTest_mod_v001.ma
+error : False
+file returned : char_sphereTest_mod_v001.ma
+
+
+SEARCHING DATA : 
+KIND : character
+NAME : None
+SEQUENCE : sq015
+SHOT : None
+TYPE : None
+LOD : 1
+STATE : edit
+CHECKING FILE : char_cubeTest_mod_v001.ma
+error : False
+file returned : char_cubeTest_mod_v001.ma
+CHECKING FILE : char_cubeTest_mod_v002.ma
+error : False
+file returned : char_cubeTest_mod_v002.ma
+CHECKING FILE : char_cube_mod_v002.ma
+error : False
+file returned : char_cube_mod_v002.ma
+CHECKING FILE : char_sphereTest_mod_v001.ma
+error : False
+file returned : char_sphereTest_mod_v001.ma
+
+
+SEARCHING DATA : 
+KIND : character
+NAME : None
+SEQUENCE : sq015
+SHOT : None
+TYPE : None
+LOD : 1
+STATE : edit
+CHECKING FILE : char_cubeTest_mod_v001.ma
+error : False
+file returned : char_cubeTest_mod_v001.ma
+CHECKING FILE : char_cubeTest_mod_v002.ma
+error : False
+file returned : char_cubeTest_mod_v002.ma
+CHECKING FILE : char_cube_mod_v002.ma
+error : False
+file returned : char_cube_mod_v002.ma
+CHECKING FILE : char_sphereTest_mod_v001.ma
+error : False
+file returned : char_sphereTest_mod_v001.ma
+
+
+SEARCHING DATA : 
+KIND : character
+NAME : None
+SEQUENCE : None
+SHOT : None
+TYPE : None
+LOD : 1
+STATE : edit
+CHECKING FILE : char_cubeTest_mod_v001.ma
+error : False
+file returned : char_cubeTest_mod_v001.ma
+CHECKING FILE : char_cubeTest_mod_v002.ma
+error : False
+file returned : char_cubeTest_mod_v002.ma
+CHECKING FILE : char_cube_mod_v002.ma
+error : False
+file returned : char_cube_mod_v002.ma
+CHECKING FILE : char_sphereTest_mod_v001.ma
+error : False
+file returned : char_sphereTest_mod_v001.ma
+
+
+SEARCHING DATA : 
+KIND : character
+NAME : None
+SEQUENCE : None
+SHOT : None
+TYPE : None
+LOD : 1
+STATE : edit
+CHECKING FILE : char_cubeTest_mod_v001.ma
+error : False
+file returned : char_cubeTest_mod_v001.ma
+CHECKING FILE : char_cubeTest_mod_v002.ma
+error : False
+file returned : char_cubeTest_mod_v002.ma
+CHECKING FILE : char_cube_mod_v002.ma
+error : False
+file returned : char_cube_mod_v002.ma
+CHECKING FILE : char_sphereTest_mod_v001.ma
+error : False
+file returned : char_sphereTest_mod_v001.ma
+
+
+SEARCHING DATA : 
+KIND : shots
+NAME : None
+SEQUENCE : None
+SHOT : None
+TYPE : None
+LOD : 1
+STATE : edit
+CHECKING FILE : sq001_sh001_camera_v001.ma
+No keyword in filename syntax!
+type
+error : True
+CHECKING FILE : sq001_sh001_camera_v002.ma
+No keyword in filename syntax!
+type
+type
+error : True
+CHECKING FILE : sq001_sh001_render_v002.ma
+No keyword in filename syntax!
+type
+type
+type
+error : True
+CHECKING FILE : sq001_sh001_render_publish.ma
+No keyword in filename syntax!
+type
+type
+type
+type
+error : True
+CHECKING FILE : sq015_sh002_camera_v001.mb
+No keyword in filename syntax!
+type
+type
+type
+type
+type
+error : True
+CHECKING FILE : sq015_sh015_camera_v001.ma
+No keyword in filename syntax!
+type
+type
+type
+type
+type
+type
+error : True
+
+
+SEARCHING DATA : 
+KIND : item
+NAME : None
+SEQUENCE : sq015
+SHOT : None
+TYPE : None
+LOD : 1
+STATE : edit
+CHECKING FILE : char_cubeTest_mod_v001.ma
+Wrong keyword!
+CHECKING FILE : char_cubeTest_mod_v002.ma
+Wrong keyword!
+CHECKING FILE : char_cube_mod_v002.ma
+Wrong keyword!
+CHECKING FILE : char_sphereTest_mod_v001.ma
+Wrong keyword!
+
+
+SEARCHING DATA : 
+KIND : character
+NAME : None
+SEQUENCE : sq015
+SHOT : None
+TYPE : None
+LOD : 1
+STATE : edit
+CHECKING FILE : char_cubeTest_mod_v001.ma
+error : False
+file returned : char_cubeTest_mod_v001.ma
+CHECKING FILE : char_cubeTest_mod_v002.ma
+error : False
+file returned : char_cubeTest_mod_v002.ma
+CHECKING FILE : char_cube_mod_v002.ma
+error : False
+file returned : char_cube_mod_v002.ma
+CHECKING FILE : char_sphereTest_mod_v001.ma
+error : False
+file returned : char_sphereTest_mod_v001.ma
+
+
+SEARCHING DATA : 
+KIND : character
+NAME : None
+SEQUENCE : sq015
+SHOT : None
+TYPE : None
+LOD : 1
+STATE : edit
+CHECKING FILE : char_cubeTest_mod_v001.ma
+error : False
+file returned : char_cubeTest_mod_v001.ma
+CHECKING FILE : char_cubeTest_mod_v002.ma
+error : False
+file returned : char_cubeTest_mod_v002.ma
+CHECKING FILE : char_cube_mod_v002.ma
+error : False
+file returned : char_cube_mod_v002.ma
+CHECKING FILE : char_sphereTest_mod_v001.ma
+error : False
+file returned : char_sphereTest_mod_v001.ma
+
+
+SEARCHING DATA : 
+KIND : character
+NAME : None
+SEQUENCE : sq015
+SHOT : None
+TYPE : rig
+LOD : 1
+STATE : edit
+CHECKING FILE : char_cubeTest_mod_v001.ma
+type
+error : True
+CHECKING FILE : char_cubeTest_mod_v002.ma
+type
+type
+error : True
+CHECKING FILE : char_cube_mod_v002.ma
+type
+type
+type
+error : True
+CHECKING FILE : char_sphereTest_mod_v001.ma
+type
+type
+type
+type
+error : True
+
+
+SEARCHING DATA : 
+KIND : character
+NAME : None
+SEQUENCE : sq015
+SHOT : None
+TYPE : None
+LOD : 1
+STATE : edit
+CHECKING FILE : char_cubeTest_mod_v001.ma
+error : False
+file returned : char_cubeTest_mod_v001.ma
+CHECKING FILE : char_cubeTest_mod_v002.ma
+error : False
+file returned : char_cubeTest_mod_v002.ma
+CHECKING FILE : char_cube_mod_v002.ma
+error : False
+file returned : char_cube_mod_v002.ma
+CHECKING FILE : char_sphereTest_mod_v001.ma
+error : False
+file returned : char_sphereTest_mod_v001.ma

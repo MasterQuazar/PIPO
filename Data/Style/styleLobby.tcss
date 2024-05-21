@@ -11,22 +11,26 @@
 	width: 15%;
 	background: $background-darken-1;
 }
-.lobby_center_column {
-	width: 45%;
-}
+
 .container_t2 {
 	border: none;
+}
+.lobby_right_column {
+	width: 30%;
 }
 
 
 /* LIST STYLE */
 #lobby_kind_list, #lobby_file_list, #lobby_name_list, #lobby_shot_list, #lobby_sequence_list, #lobby_type_list {
-	border: round $primary-lighten-1;
+	border: round $background; 
+
 	border-title-color: $primary-lighten-1;
 	border-title-style: italic;
 
 	background: $background;
-	height:100%;
+}
+.lobby_kind_container, .lobby_name_container, .lobby_sequence_container, .lobby_shot_container, .lobby_type_container, .lobby_file_container {
+	border: round $primary-lighten-1;
 }
 
 
