@@ -475,6 +475,9 @@ class PipoLoginApplication(App, PipoCommonApplication, PipoLogApplication):
 		
 
 		self.save_log_function("\n\n[%s] New Pipo session opened on %s"%(str(datetime.now()), socket.gethostname))
+
+
+
 		super().__init__()
 
 
@@ -544,6 +547,7 @@ class PipoLoginApplication(App, PipoCommonApplication, PipoLogApplication):
 		yield Horizontal()
 
 		self.load_personnal_settings_function()
+		self.check_for_autorun_function()
 
 		self.display_message_function(self.personnal_data)
 		

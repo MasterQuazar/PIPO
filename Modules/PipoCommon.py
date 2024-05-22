@@ -20,6 +20,7 @@ from multiprocessing import Manager
 import scandir
 import threading
 import multiprocessing
+import getpass
 
 
 from Modules.PipoResearch import PipoSearchingApplication
@@ -35,7 +36,33 @@ class PipoSearchFilesApplication():
 
 
 class PipoCommonApplication():
-		
+
+
+
+
+
+	def check_for_autorun_function(self):
+		"""
+		check if the maya path exists (maya script path)
+		-> if the path exists try to create the autorun in it
+		-> if the path doesn't exists don't fill the personnal settings file
+		"""
+		if (self.personnal_data["MayaPath"] == None) or (os.path.isdir(self.personnal_data["MayaPath"]) == False):
+			self.display_error_function("Wrong maya path in personnal settings!\nImpossible to put the maya autorun!")
+		elif os.path.isfile(os.path.join(self.personnal_data["MayaPath"],"scripts/userSetup.py"))==True:
+			self.display_message_function("User setup file detected in maya script path!")
+		else:
+			#create autorun file
+			autorun_code = '''
+import os
+import maya.cmds as mc
+
+mc.commandPort(name=":12345",sourceType="python")
+print("PIPO PORT OPENED")
+'''
+			with open(os.path.join(self.personnal_data["MayaPath"], "scripts/userSetup.py"), "w") as save_file:
+				save_file.write(autorun_code)
+			self.display_message_function("Pipo autorun created!")
 
 
 
@@ -75,6 +102,7 @@ class PipoCommonApplication():
 	def create_personnal_settings_file_function(self):
 		#create the personnal settings dictionnary
 		personnal_dictionnary = {
+			"MayaPath":None,
 			"ComputerName": socket.gethostname(),
 			"ProjectList": {}
 		}
