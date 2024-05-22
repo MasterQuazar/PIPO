@@ -9265,3 +9265,12 @@ Unexisting path!
 [2024-05-21 13:50:08.319240] UPDATE : Project selected : testproject_school
 [2024-05-21 13:50:08.321235] UPDATE : Project settings loaded - d:/testprojectschool
 [2024-05-21 13:50:08.323229] UPDATE : Project settings loaded!
+
+
+[2024-05-21 17:14:04.876846] New Pipo session opened on <built-in function gethostname>
+[2024-05-21 17:14:04.891806] UPDATE : trying to load settings
+[2024-05-21 17:14:04.893801] UPDATE : Personnal settings opened
+[2024-05-21 17:14:04.895796] UPDATE : {'ComputerName': 'MSI', 'ProjectList': {'tesetproject_portable': {'projectPath': 'c:/users/metal/onedrive/bureau/testproject', 'projectCreator': 'MSI', 'projectDate': '2024-05-20 23:37:34.885320'}, 'testproject_school': {'projectPath': 'd:/testprojectschool', 'projectCreator': 'LNS-3D4-37', 'projectDate': '2024-05-21 12:18:13.484625'}}}
+[2024-05-21 17:14:07.101391] UPDATE : Project selected : testproject_school
+[2024-05-21 17:14:07.103386] UPDATE : Project settings loaded - d:/testprojectschool
+[2024-05-21 17:14:07.104383] UPDATE : Project settings loaded!
