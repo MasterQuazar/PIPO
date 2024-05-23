@@ -54,11 +54,27 @@ class PipoCommonApplication():
 		else:
 			#create autorun file
 			autorun_code = '''
+#PIPO AUTORUN FOR MAYA
 import os
+import uuid
 import maya.cmds as mc
 
-mc.commandPort(name=":12345",sourceType="python")
-print("PIPO PORT OPENED")
+from time import sleep
+from random import randrange
+
+
+while True:
+	port_number = randrange(49152, 65535)
+
+	try:
+		mc.commandPort(name=":%s"%port_number)
+	except:
+		print("Impossible to open an outside connection for Pipo : %s"%port_number)
+		sleep(1)
+	else:
+		print("Outside connection established with Pipo : %s"%port_number)
+		break
+
 '''
 			with open(os.path.join(self.personnal_data["MayaPath"], "scripts/userSetup.py"), "w") as save_file:
 				save_file.write(autorun_code)

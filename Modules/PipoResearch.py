@@ -148,5 +148,5 @@ class PipoSearchingApplication:
 
 
 	def save_log_function(self, message):
-		with open(os.path.join(os.getcwd(), "data/logs/logs_searching.dll"), "a") as save_log:
+		with open(os.path.join(os.getcwd(), "data/logs/Logs_searching.dll"), "a") as save_log:
 			save_log.write(str(message)+"\n")
