@@ -54,13 +54,30 @@ class PipoCommonApplication():
 		else:
 			#create autorun file
 			autorun_code = '''
+
+
+
 #PIPO AUTORUN FOR MAYA
 import os
 import uuid
 import maya.cmds as mc
+import json
+import socket
 
 from time import sleep
 from random import randrange
+
+
+
+def try_socket_connection(host,port):
+	with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as co:
+		co.settimeout(1)
+
+		try:
+			co.connect((host, port))
+			return True
+		except (socket.timeout, socket.error):
+			return False
 
 
 while True:
@@ -73,7 +90,41 @@ while True:
 		sleep(1)
 	else:
 		print("Outside connection established with Pipo : %s"%port_number)
+		
+
+		try:
+			#save the command port in a json file
+			with open(os.path.join(os.getcwd(), "scripts/pipoConnectionLog.json"), "r") as read_file:
+				content = json.load(read_file)
+		except:
+			content = {}
+		else:
+			if type(content) != dict:
+				content = {}
+			else:
+				key_to_remove = []
+				#go through the whole dictionnary and delete connections that are not opened
+				for key, value in content.items():
+					co_value = try_socket_connection("localhost", value["port"])
+					if co_value == False:
+						key_to_remove.append(key)
+
+				for key in key_to_remove:
+					del content[key]
+
+		len_dictionnary = len(list(content.keys()))
+		content[len_dictionnary+1] = {"port":port_number}
+
+		with open(os.path.join(os.getcwd(), "scripts/pipoConnectionLog.json"), "w") as save_file:
+			json.dump(content, save_file, indent=4)
+		print("Connection json updated")
 		break
+
+
+
+
+
+
 
 '''
 			with open(os.path.join(self.personnal_data["MayaPath"], "scripts/userSetup.py"), "w") as save_file:

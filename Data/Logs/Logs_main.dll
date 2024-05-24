@@ -1,7 +1,28 @@
 
 
-[2024-05-23 23:06:27.052945] New Pipo session opened on <built-in function gethostname>
-[2024-05-23 23:06:27.078832] UPDATE : trying to load settings
-[2024-05-23 23:06:27.079829] UPDATE : Personnal settings opened
-[2024-05-23 23:06:27.079829] UPDATE : Pipo autorun created!
-[2024-05-23 23:06:27.079829] UPDATE : {'MayaPath': 'D:/MAYA/2024/', 'ComputerName': 'MSI', 'ProjectList': {'tesetproject_portable': {'projectPath': 'c:/users/metal/onedrive/bureau/testproject', 'projectCreator': 'MSI', 'projectDate': '2024-05-20 23:37:34.885320'}, 'testproject_school': {'projectPath': 'd:/testprojectschool', 'projectCreator': 'LNS-3D4-37', 'projectDate': '2024-05-21 12:18:13.484625'}, 'testproject_home': {'projectPath': 'D:/WORK/testproject', 'projectCreator': 'DESKTOP-PUPCCRT', 'projectDate': '2024-05-22 20:45:35.442652'}}}
+[2024-05-24 13:52:19.439868] New Pipo session opened on <built-in function gethostname>
+[2024-05-24 13:52:19.454801] UPDATE : trying to load settings
+[2024-05-24 13:52:19.455798] UPDATE : Personnal settings opened
+[2024-05-24 13:52:19.457822] UPDATE : Pipo autorun created!
+[2024-05-24 13:52:19.458817] UPDATE : {'MayaPath': 'C:/Program Files/Autodesk/Maya2023/', 'ComputerName': 'MSI', 'ProjectList': {'tesetproject_portable': {'projectPath': 'c:/users/metal/onedrive/bureau/testproject', 'projectCreator': 'MSI', 'projectDate': '2024-05-20 23:37:34.885320'}, 'testproject_school': {'projectPath': 'd:/testprojectschool', 'projectCreator': 'LNS-3D4-37', 'projectDate': '2024-05-21 12:18:13.484625'}, 'testproject_home': {'projectPath': 'D:/WORK/testproject', 'projectCreator': 'DESKTOP-PUPCCRT', 'projectDate': '2024-05-22 20:45:35.442652'}}}
+
+
+[2024-05-24 13:53:18.336089] New Pipo session opened on <built-in function gethostname>
+[2024-05-24 13:53:18.351000] UPDATE : trying to load settings
+[2024-05-24 13:53:18.352995] UPDATE : Personnal settings opened
+[2024-05-24 13:53:18.354989] UPDATE : Pipo autorun created!
+[2024-05-24 13:53:18.355987] UPDATE : {'MayaPath': 'C:/Users/3D4/Documents/maya/2023/', 'ComputerName': 'MSI', 'ProjectList': {'tesetproject_portable': {'projectPath': 'c:/users/metal/onedrive/bureau/testproject', 'projectCreator': 'MSI', 'projectDate': '2024-05-20 23:37:34.885320'}, 'testproject_school': {'projectPath': 'd:/testprojectschool', 'projectCreator': 'LNS-3D4-37', 'projectDate': '2024-05-21 12:18:13.484625'}, 'testproject_home': {'projectPath': 'D:/WORK/testproject', 'projectCreator': 'DESKTOP-PUPCCRT', 'projectDate': '2024-05-22 20:45:35.442652'}}}
+
+
+[2024-05-24 13:55:32.239341] New Pipo session opened on <built-in function gethostname>
+[2024-05-24 13:55:32.254301] UPDATE : trying to load settings
+[2024-05-24 13:55:32.256296] UPDATE : Personnal settings opened
+[2024-05-24 13:55:32.259288] UPDATE : Pipo autorun created!
+[2024-05-24 13:55:32.260285] UPDATE : {'MayaPath': 'C:/Users/3D4/Documents/maya/2023/', 'ComputerName': 'MSI', 'ProjectList': {'tesetproject_portable': {'projectPath': 'c:/users/metal/onedrive/bureau/testproject', 'projectCreator': 'MSI', 'projectDate': '2024-05-20 23:37:34.885320'}, 'testproject_school': {'projectPath': 'd:/testprojectschool', 'projectCreator': 'LNS-3D4-37', 'projectDate': '2024-05-21 12:18:13.484625'}, 'testproject_home': {'projectPath': 'D:/WORK/testproject', 'projectCreator': 'DESKTOP-PUPCCRT', 'projectDate': '2024-05-22 20:45:35.442652'}}}
+
+
+[2024-05-24 13:56:43.979405] New Pipo session opened on <built-in function gethostname>
+[2024-05-24 13:56:43.994959] UPDATE : trying to load settings
+[2024-05-24 13:56:43.995956] UPDATE : Personnal settings opened
+[2024-05-24 13:56:43.998948] UPDATE : Pipo autorun created!
+[2024-05-24 13:56:44.000943] UPDATE : {'MayaPath': 'C:/Users/3D4/Documents/maya/2023/', 'ComputerName': 'MSI', 'ProjectList': {'tesetproject_portable': {'projectPath': 'c:/users/metal/onedrive/bureau/testproject', 'projectCreator': 'MSI', 'projectDate': '2024-05-20 23:37:34.885320'}, 'testproject_school': {'projectPath': 'd:/testprojectschool', 'projectCreator': 'LNS-3D4-37', 'projectDate': '2024-05-21 12:18:13.484625'}, 'testproject_home': {'projectPath': 'D:/WORK/testproject', 'projectCreator': 'DESKTOP-PUPCCRT', 'projectDate': '2024-05-22 20:45:35.442652'}}}
