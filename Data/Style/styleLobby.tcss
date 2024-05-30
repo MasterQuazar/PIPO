@@ -33,5 +33,11 @@
 	border: round $primary-lighten-1;
 }
 
+#lobby_maya_scene_list {
+	border: round $primary;
+	height: 10%;
+	color: white;
+}
+
 
 

@@ -17,10 +17,13 @@ from random import randrange
 from datetime import datetime
 from multiprocessing import Manager
 
+from collections import Counter
+
 import scandir
 import threading
 import multiprocessing
 import getpass
+import pygetwindow as pg
 
 
 from Modules.PipoResearch import PipoSearchingApplication
@@ -36,6 +39,65 @@ class PipoSearchFilesApplication():
 
 
 class PipoCommonApplication():
+
+
+
+
+
+	def update_maya_scene_list_function(self):
+		self.display_message_function("checking really started!")
+		"""
+		get opened maya scenes
+		list them in the lobby list
+		update the connection log file in the maya path with the right maya scene 
+				--> TRY A PING?
+		"""
+
+		#maya_window_list = pg.getWindowsWithTitle("Autodesk MAYA")
+
+
+		
+		while True:
+			maya_window_list = pg.getWindowsWithTitle("Autodesk MAYA")
+			maya_window_list_name = []
+			for maya in maya_window_list:
+				maya_window_list_name.append(maya.title)
+
+			if maya_window_list_name != self.opened_maya_scene_list:
+				self.display_message_function("DIFFERENCE")
+				self.display_message_function("old : %s"%self.opened_maya_scene_list)
+				self.display_message_function("new : %s"%maya_window_list_name)
+				self.opened_maya_scene_list = maya_window_list_name
+
+				self.screen.maya_scene_list.clear_options()
+				for i in range(len(self.opened_maya_scene_list)):
+					self.screen.maya_scene_list.add_option(Selection(self.opened_maya_scene_list[i],i))
+			"""
+			maya_window_list = pg.getWindowsWithTitle("Autodesk MAYA")
+			maya_window_list_name = []
+			for maya in maya_window_list:
+				maya_window_list_name.append(maya.title)
+			
+			self.display_message_function(maya_window_list_name)
+			if maya_window_name != self.opened_maya_scene_list:
+				self.display_message_function("DIFFERENCE")
+				counter_current_list = Counter(self.opened_maya_scene_list)
+				counter_new_list = Counter(maya_window_list_name)
+
+				to_remove = list((counter_current_list - counter_new_list).elements())
+				for item in to_remove:
+					self.opened_maya_scene_list.remove(item)
+
+				to_add = list((counter_new_list - counter_current_list).elements())
+				self.opened_maya_scene_list.extend(to_add)
+
+				
+			else:
+				self.display_message_function("no difference")
+			sleep(2)
+			"""
+			sleep(2)
+		
 
 
 
@@ -90,6 +152,7 @@ while True:
 		sleep(1)
 	else:
 		print("Outside connection established with Pipo : %s"%port_number)
+		print("Path of the connection Log File : %s"%(os.path.join(os.getcwd(), "scripts/pipoConnectionLog.json")))
 		
 
 		try:

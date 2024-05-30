@@ -1,5 +1,5 @@
 from textual.app import App, ComposeResult
-from textual.widgets import Tabs, Tab, Label, Button, Static, Log, ListView, ListItem, OptionList, Header, SelectionList, Footer, Markdown, TabbedContent, TabPane, Input, DirectoryTree, Select, Tabs
+from textual.widgets import Collapsible, Tabs, Tab, Label, Button, Static, Log, ListView, ListItem, OptionList, Header, SelectionList, Footer, Markdown, TabbedContent, TabPane, Input, DirectoryTree, Select, Tabs
 from textual.widgets.option_list import Option, Separator
 from textual.widgets.selection_list import Selection
 from textual.screen import Screen 
@@ -11,6 +11,7 @@ from multiprocessing import freeze_support
 from datetime import datetime
 from textual import on
 
+import pygetwindow as pg
 import multiprocessing
 import threading 
 import socket
@@ -54,6 +55,7 @@ class PipoLobbyApplication(Screen, PipoCommonApplication, PipoLogApplication):
 		#self.search_app = PipoSearchFilesApplication()
 
 
+		self.opened_maya_scene_list = []
 
 		self.name_name_selection = []
 		self.name_kind_selection = []
@@ -109,8 +111,24 @@ class PipoLobbyApplication(Screen, PipoCommonApplication, PipoLogApplication):
 		yield self.back_button
 		"""
 		with Horizontal(classes="lobby_main_container"):
+
+
+
+			#CONTAIN ALL FEATURES AND OPTIONS
 			with VerticalScroll(classes="lobby_left_column"):
-				yield Static("hello world!")
+				
+
+				#MAYA SCENES MENU
+				with Collapsible(title="MAYA SCENES MENU",classes="lobby_maya_scene_menu"):
+					with Vertical(classes="lobby_maya_scene_container"):
+						self.maya_scene_list = OptionList(id="lobby_maya_scene_list")
+						self.maya_scene_list.border_title ="MAYA SCENES LIST" 
+						yield self.maya_scene_list
+
+
+
+
+
 			with VerticalScroll(classes="lobby_center_column"):
 				#with Vertical(classes="container_t2"):
 				with Horizontal(classes="lobby_list_container"):
@@ -182,6 +200,11 @@ class PipoLobbyApplication(Screen, PipoCommonApplication, PipoLogApplication):
 
 		self.update_file_list_thread = threading.Thread(target=self.update_file_list_function, daemon=True, args=())
 		self.update_file_list_thread.start()
+
+		#create a thread that check each 1 seconds opened maya scene
+		self.maya_scene_checker_thread = threading.Thread(target=self.update_maya_scene_list_function, daemon=True, args=())
+		self.maya_scene_checker_thread.start()
+		#self.display_message_function("checking started")
 
 
 
