@@ -1508,3 +1508,25 @@ CHECKING FILE : char_Robin_mod_v001.ma
 Parsing the file...
 type1
 file returned : char_Robin_mod_v001.ma
+
+
+SEARCHING DATA : 
+KIND : character
+NAME : None
+SEQUENCE : None
+SHOT : None
+TYPE : None
+LOD : 1
+STATE : edit
+CHECKING FILE : char_cubeTest_mod_v001.ma
+Parsing the file...
+file returned : char_cubeTest_mod_v001.ma
+CHECKING FILE : char_cubeTest_mod_v002.ma
+Parsing the file...
+file returned : char_cubeTest_mod_v002.ma
+CHECKING FILE : char_cube_mod_v002.ma
+Parsing the file...
+file returned : char_cube_mod_v002.ma
+CHECKING FILE : char_sphereTest_mod_v001.ma
+Parsing the file...
+file returned : char_sphereTest_mod_v001.ma

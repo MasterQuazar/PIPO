@@ -35,7 +35,8 @@
 
 #lobby_maya_scene_list {
 	border: round $primary;
-	height: 10%;
+	height: 40%;
+	width: 100%;
 	color: white;
 }
 

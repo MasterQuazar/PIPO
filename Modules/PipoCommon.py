@@ -45,7 +45,8 @@ class PipoCommonApplication():
 
 
 	def update_maya_scene_list_function(self):
-		self.display_message_function("checking really started!")
+		
+		#self.display_message_function("maya checking started! : %s"%maya_path)
 		"""
 		get opened maya scenes
 		list them in the lobby list
@@ -54,6 +55,8 @@ class PipoCommonApplication():
 		"""
 
 		#maya_window_list = pg.getWindowsWithTitle("Autodesk MAYA")
+		#try to assign the name of the maya scenes to connection log items
+		#get the maya path
 
 
 		
@@ -63,11 +66,58 @@ class PipoCommonApplication():
 			for maya in maya_window_list:
 				maya_window_list_name.append(maya.title)
 
+
+			#try to assign to each maya path in connection log a name instead of index!
+			#try to ping the scene and to get the port opened
+			maya_path = self.app.personnal_data["MayaPath"]
+
+			if os.path.isfile(os.path.join(maya_path, "scripts/pipoConnectionLog.json"))==True:
+				self.display_message_function("connection log exists!")
+
+				try:
+					with open(os.path.join(maya_path, "scripts/pipoConnectionLog.json"), "r") as read_file:
+						connection_log = json.load(read_file)
+					self.display_message_function("opened")
+				except:
+					self.display_message_function("Impossible to read log")
+					
+				else:
+					self.display_message_function("try connection")
+					for index, data in connection_log.items():
+						
+						sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+						#self.display_message_function("%s : %s"%(key, value))
+						#PING THE SCENE AND ASK FOR THE PORT OPENED
+						
+						server_adress = ("localhost", data["port"])
+						self.display_message_function("check connection for %s"%data["port"])
+						try:
+							sock.connect(server_adress)
+							self.display_message_function("connected")
+						except Exception as e:
+							self.display_message_function(e)
+						"""
+						server_adress = ("localhost", data["port"])
+						try:
+							sock.connect(server_adress)
+							self.display_message_function("connected to : %s"%port)
+						except Exception as e:
+							self.display_message_function("failed connection with : %s"%port)
+							self.display_message_function(e)
+						"""
+						
+			else:
+				self.display_message_function("doesn't exists!")
+
 			if maya_window_list_name != self.opened_maya_scene_list:
 				self.display_message_function("DIFFERENCE")
 				self.display_message_function("old : %s"%self.opened_maya_scene_list)
 				self.display_message_function("new : %s"%maya_window_list_name)
 				self.opened_maya_scene_list = maya_window_list_name
+
+
+
+
 
 				self.screen.maya_scene_list.clear_options()
 				for i in range(len(self.opened_maya_scene_list)):
@@ -146,10 +196,11 @@ while True:
 	port_number = randrange(49152, 65535)
 
 	try:
-		mc.commandPort(name=":%s"%port_number)
+		mc.commandPort(name=":%s"%port_number, sourceType="python")
 	except:
 		print("Impossible to open an outside connection for Pipo : %s"%port_number)
-		sleep(1)
+		#sleep(1)
+		break
 	else:
 		print("Outside connection established with Pipo : %s"%port_number)
 		print("Path of the connection Log File : %s"%(os.path.join(os.getcwd(), "scripts/pipoConnectionLog.json")))
