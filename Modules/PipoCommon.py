@@ -44,6 +44,32 @@ class PipoCommonApplication():
 
 
 
+	def send_command_function(self, command, server):
+		try:
+			sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+			sock.connect(server)
+
+		except Exception as e:
+			self.display_message_function("Impossible to connect to server")
+			self.display_message_function(e)
+
+		else:
+			test = "print('hello world')"
+			try:
+				sock.sendall(test.encode("utf-8"))
+				answer = sock.recv(4096)
+				self.display_message_function("answer : %s"%answer)
+			except Exception as e:
+				self.display_message_function("Impossible to send command")
+				self.display_message_function(e)
+
+
+
+
+
+
+
+
 	def update_maya_scene_list_function(self):
 		
 		#self.display_message_function("maya checking started! : %s"%maya_path)
@@ -85,16 +111,20 @@ class PipoCommonApplication():
 					self.display_message_function("try connection")
 					for index, data in connection_log.items():
 						
-						sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+						#sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 						#self.display_message_function("%s : %s"%(key, value))
 						#PING THE SCENE AND ASK FOR THE PORT OPENED
 						
-						server_adress = ("localhost", data["port"])
+						server = ("localhost", data["port"])
 						self.display_message_function("check connection for %s"%data["port"])
 						try:
-							sock.connect(server_adress)
-							self.display_message_function("connected")
+							#sock.connect(server_adress)
+
+							#self.display_message_function("connected")
+							command = 'import maya.cmds;print(cmds.file(q=True, sn=True))'
+							self.send_command_function(command, server)
 						except Exception as e:
+							self.display_message_function("first error")
 							self.display_message_function(e)
 						"""
 						server_adress = ("localhost", data["port"])
