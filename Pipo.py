@@ -439,7 +439,25 @@ class PipoSettingsApplication(Screen):
 
 class PipoExportApplication(Screen):
 	def compose(self) -> ComposeResult:
-		yield Label("EXPORT PAGE")
+
+
+		"""
+		EXPORT PAGES NEEDED FEATURES
+			informations required for filename
+				category
+				name
+				version / sequence - shots version
+				type
+			destination settings
+				-> export using default folder settings (automatic)
+				-> export in the current maya project (even with different name)
+				-> export in a custom location (open file explorer for custom destination if possible)
+		"""
+		with Horizontal(id="export_main_container"):
+			with Vertical(id = "export_left_container"):
+				yield Button("hello world")
+			with Vertical(id = "export_right_container"):
+				yield Button("bye world")
 
 	async def on_key(self, event: events.Key) -> None:
 		if event.key == "1":
@@ -448,6 +466,9 @@ class PipoExportApplication(Screen):
 			self.app.switch_screen(PipoObserverApplication())
 		if event.key == "m":
 			self.app.pop_screen()
+
+
+
 
 
 class PipoObserverApplication(Screen):

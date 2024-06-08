@@ -132,3 +132,39 @@
 [2024-06-08 23:10:54.605174] UPDATE : maya opened : ['C:/Users/metal/OneDrive/Bureau/test_scene3.ma', 'C:/Users/metal/OneDrive/Bureau/test_scene1.ma']
 [2024-06-08 23:10:56.609622] UPDATE : maya window : ['C:/Users/metal/OneDrive/Bureau/test_scene1.ma', 'C:/Users/metal/OneDrive/Bureau/test_scene3.ma']
 [2024-06-08 23:10:56.625575] UPDATE : maya opened : ['C:/Users/metal/OneDrive/Bureau/test_scene3.ma', 'C:/Users/metal/OneDrive/Bureau/test_scene1.ma']
+
+
+[2024-06-08 23:36:45.548757] New Pipo session opened on <built-in function gethostname>
+[2024-06-08 23:36:45.584688] UPDATE : trying to load settings
+[2024-06-08 23:36:45.585665] UPDATE : Personnal settings opened
+[2024-06-08 23:36:45.585665] UPDATE : User setup file detected in maya script path!
+[2024-06-08 23:36:45.586649] UPDATE : {'MayaScriptPath': 'C:/Users/metal/onedrive/documents/maya/2023/', 'MayaProgramPath': 'C:/Program Files/Autodesk/Maya2023/', 'ComputerName': 'MSI', 'ProjectList': {'tesetproject_portable': {'projectPath': 'c:/users/metal/onedrive/bureau/testproject', 'projectCreator': 'MSI', 'projectDate': '2024-05-20 23:37:34.885320'}, 'testproject_school': {'projectPath': 'd:/testprojectschool', 'projectCreator': 'LNS-3D4-37', 'projectDate': '2024-05-21 12:18:13.484625'}, 'testproject_home': {'projectPath': 'D:/WORK/testproject', 'projectCreator': 'DESKTOP-PUPCCRT', 'projectDate': '2024-05-22 20:45:35.442652'}}}
+[2024-06-08 23:36:50.873796] UPDATE : Project selected : tesetproject_portable
+[2024-06-08 23:36:50.880776] UPDATE : Project settings loaded - c:/users/metal/onedrive/bureau/testproject
+[2024-06-08 23:36:50.880776] UPDATE : Project settings loaded!
+
+
+[2024-06-08 23:37:02.325929] New Pipo session opened on <built-in function gethostname>
+[2024-06-08 23:37:02.377785] UPDATE : trying to load settings
+[2024-06-08 23:37:02.378791] UPDATE : Personnal settings opened
+[2024-06-08 23:37:02.378791] UPDATE : User setup file detected in maya script path!
+[2024-06-08 23:37:02.379778] UPDATE : {'MayaScriptPath': 'C:/Users/metal/onedrive/documents/maya/2023/', 'MayaProgramPath': 'C:/Program Files/Autodesk/Maya2023/', 'ComputerName': 'MSI', 'ProjectList': {'tesetproject_portable': {'projectPath': 'c:/users/metal/onedrive/bureau/testproject', 'projectCreator': 'MSI', 'projectDate': '2024-05-20 23:37:34.885320'}, 'testproject_school': {'projectPath': 'd:/testprojectschool', 'projectCreator': 'LNS-3D4-37', 'projectDate': '2024-05-21 12:18:13.484625'}, 'testproject_home': {'projectPath': 'D:/WORK/testproject', 'projectCreator': 'DESKTOP-PUPCCRT', 'projectDate': '2024-05-22 20:45:35.442652'}}}
+[2024-06-08 23:37:07.659982] UPDATE : Project selected : tesetproject_portable
+[2024-06-08 23:37:07.660980] UPDATE : Project settings loaded - c:/users/metal/onedrive/bureau/testproject
+[2024-06-08 23:37:07.660980] UPDATE : Project settings loaded!
+[2024-06-08 23:37:18.260878] UPDATE : Project selected : tesetproject_portable
+[2024-06-08 23:37:18.261876] UPDATE : Project settings loaded - c:/users/metal/onedrive/bureau/testproject
+[2024-06-08 23:37:18.262875] UPDATE : Project settings loaded!
+[2024-06-08 23:37:24.553750] UPDATE : Project selected : tesetproject_portable
+[2024-06-08 23:37:24.554748] UPDATE : Project settings loaded - c:/users/metal/onedrive/bureau/testproject
+[2024-06-08 23:37:24.555745] UPDATE : Project settings loaded!
+
+
+[2024-06-08 23:42:53.700587] New Pipo session opened on <built-in function gethostname>
+[2024-06-08 23:42:53.734504] UPDATE : trying to load settings
+[2024-06-08 23:42:53.735488] UPDATE : Personnal settings opened
+[2024-06-08 23:42:53.735488] UPDATE : User setup file detected in maya script path!
+[2024-06-08 23:42:53.735488] UPDATE : {'MayaScriptPath': 'C:/Users/metal/onedrive/documents/maya/2023/', 'MayaProgramPath': 'C:/Program Files/Autodesk/Maya2023/', 'ComputerName': 'MSI', 'ProjectList': {'tesetproject_portable': {'projectPath': 'c:/users/metal/onedrive/bureau/testproject', 'projectCreator': 'MSI', 'projectDate': '2024-05-20 23:37:34.885320'}, 'testproject_school': {'projectPath': 'd:/testprojectschool', 'projectCreator': 'LNS-3D4-37', 'projectDate': '2024-05-21 12:18:13.484625'}, 'testproject_home': {'projectPath': 'D:/WORK/testproject', 'projectCreator': 'DESKTOP-PUPCCRT', 'projectDate': '2024-05-22 20:45:35.442652'}}}
+[2024-06-08 23:42:56.291432] UPDATE : Project selected : tesetproject_portable
+[2024-06-08 23:42:56.293427] UPDATE : Project settings loaded - c:/users/metal/onedrive/bureau/testproject
+[2024-06-08 23:42:56.294426] UPDATE : Project settings loaded!
