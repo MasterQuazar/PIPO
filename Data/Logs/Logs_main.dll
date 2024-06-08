@@ -1,85 +1,134 @@
 
 
-[2024-06-05 23:25:12.585033] New Pipo session opened on <built-in function gethostname>
-[2024-06-05 23:25:12.600965] UPDATE : trying to load settings
-[2024-06-05 23:25:12.601962] UPDATE : Personnal settings opened
-[2024-06-05 23:25:12.601962] UPDATE : User setup file detected in maya script path!
-[2024-06-05 23:25:12.601962] UPDATE : {'MayaPath': 'D:/MAYA/2024/Maya2024', 'ComputerName': 'MSI', 'ProjectList': {'tesetproject_portable': {'projectPath': 'c:/users/metal/onedrive/bureau/testproject', 'projectCreator': 'MSI', 'projectDate': '2024-05-20 23:37:34.885320'}, 'testproject_school': {'projectPath': 'd:/testprojectschool', 'projectCreator': 'LNS-3D4-37', 'projectDate': '2024-05-21 12:18:13.484625'}, 'testproject_home': {'projectPath': 'D:/WORK/testproject', 'projectCreator': 'DESKTOP-PUPCCRT', 'projectDate': '2024-05-22 20:45:35.442652'}}}
-[2024-06-05 23:25:14.270859] UPDATE : Project selected : testproject_home
-[2024-06-05 23:25:14.270859] UPDATE : Project settings loaded - D:/WORK/testproject
-[2024-06-05 23:25:14.270859] UPDATE : Project settings loaded!
-[2024-06-05 23:25:14.508162] UPDATE : connection log exists!
-[2024-06-05 23:25:14.524125] UPDATE : opened
-[2024-06-05 23:25:14.525121] UPDATE : try connection
-[2024-06-05 23:25:14.540082] UPDATE : check connection for 54541
-[2024-06-05 23:25:16.599070] UPDATE : Impossible to connect to server
-[2024-06-05 23:25:16.613488] UPDATE : [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée
-[2024-06-05 23:25:16.615483] UPDATE : check connection for 63396
-[2024-06-05 23:25:16.620470] UPDATE : answer : b'None\n\x00'
-[2024-06-05 23:25:16.623037] UPDATE : DIFFERENCE
-[2024-06-05 23:25:16.624032] UPDATE : old : []
-[2024-06-05 23:25:16.625028] UPDATE : new : ['test_scene.ma* - Autodesk MAYA 2024.2: C:\\Users\\metal\\Desktop\\test_scene.ma   ---   pSphere2']
-[2024-06-05 23:25:18.637613] UPDATE : connection log exists!
-[2024-06-05 23:25:18.648557] UPDATE : opened
-[2024-06-05 23:25:18.649554] UPDATE : try connection
-[2024-06-05 23:25:18.650551] UPDATE : check connection for 54541
-[2024-06-05 23:25:20.669960] UPDATE : Impossible to connect to server
-[2024-06-05 23:25:20.679934] UPDATE : [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée
-[2024-06-05 23:25:20.681929] UPDATE : check connection for 63396
-[2024-06-05 23:25:20.685943] UPDATE : answer : b'None\n\x00'
-[2024-06-05 23:25:22.688584] UPDATE : connection log exists!
-[2024-06-05 23:25:22.701547] UPDATE : opened
-[2024-06-05 23:25:22.702545] UPDATE : try connection
-[2024-06-05 23:25:22.703542] UPDATE : check connection for 54541
-[2024-06-05 23:25:24.718580] UPDATE : Impossible to connect to server
-[2024-06-05 23:25:24.729551] UPDATE : [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée
-[2024-06-05 23:25:24.731545] UPDATE : check connection for 63396
-[2024-06-05 23:25:24.734538] UPDATE : answer : b'None\n\x00'
-[2024-06-05 23:25:26.736853] UPDATE : connection log exists!
-[2024-06-05 23:25:26.747966] UPDATE : opened
-[2024-06-05 23:25:26.749782] UPDATE : try connection
-[2024-06-05 23:25:26.750958] UPDATE : check connection for 54541
-[2024-06-05 23:25:28.770596] UPDATE : Impossible to connect to server
-[2024-06-05 23:25:28.780622] UPDATE : [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée
-[2024-06-05 23:25:28.781566] UPDATE : check connection for 63396
-[2024-06-05 23:25:28.785556] UPDATE : answer : b'None\n\x00'
-[2024-06-05 23:25:30.787701] UPDATE : connection log exists!
-[2024-06-05 23:25:30.800641] UPDATE : opened
-[2024-06-05 23:25:30.801639] UPDATE : try connection
-[2024-06-05 23:25:30.802635] UPDATE : check connection for 54541
-[2024-06-05 23:25:32.828621] UPDATE : Impossible to connect to server
-[2024-06-05 23:25:32.839566] UPDATE : [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée
-[2024-06-05 23:25:32.840564] UPDATE : check connection for 63396
-[2024-06-05 23:25:32.853529] UPDATE : answer : b'None\n\x00'
-[2024-06-05 23:25:34.855840] UPDATE : connection log exists!
-[2024-06-05 23:25:34.867808] UPDATE : opened
-[2024-06-05 23:25:34.868806] UPDATE : try connection
-[2024-06-05 23:25:34.869803] UPDATE : check connection for 54541
-[2024-06-05 23:25:36.904485] UPDATE : Impossible to connect to server
-[2024-06-05 23:25:36.914458] UPDATE : [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée
-[2024-06-05 23:25:36.915455] UPDATE : check connection for 63396
-[2024-06-05 23:25:36.919445] UPDATE : answer : b'None\n\x00'
-[2024-06-05 23:25:38.922331] UPDATE : connection log exists!
-[2024-06-05 23:25:38.934298] UPDATE : opened
-[2024-06-05 23:25:38.935296] UPDATE : try connection
-[2024-06-05 23:25:38.936292] UPDATE : check connection for 54541
-[2024-06-05 23:25:40.976580] UPDATE : Impossible to connect to server
-[2024-06-05 23:25:40.986553] UPDATE : [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée
-[2024-06-05 23:25:40.988550] UPDATE : check connection for 63396
-[2024-06-05 23:25:41.002020] UPDATE : answer : b'None\n\x00'
-[2024-06-05 23:25:43.004693] UPDATE : connection log exists!
-[2024-06-05 23:25:43.015846] UPDATE : opened
-[2024-06-05 23:25:43.017840] UPDATE : try connection
-[2024-06-05 23:25:43.018838] UPDATE : check connection for 54541
-[2024-06-05 23:25:45.041144] UPDATE : Impossible to connect to server
-[2024-06-05 23:25:45.051005] UPDATE : [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée
-[2024-06-05 23:25:45.053001] UPDATE : check connection for 63396
-[2024-06-05 23:25:45.056989] UPDATE : answer : b'None\n\x00'
-[2024-06-05 23:25:47.059253] UPDATE : connection log exists!
-[2024-06-05 23:25:47.070222] UPDATE : opened
-[2024-06-05 23:25:47.071220] UPDATE : try connection
-[2024-06-05 23:25:47.072903] UPDATE : check connection for 54541
-[2024-06-05 23:25:49.107316] UPDATE : Impossible to connect to server
-[2024-06-05 23:25:49.118288] UPDATE : [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée
-[2024-06-05 23:25:49.119284] UPDATE : check connection for 63396
-[2024-06-05 23:25:49.123274] UPDATE : answer : b'None\n\x00'
+[2024-06-08 23:05:19.750390] New Pipo session opened on <built-in function gethostname>
+[2024-06-08 23:05:19.779304] UPDATE : trying to load settings
+[2024-06-08 23:05:19.780302] UPDATE : Personnal settings opened
+[2024-06-08 23:05:19.781298] UPDATE : User setup file detected in maya script path!
+[2024-06-08 23:05:19.781298] UPDATE : {'MayaScriptPath': 'C:/Users/metal/onedrive/documents/maya/2023/', 'MayaProgramPath': 'C:/Program Files/Autodesk/Maya2023/', 'ComputerName': 'MSI', 'ProjectList': {'tesetproject_portable': {'projectPath': 'c:/users/metal/onedrive/bureau/testproject', 'projectCreator': 'MSI', 'projectDate': '2024-05-20 23:37:34.885320'}, 'testproject_school': {'projectPath': 'd:/testprojectschool', 'projectCreator': 'LNS-3D4-37', 'projectDate': '2024-05-21 12:18:13.484625'}, 'testproject_home': {'projectPath': 'D:/WORK/testproject', 'projectCreator': 'DESKTOP-PUPCCRT', 'projectDate': '2024-05-22 20:45:35.442652'}}}
+[2024-06-08 23:05:21.726827] UPDATE : Project selected : tesetproject_portable
+[2024-06-08 23:05:21.732963] UPDATE : Project settings loaded - c:/users/metal/onedrive/bureau/testproject
+[2024-06-08 23:05:21.732963] UPDATE : Project settings loaded!
+[2024-06-08 23:05:22.067964] UPDATE : maya window : ['test_scene1.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene1.ma   ---   pSphere12', 'test_scene3.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene3.ma   ---   pSphere23']
+[2024-06-08 23:05:22.085910] UPDATE : maya opened : []
+[2024-06-08 23:05:24.093346] UPDATE : maya window : ['test_scene1.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene1.ma   ---   pSphere12', 'test_scene3.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene3.ma   ---   pSphere23']
+[2024-06-08 23:05:24.139184] UPDATE : maya opened : ['test_scene1.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene1.ma   ---   pSphere12', 'test_scene3.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene3.ma   ---   pSphere23']
+[2024-06-08 23:05:26.145603] UPDATE : maya window : ['test_scene1.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene1.ma   ---   pSphere12', 'test_scene3.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene3.ma   ---   pSphere23']
+[2024-06-08 23:05:26.163513] UPDATE : maya opened : ['test_scene1.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene1.ma   ---   pSphere12', 'test_scene3.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene3.ma   ---   pSphere23']
+[2024-06-08 23:05:28.170131] UPDATE : maya window : ['test_scene1.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene1.ma   ---   pSphere12', 'test_scene3.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene3.ma   ---   pSphere23']
+[2024-06-08 23:05:28.186060] UPDATE : maya opened : ['test_scene1.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene1.ma   ---   pSphere12', 'test_scene3.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene3.ma   ---   pSphere23']
+[2024-06-08 23:05:30.195002] UPDATE : maya window : ['test_scene3.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene3.ma   ---   pSphere23', 'test_scene1.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene1.ma   ---   pSphere12']
+[2024-06-08 23:05:30.211952] UPDATE : maya opened : ['test_scene1.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene1.ma   ---   pSphere12', 'test_scene3.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene3.ma   ---   pSphere23']
+[2024-06-08 23:05:32.219343] UPDATE : maya window : ['test_scene3.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene3.ma   ---   pSphere22', 'test_scene1.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene1.ma   ---   pSphere12']
+[2024-06-08 23:05:32.236296] UPDATE : maya opened : ['test_scene1.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene1.ma   ---   pSphere12', 'test_scene3.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene3.ma   ---   pSphere23']
+[2024-06-08 23:05:34.272889] UPDATE : maya window : ['test_scene3.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene3.ma   ---   pSphere9', 'test_scene1.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene1.ma   ---   pSphere12']
+[2024-06-08 23:05:34.288841] UPDATE : maya opened : ['test_scene3.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene3.ma   ---   pSphere22', 'test_scene1.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene1.ma   ---   pSphere12']
+[2024-06-08 23:05:36.305040] UPDATE : maya window : ['test_scene3.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene3.ma', 'test_scene1.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene1.ma   ---   pSphere12']
+[2024-06-08 23:05:36.320993] UPDATE : maya opened : ['test_scene3.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene3.ma   ---   pSphere9', 'test_scene1.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene1.ma   ---   pSphere12']
+[2024-06-08 23:05:38.338225] UPDATE : maya window : ['test_scene3.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene3.ma', 'test_scene1.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene1.ma   ---   pSphere12']
+[2024-06-08 23:05:38.354211] UPDATE : maya opened : ['test_scene3.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene3.ma', 'test_scene1.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene1.ma   ---   pSphere12']
+[2024-06-08 23:05:40.360426] UPDATE : maya window : ['test_scene3.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene3.ma', 'test_scene1.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene1.ma   ---   pSphere12']
+[2024-06-08 23:05:40.376383] UPDATE : maya opened : ['test_scene3.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene3.ma', 'test_scene1.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene1.ma   ---   pSphere12']
+[2024-06-08 23:05:42.382664] UPDATE : maya window : ['test_scene3.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene3.ma   ---   pSphere1', 'test_scene1.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene1.ma   ---   pSphere12']
+[2024-06-08 23:05:42.403645] UPDATE : maya opened : ['test_scene3.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene3.ma', 'test_scene1.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene1.ma   ---   pSphere12']
+[2024-06-08 23:05:44.441219] UPDATE : maya window : ['test_scene3.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene3.ma', 'test_scene1.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene1.ma   ---   pSphere12']
+[2024-06-08 23:05:44.456176] UPDATE : maya opened : ['test_scene3.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene3.ma   ---   pSphere1', 'test_scene1.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene1.ma   ---   pSphere12']
+[2024-06-08 23:05:46.498513] UPDATE : maya window : ['test_scene1.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene1.ma   ---   pSphere1', 'test_scene3.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene3.ma']
+[2024-06-08 23:05:46.514465] UPDATE : maya opened : ['test_scene3.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene3.ma', 'test_scene1.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene1.ma   ---   pSphere12']
+[2024-06-08 23:05:48.539748] UPDATE : maya window : ['test_scene1.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene1.ma', 'test_scene3.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene3.ma']
+[2024-06-08 23:05:48.558694] UPDATE : maya opened : ['test_scene1.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene1.ma   ---   pSphere1', 'test_scene3.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene3.ma']
+[2024-06-08 23:05:50.574448] UPDATE : maya window : ['test_scene1.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene1.ma', 'test_scene3.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene3.ma']
+[2024-06-08 23:05:50.591400] UPDATE : maya opened : ['test_scene1.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene1.ma', 'test_scene3.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene3.ma']
+[2024-06-08 23:05:52.596501] UPDATE : maya window : ['test_scene1.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene1.ma', 'test_scene3.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene3.ma']
+[2024-06-08 23:05:52.614450] UPDATE : maya opened : ['test_scene1.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene1.ma', 'test_scene3.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene3.ma']
+[2024-06-08 23:05:53.053477] UPDATE : C:/Users/metal/OneDrive/Bureau/test_scene3.ma : C:/Users/metal/OneDrive/Bureau/test_scene1.ma
+[2024-06-08 23:05:53.054471] UPDATE : C:/Users/metal/OneDrive/Bureau/test_scene3.ma : C:/Users/metal/OneDrive/Bureau/test_scene3.ma
+[2024-06-08 23:05:53.054471] UPDATE : C:/Users/metal/OneDrive/Bureau/test_scene3.ma : 63265
+[2024-06-08 23:05:53.063698] UPDATE : ('localhost', 63265) | Command sent : cmds.polySphere()
+[2024-06-08 23:05:54.620945] UPDATE : maya window : ['test_scene1.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene1.ma', 'test_scene3.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene3.ma   ---   pSphere1']
+[2024-06-08 23:05:54.636896] UPDATE : maya opened : ['test_scene1.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene1.ma', 'test_scene3.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene3.ma']
+[2024-06-08 23:05:56.666006] UPDATE : maya window : ['test_scene1.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene1.ma', 'test_scene3.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene3.ma   ---   pSphere1']
+[2024-06-08 23:05:56.681959] UPDATE : maya opened : ['test_scene1.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene1.ma', 'test_scene3.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene3.ma   ---   pSphere1']
+[2024-06-08 23:05:58.689849] UPDATE : maya window : ['test_scene3.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene3.ma   ---   pSphere1', 'test_scene1.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene1.ma']
+[2024-06-08 23:05:58.708793] UPDATE : maya opened : ['test_scene1.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene1.ma', 'test_scene3.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene3.ma   ---   pSphere1']
+[2024-06-08 23:06:00.715927] UPDATE : maya window : ['test_scene3.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene3.ma   ---   pSphere1', 'test_scene1.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene1.ma']
+[2024-06-08 23:06:00.733841] UPDATE : maya opened : ['test_scene1.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene1.ma', 'test_scene3.ma* - Autodesk MAYA 2023.2: C:\\Users\\metal\\OneDrive\\Bureau\\test_scene3.ma   ---   pSphere1']
+
+
+[2024-06-08 23:10:09.468993] New Pipo session opened on <built-in function gethostname>
+[2024-06-08 23:10:09.567709] UPDATE : trying to load settings
+[2024-06-08 23:10:09.573701] UPDATE : Personnal settings opened
+[2024-06-08 23:10:09.573701] UPDATE : User setup file detected in maya script path!
+[2024-06-08 23:10:09.573701] UPDATE : {'MayaScriptPath': 'C:/Users/metal/onedrive/documents/maya/2023/', 'MayaProgramPath': 'C:/Program Files/Autodesk/Maya2023/', 'ComputerName': 'MSI', 'ProjectList': {'tesetproject_portable': {'projectPath': 'c:/users/metal/onedrive/bureau/testproject', 'projectCreator': 'MSI', 'projectDate': '2024-05-20 23:37:34.885320'}, 'testproject_school': {'projectPath': 'd:/testprojectschool', 'projectCreator': 'LNS-3D4-37', 'projectDate': '2024-05-21 12:18:13.484625'}, 'testproject_home': {'projectPath': 'D:/WORK/testproject', 'projectCreator': 'DESKTOP-PUPCCRT', 'projectDate': '2024-05-22 20:45:35.442652'}}}
+[2024-06-08 23:10:11.672317] UPDATE : Project selected : tesetproject_portable
+[2024-06-08 23:10:11.680293] UPDATE : Project settings loaded - c:/users/metal/onedrive/bureau/testproject
+[2024-06-08 23:10:11.681290] UPDATE : Project settings loaded!
+[2024-06-08 23:10:11.975547] UPDATE : maya window : ['C:/Users/metal/OneDrive/Bureau/test_scene3.ma', 'C:/Users/metal/OneDrive/Bureau/test_scene1.ma']
+[2024-06-08 23:10:11.979534] UPDATE : maya opened : []
+[2024-06-08 23:10:13.985353] UPDATE : maya window : ['C:/Users/metal/OneDrive/Bureau/test_scene3.ma', 'C:/Users/metal/OneDrive/Bureau/test_scene1.ma']
+[2024-06-08 23:10:14.003300] UPDATE : maya opened : ['C:/Users/metal/OneDrive/Bureau/test_scene3.ma', 'C:/Users/metal/OneDrive/Bureau/test_scene1.ma']
+[2024-06-08 23:10:16.009985] UPDATE : maya window : ['C:/Users/metal/OneDrive/Bureau/test_scene3.ma', 'C:/Users/metal/OneDrive/Bureau/test_scene1.ma']
+[2024-06-08 23:10:16.027935] UPDATE : maya opened : ['C:/Users/metal/OneDrive/Bureau/test_scene3.ma', 'C:/Users/metal/OneDrive/Bureau/test_scene1.ma']
+[2024-06-08 23:10:18.034116] UPDATE : maya window : ['C:/Users/metal/OneDrive/Bureau/test_scene3.ma', 'C:/Users/metal/OneDrive/Bureau/test_scene1.ma']
+[2024-06-08 23:10:18.061036] UPDATE : maya opened : ['C:/Users/metal/OneDrive/Bureau/test_scene3.ma', 'C:/Users/metal/OneDrive/Bureau/test_scene1.ma']
+[2024-06-08 23:10:20.068796] UPDATE : maya window : ['C:/Users/metal/OneDrive/Bureau/test_scene3.ma', 'C:/Users/metal/OneDrive/Bureau/test_scene1.ma']
+[2024-06-08 23:10:20.085750] UPDATE : maya opened : ['C:/Users/metal/OneDrive/Bureau/test_scene3.ma', 'C:/Users/metal/OneDrive/Bureau/test_scene1.ma']
+[2024-06-08 23:10:22.093359] UPDATE : maya window : ['C:/Users/metal/OneDrive/Bureau/test_scene1.ma', 'C:/Users/metal/OneDrive/Bureau/test_scene3.ma']
+[2024-06-08 23:10:22.137907] UPDATE : maya opened : ['C:/Users/metal/OneDrive/Bureau/test_scene3.ma', 'C:/Users/metal/OneDrive/Bureau/test_scene1.ma']
+[2024-06-08 23:10:24.143910] UPDATE : maya window : ['C:/Users/metal/OneDrive/Bureau/test_scene1.ma', 'C:/Users/metal/OneDrive/Bureau/test_scene3.ma']
+[2024-06-08 23:10:24.163429] UPDATE : maya opened : ['C:/Users/metal/OneDrive/Bureau/test_scene3.ma', 'C:/Users/metal/OneDrive/Bureau/test_scene1.ma']
+[2024-06-08 23:10:26.192917] UPDATE : maya window : ['C:/Users/metal/OneDrive/Bureau/test_scene1.ma', 'C:/Users/metal/OneDrive/Bureau/test_scene3.ma']
+[2024-06-08 23:10:26.208521] UPDATE : maya opened : ['C:/Users/metal/OneDrive/Bureau/test_scene3.ma', 'C:/Users/metal/OneDrive/Bureau/test_scene1.ma']
+[2024-06-08 23:10:26.907281] UPDATE : C:/Users/metal/OneDrive/Bureau/test_scene1.ma : C:/Users/metal/OneDrive/Bureau/test_scene1.ma
+[2024-06-08 23:10:26.908310] UPDATE : C:/Users/metal/OneDrive/Bureau/test_scene1.ma : 57056
+[2024-06-08 23:10:26.912299] UPDATE : ('localhost', 57056) | Command sent : cmds.polySphere()
+[2024-06-08 23:10:28.214541] UPDATE : maya window : ['C:/Users/metal/OneDrive/Bureau/test_scene1.ma', 'C:/Users/metal/OneDrive/Bureau/test_scene3.ma']
+[2024-06-08 23:10:28.235479] UPDATE : maya opened : ['C:/Users/metal/OneDrive/Bureau/test_scene3.ma', 'C:/Users/metal/OneDrive/Bureau/test_scene1.ma']
+[2024-06-08 23:10:30.241921] UPDATE : maya window : ['C:/Users/metal/OneDrive/Bureau/test_scene1.ma', 'C:/Users/metal/OneDrive/Bureau/test_scene3.ma']
+[2024-06-08 23:10:30.292373] UPDATE : maya opened : ['C:/Users/metal/OneDrive/Bureau/test_scene3.ma', 'C:/Users/metal/OneDrive/Bureau/test_scene1.ma']
+[2024-06-08 23:10:32.297201] UPDATE : maya window : ['C:/Users/metal/OneDrive/Bureau/test_scene1.ma', 'C:/Users/metal/OneDrive/Bureau/test_scene3.ma']
+[2024-06-08 23:10:32.318143] UPDATE : maya opened : ['C:/Users/metal/OneDrive/Bureau/test_scene3.ma', 'C:/Users/metal/OneDrive/Bureau/test_scene1.ma']
+[2024-06-08 23:10:34.323416] UPDATE : maya window : ['C:/Users/metal/OneDrive/Bureau/test_scene1.ma', 'C:/Users/metal/OneDrive/Bureau/test_scene3.ma']
+[2024-06-08 23:10:34.338373] UPDATE : maya opened : ['C:/Users/metal/OneDrive/Bureau/test_scene3.ma', 'C:/Users/metal/OneDrive/Bureau/test_scene1.ma']
+[2024-06-08 23:10:36.344259] UPDATE : maya window : ['C:/Users/metal/OneDrive/Bureau/test_scene1.ma', 'C:/Users/metal/OneDrive/Bureau/test_scene3.ma']
+[2024-06-08 23:10:36.375169] UPDATE : maya opened : ['C:/Users/metal/OneDrive/Bureau/test_scene3.ma', 'C:/Users/metal/OneDrive/Bureau/test_scene1.ma']
+[2024-06-08 23:10:38.380458] UPDATE : maya window : ['C:/Users/metal/OneDrive/Bureau/test_scene1.ma', 'C:/Users/metal/OneDrive/Bureau/test_scene3.ma']
+[2024-06-08 23:10:38.396413] UPDATE : maya opened : ['C:/Users/metal/OneDrive/Bureau/test_scene3.ma', 'C:/Users/metal/OneDrive/Bureau/test_scene1.ma']
+[2024-06-08 23:10:40.403870] UPDATE : maya window : ['C:/Users/metal/OneDrive/Bureau/test_scene1.ma', 'C:/Users/metal/OneDrive/Bureau/test_scene3.ma']
+[2024-06-08 23:10:40.450733] UPDATE : maya opened : ['C:/Users/metal/OneDrive/Bureau/test_scene3.ma', 'C:/Users/metal/OneDrive/Bureau/test_scene1.ma']
+[2024-06-08 23:10:42.457417] UPDATE : maya window : ['C:/Users/metal/OneDrive/Bureau/test_scene1.ma', 'C:/Users/metal/OneDrive/Bureau/test_scene3.ma']
+[2024-06-08 23:10:42.473371] UPDATE : maya opened : ['C:/Users/metal/OneDrive/Bureau/test_scene3.ma', 'C:/Users/metal/OneDrive/Bureau/test_scene1.ma']
+[2024-06-08 23:10:43.518883] UPDATE : C:/Users/metal/OneDrive/Bureau/test_scene3.ma : C:/Users/metal/OneDrive/Bureau/test_scene1.ma
+[2024-06-08 23:10:43.519882] UPDATE : C:/Users/metal/OneDrive/Bureau/test_scene3.ma : C:/Users/metal/OneDrive/Bureau/test_scene3.ma
+[2024-06-08 23:10:43.520880] UPDATE : C:/Users/metal/OneDrive/Bureau/test_scene3.ma : 63265
+[2024-06-08 23:10:43.523869] UPDATE : ('localhost', 63265) | Command sent : cmds.polySphere()
+[2024-06-08 23:10:43.874959] UPDATE : C:/Users/metal/OneDrive/Bureau/test_scene3.ma : C:/Users/metal/OneDrive/Bureau/test_scene1.ma
+[2024-06-08 23:10:43.875829] UPDATE : C:/Users/metal/OneDrive/Bureau/test_scene3.ma : C:/Users/metal/OneDrive/Bureau/test_scene3.ma
+[2024-06-08 23:10:43.876812] UPDATE : C:/Users/metal/OneDrive/Bureau/test_scene3.ma : 63265
+[2024-06-08 23:10:43.879813] UPDATE : ('localhost', 63265) | Command sent : cmds.polySphere()
+[2024-06-08 23:10:44.181866] UPDATE : C:/Users/metal/OneDrive/Bureau/test_scene3.ma : C:/Users/metal/OneDrive/Bureau/test_scene1.ma
+[2024-06-08 23:10:44.182864] UPDATE : C:/Users/metal/OneDrive/Bureau/test_scene3.ma : C:/Users/metal/OneDrive/Bureau/test_scene3.ma
+[2024-06-08 23:10:44.182864] UPDATE : C:/Users/metal/OneDrive/Bureau/test_scene3.ma : 63265
+[2024-06-08 23:10:44.192380] UPDATE : ('localhost', 63265) | Command sent : cmds.polySphere()
+[2024-06-08 23:10:44.481091] UPDATE : maya window : ['C:/Users/metal/OneDrive/Bureau/test_scene1.ma', 'C:/Users/metal/OneDrive/Bureau/test_scene3.ma']
+[2024-06-08 23:10:44.484047] UPDATE : maya opened : ['C:/Users/metal/OneDrive/Bureau/test_scene3.ma', 'C:/Users/metal/OneDrive/Bureau/test_scene1.ma']
+[2024-06-08 23:10:45.911437] UPDATE : C:/Users/metal/OneDrive/Bureau/test_scene1.ma : C:/Users/metal/OneDrive/Bureau/test_scene1.ma
+[2024-06-08 23:10:45.911437] UPDATE : C:/Users/metal/OneDrive/Bureau/test_scene1.ma : 57056
+[2024-06-08 23:10:45.915425] UPDATE : ('localhost', 57056) | Command sent : cmds.polySphere()
+[2024-06-08 23:10:46.097855] UPDATE : C:/Users/metal/OneDrive/Bureau/test_scene1.ma : C:/Users/metal/OneDrive/Bureau/test_scene1.ma
+[2024-06-08 23:10:46.098836] UPDATE : C:/Users/metal/OneDrive/Bureau/test_scene1.ma : 57056
+[2024-06-08 23:10:46.101812] UPDATE : ('localhost', 57056) | Command sent : cmds.polySphere()
+[2024-06-08 23:10:46.333139] UPDATE : C:/Users/metal/OneDrive/Bureau/test_scene1.ma : C:/Users/metal/OneDrive/Bureau/test_scene1.ma
+[2024-06-08 23:10:46.333139] UPDATE : C:/Users/metal/OneDrive/Bureau/test_scene1.ma : 57056
+[2024-06-08 23:10:46.336163] UPDATE : ('localhost', 57056) | Command sent : cmds.polySphere()
+[2024-06-08 23:10:46.489138] UPDATE : maya window : ['C:/Users/metal/OneDrive/Bureau/test_scene1.ma', 'C:/Users/metal/OneDrive/Bureau/test_scene3.ma']
+[2024-06-08 23:10:46.506031] UPDATE : maya opened : ['C:/Users/metal/OneDrive/Bureau/test_scene3.ma', 'C:/Users/metal/OneDrive/Bureau/test_scene1.ma']
+[2024-06-08 23:10:48.511103] UPDATE : maya window : ['C:/Users/metal/OneDrive/Bureau/test_scene1.ma', 'C:/Users/metal/OneDrive/Bureau/test_scene3.ma']
+[2024-06-08 23:10:48.527059] UPDATE : maya opened : ['C:/Users/metal/OneDrive/Bureau/test_scene3.ma', 'C:/Users/metal/OneDrive/Bureau/test_scene1.ma']
+[2024-06-08 23:10:50.532163] UPDATE : maya window : ['C:/Users/metal/OneDrive/Bureau/test_scene1.ma', 'C:/Users/metal/OneDrive/Bureau/test_scene3.ma']
+[2024-06-08 23:10:50.547116] UPDATE : maya opened : ['C:/Users/metal/OneDrive/Bureau/test_scene3.ma', 'C:/Users/metal/OneDrive/Bureau/test_scene1.ma']
+[2024-06-08 23:10:52.552620] UPDATE : maya window : ['C:/Users/metal/OneDrive/Bureau/test_scene1.ma', 'C:/Users/metal/OneDrive/Bureau/test_scene3.ma']
+[2024-06-08 23:10:52.568573] UPDATE : maya opened : ['C:/Users/metal/OneDrive/Bureau/test_scene3.ma', 'C:/Users/metal/OneDrive/Bureau/test_scene1.ma']
+[2024-06-08 23:10:54.574288] UPDATE : maya window : ['C:/Users/metal/OneDrive/Bureau/test_scene1.ma', 'C:/Users/metal/OneDrive/Bureau/test_scene3.ma']
+[2024-06-08 23:10:54.605174] UPDATE : maya opened : ['C:/Users/metal/OneDrive/Bureau/test_scene3.ma', 'C:/Users/metal/OneDrive/Bureau/test_scene1.ma']
+[2024-06-08 23:10:56.609622] UPDATE : maya window : ['C:/Users/metal/OneDrive/Bureau/test_scene1.ma', 'C:/Users/metal/OneDrive/Bureau/test_scene3.ma']
+[2024-06-08 23:10:56.625575] UPDATE : maya opened : ['C:/Users/metal/OneDrive/Bureau/test_scene3.ma', 'C:/Users/metal/OneDrive/Bureau/test_scene1.ma']

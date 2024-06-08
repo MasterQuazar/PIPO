@@ -125,6 +125,7 @@ class PipoLobbyApplication(Screen, PipoCommonApplication, PipoLogApplication):
 						self.maya_scene_list.border_title ="MAYA SCENES LIST" 
 						yield self.maya_scene_list
 
+				yield Button("Create sphere", id="create_sphere_button")
 
 
 
@@ -216,6 +217,42 @@ class PipoLobbyApplication(Screen, PipoCommonApplication, PipoLogApplication):
 
 
 
+	def on_button_pressed(self, event: Button.Pressed) -> None:
+		if event.button.id == "login_create_button":
+			self.create_new_project_function()
+
+		if event.button.id == "lobby_back_button":
+			self.app.pop_screen()
+
+		if event.button.id == "create_sphere_button":
+			#get the currently selected scene
+			#check if it is possible to get the associated port
+			#in the connection log
+			#try to open socket and send command
+			
+			#get the current selection
+			#if no selection get the first scene in list
+			current_maya_scene = self.query_one("#lobby_maya_scene_list").highlighted 
+
+			if type(current_maya_scene) == int:
+				#maya_scene_path = (self.opened_maya_scene_list[current_maya_scene].split("---")[0].split(" ")[-1]).replace("\\", "/")
+				#self.display_message_function(self.opened_maya_scene_list[current_maya_scene])	
+				#maya_scene_path = ((self.opened_maya_scene_list[current_maya_scene]).split(" ")[-1]).replace("\\", "/")
+				#maya_scene_name = (self.opened_maya_scene_list[current_maya_scene].split("---"))[0].split(" ")
+				#maya_scene_path = [item for item in maya_scene_name if item != ""][-1].replace("\\", "/")
+
+				maya_scene_path = self.opened_maya_scene_list[current_maya_scene]
+
+
+				scene_data = self.get_scene_data_function(maya_scene_path)
+
+				if scene_data != None:
+					self.display_message_function("%s : %s"%(scene_data["filename"], scene_data["port"]))
+					command = "cmds.polySphere()"
+					self.send_command_function(command, ("localhost",scene_data["port"]))
+				else:
+					self.display_error_function("Impossible to get scene data!")
+				
 
 
 
@@ -368,12 +405,8 @@ class PipoLobbyApplication(Screen, PipoCommonApplication, PipoLogApplication):
 
 
 
-	def on_button_pressed(self, event: Button.Pressed) -> None:
-		if event.button.id == "login_create_button":
-			self.create_new_project_function()
 
-		if event.button.id == "lobby_back_button":
-			self.app.pop_screen()
+
 
 	async def on_key(self, event: events.Key) -> None:
 		#if event.key == "1":

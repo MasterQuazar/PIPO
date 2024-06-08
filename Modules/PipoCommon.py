@@ -44,7 +44,38 @@ class PipoCommonApplication():
 
 
 
-	def send_command_function(self, command, server):
+	def get_scene_data_function(self, maya_scene_path):
+		maya_path = None
+		if os.path.isfile(os.path.join(self.app.personnal_data["MayaScriptPath"], "scripts/pipoConnectionLog.json"))==True:
+				maya_path =self.app.personnal_data["MayaScriptPath"]
+		elif os.path.isfile(os.path.join(self.app.personnal_data["MayaProgramPath"], "scripts/pipoConnectionLog.json"))==True:
+			maya_path = self.app.personnal_data["MayaProgramPath"]
+
+		if maya_path != None:
+			#get connection port
+			try:
+				with open(os.path.join(maya_path, "scripts/pipoConnectionLog.json"), "r") as read:
+					connection_log = json.load(read)
+			except:
+				self.display_error_function("Impossible to load Connection log!")
+				return
+			else:
+				found = False
+				for index, data in connection_log.items():
+					self.display_message_function("%s : %s"%(maya_scene_path, data["filename"]))
+					if data["filename"] == maya_scene_path:
+						found=True
+						break
+
+				if found != False:
+					return data
+
+
+
+
+
+
+	def send_command_function(self, command, server, display = "show"):
 		try:
 			sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 			sock.connect(server)
@@ -52,16 +83,29 @@ class PipoCommonApplication():
 		except Exception as e:
 			self.display_message_function("Impossible to connect to server")
 			self.display_message_function(e)
+			return None
 
 		else:
-			test = "print('hello world')"
+			#test = "print('hello world')"
 			try:
-				sock.sendall(test.encode("utf-8"))
-				answer = sock.recv(4096)
-				self.display_message_function("answer : %s"%answer)
+				sock.sendall(command.encode("utf-8"))
+				answer = sock.recv(4096).decode("utf-8").replace("\x00", "").strip()
+				#self.display_message_function("answer : %s"%answer)
+			
+				
 			except Exception as e:
 				self.display_message_function("Impossible to send command")
 				self.display_message_function(e)
+				return None
+			else:
+
+				
+				if display== "show":
+					self.display_message_function("%s | Command sent : %s"%(server, command))
+					
+
+
+				return answer
 
 
 
@@ -90,60 +134,109 @@ class PipoCommonApplication():
 			maya_window_list = pg.getWindowsWithTitle("Autodesk MAYA")
 			maya_window_list_name = []
 			for maya in maya_window_list:
-				maya_window_list_name.append(maya.title)
+
+				#try to get only the filepath in the maya filename
+				#quite an tough parsing to do!
+				maya_filepath = (maya.title.split("---")[0]).split(" ")
+
+				maya_window_list_name.append([item for item in maya_filepath if item != ""][-1].replace("\\", "/"))
 
 
 			#try to assign to each maya path in connection log a name instead of index!
 			#try to ping the scene and to get the port opened
-			maya_path = self.app.personnal_data["MayaPath"]
+			maya_path = None
 
-			if os.path.isfile(os.path.join(maya_path, "scripts/pipoConnectionLog.json"))==True:
-				self.display_message_function("connection log exists!")
+			if os.path.isfile(os.path.join(self.app.personnal_data["MayaScriptPath"], "scripts/pipoConnectionLog.json"))==True:
+				maya_path =self.app.personnal_data["MayaScriptPath"]
+			elif os.path.isfile(os.path.join(self.app.personnal_data["MayaProgramPath"], "scripts/pipoConnectionLog.json"))==True:
+				maya_path = self.app.personnal_data["MayaProgramPath"]
+
+
+			if maya_path != None:
+				#self.display_message_function("connection log exists!")
 
 				try:
 					with open(os.path.join(maya_path, "scripts/pipoConnectionLog.json"), "r") as read_file:
 						connection_log = json.load(read_file)
-					self.display_message_function("opened")
+					#self.display_message_function("opened")
 				except:
 					self.display_message_function("Impossible to read log")
 					
 				else:
-					self.display_message_function("try connection")
-					for index, data in connection_log.items():
-						
-						#sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-						#self.display_message_function("%s : %s"%(key, value))
-						#PING THE SCENE AND ASK FOR THE PORT OPENED
-						
-						server = ("localhost", data["port"])
-						self.display_message_function("check connection for %s"%data["port"])
-						try:
-							#sock.connect(server_adress)
+					#self.display_message_function("try connection")
 
-							#self.display_message_function("connected")
-							command = 'import maya.cmds;print(cmds.file(q=True, sn=True))'
-							self.send_command_function(command, server)
-						except Exception as e:
-							self.display_message_function("first error")
-							self.display_message_function(e)
+
+
+					try:
+
 						"""
-						server_adress = ("localhost", data["port"])
+						if the filename value of the dictionnary == None
+						or if the filename is different
+							-> update the value and save the new dictionnary
+						"""
+						#changes = False
+						connection_log_copy = copy.deepcopy(connection_log)
+
+
+						for index, data in connection_log.items():
+							
+							#sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+							#self.display_message_function("%s : %s"%(key, value))
+							#PING THE SCENE AND ASK FOR THE PORT OPENED
+							try:
+								#sock.connect(server_adress)
+
+								#self.display_message_function("connected")
+								command = 'cmds.file(q=True, sn=True)'
+								server = ("localhost", data["port"])
+								output = self.send_command_function(command, server, "hide")
+								#self.display_message_function("output : %s"%output)
+								if output != None:
+									#self.display_message_function("%s : %s"%(os.path.isfile(output), output))
+									if os.path.isfile(output)==True:
+										#connection_log[output] = connection_log.pop(index)
+										#change the value of the current dictionnary item
+										connection_log[index] = {
+											"port":data["port"],
+											"filename":output,
+										}
+										#self.display_message_function("value changed")
+
+										
+							except Exception as e:
+								self.display_message_function(e)
+					except Exception as e:
+						self.display_message_function(e)
+					
+					
+					#check if the new dictionnary is different
+					#if old_connection_log != connection_log:
+					#save the new connection log in file
+
+					
+					if connection_log_copy!=connection_log:
+
 						try:
-							sock.connect(server_adress)
-							self.display_message_function("connected to : %s"%port)
+							with open(os.path.join(maya_path, "scripts/PipoConnectionLog.json"), "w") as save_file:
+								json.dump(connection_log, save_file, indent=4)
+							
 						except Exception as e:
-							self.display_message_function("failed connection with : %s"%port)
-							self.display_message_function(e)
-						"""
-						
+							self.display_error_function("Impossible to save new connection log")
+							self.display_error_function(e)
+					
 			else:
 				self.display_message_function("doesn't exists!")
 
-			if maya_window_list_name != self.opened_maya_scene_list:
-				self.display_message_function("DIFFERENCE")
-				self.display_message_function("old : %s"%self.opened_maya_scene_list)
-				self.display_message_function("new : %s"%maya_window_list_name)
-				self.opened_maya_scene_list = maya_window_list_name
+			#if the two lists are different update the list*
+			#use set to check if both containers are identical even if
+			#items are not in the same order
+
+			
+			if set(maya_window_list_name) != set(self.opened_maya_scene_list):
+				#self.display_message_function("DIFFERENCE")
+				#self.display_message_function("old : %s"%self.opened_maya_scene_list)
+				#self.display_message_function("new : %s"%maya_window_list_name)
+				self.opened_maya_scene_list = maya_window_list_name.copy()
 
 
 
@@ -152,30 +245,11 @@ class PipoCommonApplication():
 				self.screen.maya_scene_list.clear_options()
 				for i in range(len(self.opened_maya_scene_list)):
 					self.screen.maya_scene_list.add_option(Selection(self.opened_maya_scene_list[i],i))
-			"""
-			maya_window_list = pg.getWindowsWithTitle("Autodesk MAYA")
-			maya_window_list_name = []
-			for maya in maya_window_list:
-				maya_window_list_name.append(maya.title)
-			
-			self.display_message_function(maya_window_list_name)
-			if maya_window_name != self.opened_maya_scene_list:
-				self.display_message_function("DIFFERENCE")
-				counter_current_list = Counter(self.opened_maya_scene_list)
-				counter_new_list = Counter(maya_window_list_name)
+		
 
-				to_remove = list((counter_current_list - counter_new_list).elements())
-				for item in to_remove:
-					self.opened_maya_scene_list.remove(item)
 
-				to_add = list((counter_new_list - counter_current_list).elements())
-				self.opened_maya_scene_list.extend(to_add)
 
-				
-			else:
-				self.display_message_function("no difference")
-			sleep(2)
-			"""
+
 			sleep(2)
 		
 
@@ -189,9 +263,9 @@ class PipoCommonApplication():
 		-> if the path exists try to create the autorun in it
 		-> if the path doesn't exists don't fill the personnal settings file
 		"""
-		if (self.personnal_data["MayaPath"] == None) or (os.path.isdir(self.personnal_data["MayaPath"]) == False):
+		if (self.personnal_data["MayaScriptPath"] == None) or (os.path.isdir(self.personnal_data["MayaScriptPath"]) == False):
 			self.display_error_function("Wrong maya path in personnal settings!\nImpossible to put the maya autorun!")
-		elif os.path.isfile(os.path.join(self.personnal_data["MayaPath"],"scripts/userSetup.py"))==True:
+		elif os.path.isfile(os.path.join(self.personnal_data["MayaScriptPath"],"scripts/userSetup.py"))==True:
 			self.display_message_function("User setup file detected in maya script path!")
 		else:
 			#create autorun file
@@ -257,7 +331,10 @@ while True:
 					del content[key]
 
 		len_dictionnary = len(list(content.keys()))
-		content[len_dictionnary+1] = {"port":port_number}
+		content[len_dictionnary+1] = {
+			"filename":None,
+			"port":port_number
+			}
 
 		with open(os.path.join(os.getcwd(), "scripts/pipoConnectionLog.json"), "w") as save_file:
 			json.dump(content, save_file, indent=4)
