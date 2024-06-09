@@ -168,3 +168,1721 @@
 [2024-06-08 23:42:56.291432] UPDATE : Project selected : tesetproject_portable
 [2024-06-08 23:42:56.293427] UPDATE : Project settings loaded - c:/users/metal/onedrive/bureau/testproject
 [2024-06-08 23:42:56.294426] UPDATE : Project settings loaded!
+
+
+[2024-06-09 11:48:02.383439] New Pipo session opened on <built-in function gethostname>
+[2024-06-09 11:48:02.477157] UPDATE : trying to load settings
+[2024-06-09 11:48:02.483141] UPDATE : Personnal settings opened
+[2024-06-09 11:48:02.483141] UPDATE : User setup file detected in maya script path!
+[2024-06-09 11:48:02.484140] UPDATE : {'MayaScriptPath': 'C:/Users/metal/onedrive/documents/maya/2023/', 'MayaProgramPath': 'C:/Program Files/Autodesk/Maya2023/', 'ComputerName': 'MSI', 'ProjectList': {'tesetproject_portable': {'projectPath': 'c:/users/metal/onedrive/bureau/testproject', 'projectCreator': 'MSI', 'projectDate': '2024-05-20 23:37:34.885320'}, 'testproject_school': {'projectPath': 'd:/testprojectschool', 'projectCreator': 'LNS-3D4-37', 'projectDate': '2024-05-21 12:18:13.484625'}, 'testproject_home': {'projectPath': 'D:/WORK/testproject', 'projectCreator': 'DESKTOP-PUPCCRT', 'projectDate': '2024-05-22 20:45:35.442652'}}}
+[2024-06-09 11:48:05.176976] UPDATE : Project selected : tesetproject_portable
+[2024-06-09 11:48:05.183940] UPDATE : Project settings loaded - c:/users/metal/onedrive/bureau/testproject
+[2024-06-09 11:48:05.184940] UPDATE : Project settings loaded!
+
+
+[2024-06-09 11:48:41.996219] New Pipo session opened on <built-in function gethostname>
+[2024-06-09 11:48:42.015169] UPDATE : trying to load settings
+[2024-06-09 11:48:42.016176] UPDATE : Personnal settings opened
+[2024-06-09 11:48:42.016176] UPDATE : User setup file detected in maya script path!
+[2024-06-09 11:48:42.017163] UPDATE : {'MayaScriptPath': 'C:/Users/metal/onedrive/documents/maya/2023/', 'MayaProgramPath': 'C:/Program Files/Autodesk/Maya2023/', 'ComputerName': 'MSI', 'ProjectList': {'tesetproject_portable': {'projectPath': 'c:/users/metal/onedrive/bureau/testproject', 'projectCreator': 'MSI', 'projectDate': '2024-05-20 23:37:34.885320'}, 'testproject_school': {'projectPath': 'd:/testprojectschool', 'projectCreator': 'LNS-3D4-37', 'projectDate': '2024-05-21 12:18:13.484625'}, 'testproject_home': {'projectPath': 'D:/WORK/testproject', 'projectCreator': 'DESKTOP-PUPCCRT', 'projectDate': '2024-05-22 20:45:35.442652'}}}
+[2024-06-09 11:48:44.212294] UPDATE : Project selected : tesetproject_portable
+[2024-06-09 11:48:44.213293] UPDATE : Project settings loaded - c:/users/metal/onedrive/bureau/testproject
+[2024-06-09 11:48:44.213293] UPDATE : Project settings loaded!
+
+
+[2024-06-09 11:49:19.893015] New Pipo session opened on <built-in function gethostname>
+[2024-06-09 11:49:19.912960] UPDATE : trying to load settings
+[2024-06-09 11:49:19.913959] UPDATE : Personnal settings opened
+[2024-06-09 11:49:19.913959] UPDATE : User setup file detected in maya script path!
+[2024-06-09 11:49:19.913959] UPDATE : {'MayaScriptPath': 'C:/Users/metal/onedrive/documents/maya/2023/', 'MayaProgramPath': 'C:/Program Files/Autodesk/Maya2023/', 'ComputerName': 'MSI', 'ProjectList': {'tesetproject_portable': {'projectPath': 'c:/users/metal/onedrive/bureau/testproject', 'projectCreator': 'MSI', 'projectDate': '2024-05-20 23:37:34.885320'}, 'testproject_school': {'projectPath': 'd:/testprojectschool', 'projectCreator': 'LNS-3D4-37', 'projectDate': '2024-05-21 12:18:13.484625'}, 'testproject_home': {'projectPath': 'D:/WORK/testproject', 'projectCreator': 'DESKTOP-PUPCCRT', 'projectDate': '2024-05-22 20:45:35.442652'}}}
+[2024-06-09 11:49:23.729871] UPDATE : Project selected : tesetproject_portable
+[2024-06-09 11:49:23.730869] UPDATE : Project settings loaded - c:/users/metal/onedrive/bureau/testproject
+[2024-06-09 11:49:23.730869] UPDATE : Project settings loaded!
+[2024-06-09 11:49:25.873505] UPDATE : Impossible to connect to server
+[2024-06-09 11:49:25.874503] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+
+
+[2024-06-09 11:54:36.706552] New Pipo session opened on <built-in function gethostname>
+[2024-06-09 11:54:36.725470] UPDATE : trying to load settings
+[2024-06-09 11:54:36.725470] UPDATE : Personnal settings opened
+[2024-06-09 11:54:36.726498] UPDATE : User setup file detected in maya script path!
+[2024-06-09 11:54:36.726498] UPDATE : {'MayaScriptPath': 'C:/Users/metal/onedrive/documents/maya/2023/', 'MayaProgramPath': 'C:/Program Files/Autodesk/Maya2023/', 'ComputerName': 'MSI', 'ProjectList': {'tesetproject_portable': {'projectPath': 'c:/users/metal/onedrive/bureau/testproject', 'projectCreator': 'MSI', 'projectDate': '2024-05-20 23:37:34.885320'}, 'testproject_school': {'projectPath': 'd:/testprojectschool', 'projectCreator': 'LNS-3D4-37', 'projectDate': '2024-05-21 12:18:13.484625'}, 'testproject_home': {'projectPath': 'D:/WORK/testproject', 'projectCreator': 'DESKTOP-PUPCCRT', 'projectDate': '2024-05-22 20:45:35.442652'}}}
+[2024-06-09 11:54:38.581561] UPDATE : Project selected : tesetproject_portable
+[2024-06-09 11:54:38.582561] UPDATE : Project settings loaded - c:/users/metal/onedrive/bureau/testproject
+[2024-06-09 11:54:38.582561] UPDATE : Project settings loaded!
+
+
+[2024-06-09 11:55:31.518176] New Pipo session opened on <built-in function gethostname>
+[2024-06-09 11:55:31.541115] UPDATE : trying to load settings
+[2024-06-09 11:55:31.541115] UPDATE : Personnal settings opened
+[2024-06-09 11:55:31.542113] UPDATE : User setup file detected in maya script path!
+[2024-06-09 11:55:31.542113] UPDATE : {'MayaScriptPath': 'C:/Users/metal/onedrive/documents/maya/2023/', 'MayaProgramPath': 'C:/Program Files/Autodesk/Maya2023/', 'ComputerName': 'MSI', 'ProjectList': {'tesetproject_portable': {'projectPath': 'c:/users/metal/onedrive/bureau/testproject', 'projectCreator': 'MSI', 'projectDate': '2024-05-20 23:37:34.885320'}, 'testproject_school': {'projectPath': 'd:/testprojectschool', 'projectCreator': 'LNS-3D4-37', 'projectDate': '2024-05-21 12:18:13.484625'}, 'testproject_home': {'projectPath': 'D:/WORK/testproject', 'projectCreator': 'DESKTOP-PUPCCRT', 'projectDate': '2024-05-22 20:45:35.442652'}}}
+[2024-06-09 11:55:34.848271] UPDATE : Project selected : tesetproject_portable
+[2024-06-09 11:55:34.849270] UPDATE : Project settings loaded - c:/users/metal/onedrive/bureau/testproject
+[2024-06-09 11:55:34.850266] UPDATE : Project settings loaded!
+[2024-06-09 11:55:35.403787] UPDATE : Scenes : {'character': {'syntax': '[key]_[name]_[type]_[version]', 'keyword': 'char', 'type': ['mod', 'rig', 'sculpt', 'groom', 'lookdev'], 'folder': ['[Origin]/ASSETS/[name]/[mayaProject]/scenes/[type]/[state]']}, 'prop': {'syntax': '[key]_[name]_[type]_[version]', 'keyword': 'prop', 'type': ['mod', 'rig', 'sculpt', 'groom', 'lookdev'], 'folder': ['[Origin]/ASSETS/[name]/[mayaProject]/scenes/[type]/[state]']}, 'item': {'syntax': '[key]_[name]_[type]_[version]', 'keyword': 'item', 'type': ['mod', 'rig', 'sculpt', 'groom', 'lookdev'], 'folder': ['[Origin]/ASSETS/[name]/[mayaProject]/scenes/[type]/[state]']}, 'set': {'syntax': '[key]_[name]_[type]_[version]', 'keyword': 'set', 'type': ['mod', 'rig', 'sculpt', 'groom', 'lookdev'], 'folder': ['[Origin]/ASSETS/[name]/[mayaProject]/scenes/[type]/[state]']}, 'shots': {'syntax': '[sqversion]_[shversion]_[type]_[version]', 'keyword': None, 'type': ['mod', 'rig', 'sculpt', 'groom', 'lookdev'], 'folder': ['[Origin]/SHOTS/[sqversion]/[sqversion]_[shversion]/[type]/[state]']}}
+[2024-06-09 11:55:35.403787] UPDATE : Global : {'mayaFolder': 'maya', 'stateList': ['edit', 'publish'], 'lodList': ['1', '2', '3'], '3dScenesExtension': ['.ma', '.mb'], '3dItemsExtension': ['.obj', '.fbx']}
+[2024-06-09 11:55:37.108901] UPDATE : Impossible to connect to server
+[2024-06-09 11:55:37.110770] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+
+
+[2024-06-09 13:24:01.668251] New Pipo session opened on <built-in function gethostname>
+[2024-06-09 13:24:01.688127] UPDATE : trying to load settings
+[2024-06-09 13:24:01.689149] UPDATE : Personnal settings opened
+[2024-06-09 13:24:01.690134] UPDATE : User setup file detected in maya script path!
+[2024-06-09 13:24:01.690134] UPDATE : {'MayaScriptPath': 'C:/Users/metal/onedrive/documents/maya/2023/', 'MayaProgramPath': 'C:/Program Files/Autodesk/Maya2023/', 'ComputerName': 'MSI', 'ProjectList': {'tesetproject_portable': {'projectPath': 'c:/users/metal/onedrive/bureau/testproject', 'projectCreator': 'MSI', 'projectDate': '2024-05-20 23:37:34.885320'}, 'testproject_school': {'projectPath': 'd:/testprojectschool', 'projectCreator': 'LNS-3D4-37', 'projectDate': '2024-05-21 12:18:13.484625'}, 'testproject_home': {'projectPath': 'D:/WORK/testproject', 'projectCreator': 'DESKTOP-PUPCCRT', 'projectDate': '2024-05-22 20:45:35.442652'}}}
+[2024-06-09 13:24:04.283004] UPDATE : Project selected : tesetproject_portable
+[2024-06-09 13:24:04.284002] UPDATE : Project settings loaded - c:/users/metal/onedrive/bureau/testproject
+[2024-06-09 13:24:04.285000] UPDATE : Project settings loaded!
+[2024-06-09 13:24:06.686629] UPDATE : Impossible to connect to server
+[2024-06-09 13:24:06.724528] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 13:24:08.752157] UPDATE : Impossible to connect to server
+[2024-06-09 13:24:08.772017] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 13:24:12.811085] UPDATE : Impossible to connect to server
+[2024-06-09 13:24:12.881846] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 13:24:14.907299] UPDATE : Impossible to connect to server
+[2024-06-09 13:24:14.927166] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 13:24:18.968302] UPDATE : Impossible to connect to server
+[2024-06-09 13:24:18.991242] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 13:24:21.030928] UPDATE : Impossible to connect to server
+[2024-06-09 13:24:21.056383] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 13:24:25.080708] UPDATE : Impossible to connect to server
+[2024-06-09 13:24:25.102647] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 13:24:27.125275] UPDATE : Impossible to connect to server
+[2024-06-09 13:24:27.154196] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 13:24:31.187192] UPDATE : Impossible to connect to server
+[2024-06-09 13:24:31.208136] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 13:24:33.250573] UPDATE : Impossible to connect to server
+[2024-06-09 13:24:33.271483] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 13:24:37.326879] UPDATE : Impossible to connect to server
+[2024-06-09 13:24:37.348820] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 13:24:39.389567] UPDATE : Impossible to connect to server
+[2024-06-09 13:24:39.409515] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 13:24:43.466000] UPDATE : Impossible to connect to server
+[2024-06-09 13:24:43.484139] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 13:24:45.514488] UPDATE : Impossible to connect to server
+[2024-06-09 13:24:45.534434] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 13:24:49.591407] UPDATE : Impossible to connect to server
+[2024-06-09 13:24:49.620330] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 13:24:51.653757] UPDATE : Impossible to connect to server
+[2024-06-09 13:24:51.673632] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 13:24:55.702751] UPDATE : Impossible to connect to server
+[2024-06-09 13:24:55.724383] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 13:24:57.763312] UPDATE : Impossible to connect to server
+[2024-06-09 13:24:57.789142] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 13:25:01.826474] UPDATE : Impossible to connect to server
+[2024-06-09 13:25:01.853409] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 13:25:03.874081] UPDATE : Impossible to connect to server
+[2024-06-09 13:25:03.893032] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 13:25:07.952556] UPDATE : Impossible to connect to server
+[2024-06-09 13:25:08.026266] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 13:25:10.091679] UPDATE : Impossible to connect to server
+[2024-06-09 13:25:10.110629] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 13:25:14.153265] UPDATE : Impossible to connect to server
+[2024-06-09 13:25:14.173099] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 13:25:16.202573] UPDATE : Impossible to connect to server
+[2024-06-09 13:25:16.224394] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+
+
+[2024-06-09 13:25:19.626148] New Pipo session opened on <built-in function gethostname>
+[2024-06-09 13:25:19.648088] UPDATE : trying to load settings
+[2024-06-09 13:25:19.648088] UPDATE : Personnal settings opened
+[2024-06-09 13:25:19.649086] UPDATE : User setup file detected in maya script path!
+[2024-06-09 13:25:19.649086] UPDATE : {'MayaScriptPath': 'C:/Users/metal/onedrive/documents/maya/2023/', 'MayaProgramPath': 'C:/Program Files/Autodesk/Maya2023/', 'ComputerName': 'MSI', 'ProjectList': {'tesetproject_portable': {'projectPath': 'c:/users/metal/onedrive/bureau/testproject', 'projectCreator': 'MSI', 'projectDate': '2024-05-20 23:37:34.885320'}, 'testproject_school': {'projectPath': 'd:/testprojectschool', 'projectCreator': 'LNS-3D4-37', 'projectDate': '2024-05-21 12:18:13.484625'}, 'testproject_home': {'projectPath': 'D:/WORK/testproject', 'projectCreator': 'DESKTOP-PUPCCRT', 'projectDate': '2024-05-22 20:45:35.442652'}}}
+[2024-06-09 13:25:21.497199] UPDATE : Project selected : tesetproject_portable
+[2024-06-09 13:25:21.498196] UPDATE : Project settings loaded - c:/users/metal/onedrive/bureau/testproject
+[2024-06-09 13:25:21.498196] UPDATE : Project settings loaded!
+[2024-06-09 13:25:23.812255] UPDATE : Impossible to connect to server
+[2024-06-09 13:25:23.820152] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 13:25:25.888746] UPDATE : Impossible to connect to server
+[2024-06-09 13:25:25.911682] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+
+
+[2024-06-09 13:30:08.509021] New Pipo session opened on <built-in function gethostname>
+[2024-06-09 13:30:08.533957] UPDATE : trying to load settings
+[2024-06-09 13:30:08.534958] UPDATE : Personnal settings opened
+[2024-06-09 13:30:08.535974] UPDATE : User setup file detected in maya script path!
+[2024-06-09 13:30:08.535974] UPDATE : {'MayaScriptPath': 'C:/Users/metal/onedrive/documents/maya/2023/', 'MayaProgramPath': 'C:/Program Files/Autodesk/Maya2023/', 'ComputerName': 'MSI', 'ProjectList': {'tesetproject_portable': {'projectPath': 'c:/users/metal/onedrive/bureau/testproject', 'projectCreator': 'MSI', 'projectDate': '2024-05-20 23:37:34.885320'}, 'testproject_school': {'projectPath': 'd:/testprojectschool', 'projectCreator': 'LNS-3D4-37', 'projectDate': '2024-05-21 12:18:13.484625'}, 'testproject_home': {'projectPath': 'D:/WORK/testproject', 'projectCreator': 'DESKTOP-PUPCCRT', 'projectDate': '2024-05-22 20:45:35.442652'}}}
+[2024-06-09 13:30:11.763045] UPDATE : Project selected : tesetproject_portable
+[2024-06-09 13:30:11.764042] UPDATE : Project settings loaded - c:/users/metal/onedrive/bureau/testproject
+[2024-06-09 13:30:11.764042] UPDATE : Project settings loaded!
+[2024-06-09 13:30:14.107826] UPDATE : Impossible to connect to server
+[2024-06-09 13:30:14.115696] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 13:30:16.168745] UPDATE : Impossible to connect to server
+[2024-06-09 13:30:16.180712] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+
+
+[2024-06-09 13:31:59.046423] New Pipo session opened on <built-in function gethostname>
+[2024-06-09 13:31:59.065373] UPDATE : trying to load settings
+[2024-06-09 13:31:59.066371] UPDATE : Personnal settings opened
+[2024-06-09 13:31:59.066371] UPDATE : User setup file detected in maya script path!
+[2024-06-09 13:31:59.067374] UPDATE : {'MayaScriptPath': 'C:/Users/metal/onedrive/documents/maya/2023/', 'MayaProgramPath': 'C:/Program Files/Autodesk/Maya2023/', 'ComputerName': 'MSI', 'ProjectList': {'tesetproject_portable': {'projectPath': 'c:/users/metal/onedrive/bureau/testproject', 'projectCreator': 'MSI', 'projectDate': '2024-05-20 23:37:34.885320'}, 'testproject_school': {'projectPath': 'd:/testprojectschool', 'projectCreator': 'LNS-3D4-37', 'projectDate': '2024-05-21 12:18:13.484625'}, 'testproject_home': {'projectPath': 'D:/WORK/testproject', 'projectCreator': 'DESKTOP-PUPCCRT', 'projectDate': '2024-05-22 20:45:35.442652'}}}
+[2024-06-09 13:32:01.631190] UPDATE : Project selected : tesetproject_portable
+[2024-06-09 13:32:01.632186] UPDATE : Project settings loaded - c:/users/metal/onedrive/bureau/testproject
+[2024-06-09 13:32:01.632186] UPDATE : Project settings loaded!
+[2024-06-09 13:32:04.046538] UPDATE : Impossible to connect to server
+[2024-06-09 13:32:04.076945] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 13:32:06.139574] UPDATE : Impossible to connect to server
+[2024-06-09 13:32:06.158757] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 13:32:10.187442] UPDATE : Impossible to connect to server
+[2024-06-09 13:32:10.246284] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 13:32:12.294292] UPDATE : Impossible to connect to server
+[2024-06-09 13:32:12.311247] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 13:32:16.406039] UPDATE : Impossible to connect to server
+[2024-06-09 13:32:16.486890] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 13:32:18.514941] UPDATE : Impossible to connect to server
+[2024-06-09 13:32:18.536886] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+
+
+[2024-06-09 13:33:26.864267] New Pipo session opened on <built-in function gethostname>
+[2024-06-09 13:33:26.883884] UPDATE : trying to load settings
+[2024-06-09 13:33:26.884882] UPDATE : Personnal settings opened
+[2024-06-09 13:33:26.885665] UPDATE : User setup file detected in maya script path!
+[2024-06-09 13:33:26.885665] UPDATE : {'MayaScriptPath': 'C:/Users/metal/onedrive/documents/maya/2023/', 'MayaProgramPath': 'C:/Program Files/Autodesk/Maya2023/', 'ComputerName': 'MSI', 'ProjectList': {'tesetproject_portable': {'projectPath': 'c:/users/metal/onedrive/bureau/testproject', 'projectCreator': 'MSI', 'projectDate': '2024-05-20 23:37:34.885320'}, 'testproject_school': {'projectPath': 'd:/testprojectschool', 'projectCreator': 'LNS-3D4-37', 'projectDate': '2024-05-21 12:18:13.484625'}, 'testproject_home': {'projectPath': 'D:/WORK/testproject', 'projectCreator': 'DESKTOP-PUPCCRT', 'projectDate': '2024-05-22 20:45:35.442652'}}}
+[2024-06-09 13:33:28.846446] UPDATE : Project selected : tesetproject_portable
+[2024-06-09 13:33:28.846446] UPDATE : Project settings loaded - c:/users/metal/onedrive/bureau/testproject
+[2024-06-09 13:33:28.847446] UPDATE : Project settings loaded!
+[2024-06-09 13:33:31.188955] UPDATE : Impossible to connect to server
+[2024-06-09 13:33:31.205877] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 13:33:33.233996] UPDATE : Impossible to connect to server
+[2024-06-09 13:33:33.256925] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 13:33:37.280901] UPDATE : Impossible to connect to server
+[2024-06-09 13:33:37.345728] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 13:33:39.388908] UPDATE : Impossible to connect to server
+[2024-06-09 13:33:39.405843] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 13:33:43.452026] UPDATE : Impossible to connect to server
+[2024-06-09 13:33:43.471732] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 13:33:45.503286] UPDATE : Impossible to connect to server
+[2024-06-09 13:33:45.521077] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 13:33:49.576809] UPDATE : Impossible to connect to server
+[2024-06-09 13:33:49.642472] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 13:33:51.670368] UPDATE : Impossible to connect to server
+[2024-06-09 13:33:51.687322] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 13:33:55.719659] UPDATE : Impossible to connect to server
+[2024-06-09 13:33:55.738574] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 13:33:57.765399] UPDATE : Impossible to connect to server
+[2024-06-09 13:33:57.786240] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+
+
+[2024-06-09 13:34:03.920151] New Pipo session opened on <built-in function gethostname>
+[2024-06-09 13:34:03.938103] UPDATE : trying to load settings
+[2024-06-09 13:34:03.939101] UPDATE : Personnal settings opened
+[2024-06-09 13:34:03.939101] UPDATE : User setup file detected in maya script path!
+[2024-06-09 13:34:03.940102] UPDATE : {'MayaScriptPath': 'C:/Users/metal/onedrive/documents/maya/2023/', 'MayaProgramPath': 'C:/Program Files/Autodesk/Maya2023/', 'ComputerName': 'MSI', 'ProjectList': {'tesetproject_portable': {'projectPath': 'c:/users/metal/onedrive/bureau/testproject', 'projectCreator': 'MSI', 'projectDate': '2024-05-20 23:37:34.885320'}, 'testproject_school': {'projectPath': 'd:/testprojectschool', 'projectCreator': 'LNS-3D4-37', 'projectDate': '2024-05-21 12:18:13.484625'}, 'testproject_home': {'projectPath': 'D:/WORK/testproject', 'projectCreator': 'DESKTOP-PUPCCRT', 'projectDate': '2024-05-22 20:45:35.442652'}}}
+[2024-06-09 13:34:06.456779] UPDATE : Project selected : tesetproject_portable
+[2024-06-09 13:34:06.457777] UPDATE : Project settings loaded - c:/users/metal/onedrive/bureau/testproject
+[2024-06-09 13:34:06.458774] UPDATE : Project settings loaded!
+[2024-06-09 13:34:08.874207] UPDATE : not all arguments converted during string formatting
+[2024-06-09 13:34:10.937080] UPDATE : not all arguments converted during string formatting
+
+
+[2024-06-09 13:34:53.734255] New Pipo session opened on <built-in function gethostname>
+[2024-06-09 13:34:53.751210] UPDATE : trying to load settings
+[2024-06-09 13:34:53.752207] UPDATE : Personnal settings opened
+[2024-06-09 13:34:53.752207] UPDATE : User setup file detected in maya script path!
+[2024-06-09 13:34:53.752207] UPDATE : {'MayaScriptPath': 'C:/Users/metal/onedrive/documents/maya/2023/', 'MayaProgramPath': 'C:/Program Files/Autodesk/Maya2023/', 'ComputerName': 'MSI', 'ProjectList': {'tesetproject_portable': {'projectPath': 'c:/users/metal/onedrive/bureau/testproject', 'projectCreator': 'MSI', 'projectDate': '2024-05-20 23:37:34.885320'}, 'testproject_school': {'projectPath': 'd:/testprojectschool', 'projectCreator': 'LNS-3D4-37', 'projectDate': '2024-05-21 12:18:13.484625'}, 'testproject_home': {'projectPath': 'D:/WORK/testproject', 'projectCreator': 'DESKTOP-PUPCCRT', 'projectDate': '2024-05-22 20:45:35.442652'}}}
+[2024-06-09 13:34:56.208158] UPDATE : Project selected : tesetproject_portable
+[2024-06-09 13:34:56.209155] UPDATE : Project settings loaded - c:/users/metal/onedrive/bureau/testproject
+[2024-06-09 13:34:56.209155] UPDATE : Project settings loaded!
+[2024-06-09 13:34:58.594667] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 13:34:58.611622] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 13:35:00.651239] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 13:35:00.668554] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 13:35:04.704102] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 13:35:04.724606] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 13:35:06.765428] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 13:35:06.789363] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+
+
+[2024-06-09 15:16:59.412823] New Pipo session opened on <built-in function gethostname>
+[2024-06-09 15:16:59.433482] UPDATE : trying to load settings
+[2024-06-09 15:16:59.433482] UPDATE : Personnal settings opened
+[2024-06-09 15:16:59.434488] UPDATE : User setup file detected in maya script path!
+[2024-06-09 15:16:59.434488] UPDATE : {'MayaScriptPath': 'C:/Users/metal/onedrive/documents/maya/2023/', 'MayaProgramPath': 'C:/Program Files/Autodesk/Maya2023/', 'ComputerName': 'MSI', 'ProjectList': {'tesetproject_portable': {'projectPath': 'c:/users/metal/onedrive/bureau/testproject', 'projectCreator': 'MSI', 'projectDate': '2024-05-20 23:37:34.885320'}, 'testproject_school': {'projectPath': 'd:/testprojectschool', 'projectCreator': 'LNS-3D4-37', 'projectDate': '2024-05-21 12:18:13.484625'}, 'testproject_home': {'projectPath': 'D:/WORK/testproject', 'projectCreator': 'DESKTOP-PUPCCRT', 'projectDate': '2024-05-22 20:45:35.442652'}}}
+[2024-06-09 15:17:02.098799] UPDATE : Project selected : tesetproject_portable
+[2024-06-09 15:17:02.099797] UPDATE : Project settings loaded - c:/users/metal/onedrive/bureau/testproject
+[2024-06-09 15:17:02.099797] UPDATE : Project settings loaded!
+[2024-06-09 15:17:04.448771] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:17:04.465603] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:17:06.507915] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:17:06.529931] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:17:10.576447] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:17:10.594744] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:17:12.647996] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:17:12.650021] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:17:16.686600] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:17:16.703149] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:17:18.760377] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:17:18.778166] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:17:22.821287] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:17:22.835918] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:17:24.865895] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:17:24.888806] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+
+[2024-06-09 15:17:24.988588] UPDATE : ============================================= SEARCHING =============================================
+[2024-06-09 15:17:24.989586] UPDATE : NO PROCESS TO END!
+[2024-06-09 15:17:24.990583] UPDATE : ['character']
+[2024-06-09 15:17:24.991580] UPDATE : Default folder for character : [Origin]/ASSETS/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-06-09 15:17:24.991580] ERROR : Impossible to get name folder for that kind : character
+[2024-06-09 15:17:24.992578] UPDATE : []
+[2024-06-09 15:17:24.993576] UPDATE : {}
+[2024-06-09 15:17:24.994104] UPDATE : No name selected so no process launched!
+
+[2024-06-09 15:17:26.204868] UPDATE : ============================================= SEARCHING =============================================
+[2024-06-09 15:17:26.205875] UPDATE : NO PROCESS TO END!
+[2024-06-09 15:17:26.205875] UPDATE : []
+[2024-06-09 15:17:26.206860] UPDATE : {}
+[2024-06-09 15:17:26.206860] UPDATE : No name selected so no process launched!
+
+[2024-06-09 15:17:28.628737] UPDATE : ============================================= SEARCHING =============================================
+[2024-06-09 15:17:28.629735] UPDATE : NO PROCESS TO END!
+[2024-06-09 15:17:28.630732] UPDATE : ['prop']
+[2024-06-09 15:17:28.630732] UPDATE : Default folder for prop : [Origin]/ASSETS/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-06-09 15:17:28.630732] ERROR : Impossible to get name folder for that kind : prop
+[2024-06-09 15:17:28.631729] UPDATE : [None]
+[2024-06-09 15:17:28.632726] UPDATE : {}
+[2024-06-09 15:17:28.632726] UPDATE : No name selected so no process launched!
+[2024-06-09 15:17:28.998894] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:17:29.015636] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+
+[2024-06-09 15:17:29.602863] UPDATE : ============================================= SEARCHING =============================================
+[2024-06-09 15:17:29.602863] UPDATE : NO PROCESS TO END!
+[2024-06-09 15:17:29.603856] UPDATE : []
+[2024-06-09 15:17:29.604680] UPDATE : {}
+[2024-06-09 15:17:29.604680] UPDATE : No name selected so no process launched!
+
+[2024-06-09 15:17:30.416053] UPDATE : ============================================= SEARCHING =============================================
+[2024-06-09 15:17:30.417063] UPDATE : NO PROCESS TO END!
+[2024-06-09 15:17:30.417063] UPDATE : ['character']
+[2024-06-09 15:17:30.418049] UPDATE : Default folder for character : [Origin]/ASSETS/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-06-09 15:17:30.418049] ERROR : Impossible to get name folder for that kind : character
+[2024-06-09 15:17:30.419046] UPDATE : [None]
+[2024-06-09 15:17:30.419046] UPDATE : {}
+[2024-06-09 15:17:30.420043] UPDATE : No name selected so no process launched!
+[2024-06-09 15:17:31.057865] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:17:31.078874] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:17:35.117686] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:17:35.133560] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:17:37.164876] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:17:37.182873] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+
+[2024-06-09 15:17:37.449599] UPDATE : ============================================= SEARCHING =============================================
+[2024-06-09 15:17:37.450610] UPDATE : NO PROCESS TO END!
+[2024-06-09 15:17:37.451590] UPDATE : []
+[2024-06-09 15:17:37.451590] UPDATE : {}
+[2024-06-09 15:17:37.451590] UPDATE : No name selected so no process launched!
+
+[2024-06-09 15:17:38.282676] UPDATE : ============================================= SEARCHING =============================================
+[2024-06-09 15:17:38.283641] UPDATE : NO PROCESS TO END!
+[2024-06-09 15:17:38.284673] UPDATE : ['character']
+[2024-06-09 15:17:38.284673] UPDATE : Default folder for character : [Origin]/ASSETS/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-06-09 15:17:38.285659] ERROR : Impossible to get name folder for that kind : character
+[2024-06-09 15:17:38.285659] UPDATE : [None]
+[2024-06-09 15:17:38.286662] UPDATE : {}
+[2024-06-09 15:17:38.286662] UPDATE : No name selected so no process launched!
+[2024-06-09 15:17:41.230092] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:17:41.245988] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+
+[2024-06-09 15:17:42.690782] UPDATE : ============================================= SEARCHING =============================================
+[2024-06-09 15:17:42.691772] UPDATE : NO PROCESS TO END!
+[2024-06-09 15:17:42.691772] UPDATE : []
+[2024-06-09 15:17:42.692794] UPDATE : {}
+[2024-06-09 15:17:42.693304] UPDATE : No name selected so no process launched!
+[2024-06-09 15:17:43.292630] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:17:43.295826] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:17:47.341773] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:17:47.362899] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:17:49.400963] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:17:49.437874] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:17:53.500721] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:17:53.520605] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:17:55.571717] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:17:55.588140] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:17:59.636147] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:17:59.655874] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:18:01.712122] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:18:01.727815] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:18:05.776705] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:18:05.844695] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:18:07.891837] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:18:07.912126] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:18:11.949372] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:18:11.965804] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:18:14.021782] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:18:14.038327] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:18:18.100935] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:18:18.118665] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:18:20.157269] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:18:20.172363] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:18:24.291742] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:18:24.310727] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:18:26.343620] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:18:26.360635] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:18:30.398950] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:18:30.415792] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:18:32.439686] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:18:32.461606] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:18:36.500668] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:18:36.518913] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:18:38.560639] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:18:38.645193] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:18:42.707926] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:18:42.732925] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:18:44.763117] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:18:44.780578] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:18:48.818799] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:18:48.838063] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:18:50.921371] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:18:50.938330] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:18:54.982377] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:18:54.999705] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:18:57.045526] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:18:57.116672] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:19:01.150401] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:19:01.165840] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:19:03.205569] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:19:03.220529] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:19:07.240825] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:19:07.271407] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:19:09.329911] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:19:09.353106] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:19:13.413397] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:19:13.430177] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:19:15.483226] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:19:15.500724] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:19:19.552592] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:19:19.568063] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:19:21.623403] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:19:21.639233] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:19:25.700608] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:19:25.719557] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:19:27.772302] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:19:27.787856] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:19:31.825146] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:19:31.846390] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:19:33.883360] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:19:33.898888] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:19:37.932417] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:19:37.948351] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:19:40.005828] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:19:40.029502] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:19:44.060564] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:19:44.077876] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:19:46.100805] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:19:46.119461] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:19:50.177977] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:19:50.196558] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:19:52.241630] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:19:52.262081] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:19:56.310377] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:19:56.326629] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:19:58.385672] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:19:58.403582] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:20:02.439346] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:20:02.467672] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:20:04.502434] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:20:04.521344] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:20:08.622923] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:20:08.692420] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:20:10.717699] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:20:10.736499] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:20:14.791494] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:20:14.813237] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:20:16.858387] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:20:16.880798] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:20:20.942517] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:20:20.960359] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:20:23.010318] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:20:23.027344] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:20:27.076329] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:20:27.096156] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:20:29.134185] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:20:29.151688] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:20:33.209527] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:20:33.226498] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:20:35.258489] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:20:35.278226] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:20:39.329598] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:20:39.345323] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:20:41.397567] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:20:41.416522] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:20:45.448664] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:20:45.547619] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:20:47.586417] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:20:47.602246] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:20:51.661741] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:20:51.677662] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:20:53.732774] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:20:53.749632] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:20:57.773543] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:20:57.795511] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:20:59.826511] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:20:59.893522] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:21:03.920603] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:21:03.936561] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:21:05.969192] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:21:05.997218] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:21:10.036518] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:21:10.053343] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:21:12.105649] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:21:12.122635] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:21:16.180394] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:21:16.200725] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:21:18.230368] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:21:18.246412] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:21:22.289482] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:21:22.306437] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:21:24.367225] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:21:24.396495] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:21:28.447169] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:21:28.471636] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:21:30.536209] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:21:30.563695] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:21:34.623335] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:21:34.643554] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:21:36.694636] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:21:36.784983] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:21:40.838467] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:21:40.862372] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:21:42.885613] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:21:42.904716] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:21:46.968020] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:21:46.983438] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:21:49.028268] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:21:49.044713] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:21:53.087402] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:21:53.103358] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:21:55.132379] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:21:55.150310] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:21:59.187213] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:21:59.206534] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:22:01.276779] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:22:01.291740] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:22:05.327440] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:22:05.344345] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:22:07.373253] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:22:07.388550] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:22:11.436514] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:22:11.451427] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:22:13.480672] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:22:13.496201] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:22:17.553578] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:22:17.569539] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:22:19.623925] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:22:19.644460] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:22:23.668523] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:22:23.685987] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:22:25.724416] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:22:25.745912] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:22:29.809424] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:22:29.830772] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:22:31.872365] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:22:31.898227] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:22:35.936716] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:22:35.951674] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:22:38.007588] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:22:38.028892] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:22:42.057581] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:22:42.075538] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:22:44.118406] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:22:44.133511] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:22:48.179719] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:22:48.253930] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:22:50.320667] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:22:50.335626] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:22:54.388745] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:22:54.408701] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:22:56.435790] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:22:56.454180] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:23:00.477645] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:23:00.495616] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:23:02.549272] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:23:02.565778] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:23:06.615789] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:23:06.716192] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:23:08.762619] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:23:08.779176] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:23:12.822665] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:23:12.839364] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:23:14.889546] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:23:14.906351] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:23:18.948235] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:23:18.964547] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:23:21.008535] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:23:21.028495] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:23:25.039369] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:23:25.062395] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:23:27.084386] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:23:27.100833] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:23:31.137550] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:23:31.152518] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:23:33.210408] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:23:33.225983] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:23:37.247591] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:23:37.266061] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:23:39.307585] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:23:39.328450] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:23:43.374543] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:23:43.396490] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:23:45.450601] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:23:45.470709] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:23:49.547487] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:23:49.562242] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:23:51.620219] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:23:51.638700] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:23:55.705404] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:23:55.721875] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:23:57.807934] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:23:57.884668] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:24:01.936241] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:24:01.955191] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:24:04.043719] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:24:04.060503] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:24:08.115316] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:24:08.131619] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:24:10.154709] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:24:10.176242] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:24:14.228864] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:24:14.245767] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:24:16.286656] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:24:16.301618] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:24:20.333981] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:24:20.352783] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:24:22.408352] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:24:22.424605] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:24:26.466728] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:24:26.483441] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:24:28.514625] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:24:28.529590] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:24:32.573966] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:24:32.594249] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:24:34.634501] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:24:34.650497] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:24:38.708940] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:24:38.730209] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:24:40.776678] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:24:40.793289] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:24:44.832695] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:24:44.849401] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:24:46.885477] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:24:46.904050] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:24:50.966821] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:24:50.981666] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:24:53.040477] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:24:53.143178] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:24:57.180170] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:24:57.242653] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:24:59.288623] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:24:59.303580] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:25:03.340494] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:25:03.362835] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:25:05.410710] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:25:05.431224] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:25:09.495744] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:25:09.514011] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:25:11.559695] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:25:11.576446] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:25:15.607863] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:25:15.626675] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:25:17.661559] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:25:17.676409] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:25:21.699600] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:25:21.717407] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:25:23.774489] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:25:23.794682] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:25:27.849383] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:25:27.866874] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:25:29.913406] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:25:29.949655] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:25:34.007781] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:25:34.030730] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:25:36.091690] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:25:36.112559] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:25:40.150357] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:25:40.167528] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:25:42.224347] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:25:42.246286] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:25:46.290343] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:25:46.396903] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:25:48.447648] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:25:48.464365] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:25:52.501422] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:25:52.516211] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:25:54.558609] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:25:54.580166] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:25:58.607424] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:25:58.622967] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:26:00.678051] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:26:00.695480] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:26:04.730357] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:26:04.810443] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:26:06.841449] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:26:06.862746] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:26:10.889736] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:26:10.906499] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:26:12.953593] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:26:12.969354] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:26:17.000425] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:26:17.020554] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:26:19.071200] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:26:19.092394] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:26:23.137401] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:26:23.164702] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:26:25.198738] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:26:25.216841] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:26:29.259542] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:26:29.276402] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:26:31.317341] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:26:31.344235] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:26:35.367364] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:26:35.392660] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:26:37.437438] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:26:37.456240] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:26:41.624103] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:26:41.645567] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:26:43.682740] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:26:43.700857] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:26:47.745682] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:26:47.763437] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:26:49.819177] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:26:49.837449] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:26:53.896708] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:26:53.915672] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:26:55.956948] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:26:55.972418] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:27:00.091440] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:27:00.112379] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:27:02.138411] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:27:02.161362] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:27:06.200322] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:27:06.218276] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:27:08.261251] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:27:08.279426] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:27:12.312428] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:27:12.333514] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:27:14.385905] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:27:14.402261] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:27:18.453431] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:27:18.469798] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:27:20.589458] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:27:20.605819] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:27:24.657399] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:27:24.678883] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:27:26.717544] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:27:26.736419] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:27:30.779653] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:27:30.800365] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:27:32.824280] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:27:32.846768] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:27:36.881516] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:27:36.898406] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:27:38.933249] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:27:38.951713] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:27:42.982714] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:27:42.999609] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:27:45.057454] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:27:45.079496] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:27:49.101311] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:27:49.118471] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:27:51.153551] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:27:51.182419] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:27:55.221487] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:27:55.246358] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:27:57.295686] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:27:57.315132] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:28:01.352883] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:28:01.369694] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:28:03.412407] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:28:03.437655] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:28:07.479858] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:28:07.497354] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:28:09.524552] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:28:09.547405] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:28:13.604877] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:28:13.621487] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:28:15.680759] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:28:15.696527] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:28:19.716341] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:28:19.732919] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:28:21.789406] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:28:21.810427] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:28:25.853770] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:28:25.871721] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:28:27.931719] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:28:27.947661] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:28:31.990550] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:28:32.005515] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:28:34.062391] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:28:34.078272] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:28:38.120579] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:28:38.137532] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:28:40.203385] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:28:40.219910] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:28:44.245388] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:28:44.265477] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:28:46.295518] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:28:46.313305] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:28:50.366612] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:28:50.385435] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:28:52.419509] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:28:52.436365] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:28:56.481931] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:28:56.497836] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:28:58.558466] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:28:58.579015] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:29:02.633569] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:29:02.648276] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:29:04.706477] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:29:04.725601] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:29:08.747069] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:29:08.763578] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:29:10.820468] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:29:10.836253] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:29:14.883664] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:29:14.898661] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:29:16.941976] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:29:16.962504] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:29:21.011596] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:29:21.030594] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:29:23.072552] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:29:23.088037] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:29:27.153508] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:29:27.174041] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:29:29.218432] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:29:29.235388] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:29:33.262187] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:29:33.342468] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:29:35.397544] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:29:35.414499] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:29:39.450193] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:29:39.469580] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:29:41.524515] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:29:41.550450] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:29:45.575491] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:29:45.593495] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:29:47.619545] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:29:47.637433] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:29:51.678570] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:29:51.693490] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:29:53.743454] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:29:53.760381] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:29:57.803356] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:29:57.818953] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:29:59.864474] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:29:59.883277] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:30:03.901756] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:30:03.918331] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:30:05.967571] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:30:05.986388] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:30:10.039783] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:30:10.117108] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:30:12.147750] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:30:12.166715] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:30:16.229681] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:30:16.247418] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:30:18.290587] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:30:18.306401] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:30:22.359680] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:30:22.375281] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:30:24.419489] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:30:24.437207] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:30:28.479929] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:30:28.562651] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:30:30.592703] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:30:30.613513] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:30:34.663264] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:30:34.679779] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:30:36.710780] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:30:36.726503] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:30:40.782207] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:30:40.797606] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:30:42.841595] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:30:42.856422] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:30:46.919584] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:30:47.012397] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:30:49.058461] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:30:49.080419] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:30:53.138405] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:30:53.155857] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:30:55.214511] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:30:55.231467] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:30:59.255693] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:30:59.270961] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:31:01.321424] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:31:01.337421] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:31:05.383776] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:31:05.401419] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:31:07.442698] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:31:07.461663] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:31:11.507477] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:31:11.529894] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:31:13.574778] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:31:13.592499] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:31:17.632407] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:31:17.648418] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:31:19.707566] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:31:19.726859] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:31:23.778551] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:31:23.794431] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:31:25.855497] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:31:25.870440] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:31:29.910556] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:31:29.927472] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:31:31.960528] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:31:31.976322] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:31:36.005571] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:31:36.021529] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:31:38.093570] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:31:38.110104] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:31:42.149245] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:31:42.168703] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:31:44.228529] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:31:44.245024] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:31:48.290530] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:31:48.312830] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:31:50.360288] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:31:50.376687] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:31:54.421762] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:31:54.447432] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:31:56.482489] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:31:56.499964] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:32:00.538678] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:32:00.556395] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:32:02.599977] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:32:02.616233] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:32:06.665667] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:32:06.682505] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:32:08.714536] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:32:08.733601] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:32:12.773646] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:32:12.795461] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:32:14.850260] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:32:14.865511] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:32:18.877318] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:32:18.894602] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:32:20.934764] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:32:20.951626] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:32:24.967509] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:32:24.984434] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:32:27.013740] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:32:27.030694] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:32:31.085497] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:32:31.100427] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:32:33.151892] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:32:33.172331] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:32:37.317498] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:32:37.334794] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:32:39.370689] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:32:39.386461] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:32:43.433547] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:32:43.452442] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:32:45.477519] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:32:45.495488] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:32:49.546306] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:32:49.563647] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:32:51.605297] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:32:51.629271] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:32:55.665302] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:32:55.683424] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:32:57.712499] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:32:57.728383] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:33:01.789653] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:33:01.817578] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:33:03.854273] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:33:03.876381] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:33:07.917193] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:33:07.935269] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:33:09.967363] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:33:09.984984] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:33:14.019387] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:33:14.104425] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:33:16.166551] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:33:16.183777] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:33:20.236505] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:33:20.262711] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:33:22.322302] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:33:22.348520] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:33:26.374540] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:33:26.398239] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:33:28.446256] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:33:28.464625] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:33:32.513271] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:33:32.532223] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:33:34.588702] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:33:34.605478] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:33:38.641700] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:33:38.661988] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:33:40.686456] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:33:40.714836] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:33:44.748916] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:33:44.766661] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:33:46.796537] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:33:46.818538] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:33:50.868621] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:33:50.886577] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:33:52.930023] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:33:52.945439] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:33:56.982447] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:33:57.002075] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:33:59.055529] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:33:59.071698] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:34:03.149520] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:34:03.167477] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:34:05.192742] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:34:05.212717] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:34:09.276470] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:34:09.294295] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:34:11.346408] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:34:11.364193] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:34:15.414724] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:34:15.431650] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:34:17.475626] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:34:17.493464] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:34:21.542618] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:34:21.559430] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:34:23.591881] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:34:23.612504] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:34:27.643396] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:34:27.662515] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:34:29.711606] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:34:29.728562] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:34:33.778416] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:34:33.794625] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:34:35.838472] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:34:35.919219] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:34:39.950398] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:34:39.966873] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:34:42.005514] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:34:42.021304] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:34:46.099294] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:34:46.116631] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:34:48.156666] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:34:48.194789] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:34:52.239432] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:34:52.254904] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:34:54.326198] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:34:54.345961] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:34:58.393468] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:34:58.415444] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:35:00.448708] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:35:00.465519] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:35:04.494406] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:35:04.512281] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:35:06.568781] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:35:06.585279] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:35:10.624488] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:35:10.644938] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:35:12.683338] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:35:12.699543] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:35:16.758272] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:35:16.784431] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:35:18.806527] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:35:18.821495] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:35:22.882517] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:35:22.902417] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:35:24.920498] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:35:24.935453] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:35:28.961294] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:35:28.975696] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:35:31.011360] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:35:31.029460] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:35:35.077416] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:35:35.095290] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:35:37.153494] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:35:37.170453] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:35:41.296329] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:35:41.313966] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:35:43.370766] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:35:43.385375] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:35:47.418634] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:35:47.445446] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:35:49.476516] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:35:49.492441] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:35:53.531466] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:35:53.546959] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:35:55.601527] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:35:55.617452] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:35:59.648836] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:35:59.664821] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:36:01.696762] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:36:01.713551] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:36:05.748789] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:36:05.766687] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:36:07.804335] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:36:07.821573] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:36:11.852375] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:36:11.869876] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:36:13.908450] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:36:13.928818] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:36:17.989579] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:36:18.005318] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:36:20.063523] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:36:20.146841] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:36:24.181663] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:36:24.198473] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:36:26.246523] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:36:26.263636] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:36:30.307518] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:36:30.329630] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:36:32.368511] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:36:32.388318] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:36:36.451541] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:36:36.469480] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:36:38.510977] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:36:38.527580] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:36:42.573050] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:36:42.651853] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:36:44.682816] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:36:44.697706] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:36:48.730453] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:36:48.745461] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:36:50.771560] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:36:50.787529] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:36:54.833274] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:36:54.850191] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:36:56.881573] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:36:56.898390] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:37:00.944637] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:37:01.027016] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:37:03.061952] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:37:03.080053] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:37:07.108418] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:37:07.129071] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:37:09.155602] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:37:09.181106] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:37:13.201327] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:37:13.218880] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:37:15.280286] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:37:15.295129] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:37:19.331873] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:37:19.356914] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:37:21.507520] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:37:21.529986] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:37:25.561450] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:37:25.578407] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:37:27.618423] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:37:27.636448] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:37:31.679953] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:37:31.696461] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:37:33.730550] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:37:33.748511] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:37:37.775243] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:37:37.794133] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:37:39.839560] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:37:39.929229] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:37:43.951188] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:37:43.967914] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:37:46.014972] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:37:46.033024] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:37:50.045461] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:37:50.060422] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:37:52.101632] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:37:52.154491] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:37:56.558529] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:37:56.575477] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:37:58.609412] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:37:58.626481] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:38:02.676653] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:38:02.692632] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:38:04.733513] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:38:04.749450] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:38:08.780573] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:38:08.795272] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:38:10.823604] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:38:10.847301] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:38:14.900402] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:38:14.915943] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:38:16.961651] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:38:16.976615] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:38:21.014013] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:38:21.028941] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:38:23.070008] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:38:23.086176] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:38:27.110243] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:38:27.127377] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:38:29.164540] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:38:29.183373] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:38:33.230242] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:38:33.249108] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:38:35.280667] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:38:35.302242] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:38:39.341983] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:38:39.358115] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:38:41.403062] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:38:41.419525] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:38:45.456356] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:38:45.479324] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:38:47.507628] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:38:47.527803] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:38:51.562501] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:38:51.580399] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:38:53.623816] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:38:53.638662] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:38:57.684953] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:38:57.818976] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:38:59.843823] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:38:59.872776] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:39:03.943434] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:39:03.959412] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:39:06.005460] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:39:06.021416] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:39:10.073765] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:39:10.089357] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:39:12.167410] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:39:12.182374] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:39:16.222839] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:39:16.247287] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:39:18.297493] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:39:18.318594] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:39:22.359052] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:39:22.379972] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:39:24.415047] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:39:24.431054] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:39:28.448710] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:39:28.464737] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:39:30.478216] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:39:30.496385] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:39:34.533200] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:39:34.549348] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:39:36.586235] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:39:36.667308] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:39:40.701179] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:39:40.716646] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:39:42.766052] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:39:42.783976] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:39:46.846813] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:39:46.862747] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:39:48.890158] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:39:48.913051] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:39:52.936875] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:39:52.951816] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:39:54.991825] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:39:55.007786] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:39:59.060794] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:39:59.075776] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:40:01.135743] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:40:01.151661] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:40:05.200245] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:40:05.221774] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:40:07.286929] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:40:07.304851] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:40:11.370763] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:40:11.388579] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:40:13.460528] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:40:13.571153] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:40:17.617127] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:40:17.701943] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:40:19.760840] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:40:19.779789] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:40:23.831728] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:40:23.847231] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:40:25.887946] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:40:25.906182] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:40:29.958174] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:40:29.975826] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:40:32.030817] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:40:32.048786] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:40:36.088060] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:40:36.104967] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:40:38.256355] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:40:38.281755] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:40:42.326016] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:40:42.342972] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:40:44.373671] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:40:44.388467] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:40:48.444874] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:40:48.463195] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:40:50.521551] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:40:50.538986] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:40:54.620430] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:40:54.636934] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:40:56.668340] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:40:56.751981] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:41:00.790440] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:41:00.811248] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:41:02.833667] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:41:02.850057] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:41:06.900639] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:41:06.921597] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:41:09.003659] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:41:09.019584] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:41:13.073582] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:41:13.096152] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:41:15.138470] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:41:15.252220] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:41:19.292800] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:41:19.311066] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:41:21.367849] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:41:21.385809] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:41:25.448866] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:41:25.463831] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:41:27.497259] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:41:27.515058] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:41:31.576754] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:41:31.595052] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:41:33.635495] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:41:33.656440] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:41:37.802557] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:41:37.820778] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:41:39.841837] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:41:39.859826] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:41:43.901968] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:41:43.919610] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:41:45.981843] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:41:45.998768] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:41:50.041843] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:41:50.061738] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:41:52.113595] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:41:52.131081] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:41:56.163939] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:41:56.255480] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:41:58.336865] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:41:58.353051] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:42:02.403737] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:42:02.421690] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:42:04.495659] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:42:04.511925] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:42:08.554944] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:42:08.576829] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:42:10.629044] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:42:10.645021] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:42:14.683872] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:42:14.702662] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:42:16.745695] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:42:16.762629] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:42:20.796189] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:42:20.813740] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:42:22.841733] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:42:22.863425] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:42:26.886599] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:42:26.915347] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:42:28.964137] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:42:28.981475] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:42:33.013087] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:42:33.028794] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:42:35.077609] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:42:35.102424] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:42:39.292538] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:42:39.313818] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:42:41.366003] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:42:41.381321] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:42:45.418500] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:42:45.437485] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:42:47.498455] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:42:47.515276] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:42:51.555150] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:42:51.572507] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:42:53.646530] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:42:53.663038] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:42:57.702389] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:42:57.717833] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:42:59.749011] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:42:59.763800] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:43:03.804930] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:43:03.821898] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:43:05.896572] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:43:05.913071] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:43:09.948632] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:43:09.963591] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:43:12.006816] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:43:12.028529] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:43:16.089305] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:43:16.249463] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:43:18.287735] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:43:18.304548] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:43:22.357102] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:43:22.372219] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:43:24.461541] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:43:24.479570] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:43:28.542980] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:43:28.559727] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:43:30.606981] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:43:30.628960] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:43:34.684681] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:43:34.702670] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:43:36.729207] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:43:36.752209] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:43:40.949714] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:43:40.964503] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:43:43.000435] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:43:43.018003] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:43:47.071848] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:43:47.087487] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:43:49.161421] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:43:49.179867] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:43:53.221886] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:43:53.238590] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:43:55.333626] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:43:55.350490] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:43:59.400027] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:43:59.414830] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:44:01.473714] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:44:01.489111] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:44:05.549170] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:44:05.565158] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:44:07.607375] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:44:07.630344] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:44:11.654164] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:44:11.745284] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:44:13.777763] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:44:13.795674] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:44:17.849951] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:44:17.866562] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:44:19.907679] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:44:19.928709] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:44:23.982763] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:44:23.998542] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:44:26.031872] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:44:26.047813] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:44:30.104600] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:44:30.199998] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:44:32.250876] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:44:32.267034] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:44:36.290063] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:44:36.305858] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:44:38.378355] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:44:38.396308] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:44:42.431857] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:44:42.447672] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:44:44.479009] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:44:44.494529] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:44:48.535508] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:44:48.552788] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:44:50.610568] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:44:50.695904] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:44:54.733905] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:44:54.748898] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:44:56.805135] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:44:56.820828] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:45:00.879494] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:45:00.896013] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:45:02.941536] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:45:02.959201] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:45:06.999087] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:45:07.015638] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:45:09.056751] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:45:09.074668] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:45:13.100704] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:45:13.118698] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:45:15.162783] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:45:15.181566] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:45:19.205563] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:45:19.230217] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:45:21.277040] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:45:21.293044] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:45:25.334756] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:45:25.369519] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:45:27.407835] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:45:27.428794] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:45:31.468936] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:45:31.484715] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:45:33.523665] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:45:33.539590] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:45:37.605906] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:45:37.621781] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:45:39.674050] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:45:39.695811] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:45:43.732630] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:45:43.747898] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:45:45.793546] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:45:45.809508] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:45:49.863849] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:45:49.899873] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:45:51.941743] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:45:51.965788] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:45:56.014342] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:45:56.030643] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:45:58.089559] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:45:58.104863] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:46:02.168036] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:46:02.195756] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:46:04.255175] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:46:04.283106] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:46:08.320560] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:46:08.338093] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:46:10.422236] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:46:10.438502] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:46:14.584803] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:46:14.605449] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:46:16.678421] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:46:16.693707] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:46:20.734050] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:46:20.752835] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:46:22.789640] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:46:22.806586] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:46:26.883756] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:46:26.899682] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:46:28.958702] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:46:28.976964] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:46:33.013997] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:46:33.029802] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:46:35.073712] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:46:35.097395] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:46:39.147087] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:46:39.168000] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:46:41.218773] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:46:41.237627] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:46:45.297726] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:46:45.314184] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:46:47.367043] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:46:47.384775] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:46:51.448751] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:46:51.463826] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:46:53.493860] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:46:53.508790] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:46:57.554149] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:46:57.571646] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:46:59.631497] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:46:59.647905] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:47:03.689714] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:47:03.716507] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:47:05.762755] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:47:05.777710] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:47:09.817984] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:47:09.835735] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:47:11.887591] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:47:11.902435] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+
+
+[2024-06-09 15:47:17.292880] New Pipo session opened on <built-in function gethostname>
+[2024-06-09 15:47:17.313745] UPDATE : trying to load settings
+[2024-06-09 15:47:17.317257] UPDATE : Personnal settings opened
+[2024-06-09 15:47:17.321246] UPDATE : User setup file detected in maya script path!
+[2024-06-09 15:47:17.321795] UPDATE : {'MayaScriptPath': 'C:/Users/metal/onedrive/documents/maya/2023/', 'MayaProgramPath': 'C:/Program Files/Autodesk/Maya2023/', 'ComputerName': 'MSI', 'ProjectList': {'tesetproject_portable': {'projectPath': 'c:/users/metal/onedrive/bureau/testproject', 'projectCreator': 'MSI', 'projectDate': '2024-05-20 23:37:34.885320'}, 'testproject_school': {'projectPath': 'd:/testprojectschool', 'projectCreator': 'LNS-3D4-37', 'projectDate': '2024-05-21 12:18:13.484625'}, 'testproject_home': {'projectPath': 'D:/WORK/testproject', 'projectCreator': 'DESKTOP-PUPCCRT', 'projectDate': '2024-05-22 20:45:35.442652'}}}
+[2024-06-09 15:47:19.758162] UPDATE : Project selected : tesetproject_portable
+[2024-06-09 15:47:19.759160] UPDATE : Project settings loaded - c:/users/metal/onedrive/bureau/testproject
+[2024-06-09 15:47:19.759160] UPDATE : Project settings loaded!
+[2024-06-09 15:47:22.128816] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:47:22.144487] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:47:24.186440] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:47:24.211317] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+
+
+[2024-06-09 15:47:58.096690] New Pipo session opened on <built-in function gethostname>
+[2024-06-09 15:47:58.115506] UPDATE : trying to load settings
+[2024-06-09 15:47:58.116502] UPDATE : Personnal settings opened
+[2024-06-09 15:47:58.116502] UPDATE : User setup file detected in maya script path!
+[2024-06-09 15:47:58.116502] UPDATE : {'MayaScriptPath': 'C:/Users/metal/onedrive/documents/maya/2023/', 'MayaProgramPath': 'C:/Program Files/Autodesk/Maya2023/', 'ComputerName': 'MSI', 'ProjectList': {'tesetproject_portable': {'projectPath': 'c:/users/metal/onedrive/bureau/testproject', 'projectCreator': 'MSI', 'projectDate': '2024-05-20 23:37:34.885320'}, 'testproject_school': {'projectPath': 'd:/testprojectschool', 'projectCreator': 'LNS-3D4-37', 'projectDate': '2024-05-21 12:18:13.484625'}, 'testproject_home': {'projectPath': 'D:/WORK/testproject', 'projectCreator': 'DESKTOP-PUPCCRT', 'projectDate': '2024-05-22 20:45:35.442652'}}}
+[2024-06-09 15:48:01.018822] UPDATE : Project selected : tesetproject_portable
+[2024-06-09 15:48:01.019820] UPDATE : Project settings loaded - c:/users/metal/onedrive/bureau/testproject
+[2024-06-09 15:48:01.019820] UPDATE : Project settings loaded!
+[2024-06-09 15:48:03.450658] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:48:03.468272] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:48:05.534805] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:48:05.559739] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:48:05.561734] UPDATE : Connexion removed : ('localhost', 63265)
+
+
+[2024-06-09 15:49:49.717720] New Pipo session opened on <built-in function gethostname>
+[2024-06-09 15:49:49.737101] UPDATE : trying to load settings
+[2024-06-09 15:49:49.738099] UPDATE : Personnal settings opened
+[2024-06-09 15:49:49.738099] UPDATE : User setup file detected in maya script path!
+[2024-06-09 15:49:49.738099] UPDATE : {'MayaScriptPath': 'C:/Users/metal/onedrive/documents/maya/2023/', 'MayaProgramPath': 'C:/Program Files/Autodesk/Maya2023/', 'ComputerName': 'MSI', 'ProjectList': {'tesetproject_portable': {'projectPath': 'c:/users/metal/onedrive/bureau/testproject', 'projectCreator': 'MSI', 'projectDate': '2024-05-20 23:37:34.885320'}, 'testproject_school': {'projectPath': 'd:/testprojectschool', 'projectCreator': 'LNS-3D4-37', 'projectDate': '2024-05-21 12:18:13.484625'}, 'testproject_home': {'projectPath': 'D:/WORK/testproject', 'projectCreator': 'DESKTOP-PUPCCRT', 'projectDate': '2024-05-22 20:45:35.442652'}}}
+[2024-06-09 15:49:52.781756] UPDATE : Project selected : tesetproject_portable
+[2024-06-09 15:49:52.782753] UPDATE : Project settings loaded - c:/users/metal/onedrive/bureau/testproject
+[2024-06-09 15:49:52.782753] UPDATE : Project settings loaded!
+[2024-06-09 15:49:55.205065] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:49:55.235606] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:49:57.290631] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:49:57.306586] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:49:57.320021] UPDATE : Connexion removed : ('localhost', 63265)
+
+
+[2024-06-09 15:50:59.365314] New Pipo session opened on <built-in function gethostname>
+[2024-06-09 15:50:59.385811] UPDATE : trying to load settings
+[2024-06-09 15:50:59.385811] UPDATE : Personnal settings opened
+[2024-06-09 15:50:59.386809] UPDATE : User setup file detected in maya script path!
+[2024-06-09 15:50:59.386809] UPDATE : {'MayaScriptPath': 'C:/Users/metal/onedrive/documents/maya/2023/', 'MayaProgramPath': 'C:/Program Files/Autodesk/Maya2023/', 'ComputerName': 'MSI', 'ProjectList': {'tesetproject_portable': {'projectPath': 'c:/users/metal/onedrive/bureau/testproject', 'projectCreator': 'MSI', 'projectDate': '2024-05-20 23:37:34.885320'}, 'testproject_school': {'projectPath': 'd:/testprojectschool', 'projectCreator': 'LNS-3D4-37', 'projectDate': '2024-05-21 12:18:13.484625'}, 'testproject_home': {'projectPath': 'D:/WORK/testproject', 'projectCreator': 'DESKTOP-PUPCCRT', 'projectDate': '2024-05-22 20:45:35.442652'}}}
+[2024-06-09 15:51:02.317855] UPDATE : Project selected : tesetproject_portable
+[2024-06-09 15:51:02.319850] UPDATE : Project settings loaded - c:/users/metal/onedrive/bureau/testproject
+[2024-06-09 15:51:02.319850] UPDATE : Project settings loaded!
+[2024-06-09 15:51:04.746077] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:51:04.762031] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:51:06.814879] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:51:06.832633] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:51:06.847578] UPDATE : Connexion removed : ('localhost', 63265)
+
+
+[2024-06-09 15:53:24.572911] New Pipo session opened on <built-in function gethostname>
+[2024-06-09 15:53:24.611572] UPDATE : trying to load settings
+[2024-06-09 15:53:24.612089] UPDATE : Personnal settings opened
+[2024-06-09 15:53:24.613085] UPDATE : User setup file detected in maya script path!
+[2024-06-09 15:53:24.613085] UPDATE : {'MayaScriptPath': 'C:/Users/metal/onedrive/documents/maya/2023/', 'MayaProgramPath': 'C:/Program Files/Autodesk/Maya2023/', 'ComputerName': 'MSI', 'ProjectList': {'tesetproject_portable': {'projectPath': 'c:/users/metal/onedrive/bureau/testproject', 'projectCreator': 'MSI', 'projectDate': '2024-05-20 23:37:34.885320'}, 'testproject_school': {'projectPath': 'd:/testprojectschool', 'projectCreator': 'LNS-3D4-37', 'projectDate': '2024-05-21 12:18:13.484625'}, 'testproject_home': {'projectPath': 'D:/WORK/testproject', 'projectCreator': 'DESKTOP-PUPCCRT', 'projectDate': '2024-05-22 20:45:35.442652'}}}
+[2024-06-09 15:53:28.749400] UPDATE : Project selected : tesetproject_portable
+[2024-06-09 15:53:28.749400] UPDATE : Project settings loaded - c:/users/metal/onedrive/bureau/testproject
+[2024-06-09 15:53:28.750381] UPDATE : Project settings loaded!
+[2024-06-09 15:53:31.077168] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:53:31.093093] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:53:33.156741] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:53:33.172555] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:53:33.175522] UPDATE : Connexion removed : ('localhost', 63265)
+
+
+[2024-06-09 15:54:03.904587] New Pipo session opened on <built-in function gethostname>
+[2024-06-09 15:54:03.921939] UPDATE : trying to load settings
+[2024-06-09 15:54:03.922777] UPDATE : Personnal settings opened
+[2024-06-09 15:54:03.922777] UPDATE : User setup file detected in maya script path!
+[2024-06-09 15:54:03.923772] UPDATE : {'MayaScriptPath': 'C:/Users/metal/onedrive/documents/maya/2023/', 'MayaProgramPath': 'C:/Program Files/Autodesk/Maya2023/', 'ComputerName': 'MSI', 'ProjectList': {'tesetproject_portable': {'projectPath': 'c:/users/metal/onedrive/bureau/testproject', 'projectCreator': 'MSI', 'projectDate': '2024-05-20 23:37:34.885320'}, 'testproject_school': {'projectPath': 'd:/testprojectschool', 'projectCreator': 'LNS-3D4-37', 'projectDate': '2024-05-21 12:18:13.484625'}, 'testproject_home': {'projectPath': 'D:/WORK/testproject', 'projectCreator': 'DESKTOP-PUPCCRT', 'projectDate': '2024-05-22 20:45:35.442652'}}}
+[2024-06-09 15:54:08.289792] UPDATE : Project selected : tesetproject_portable
+[2024-06-09 15:54:08.290803] UPDATE : Project settings loaded - c:/users/metal/onedrive/bureau/testproject
+[2024-06-09 15:54:08.291315] UPDATE : Project settings loaded!
+[2024-06-09 15:54:10.685714] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:54:10.701681] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:54:12.749090] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:54:12.766013] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:54:12.768008] UPDATE : Connexion removed : ('localhost', 63265)
+
+
+[2024-06-09 15:55:16.680948] New Pipo session opened on <built-in function gethostname>
+[2024-06-09 15:55:16.702209] UPDATE : trying to load settings
+[2024-06-09 15:55:16.703203] UPDATE : Personnal settings opened
+[2024-06-09 15:55:16.703203] UPDATE : User setup file detected in maya script path!
+[2024-06-09 15:55:16.704194] UPDATE : {'MayaScriptPath': 'C:/Users/metal/onedrive/documents/maya/2023/', 'MayaProgramPath': 'C:/Program Files/Autodesk/Maya2023/', 'ComputerName': 'MSI', 'ProjectList': {'tesetproject_portable': {'projectPath': 'c:/users/metal/onedrive/bureau/testproject', 'projectCreator': 'MSI', 'projectDate': '2024-05-20 23:37:34.885320'}, 'testproject_school': {'projectPath': 'd:/testprojectschool', 'projectCreator': 'LNS-3D4-37', 'projectDate': '2024-05-21 12:18:13.484625'}, 'testproject_home': {'projectPath': 'D:/WORK/testproject', 'projectCreator': 'DESKTOP-PUPCCRT', 'projectDate': '2024-05-22 20:45:35.442652'}}}
+[2024-06-09 15:55:20.282565] UPDATE : Project selected : tesetproject_portable
+[2024-06-09 15:55:20.282565] UPDATE : Project settings loaded - c:/users/metal/onedrive/bureau/testproject
+[2024-06-09 15:55:20.283559] UPDATE : Project settings loaded!
+[2024-06-09 15:55:22.604906] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:55:22.620833] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:55:24.654698] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:55:24.672162] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:55:24.674702] UPDATE : Connexion removed : ('localhost', 63265)
+
+
+[2024-06-09 15:55:56.437717] New Pipo session opened on <built-in function gethostname>
+[2024-06-09 15:55:56.458218] UPDATE : trying to load settings
+[2024-06-09 15:55:56.458218] UPDATE : Personnal settings opened
+[2024-06-09 15:55:56.459216] UPDATE : User setup file detected in maya script path!
+[2024-06-09 15:55:56.459216] UPDATE : {'MayaScriptPath': 'C:/Users/metal/onedrive/documents/maya/2023/', 'MayaProgramPath': 'C:/Program Files/Autodesk/Maya2023/', 'ComputerName': 'MSI', 'ProjectList': {'tesetproject_portable': {'projectPath': 'c:/users/metal/onedrive/bureau/testproject', 'projectCreator': 'MSI', 'projectDate': '2024-05-20 23:37:34.885320'}, 'testproject_school': {'projectPath': 'd:/testprojectschool', 'projectCreator': 'LNS-3D4-37', 'projectDate': '2024-05-21 12:18:13.484625'}, 'testproject_home': {'projectPath': 'D:/WORK/testproject', 'projectCreator': 'DESKTOP-PUPCCRT', 'projectDate': '2024-05-22 20:45:35.442652'}}}
+[2024-06-09 15:56:22.779735] UPDATE : Project selected : tesetproject_portable
+[2024-06-09 15:56:22.780731] UPDATE : Project settings loaded - c:/users/metal/onedrive/bureau/testproject
+[2024-06-09 15:56:22.780731] UPDATE : Project settings loaded!
+[2024-06-09 15:56:25.139249] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:56:25.155901] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:56:27.197803] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:56:27.214687] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:56:27.217666] UPDATE : Connexion removed : ('localhost', 63265)
+[2024-06-09 15:56:27.241103] UPDATE : Connexion removed : ('localhost', 63265)
+[2024-06-09 15:56:27.243088] UPDATE : copy : {'1': {'port': 57056, 'filename': 'C:/Users/metal/OneDrive/Bureau/test_scene1.ma'}, '2': {'port': 63265, 'filename': 'C:/Users/metal/OneDrive/Bureau/test_scene3.ma'}}
+[2024-06-09 15:56:27.244083] UPDATE : origin : {'1': {'port': 57056, 'filename': 'C:/Users/metal/OneDrive/Bureau/test_scene1.ma'}, '2': {'port': 63265, 'filename': 'C:/Users/metal/OneDrive/Bureau/test_scene3.ma'}}
+[2024-06-09 15:56:31.271687] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:56:31.287023] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:56:33.340901] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:56:33.355869] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:56:33.357865] UPDATE : Connexion removed : ('localhost', 63265)
+[2024-06-09 15:56:33.358862] UPDATE : Connexion removed : ('localhost', 63265)
+[2024-06-09 15:56:33.360856] UPDATE : copy : {'1': {'port': 57056, 'filename': 'C:/Users/metal/OneDrive/Bureau/test_scene1.ma'}, '2': {'port': 63265, 'filename': 'C:/Users/metal/OneDrive/Bureau/test_scene3.ma'}}
+[2024-06-09 15:56:33.361853] UPDATE : origin : {'1': {'port': 57056, 'filename': 'C:/Users/metal/OneDrive/Bureau/test_scene1.ma'}, '2': {'port': 63265, 'filename': 'C:/Users/metal/OneDrive/Bureau/test_scene3.ma'}}
+
+
+[2024-06-09 15:58:09.330395] New Pipo session opened on <built-in function gethostname>
+[2024-06-09 15:58:09.351730] UPDATE : trying to load settings
+[2024-06-09 15:58:09.352803] UPDATE : Personnal settings opened
+[2024-06-09 15:58:09.352803] UPDATE : User setup file detected in maya script path!
+[2024-06-09 15:58:09.352803] UPDATE : {'MayaScriptPath': 'C:/Users/metal/onedrive/documents/maya/2023/', 'MayaProgramPath': 'C:/Program Files/Autodesk/Maya2023/', 'ComputerName': 'MSI', 'ProjectList': {'tesetproject_portable': {'projectPath': 'c:/users/metal/onedrive/bureau/testproject', 'projectCreator': 'MSI', 'projectDate': '2024-05-20 23:37:34.885320'}, 'testproject_school': {'projectPath': 'd:/testprojectschool', 'projectCreator': 'LNS-3D4-37', 'projectDate': '2024-05-21 12:18:13.484625'}, 'testproject_home': {'projectPath': 'D:/WORK/testproject', 'projectCreator': 'DESKTOP-PUPCCRT', 'projectDate': '2024-05-22 20:45:35.442652'}}}
+[2024-06-09 15:58:12.090564] UPDATE : Project selected : tesetproject_portable
+[2024-06-09 15:58:12.091562] UPDATE : Project settings loaded - c:/users/metal/onedrive/bureau/testproject
+[2024-06-09 15:58:12.092570] UPDATE : Project settings loaded!
+[2024-06-09 15:58:14.468776] UPDATE : Impossible to connect to server : ('localhost', 57056)
+[2024-06-09 15:58:14.483784] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:58:16.524756] UPDATE : Impossible to connect to server : ('localhost', 63265)
+[2024-06-09 15:58:16.542567] UPDATE : [WinError 10061] No connection could be made because the target machine actively refused it
+[2024-06-09 15:58:16.545739] UPDATE : Connexion removed : ('localhost', 63265)
+[2024-06-09 15:58:16.546737] UPDATE : Connexion removed : ('localhost', 63265)
+[2024-06-09 15:58:16.569681] UPDATE : copy : {'1': {'port': 57056, 'filename': 'C:/Users/metal/OneDrive/Bureau/test_scene1.ma'}, '2': {'port': 63265, 'filename': 'C:/Users/metal/OneDrive/Bureau/test_scene3.ma'}}
+[2024-06-09 15:58:16.574341] UPDATE : origin : {}
+[2024-06-09 15:58:16.577326] UPDATE : Connection log saved!
+[2024-06-09 15:58:18.579880] UPDATE : copy : {}
+[2024-06-09 15:58:18.596739] UPDATE : origin : {}
+[2024-06-09 15:58:20.614705] UPDATE : copy : {}
+[2024-06-09 15:58:20.636615] UPDATE : origin : {}
+[2024-06-09 15:58:22.641539] UPDATE : copy : {}
+[2024-06-09 15:58:22.657872] UPDATE : origin : {}
+
+
+[2024-06-09 16:03:45.040739] New Pipo session opened on <built-in function gethostname>
+[2024-06-09 16:03:45.059688] UPDATE : trying to load settings
+[2024-06-09 16:03:45.060685] UPDATE : Personnal settings opened
+[2024-06-09 16:03:45.060685] UPDATE : User setup file detected in maya script path!
+[2024-06-09 16:03:45.060685] UPDATE : {'MayaScriptPath': 'C:/Users/metal/onedrive/documents/maya/2023/', 'MayaProgramPath': 'C:/Program Files/Autodesk/Maya2023/', 'ComputerName': 'MSI', 'ProjectList': {'tesetproject_portable': {'projectPath': 'c:/users/metal/onedrive/bureau/testproject', 'projectCreator': 'MSI', 'projectDate': '2024-05-20 23:37:34.885320'}, 'testproject_school': {'projectPath': 'd:/testprojectschool', 'projectCreator': 'LNS-3D4-37', 'projectDate': '2024-05-21 12:18:13.484625'}, 'testproject_home': {'projectPath': 'D:/WORK/testproject', 'projectCreator': 'DESKTOP-PUPCCRT', 'projectDate': '2024-05-22 20:45:35.442652'}}}
+[2024-06-09 16:03:47.642640] UPDATE : Project selected : tesetproject_portable
+[2024-06-09 16:03:47.643635] UPDATE : Project settings loaded - c:/users/metal/onedrive/bureau/testproject
+[2024-06-09 16:03:47.643635] UPDATE : Project settings loaded!
+
+
+[2024-06-09 16:04:06.052756] New Pipo session opened on <built-in function gethostname>
+[2024-06-09 16:04:06.079249] UPDATE : trying to load settings
+[2024-06-09 16:04:06.079249] UPDATE : Personnal settings opened
+[2024-06-09 16:04:06.081242] UPDATE : User setup file detected in maya script path!
+[2024-06-09 16:04:06.081242] UPDATE : {'MayaScriptPath': 'C:/Users/metal/onedrive/documents/maya/2023/', 'MayaProgramPath': 'C:/Program Files/Autodesk/Maya2023/', 'ComputerName': 'MSI', 'ProjectList': {'tesetproject_portable': {'projectPath': 'c:/users/metal/onedrive/bureau/testproject', 'projectCreator': 'MSI', 'projectDate': '2024-05-20 23:37:34.885320'}, 'testproject_school': {'projectPath': 'd:/testprojectschool', 'projectCreator': 'LNS-3D4-37', 'projectDate': '2024-05-21 12:18:13.484625'}, 'testproject_home': {'projectPath': 'D:/WORK/testproject', 'projectCreator': 'DESKTOP-PUPCCRT', 'projectDate': '2024-05-22 20:45:35.442652'}}}
+[2024-06-09 16:04:09.974037] UPDATE : Project selected : tesetproject_portable
+[2024-06-09 16:04:09.977261] UPDATE : Project settings loaded - c:/users/metal/onedrive/bureau/testproject
+[2024-06-09 16:04:09.977261] UPDATE : Project settings loaded!
+
+
+[2024-06-09 16:05:06.559929] New Pipo session opened on <built-in function gethostname>
+[2024-06-09 16:05:06.578686] UPDATE : trying to load settings
+[2024-06-09 16:05:06.579684] UPDATE : Personnal settings opened
+[2024-06-09 16:05:06.579684] UPDATE : User setup file detected in maya script path!
+[2024-06-09 16:05:06.579684] UPDATE : {'MayaScriptPath': 'C:/Users/metal/onedrive/documents/maya/2023/', 'MayaProgramPath': 'C:/Program Files/Autodesk/Maya2023/', 'ComputerName': 'MSI', 'ProjectList': {'tesetproject_portable': {'projectPath': 'c:/users/metal/onedrive/bureau/testproject', 'projectCreator': 'MSI', 'projectDate': '2024-05-20 23:37:34.885320'}, 'testproject_school': {'projectPath': 'd:/testprojectschool', 'projectCreator': 'LNS-3D4-37', 'projectDate': '2024-05-21 12:18:13.484625'}, 'testproject_home': {'projectPath': 'D:/WORK/testproject', 'projectCreator': 'DESKTOP-PUPCCRT', 'projectDate': '2024-05-22 20:45:35.442652'}}}
+[2024-06-09 16:05:09.793489] UPDATE : Project selected : tesetproject_portable
+[2024-06-09 16:05:09.793489] UPDATE : Project settings loaded - c:/users/metal/onedrive/bureau/testproject
+[2024-06-09 16:05:09.794486] UPDATE : Project settings loaded!
+
+[2024-06-09 16:05:26.162823] UPDATE : ============================================= SEARCHING =============================================
+[2024-06-09 16:05:26.163801] UPDATE : NO PROCESS TO END!
+[2024-06-09 16:05:26.165790] UPDATE : ['character']
+[2024-06-09 16:05:26.166787] UPDATE : Default folder for character : [Origin]/ASSETS/[name]/[mayaProject]/scenes/[type]/[state]
+[2024-06-09 16:05:26.166787] ERROR : Impossible to get name folder for that kind : character
+[2024-06-09 16:05:26.167784] UPDATE : []
+[2024-06-09 16:05:26.167784] UPDATE : {}
+[2024-06-09 16:05:26.168785] UPDATE : No name selected so no process launched!
+
+
+[2024-06-09 16:06:20.504877] New Pipo session opened on <built-in function gethostname>
+[2024-06-09 16:06:20.532640] UPDATE : trying to load settings
+[2024-06-09 16:06:20.532640] UPDATE : Personnal settings opened
+[2024-06-09 16:06:20.533638] UPDATE : User setup file detected in maya script path!
+[2024-06-09 16:06:20.534632] UPDATE : {'MayaScriptPath': 'C:/Users/metal/onedrive/documents/maya/2023/', 'MayaProgramPath': 'C:/Program Files/Autodesk/Maya2023/', 'ComputerName': 'MSI', 'ProjectList': {'tesetproject_portable': {'projectPath': 'c:/users/metal/onedrive/bureau/testproject', 'projectCreator': 'MSI', 'projectDate': '2024-05-20 23:37:34.885320'}, 'testproject_school': {'projectPath': 'd:/testprojectschool', 'projectCreator': 'LNS-3D4-37', 'projectDate': '2024-05-21 12:18:13.484625'}, 'testproject_home': {'projectPath': 'D:/WORK/testproject', 'projectCreator': 'DESKTOP-PUPCCRT', 'projectDate': '2024-05-22 20:45:35.442652'}}}
+[2024-06-09 16:06:22.944074] UPDATE : Project selected : tesetproject_portable
+[2024-06-09 16:06:22.945071] UPDATE : Project settings loaded - c:/users/metal/onedrive/bureau/testproject
+[2024-06-09 16:06:22.945071] UPDATE : Project settings loaded!
+
+
+[2024-06-09 16:06:42.621215] New Pipo session opened on <built-in function gethostname>
+[2024-06-09 16:06:42.641439] UPDATE : trying to load settings
+[2024-06-09 16:06:42.641439] UPDATE : Personnal settings opened
+[2024-06-09 16:06:42.642445] UPDATE : User setup file detected in maya script path!
+[2024-06-09 16:06:42.642445] UPDATE : {'MayaScriptPath': 'C:/Users/metal/onedrive/documents/maya/2023/', 'MayaProgramPath': 'C:/Program Files/Autodesk/Maya2023/', 'ComputerName': 'MSI', 'ProjectList': {'tesetproject_portable': {'projectPath': 'c:/users/metal/onedrive/bureau/testproject', 'projectCreator': 'MSI', 'projectDate': '2024-05-20 23:37:34.885320'}, 'testproject_school': {'projectPath': 'd:/testprojectschool', 'projectCreator': 'LNS-3D4-37', 'projectDate': '2024-05-21 12:18:13.484625'}, 'testproject_home': {'projectPath': 'D:/WORK/testproject', 'projectCreator': 'DESKTOP-PUPCCRT', 'projectDate': '2024-05-22 20:45:35.442652'}}}
+[2024-06-09 16:06:45.057662] UPDATE : Project selected : tesetproject_portable
+[2024-06-09 16:06:45.058628] UPDATE : Project settings loaded - c:/users/metal/onedrive/bureau/testproject
+[2024-06-09 16:06:45.058628] UPDATE : Project settings loaded!
+
+
+[2024-06-09 16:08:05.051903] New Pipo session opened on <built-in function gethostname>
+[2024-06-09 16:08:05.071854] UPDATE : trying to load settings
+[2024-06-09 16:08:05.072852] UPDATE : Personnal settings opened
+[2024-06-09 16:08:05.072852] UPDATE : User setup file detected in maya script path!
+[2024-06-09 16:08:05.072852] UPDATE : {'MayaScriptPath': 'C:/Users/metal/onedrive/documents/maya/2023/', 'MayaProgramPath': 'C:/Program Files/Autodesk/Maya2023/', 'ComputerName': 'MSI', 'ProjectList': {'tesetproject_portable': {'projectPath': 'c:/users/metal/onedrive/bureau/testproject', 'projectCreator': 'MSI', 'projectDate': '2024-05-20 23:37:34.885320'}, 'testproject_school': {'projectPath': 'd:/testprojectschool', 'projectCreator': 'LNS-3D4-37', 'projectDate': '2024-05-21 12:18:13.484625'}, 'testproject_home': {'projectPath': 'D:/WORK/testproject', 'projectCreator': 'DESKTOP-PUPCCRT', 'projectDate': '2024-05-22 20:45:35.442652'}}}
+[2024-06-09 16:08:08.285712] UPDATE : Project selected : tesetproject_portable
+[2024-06-09 16:08:08.286710] UPDATE : Project settings loaded - c:/users/metal/onedrive/bureau/testproject
+[2024-06-09 16:08:08.287707] UPDATE : Project settings loaded!
+
+
+[2024-06-09 16:08:33.034085] New Pipo session opened on <built-in function gethostname>
+[2024-06-09 16:08:33.053092] UPDATE : trying to load settings
+[2024-06-09 16:08:33.054090] UPDATE : Personnal settings opened
+[2024-06-09 16:08:33.054090] UPDATE : User setup file detected in maya script path!
+[2024-06-09 16:08:33.054090] UPDATE : {'MayaScriptPath': 'C:/Users/metal/onedrive/documents/maya/2023/', 'MayaProgramPath': 'C:/Program Files/Autodesk/Maya2023/', 'ComputerName': 'MSI', 'ProjectList': {'tesetproject_portable': {'projectPath': 'c:/users/metal/onedrive/bureau/testproject', 'projectCreator': 'MSI', 'projectDate': '2024-05-20 23:37:34.885320'}, 'testproject_school': {'projectPath': 'd:/testprojectschool', 'projectCreator': 'LNS-3D4-37', 'projectDate': '2024-05-21 12:18:13.484625'}, 'testproject_home': {'projectPath': 'D:/WORK/testproject', 'projectCreator': 'DESKTOP-PUPCCRT', 'projectDate': '2024-05-22 20:45:35.442652'}}}
+[2024-06-09 16:08:35.199058] UPDATE : Project selected : tesetproject_portable
+[2024-06-09 16:08:35.200056] UPDATE : Project settings loaded - c:/users/metal/onedrive/bureau/testproject
+[2024-06-09 16:08:35.200056] UPDATE : Project settings loaded!
+
+
+[2024-06-09 16:17:54.724926] New Pipo session opened on <built-in function gethostname>
+[2024-06-09 16:17:54.745031] UPDATE : trying to load settings
+[2024-06-09 16:17:54.746028] UPDATE : Personnal settings opened
+[2024-06-09 16:17:54.747031] UPDATE : User setup file detected in maya script path!
+[2024-06-09 16:17:54.748025] UPDATE : {'MayaScriptPath': 'C:/Users/metal/onedrive/documents/maya/2023/', 'MayaProgramPath': 'C:/Program Files/Autodesk/Maya2023/', 'ComputerName': 'MSI', 'ProjectList': {'tesetproject_portable': {'projectPath': 'c:/users/metal/onedrive/bureau/testproject', 'projectCreator': 'MSI', 'projectDate': '2024-05-20 23:37:34.885320'}, 'testproject_school': {'projectPath': 'd:/testprojectschool', 'projectCreator': 'LNS-3D4-37', 'projectDate': '2024-05-21 12:18:13.484625'}, 'testproject_home': {'projectPath': 'D:/WORK/testproject', 'projectCreator': 'DESKTOP-PUPCCRT', 'projectDate': '2024-05-22 20:45:35.442652'}}}
+[2024-06-09 16:17:58.161969] UPDATE : Project selected : tesetproject_portable
+[2024-06-09 16:17:58.163522] UPDATE : Project settings loaded - c:/users/metal/onedrive/bureau/testproject
+[2024-06-09 16:17:58.163522] UPDATE : Project settings loaded!

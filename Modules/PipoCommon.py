@@ -81,7 +81,7 @@ class PipoCommonApplication():
 			sock.connect(server)
 
 		except Exception as e:
-			self.display_message_function("Impossible to connect to server")
+			self.display_message_function("Impossible to connect to server : %s"% str(server)) 
 			self.display_message_function(e)
 			return None
 
@@ -96,7 +96,7 @@ class PipoCommonApplication():
 			except Exception as e:
 				self.display_message_function("Impossible to send command")
 				self.display_message_function(e)
-				return None
+				return False
 			else:
 
 				
@@ -166,6 +166,9 @@ class PipoCommonApplication():
 					#self.display_message_function("try connection")
 
 
+					#changes = False
+					connection_log_copy = copy.deepcopy(connection_log)
+					to_remove = []
 
 					try:
 
@@ -174,10 +177,7 @@ class PipoCommonApplication():
 						or if the filename is different
 							-> update the value and save the new dictionnary
 						"""
-						#changes = False
-						connection_log_copy = copy.deepcopy(connection_log)
-
-
+						
 						for index, data in connection_log.items():
 							
 							#sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
@@ -191,7 +191,10 @@ class PipoCommonApplication():
 								server = ("localhost", data["port"])
 								output = self.send_command_function(command, server, "hide")
 								#self.display_message_function("output : %s"%output)
-								if output != None:
+								if output == None:
+									#remove the connexion port from the connection log
+									to_remove.append(index)
+								elif output != False:
 									#self.display_message_function("%s : %s"%(os.path.isfile(output), output))
 									if os.path.isfile(output)==True:
 										#connection_log[output] = connection_log.pop(index)
@@ -207,14 +210,21 @@ class PipoCommonApplication():
 								self.display_message_function(e)
 					except Exception as e:
 						self.display_message_function(e)
+
+
+					remove_connexion = False
+					for remove in to_remove:
+						
+						del connection_log[remove]
+						self.display_message_function("Connexion removed : %s"%str(server))
+						remove_connexion=True
 					
 					
 					#check if the new dictionnary is different
 					#if old_connection_log != connection_log:
 					#save the new connection log in file
 
-					
-					if connection_log_copy!=connection_log:
+					if (connection_log_copy!=connection_log) or (remove_connexion == True):
 
 						try:
 							with open(os.path.join(maya_path, "scripts/PipoConnectionLog.json"), "w") as save_file:
@@ -223,6 +233,9 @@ class PipoCommonApplication():
 						except Exception as e:
 							self.display_error_function("Impossible to save new connection log")
 							self.display_error_function(e)
+
+						else:
+							self.display_message_function("Connection log saved!")
 					
 			else:
 				self.display_message_function("doesn't exists!")

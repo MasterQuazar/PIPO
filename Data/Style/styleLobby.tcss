@@ -15,9 +15,11 @@
 .container_t2 {
 	border: none;
 }
-.lobby_right_column {
-	width: 45%;
+
+.main_right_column {
+	width:40%;
 }
+
 
 
 /* LIST STYLE */
@@ -43,3 +45,13 @@
 	max-height: 40%;
 }
 
+
+
+
+/* EXPORT PAGE */
+.export_left_container {
+	height: 100%;
+
+	background: $background;
+	color: $primary;
+}

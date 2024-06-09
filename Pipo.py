@@ -1,5 +1,5 @@
 from textual.app import App, ComposeResult
-from textual.widgets import Collapsible, Tabs, Tab, Label, Button, Static, Log, ListView, ListItem, OptionList, Header, SelectionList, Footer, Markdown, TabbedContent, TabPane, Input, DirectoryTree, Select, Tabs
+from textual.widgets import Checkbox, Collapsible, Tabs, Tab, Label, Button, Static, Log, ListView, ListItem, OptionList, Header, SelectionList, Footer, Markdown, TabbedContent, TabPane, Input, DirectoryTree, Select, Tabs
 from textual.widgets.option_list import Option, Separator
 from textual.widgets.selection_list import Selection
 from textual.screen import Screen 
@@ -110,83 +110,131 @@ class PipoLobbyApplication(Screen, PipoCommonApplication, PipoLogApplication):
 		self.back_button = Button("Back to login", id="lobby_back_button")
 		yield self.back_button
 		"""
-		with Horizontal(classes="lobby_main_container"):
+		with Horizontal(id = "main_application_horizontal_container"):
+			with Vertical(id = "main_left_column"):
+				with TabbedContent(id = "main_application_container_tab"):
+					with TabPane("LOBBY"):
+						with Horizontal(classes="lobby_main_container"):
 
 
 
-			#CONTAIN ALL FEATURES AND OPTIONS
-			with VerticalScroll(classes="lobby_left_column"):
-				
+							#CONTAIN ALL FEATURES AND OPTIONS
+							with VerticalScroll(classes="lobby_left_column"):
+								
 
-				#MAYA SCENES MENU
-				with Collapsible(title="MAYA SCENES MENU",classes="lobby_maya_scene_menu"):
-					with Vertical(classes="lobby_maya_scene_container"):
-						self.maya_scene_list = OptionList(id="lobby_maya_scene_list")
-						self.maya_scene_list.border_title ="MAYA SCENES LIST" 
-						yield self.maya_scene_list
+								#MAYA SCENES MENU
+								with Collapsible(title="MAYA SCENES MENU",classes="lobby_maya_scene_menu"):
+									with Vertical(classes="lobby_maya_scene_container"):
+										self.maya_scene_list = OptionList(id="lobby_maya_scene_list")
+										self.maya_scene_list.border_title ="MAYA SCENES LIST" 
+										yield self.maya_scene_list
 
-				yield Button("Create sphere", id="create_sphere_button")
-
-
+								yield Button("Create sphere", id="create_sphere_button")
 
 
-			with VerticalScroll(classes="lobby_center_column"):
-				#with Vertical(classes="container_t2"):
-				with Horizontal(classes="lobby_list_container"):
-					with Vertical(classes="lobby_kind_container"):
-						
-
-						#self.lobby_kind_list = OptionList(id="lobby_kind_list", classes="optionlist_t1")
-						#yield self.lobby_kind_list
-						self.lobby_kind_list = SelectionList[int](id="lobby_kind_list")
-						self.lobby_kind_list.border_title = "Category"
-						yield self.lobby_kind_list
-
-						"""
-						for i in range(0, 10):
-							self.lobby_kind_list.add_option(Selection("Hello world %s"%i, i))
-						"""
-					
 
 
-					with Vertical(classes="container_t2"):
+							with VerticalScroll(classes="lobby_center_column"):
+								#with Vertical(classes="container_t2"):
+								with Horizontal(classes="lobby_list_container"):
+									with Vertical(classes="lobby_kind_container"):
+										
 
-						
-						with TabbedContent(classes="tabbedcontent_t1"):
-							with TabPane("Name"):
-								with Vertical(classes="lobby_name_container"):
-									self.lobby_name_list = SelectionList(id="lobby_name_list", classes="optionlist_t1")
-									self.lobby_name_list.border_title = "Name list"
-									yield self.lobby_name_list
-							with TabPane("Shots"):
-								with Horizontal(classes="container_t2"):
-									with Vertical(classes="lobby_sequence_container"):
+										#self.lobby_kind_list = OptionList(id="lobby_kind_list", classes="optionlist_t1")
+										#yield self.lobby_kind_list
+										self.lobby_kind_list = SelectionList[int](id="lobby_kind_list")
+										self.lobby_kind_list.border_title = "Category"
+										yield self.lobby_kind_list
 
-										self.lobby_sequence_list = SelectionList(id="lobby_sequence_list", classes="optionlist_t1")
-										self.lobby_sequence_list.border_title = "Sequence list"
-										yield self.lobby_sequence_list
-									with Vertical(classes="lobby_shot_container"):
-										self.lobby_shot_list = SelectionList(id="lobby_shot_list", classes="optionlist_t1")
-										self.lobby_shot_list.border_title = "Shot list"
-										yield self.lobby_shot_list
-						
-
-					with Vertical(classes="lobby_type_container"):
-						
-
-						self.lobby_type_list = SelectionList(id="lobby_type_list", classes="optionlist_t1")
-						self.lobby_type_list.border_title = "Type"
-						yield self.lobby_type_list
+										"""
+										for i in range(0, 10):
+											self.lobby_kind_list.add_option(Selection("Hello world %s"%i, i))
+										"""
+									
 
 
-				with Vertical(classes="lobby_file_container"):
-					
-					self.lobby_file_list = SelectionList(classes="selectionlist_t1", id="lobby_file_list")
-					self.lobby_file_list.border_title = "Found files"
-					yield self.lobby_file_list
+									with Vertical(classes="container_t2"):
+
+										
+										with TabbedContent(classes="tabbedcontent_t1"):
+											with TabPane("Name"):
+												with Vertical(classes="lobby_name_container"):
+													self.lobby_name_list = SelectionList(id="lobby_name_list", classes="optionlist_t1")
+													self.lobby_name_list.border_title = "Name list"
+													yield self.lobby_name_list
+											with TabPane("Shots"):
+												with Horizontal(classes="container_t2"):
+													with Vertical(classes="lobby_sequence_container"):
+
+														self.lobby_sequence_list = SelectionList(id="lobby_sequence_list", classes="optionlist_t1")
+														self.lobby_sequence_list.border_title = "Sequence list"
+														yield self.lobby_sequence_list
+													with Vertical(classes="lobby_shot_container"):
+														self.lobby_shot_list = SelectionList(id="lobby_shot_list", classes="optionlist_t1")
+														self.lobby_shot_list.border_title = "Shot list"
+														yield self.lobby_shot_list
+										
+
+									with Vertical(classes="lobby_type_container"):
+										
+
+										self.lobby_type_list = SelectionList(id="lobby_type_list", classes="optionlist_t1")
+										self.lobby_type_list.border_title = "Type"
+										yield self.lobby_type_list
 
 
-			with VerticalScroll(classes="lobby_right_column"):
+								with Vertical(classes="lobby_file_container"):
+									
+									self.lobby_file_list = SelectionList(classes="selectionlist_t1", id="lobby_file_list")
+									self.lobby_file_list.border_title = "Found files"
+									yield self.lobby_file_list
+
+
+							
+
+
+					with TabPane("EXPORT"):
+						with Horizontal(id="export_main_container"):
+							with Vertical(id = "export_left_container"):
+								
+								self.export_checkbox_customfolder = Checkbox("Export in custom folder")
+								self.export_checkbox_currentfolder = Checkbox("Export in current folder")
+								self.export_checkbox_defaultfolder = Checkbox("Export using default folder")
+								self.export_checkbox_currentproject = Checkbox("Export in current project")
+
+								yield self.export_checkbox_customfolder
+								yield self.export_checkbox_currentfolder
+								yield self.export_checkbox_defaultfolder
+								yield self.export_checkbox_currentproject
+
+								with Collapsible(title="Project template", classes="export_collapsible_project_template"):
+									self.export_project_template_list = OptionList()
+									self.export_project_template_list.border_title = "Template list"
+									yield self.export_project_template_list
+
+									yield Button("Create new folder template", id="export_create_template_button")
+									yield Button("Remove folder template", id="export_remove_template_button")
+
+									yield Button("Create template in project", id="export_create_folder_button")
+
+								yield Input(placeholder="Asset name", id="export_assetname_input")
+								yield Button("Get current scene name", id="export_getname_button")
+
+
+							with Vertical(id = "export_right_container"):
+								
+								with Horizontal(id="export_list_container"):
+									with Vertical(id="export_category_list_container"):
+										self.export_category_list = OptionList()
+										self.export_category_list.border_title = "Category"
+										yield self.export_category_list
+									with Vertical(id = "export_type_list_container"):
+										self.export_type_list = OptionList()
+										self.export_type_list.border_title = "Type"
+										yield self.export_type_list
+
+								#yield Static("hello world")
+			with VerticalScroll(classes="main_right_column"):
 				self.lobby_log = Log(classes="lobby_log")
 				yield self.lobby_log
 
@@ -413,10 +461,13 @@ class PipoLobbyApplication(Screen, PipoCommonApplication, PipoLogApplication):
 		#	self.app.push_screen(PipoLobbyApplication())
 		if event.key == "m":
 			self.app.pop_screen()
+
+		"""
 		if event.key == "2":
 			self.app.switch_screen(PipoExportApplication())
 		if event.key == "3":
 			self.app.switch_screen(PipoObserverApplication())
+		"""
 
 
 
@@ -437,7 +488,7 @@ class PipoSettingsApplication(Screen):
 		yield Label("SETTINGS PAGE")
 
 
-class PipoExportApplication(Screen):
+class PipoExportApplication(Screen, PipoCommonApplication, PipoLogApplication):
 	def compose(self) -> ComposeResult:
 
 
@@ -453,11 +504,15 @@ class PipoExportApplication(Screen):
 				-> export in the current maya project (even with different name)
 				-> export in a custom location (open file explorer for custom destination if possible)
 		"""
-		with Horizontal(id="export_main_container"):
-			with Vertical(id = "export_left_container"):
-				yield Button("hello world")
-			with Vertical(id = "export_right_container"):
-				yield Button("bye world")
+		
+
+
+		#self.update_export_list_function()
+		yield Button("hello world")
+
+	def update_export_list_function(self):
+		for key, value in self.app.current_project_settings.items():
+			self.display_message_function("%s : %s"%(key, value))
 
 	async def on_key(self, event: events.Key) -> None:
 		if event.key == "1":
