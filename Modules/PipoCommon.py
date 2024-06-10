@@ -46,6 +46,10 @@ class PipoCommonApplication():
 
 	def get_scene_data_function(self, maya_scene_path):
 		maya_path = None
+
+		#get the real name of the scene
+		maya_scene_path = self.get_maya_scene_filename_function(maya_scene_path)
+		self.display_message_function("real name ? %s"%maya_scene_path)
 		if os.path.isfile(os.path.join(self.app.personnal_data["MayaScriptPath"], "scripts/pipoConnectionLog.json"))==True:
 				maya_path =self.app.personnal_data["MayaScriptPath"]
 		elif os.path.isfile(os.path.join(self.app.personnal_data["MayaProgramPath"], "scripts/pipoConnectionLog.json"))==True:
@@ -63,7 +67,7 @@ class PipoCommonApplication():
 				found = False
 				for index, data in connection_log.items():
 					self.display_message_function("%s : %s"%(maya_scene_path, data["filename"]))
-					if data["filename"] == maya_scene_path:
+					if (data["filename"] == maya_scene_path) or (maya_scene_path == "untitled"):
 						found=True
 						break
 
@@ -109,7 +113,9 @@ class PipoCommonApplication():
 
 
 
-
+	def get_maya_scene_filename_function(self, filename):
+		filepath = (filename.split("---")[0]).split(" ")
+		return ([item for item in filepath if item != ""][-1].replace("\\","/"))
 
 
 
@@ -137,10 +143,12 @@ class PipoCommonApplication():
 
 				#try to get only the filepath in the maya filename
 				#quite an tough parsing to do!
-				maya_filepath = (maya.title.split("---")[0]).split(" ")
 
-				maya_window_list_name.append([item for item in maya_filepath if item != ""][-1].replace("\\", "/"))
+				maya_filename = self.get_maya_scene_filename_function(maya.title)
+				#maya_filepath = (maya.title.split("---")[0]).split(" ")
 
+				#maya_window_list_name.append([item for item in maya_filepath if item != ""][-1].replace("\\", "/"))
+				maya_window_list_name.append(maya_filename)
 
 			#try to assign to each maya path in connection log a name instead of index!
 			#try to ping the scene and to get the port opened

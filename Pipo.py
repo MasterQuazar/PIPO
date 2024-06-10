@@ -31,6 +31,7 @@ colorama.init()
 
 
 from Modules.PipoCommon import PipoCommonApplication
+from Modules.PipoFile import PipoFileApplication
 from Modules.PipoLog import PipoLogApplication
 
 
@@ -41,7 +42,7 @@ from Modules.PipoLog import PipoLogApplication
 
 
 
-class PipoLobbyApplication(Screen, PipoCommonApplication, PipoLogApplication):
+class PipoLobbyApplication(Screen, PipoCommonApplication, PipoFileApplication, PipoLogApplication):
 	CSS_PATH = ["Data/Style/styleGlobal.tcss", "Data/Style/styleLobby.tcss"]
 
 
@@ -227,18 +228,19 @@ class PipoLobbyApplication(Screen, PipoCommonApplication, PipoLogApplication):
 										yield Button("Create template in project", id="export_create_folder_button")
 									"""
 
-								yield Input(placeholder="Asset name", id="export_assetname_input")
+								self.export_assetname_input =  Input(placeholder="Asset name", id="export_assetname_input")
+								yield self.export_assetname_input
 								yield Button("Get current scene name", id="export_getname_button")
 
 
 								with Collapsible(title = "Export edit file", classes="export_collapsible_edit"):
 									with VerticalScroll():
 										with Horizontal(classes="export_collapsible_version_horizontal"):
-											self.export_sequence_version = Input(placeholder = "Sequence number", type="integer", id="export_sequence_version_textfield")
-											self.export_shot_version = Input(placeholder = "Shot number", type="integer", id="export_shot_version_textfield")
+											self.export_sequence_version = Input(value = "010",placeholder = "Sequence number", type="integer", id="export_sequence_version_textfield")
+											self.export_shot_version = Input(value = "001",placeholder = "Shot number", type="integer", id="export_shot_version_textfield")
 											yield self.export_sequence_version
 											yield self.export_shot_version
-										self.export_version = Input(placeholder = "Asset version", type="integer", id="export_asset_version_textfield")
+										self.export_version = Input(value = "001",placeholder = "Asset version", type="integer", id="export_asset_version_textfield")
 
 										
 										yield self.export_version
@@ -298,6 +300,14 @@ class PipoLobbyApplication(Screen, PipoCommonApplication, PipoLogApplication):
 
 
 	def on_button_pressed(self, event: Button.Pressed) -> None:
+
+		if event.button.id == "export_edit_save":
+			#get kind and type selection
+			#get value in each field
+			#send to the save edit function
+			self.save_edit_function()
+
+
 		if event.button.id == "login_create_button":
 			self.create_new_project_function()
 

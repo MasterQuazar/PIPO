@@ -30,7 +30,7 @@ Checkbox {
 	background: $background-lighten-1;
 }
 .lobby_left_column {
-	width: 15%;
+	width: 25%;
 	background: $background-lighten-1;
 }
 
