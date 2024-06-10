@@ -195,7 +195,7 @@ class PipoLobbyApplication(Screen, PipoCommonApplication, PipoLogApplication):
 
 					with TabPane("EXPORT"):
 						with Horizontal(id="export_main_container"):
-							with Vertical(id = "export_left_container"):
+							with VerticalScroll(id = "export_left_container"):
 								
 								self.export_checkbox_customfolder = Checkbox("Export in custom folder")
 								self.export_checkbox_currentfolder = Checkbox("Export in current folder")
@@ -208,41 +208,73 @@ class PipoLobbyApplication(Screen, PipoCommonApplication, PipoLogApplication):
 								yield self.export_checkbox_currentproject
 
 								with Collapsible(title="Project template", classes="export_collapsible_project_template"):
-									self.export_project_template_list = OptionList()
-									self.export_project_template_list.border_title = "Template list"
-									yield self.export_project_template_list
+									with VerticalScroll():
+										self.export_project_template_list = OptionList(id="export_template_list")
+										self.export_project_template_list.border_title = "Template list"
+										yield self.export_project_template_list
+										with Horizontal(id = "export_template_horizontal"):
+											yield Button("Create new folder template", id="export_create_template_button")
+											yield Button("Remove folder template", id="export_remove_template_button")
+										yield Button("test")
+									"""
+									with VerticalScroll(id="export_collapsible_column"):
+										
 
-									yield Button("Create new folder template", id="export_create_template_button")
-									yield Button("Remove folder template", id="export_remove_template_button")
+										with Horizontal(id = "export_template_horizontal"):
+											yield Button("Create new folder template", id="export_create_template_button")
+											yield Button("Remove folder template", id="export_remove_template_button")
 
-									yield Button("Create template in project", id="export_create_folder_button")
+										yield Button("Create template in project", id="export_create_folder_button")
+									"""
 
 								yield Input(placeholder="Asset name", id="export_assetname_input")
 								yield Button("Get current scene name", id="export_getname_button")
+
+
+								with Collapsible(title = "Export edit file", classes="export_collapsible_edit"):
+									with VerticalScroll():
+										with Horizontal(classes="export_collapsible_version_horizontal"):
+											self.export_sequence_version = Input(placeholder = "Sequence number", type="integer", id="export_sequence_version_textfield")
+											self.export_shot_version = Input(placeholder = "Shot number", type="integer", id="export_shot_version_textfield")
+											yield self.export_sequence_version
+											yield self.export_shot_version
+										self.export_version = Input(placeholder = "Asset version", type="integer", id="export_asset_version_textfield")
+
+										
+										yield self.export_version
+
+										yield Button("Save edit file", id="export_edit_save")
+										yield Button("Save edit from selection", id="export_edit_selection")
+								with Collapsible(title = "Export publish file", classes="export_collapsible_publish"):
+									yield Button("Save publish file", id="export_publish_save")
+									yield Button("Save publish from selection", id="export_publish_selection")
 
 
 							with Vertical(id = "export_right_container"):
 								
 								with Horizontal(id="export_list_container"):
 									with Vertical(id="export_category_list_container"):
-										self.export_category_list = OptionList()
+										self.export_category_list = OptionList(id = "export_category_list")
 										self.export_category_list.border_title = "Category"
 										yield self.export_category_list
 									with Vertical(id = "export_type_list_container"):
-										self.export_type_list = OptionList()
+										self.export_type_list = OptionList(id = "export_type_list")
 										self.export_type_list.border_title = "Type"
 										yield self.export_type_list
+
+								self.export_nomenclature_display = Input(placeholder="", id="export_nomenclature_display")
 
 								#yield Static("hello world")
 			with VerticalScroll(classes="main_right_column"):
 				self.lobby_log = Log(classes="lobby_log")
+				self.lobby_log.border_title = "____ | LOGS | ___"
 				yield self.lobby_log
 
 
 
 		#self.display_message_function("hello")
 		#update list values
-		self.update_lobby_list_function()
+		self.update_tui_list_function()
 		#launch lobby log thread
 		self.log_thread = threading.Thread(target=self.update_lobby_log_function, daemon=True, args=())
 		self.log_thread.start()
@@ -402,6 +434,22 @@ class PipoLobbyApplication(Screen, PipoCommonApplication, PipoLogApplication):
 	def on_option_list_option_highlighted(self, event: OptionList.OptionHighlighted) -> None:
 		if event.option_list.id == "lobby_type_list":
 			self.display_message_function("hello world")
+		if event.option_list.id == "export_category_list":
+			try:
+				#get the current index selected
+				kind_index = self.query_one("#export_category_list").highlighted
+				kind_list = list(self.app.current_project_settings["Scenes"].keys())
+				kind_selected = kind_list[kind_index]
+				type_list = self.app.current_project_settings["Scenes"][kind_selected]["type"]
+			except:
+				self.display_error_function("Impossible to get the category type list!")
+				return
+			else:
+				self.export_type_list.clear_options()
+
+				for t in type_list:
+					self.export_type_list.add_option(Option(t))
+
 
 
 
@@ -430,7 +478,7 @@ class PipoLobbyApplication(Screen, PipoCommonApplication, PipoLogApplication):
 
 
 
-	def update_lobby_list_function(self):
+	def update_tui_list_function(self):
 		#get the value in settings
 		#empty current lists
 		self.lobby_kind_list.clear_options
@@ -439,6 +487,7 @@ class PipoLobbyApplication(Screen, PipoCommonApplication, PipoLogApplication):
 		i = 0
 		for key, value in app.current_project_settings["Scenes"].items():
 			self.lobby_kind_list.add_option(Selection(key,i))
+			self.export_category_list.add_option(Option(key))
 			i+=1
 
 		#self.lobby_kind_list.select(0)

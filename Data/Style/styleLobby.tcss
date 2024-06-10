@@ -3,13 +3,35 @@
 /*'ascii', 'blank', 'dashed', 'double', 'heavy', 'hidden', 'hkey', 'inner', 'none', 'outer', 'panel', 'round', 'solid', 'tall', 'thick', 'vkey', or 'wide'*/
 
 
+
+
+/* GLOBAL STYLE */ 
+Input {
+	border: round $primary;
+	color: $primary;
+	background:$background-lighten-1;
+}
+Checkbox {
+	background:$background-lighten-1;
+	color:$primary;
+}
+.lobby_log {
+	border: round $background-lighten-1;
+	border-title-color:$primary;
+	border-title-style:italic;
+	border-title-align:center;
+}
+
+
+
+
 /* CONTAINER STYLE */
-.lobby_main_container {
-	background: $background;
+.lobby_main_container, #export_main_container {
+	background: $background-lighten-1;
 }
 .lobby_left_column {
 	width: 15%;
-	background: $background-darken-1;
+	background: $background-lighten-1;
 }
 
 .container_t2 {
@@ -23,13 +45,13 @@
 
 
 /* LIST STYLE */
-#lobby_kind_list, #lobby_file_list, #lobby_name_list, #lobby_shot_list, #lobby_sequence_list, #lobby_type_list {
-	border: round $background; 
+#export_template_list, #lobby_kind_list, #lobby_file_list, #lobby_name_list, #lobby_shot_list, #lobby_sequence_list, #lobby_type_list {
+	border: round $background-lighten-1; 
 
 	border-title-color: $primary-lighten-1;
 	border-title-style: italic;
 
-	background: $background;
+	background: $background-lighten-1;
 }
 .lobby_kind_container, .lobby_name_container, .lobby_sequence_container, .lobby_shot_container, .lobby_type_container, .lobby_file_container {
 	border: round $primary-lighten-1;
@@ -52,6 +74,50 @@
 .export_left_container {
 	height: 100%;
 
-	background: $background;
+	background: $background-lighten-1;
 	color: $primary;
+}
+#export_template_list {
+	background: $background-lighten-1;
+	border: round $primary;
+	border-title-color:$primary;
+	border-title-style:italic;
+
+	height:10;
+}
+#export_template_horizontal {
+	height:10;
+}
+#export_create_template_button, #export_sequence_version_textfield, #export_shot_version_textfield, #export_remove_template_button {
+	width:50%;
+
+	border: round $primary;
+	color: $primary;
+	background: $background-lighten-1;
+}
+
+.export_collapsible_project_template {
+	max-height: 30;
+}
+.export_collapsible_version_horizontal {
+	max-height:10;
+}
+.export_collapsible_edit, .export_collapsible_publish {
+	max-height:30;
+	background:$background-lighten-1;
+
+	border:round $primary;
+}
+
+#export_sequence_version_textfield, #export_shot_version_textfield, #export_asset_version_textfield {
+	background:$background-lighten-1;
+}
+#export_type_list, #export_category_list {
+	height:50%;
+	background:$background-lighten-1;
+	border:round $primary;
+	border-title-align:center;
+	border-title-style:italic;
+	border-title-color:$primary;
+	color:white;
 }

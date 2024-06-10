@@ -2,7 +2,7 @@
 
 
 
-$background: #0D0D0D;
+$background: #181818;
 $background-darken-1: #080808;
 
 $primary: #FF3318;
