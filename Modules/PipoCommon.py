@@ -369,7 +369,7 @@ while True:
 
 
 '''
-			with open(os.path.join(self.personnal_data["MayaPath"], "scripts/userSetup.py"), "w") as save_file:
+			with open(os.path.join(self.personnal_data["MayaScriptPath"], "scripts/userSetup.py"), "w") as save_file:
 				save_file.write(autorun_code)
 			self.display_message_function("Pipo autorun created!")
 

@@ -836,3 +836,134 @@
 [2024-06-10 20:15:59.331519] UPDATE : Project settings loaded!
 [2024-06-10 20:16:07.937796] UPDATE : test ; 001 ; 010 ; 001
 [2024-06-10 20:16:13.942562] UPDATE : hello ; 001 ; 010 ; 001
+
+
+[2024-06-13 13:47:26.662149] New Pipo session opened on <built-in function gethostname>
+[2024-06-13 13:47:26.680077] UPDATE : trying to load settings
+[2024-06-13 13:47:26.683098] UPDATE : Personnal settings opened
+[2024-06-13 13:47:26.685063] ERROR : Wrong maya path in personnal settings!
+Impossible to put the maya autorun!
+[2024-06-13 13:47:26.687057] UPDATE : {'MayaScriptPath': 'C:/Users/metal/onedrive/documents/maya/2023/', 'MayaProgramPath': 'C:/Program Files/Autodesk/Maya2023/', 'ComputerName': 'MSI', 'ProjectList': {'tesetproject_portable': {'projectPath': 'c:/users/metal/onedrive/bureau/testproject', 'projectCreator': 'MSI', 'projectDate': '2024-05-20 23:37:34.885320'}, 'testproject_school': {'projectPath': 'd:/testprojectschool', 'projectCreator': 'LNS-3D4-37', 'projectDate': '2024-05-21 12:18:13.484625'}, 'testproject_home': {'projectPath': 'D:/WORK/testproject', 'projectCreator': 'DESKTOP-PUPCCRT', 'projectDate': '2024-05-22 20:45:35.442652'}}}
+
+
+[2024-06-13 13:47:58.219414] New Pipo session opened on <built-in function gethostname>
+[2024-06-13 13:47:58.235357] UPDATE : trying to load settings
+[2024-06-13 13:47:58.237359] UPDATE : Personnal settings opened
+
+
+[2024-06-13 13:49:17.066692] New Pipo session opened on <built-in function gethostname>
+[2024-06-13 13:49:17.083618] UPDATE : trying to load settings
+[2024-06-13 13:49:17.085613] UPDATE : Personnal settings opened
+[2024-06-13 13:49:17.089603] UPDATE : Pipo autorun created!
+[2024-06-13 13:49:17.091597] UPDATE : {'MayaScriptPath': 'C:/Users/3D4/Documents/maya/2023', 'MayaProgramPath': 'C:/Program Files/Autodesk/Maya2023/', 'ComputerName': 'MSI', 'ProjectList': {'tesetproject_portable': {'projectPath': 'c:/users/metal/onedrive/bureau/testproject', 'projectCreator': 'MSI', 'projectDate': '2024-05-20 23:37:34.885320'}, 'testproject_school': {'projectPath': 'd:/testprojectschool', 'projectCreator': 'LNS-3D4-37', 'projectDate': '2024-05-21 12:18:13.484625'}, 'testproject_home': {'projectPath': 'D:/WORK/testproject', 'projectCreator': 'DESKTOP-PUPCCRT', 'projectDate': '2024-05-22 20:45:35.442652'}}}
+[2024-06-13 13:49:19.552732] UPDATE : Project selected : testproject_school
+[2024-06-13 13:49:19.595487] UPDATE : Project settings loaded - d:/testprojectschool
+[2024-06-13 13:49:19.597481] UPDATE : Project settings loaded!
+[2024-06-13 13:49:19.893696] UPDATE : doesn't exists!
+[2024-06-13 13:49:21.960262] UPDATE : doesn't exists!
+[2024-06-13 13:49:23.977781] UPDATE : doesn't exists!
+[2024-06-13 13:49:25.995340] UPDATE : doesn't exists!
+[2024-06-13 13:49:28.016483] UPDATE : doesn't exists!
+[2024-06-13 13:49:30.033871] UPDATE : doesn't exists!
+[2024-06-13 13:49:32.051778] UPDATE : doesn't exists!
+
+
+[2024-06-13 13:49:34.460070] New Pipo session opened on <built-in function gethostname>
+[2024-06-13 13:49:34.476028] UPDATE : trying to load settings
+[2024-06-13 13:49:34.478022] UPDATE : Personnal settings opened
+[2024-06-13 13:49:34.482012] UPDATE : Pipo autorun created!
+[2024-06-13 13:49:34.520910] UPDATE : {'MayaScriptPath': 'C:/Users/3D4/Documents/maya/2023', 'MayaProgramPath': 'C:/Program Files/Autodesk/Maya2023/', 'ComputerName': 'MSI', 'ProjectList': {'tesetproject_portable': {'projectPath': 'c:/users/metal/onedrive/bureau/testproject', 'projectCreator': 'MSI', 'projectDate': '2024-05-20 23:37:34.885320'}, 'testproject_school': {'projectPath': 'd:/testprojectschool', 'projectCreator': 'LNS-3D4-37', 'projectDate': '2024-05-21 12:18:13.484625'}, 'testproject_home': {'projectPath': 'D:/WORK/testproject', 'projectCreator': 'DESKTOP-PUPCCRT', 'projectDate': '2024-05-22 20:45:35.442652'}}}
+[2024-06-13 13:49:36.762205] UPDATE : Project selected : testproject_school
+[2024-06-13 13:49:36.764200] UPDATE : Project settings loaded - d:/testprojectschool
+[2024-06-13 13:49:36.766194] UPDATE : Project settings loaded!
+[2024-06-13 13:49:37.050990] UPDATE : doesn't exists!
+[2024-06-13 13:49:39.111810] UPDATE : doesn't exists!
+[2024-06-13 13:49:41.129338] UPDATE : doesn't exists!
+[2024-06-13 13:49:43.147208] UPDATE : doesn't exists!
+[2024-06-13 13:49:45.163720] UPDATE : doesn't exists!
+[2024-06-13 13:49:47.211692] UPDATE : doesn't exists!
+[2024-06-13 13:49:49.228196] UPDATE : doesn't exists!
+[2024-06-13 13:49:51.246435] UPDATE : doesn't exists!
+[2024-06-13 13:49:53.262994] UPDATE : doesn't exists!
+[2024-06-13 13:49:55.279757] UPDATE : doesn't exists!
+[2024-06-13 13:49:57.297275] UPDATE : doesn't exists!
+[2024-06-13 13:49:59.315258] UPDATE : doesn't exists!
+[2024-06-13 13:50:01.321423] UPDATE : doesn't exists!
+[2024-06-13 13:50:03.375310] UPDATE : doesn't exists!
+[2024-06-13 13:50:05.392446] UPDATE : doesn't exists!
+[2024-06-13 13:50:07.410223] UPDATE : doesn't exists!
+[2024-06-13 13:50:09.429728] UPDATE : doesn't exists!
+[2024-06-13 13:50:11.447179] UPDATE : doesn't exists!
+[2024-06-13 13:50:13.464556] UPDATE : doesn't exists!
+[2024-06-13 13:50:15.481044] UPDATE : doesn't exists!
+
+
+[2024-06-13 13:50:30.635825] New Pipo session opened on <built-in function gethostname>
+[2024-06-13 13:50:30.652775] UPDATE : trying to load settings
+[2024-06-13 13:50:30.654781] UPDATE : Personnal settings opened
+[2024-06-13 13:50:30.657743] UPDATE : Pipo autorun created!
+[2024-06-13 13:50:30.658770] UPDATE : {'MayaScriptPath': 'C:/Users/3D4/Documents/maya/2023', 'MayaProgramPath': 'C:/Program Files/Autodesk/Maya2023/', 'ComputerName': 'MSI', 'ProjectList': {'tesetproject_portable': {'projectPath': 'c:/users/metal/onedrive/bureau/testproject', 'projectCreator': 'MSI', 'projectDate': '2024-05-20 23:37:34.885320'}, 'testproject_school': {'projectPath': 'd:/testprojectschool', 'projectCreator': 'LNS-3D4-37', 'projectDate': '2024-05-21 12:18:13.484625'}, 'testproject_home': {'projectPath': 'D:/WORK/testproject', 'projectCreator': 'DESKTOP-PUPCCRT', 'projectDate': '2024-05-22 20:45:35.442652'}}}
+[2024-06-13 13:50:32.719707] UPDATE : Project selected : testproject_school
+[2024-06-13 13:50:32.722699] UPDATE : Project settings loaded - d:/testprojectschool
+[2024-06-13 13:50:32.723727] UPDATE : Project settings loaded!
+[2024-06-13 13:50:33.020012] UPDATE : doesn't exists!
+[2024-06-13 13:50:35.056391] UPDATE : doesn't exists!
+[2024-06-13 13:50:37.078124] UPDATE : doesn't exists!
+[2024-06-13 13:50:39.095253] UPDATE : doesn't exists!
+[2024-06-13 13:50:41.145235] UPDATE : doesn't exists!
+[2024-06-13 13:50:43.162333] UPDATE : doesn't exists!
+[2024-06-13 13:50:45.179779] UPDATE : doesn't exists!
+[2024-06-13 13:50:47.197711] UPDATE : doesn't exists!
+[2024-06-13 13:50:49.214752] UPDATE : doesn't exists!
+[2024-06-13 13:50:51.232877] UPDATE : doesn't exists!
+[2024-06-13 13:50:53.252217] UPDATE : doesn't exists!
+[2024-06-13 13:50:55.269984] UPDATE : doesn't exists!
+[2024-06-13 13:50:57.316545] UPDATE : doesn't exists!
+[2024-06-13 13:50:59.333360] UPDATE : doesn't exists!
+
+
+[2024-06-13 13:51:42.058913] New Pipo session opened on <built-in function gethostname>
+[2024-06-13 13:51:42.074868] UPDATE : trying to load settings
+[2024-06-13 13:51:42.077832] UPDATE : Personnal settings opened
+[2024-06-13 13:51:42.078864] UPDATE : User setup file detected in maya script path!
+[2024-06-13 13:51:42.080863] UPDATE : {'MayaScriptPath': 'C:/Users/3D4/Documents/maya/2023', 'MayaProgramPath': 'C:/Program Files/Autodesk/Maya2023/', 'ComputerName': 'MSI', 'ProjectList': {'tesetproject_portable': {'projectPath': 'c:/users/metal/onedrive/bureau/testproject', 'projectCreator': 'MSI', 'projectDate': '2024-05-20 23:37:34.885320'}, 'testproject_school': {'projectPath': 'd:/testprojectschool', 'projectCreator': 'LNS-3D4-37', 'projectDate': '2024-05-21 12:18:13.484625'}, 'testproject_home': {'projectPath': 'D:/WORK/testproject', 'projectCreator': 'DESKTOP-PUPCCRT', 'projectDate': '2024-05-22 20:45:35.442652'}}}
+[2024-06-13 13:51:44.844624] UPDATE : Project selected : testproject_school
+[2024-06-13 13:51:44.847616] UPDATE : Project settings loaded - d:/testprojectschool
+[2024-06-13 13:51:44.848679] UPDATE : Project settings loaded!
+[2024-06-13 13:51:55.421942] UPDATE : real name ? untitled
+[2024-06-13 13:51:55.424934] UPDATE : untitled : None
+[2024-06-13 13:51:55.425931] UPDATE : None : 60911
+[2024-06-13 13:51:55.431915] UPDATE : ('localhost', 60911) | Command sent : cmds.polySphere()
+[2024-06-13 13:52:08.578583] UPDATE : real name ? untitled
+[2024-06-13 13:52:08.581604] UPDATE : untitled : None
+[2024-06-13 13:52:08.583597] UPDATE : None : 60911
+[2024-06-13 13:52:08.587558] UPDATE : ('localhost', 60911) | Command sent : cmds.polySphere()
+[2024-06-13 13:52:45.341835] UPDATE : Connection log saved!
+
+
+[2024-06-13 14:25:01.595279] New Pipo session opened on <built-in function gethostname>
+[2024-06-13 14:25:01.664069] UPDATE : trying to load settings
+[2024-06-13 14:25:01.666064] UPDATE : Personnal settings opened
+[2024-06-13 14:25:01.668058] UPDATE : User setup file detected in maya script path!
+[2024-06-13 14:25:01.670053] UPDATE : {'MayaScriptPath': 'C:/Users/3D4/Documents/maya/2023', 'MayaProgramPath': 'C:/Program Files/Autodesk/Maya2023/', 'ComputerName': 'MSI', 'ProjectList': {'tesetproject_portable': {'projectPath': 'c:/users/metal/onedrive/bureau/testproject', 'projectCreator': 'MSI', 'projectDate': '2024-05-20 23:37:34.885320'}, 'testproject_school': {'projectPath': 'd:/testprojectschool', 'projectCreator': 'LNS-3D4-37', 'projectDate': '2024-05-21 12:18:13.484625'}, 'testproject_home': {'projectPath': 'D:/WORK/testproject', 'projectCreator': 'DESKTOP-PUPCCRT', 'projectDate': '2024-05-22 20:45:35.442652'}}}
+
+
+[2024-06-14 11:36:56.407531] New Pipo session opened on <built-in function gethostname>
+[2024-06-14 11:36:56.524224] UPDATE : trying to load settings
+[2024-06-14 11:36:56.529211] UPDATE : Personnal settings opened
+[2024-06-14 11:36:56.531204] UPDATE : User setup file detected in maya script path!
+[2024-06-14 11:36:56.533199] UPDATE : {'MayaScriptPath': 'C:/Users/3D4/Documents/maya/2023', 'MayaProgramPath': 'C:/Program Files/Autodesk/Maya2023/', 'ComputerName': 'MSI', 'ProjectList': {'tesetproject_portable': {'projectPath': 'c:/users/metal/onedrive/bureau/testproject', 'projectCreator': 'MSI', 'projectDate': '2024-05-20 23:37:34.885320'}, 'testproject_school': {'projectPath': 'd:/testprojectschool', 'projectCreator': 'LNS-3D4-37', 'projectDate': '2024-05-21 12:18:13.484625'}, 'testproject_home': {'projectPath': 'D:/WORK/testproject', 'projectCreator': 'DESKTOP-PUPCCRT', 'projectDate': '2024-05-22 20:45:35.442652'}}}
+[2024-06-14 11:37:01.881356] UPDATE : Project selected : testproject_school
+[2024-06-14 11:37:01.902300] UPDATE : Project settings loaded - d:/testprojectschool
+[2024-06-14 11:37:01.904295] UPDATE : Project settings loaded!
+[2024-06-14 11:37:56.425850] UPDATE : Connection log saved!
+
+
+[2024-06-14 11:38:49.027598] New Pipo session opened on <built-in function gethostname>
+[2024-06-14 11:38:49.043555] UPDATE : trying to load settings
+[2024-06-14 11:38:49.045522] UPDATE : Personnal settings opened
+[2024-06-14 11:38:49.046547] UPDATE : User setup file detected in maya script path!
+[2024-06-14 11:38:49.048529] UPDATE : {'MayaScriptPath': 'C:/Users/3D4/Documents/maya/2023', 'MayaProgramPath': 'C:/Program Files/Autodesk/Maya2023/', 'ComputerName': 'MSI', 'ProjectList': {'tesetproject_portable': {'projectPath': 'c:/users/metal/onedrive/bureau/testproject', 'projectCreator': 'MSI', 'projectDate': '2024-05-20 23:37:34.885320'}, 'testproject_school': {'projectPath': 'd:/testprojectschool', 'projectCreator': 'LNS-3D4-37', 'projectDate': '2024-05-21 12:18:13.484625'}, 'testproject_home': {'projectPath': 'D:/WORK/testproject', 'projectCreator': 'DESKTOP-PUPCCRT', 'projectDate': '2024-05-22 20:45:35.442652'}}}
+[2024-06-14 11:38:51.613417] UPDATE : Project selected : testproject_school
+[2024-06-14 11:38:51.616409] UPDATE : Project settings loaded - d:/testprojectschool
+[2024-06-14 11:38:51.617406] UPDATE : Project settings loaded!
