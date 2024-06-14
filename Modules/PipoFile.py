@@ -46,3 +46,5 @@ class PipoFileApplication():
 		shot_version = self.screen.export_shot_version.value
 
 		self.display_message_function("%s ; %s ; %s ; %s"%(asset_name, asset_version, sequence_version, shot_version))
+
+		#from the category selected get the syntax in settings

@@ -94,6 +94,9 @@ class PipoLobbyApplication(Screen, PipoCommonApplication, PipoFileApplication, P
 
 	def compose(self) -> ComposeResult:
 
+
+
+
 		"""
 		yield Laself.create_variable_function()
 
@@ -113,6 +116,9 @@ class PipoLobbyApplication(Screen, PipoCommonApplication, PipoFileApplication, P
 		"""
 		with Horizontal(id = "main_application_horizontal_container"):
 			with Vertical(id = "main_left_column"):
+
+				
+
 				with TabbedContent(id = "main_application_container_tab"):
 					with TabPane("LOBBY"):
 						with Horizontal(classes="lobby_main_container"):
@@ -267,6 +273,8 @@ class PipoLobbyApplication(Screen, PipoCommonApplication, PipoFileApplication, P
 								self.export_nomenclature_display = Input(placeholder="", id="export_nomenclature_display")
 
 								#yield Static("hello world")
+				self.current_scene_label = Static("None", id="current_scene_label")
+				yield self.current_scene_label					
 			with VerticalScroll(classes="main_right_column"):
 				self.lobby_log = Log(classes="lobby_log")
 				self.lobby_log.border_title = "____ | LOGS | ___"
@@ -342,6 +350,36 @@ class PipoLobbyApplication(Screen, PipoCommonApplication, PipoFileApplication, P
 					self.send_command_function(command, ("localhost",scene_data["port"]))
 				else:
 					self.display_error_function("Impossible to get scene data!")
+
+
+
+	def on_option_list_option_highlighted(self, event: OptionList.OptionHighlighted) -> None:
+		if event.option_list.id == "lobby_type_list":
+			self.display_message_function("hello world")
+
+		if event.option_list.id == "lobby_maya_scene_list":
+			#get the selection of maya scenes
+			scene_selection = self.query_one("#lobby_maya_scene_list").highlighted
+
+			if type(scene_selection) == int:
+
+				self.current_scene_label.update(self.opened_maya_scene_list[scene_selection])
+
+		if event.option_list.id == "export_category_list":
+			try:
+				#get the current index selected
+				kind_index = self.query_one("#export_category_list").highlighted
+				kind_list = list(self.app.current_project_settings["Scenes"].keys())
+				kind_selected = kind_list[kind_index]
+				type_list = self.app.current_project_settings["Scenes"][kind_selected]["type"]
+			except:
+				self.display_error_function("Impossible to get the category type list!")
+				return
+			else:
+				self.export_type_list.clear_options()
+
+				for t in type_list:
+					self.export_type_list.add_option(Option(t))
 				
 
 
@@ -441,24 +479,7 @@ class PipoLobbyApplication(Screen, PipoCommonApplication, PipoFileApplication, P
 
 
 
-	def on_option_list_option_highlighted(self, event: OptionList.OptionHighlighted) -> None:
-		if event.option_list.id == "lobby_type_list":
-			self.display_message_function("hello world")
-		if event.option_list.id == "export_category_list":
-			try:
-				#get the current index selected
-				kind_index = self.query_one("#export_category_list").highlighted
-				kind_list = list(self.app.current_project_settings["Scenes"].keys())
-				kind_selected = kind_list[kind_index]
-				type_list = self.app.current_project_settings["Scenes"][kind_selected]["type"]
-			except:
-				self.display_error_function("Impossible to get the category type list!")
-				return
-			else:
-				self.export_type_list.clear_options()
 
-				for t in type_list:
-					self.export_type_list.add_option(Option(t))
 
 
 
