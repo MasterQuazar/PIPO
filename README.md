@@ -2,8 +2,8 @@
 
 A new Pipeline manager for autodesk maya, working as a standalone outside of maya
 
-> [!NOTE]
-> Dev tasklist : 
+
+### > Dev tasklist : 
 - [x] Create the searching system structure
 - [x] Make the searching system work
 - [x] Create bridge setup with autodesk maya (automatic)
