@@ -1129,3 +1129,19 @@ Unexisting path!
 [2024-06-14 12:28:53.988953] UPDATE : element added
 [2024-06-14 12:28:53.990947] UPDATE : element added
 [2024-06-14 12:28:53.993940] UPDATE : ['d:/testprojectschool/ASSETS/char\\cubetest\\maya\\scenes\\mod\\edit\\char_cubeTest_mod_v001.ma', 'd:/testprojectschool/ASSETS/char\\cubetest\\maya\\scenes\\mod\\edit\\char_cubeTest_mod_v002.ma', 'd:/testprojectschool/ASSETS/char\\cubetest\\maya\\scenes\\mod\\edit\\char_cube_mod_v002.ma', 'd:/testprojectschool/ASSETS/char\\spheretest\\maya\\scenes\\mod\\edit\\char_sphereTest_mod_v001.ma']
+
+
+[2024-06-14 14:02:38.641936] New Pipo session opened on <built-in function gethostname>
+[2024-06-14 14:02:38.658890] UPDATE : trying to load settings
+[2024-06-14 14:02:38.660975] UPDATE : Personnal settings opened
+[2024-06-14 14:02:38.662908] UPDATE : User setup file detected in maya script path!
+[2024-06-14 14:02:38.663901] UPDATE : {'MayaScriptPath': 'C:/Users/3D4/Documents/maya/2023', 'MayaProgramPath': 'C:/Program Files/Autodesk/Maya2023/', 'ComputerName': 'MSI', 'ProjectList': {'tesetproject_portable': {'projectPath': 'c:/users/metal/onedrive/bureau/testproject', 'projectCreator': 'MSI', 'projectDate': '2024-05-20 23:37:34.885320'}, 'testproject_school': {'projectPath': 'd:/testprojectschool', 'projectCreator': 'LNS-3D4-37', 'projectDate': '2024-05-21 12:18:13.484625'}, 'testproject_home': {'projectPath': 'D:/WORK/testproject', 'projectCreator': 'DESKTOP-PUPCCRT', 'projectDate': '2024-05-22 20:45:35.442652'}}}
+[2024-06-14 14:02:40.869923] UPDATE : Project selected : testproject_school
+[2024-06-14 14:02:40.880501] UPDATE : Project settings loaded - d:/testprojectschool
+[2024-06-14 14:02:40.882491] UPDATE : Project settings loaded!
+[2024-06-14 14:02:48.559696] UPDATE : test ; 001 ; 010 ; 001
+[2024-06-14 14:02:48.562687] UPDATE : 0 ; 2
+[2024-06-14 14:02:53.497741] UPDATE : test ; 001 ; 010 ; 001
+[2024-06-14 14:02:53.518674] UPDATE : 0 ; 2
+[2024-06-14 14:02:55.846676] UPDATE : test ; 001 ; 010 ; 001
+[2024-06-14 14:02:55.848670] UPDATE : 1 ; 0

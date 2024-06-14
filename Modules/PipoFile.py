@@ -45,6 +45,9 @@ class PipoFileApplication():
 		sequence_version = self.screen.export_sequence_version.value
 		shot_version = self.screen.export_shot_version.value
 
-		self.display_message_function("%s ; %s ; %s ; %s"%(asset_name, asset_version, sequence_version, shot_version))
+		kind_index = self.query_one("#export_category_list").highlighted
+		type_index = self.query_one("#export_type_list").highlighted
 
+		self.display_message_function("%s ; %s ; %s ; %s"%(asset_name, asset_version, sequence_version, shot_version))
+		self.display_message_function("%s ; %s"%(kind_index, type_index))
 		#from the category selected get the syntax in settings
